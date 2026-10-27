@@ -3,16 +3,16 @@
   "appid": "3065800",
   "steamAppid": 3065800,
   "name": "Marathon",
-  "players": 1476,
+  "players": 1477,
   "allTimePeak": 88337,
   "peak24h": 1490,
   "peak24hAt": "2026-10-27T16:21:13.000Z",
-  "updatedAt": "2026-10-27T17:01:27.221Z",
+  "updatedAt": "2026-10-27T17:06:00.185Z",
   "img_url": "2026/01/marathon-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-27T17:01:27.221Z",
-    "updatedAtTs": 1793120487,
+    "updatedAt": "2026-10-27T17:06:00.185Z",
+    "updatedAtTs": 1793120760,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1793120487,
-        1476
+        1793120760,
+        1477
       ],
       "peak24h": [
         1793118073,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1792947694,
-          2800
-        ],
         [
           1792947965,
           2800
@@ -1564,6 +1560,10 @@
         [
           1793120487,
           1476
+        ],
+        [
+          1793120760,
+          1477
         ]
       ],
       "hourlyPeak": [
@@ -4250,6 +4250,10 @@
         [
           1792944000,
           2733
+        ],
+        [
+          1792947600,
+          2800
         ]
       ],
       "dailyPeak": [

@@ -3,16 +3,16 @@
   "appid": "476600",
   "steamAppid": 476600,
   "name": "Call of Duty: WWII",
-  "players": 289,
+  "players": 293,
   "allTimePeak": 19406,
   "peak24h": 331,
   "peak24hAt": "2026-10-27T15:40:59.000Z",
-  "updatedAt": "2026-10-27T17:01:27.221Z",
+  "updatedAt": "2026-10-27T17:06:00.185Z",
   "img_url": "2024/12/mixcollage-09-dec-2024-01-17-am-3236.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-27T17:01:27.221Z",
-    "updatedAtTs": 1793120487,
+    "updatedAt": "2026-10-27T17:06:00.185Z",
+    "updatedAtTs": 1793120760,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793120487,
-        289
+        1793120760,
+        293
       ],
       "peak24h": [
         1793115659,
         331
       ],
       "peak48h": [
-        1792947694,
-        470
+        1792947965,
+        465
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1792947694,
-          470
-        ],
         [
           1792947965,
           465
@@ -1568,6 +1564,10 @@
         [
           1793120487,
           289
+        ],
+        [
+          1793120760,
+          293
         ]
       ],
       "hourlyPeak": [
@@ -4254,6 +4254,10 @@
         [
           1792944000,
           472
+        ],
+        [
+          1792947600,
+          470
         ]
       ],
       "dailyPeak": [
@@ -5034,6 +5038,6 @@
       ]
     }
   },
-  "peak48h": 470,
-  "peak48hAt": "2026-10-25T17:01:34.000Z"
+  "peak48h": 465,
+  "peak48hAt": "2026-10-25T17:06:05.000Z"
 }
