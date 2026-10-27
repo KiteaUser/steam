@@ -7,12 +7,12 @@
   "allTimePeak": 31470,
   "peak24h": 800,
   "peak24hAt": "2026-10-27T17:41:18.000Z",
-  "updatedAt": "2026-10-27T17:46:08.094Z",
+  "updatedAt": "2026-10-27T17:50:58.705Z",
   "img_url": "2025/02/doom-the-dark-ages-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-27T17:46:08.094Z",
-    "updatedAtTs": 1793123168,
+    "updatedAt": "2026-10-27T17:50:58.705Z",
+    "updatedAtTs": 1793123458,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,7 +23,7 @@
     },
     "summary": {
       "current": [
-        1793123168,
+        1793123458,
         800
       ],
       "peak24h": [
@@ -31,7 +31,7 @@
         800
       ],
       "peak48h": [
-        1792950371,
+        1792950660,
         1239
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1792950371,
-          1239
-        ],
         [
           1792950660,
           1239
@@ -1567,6 +1563,10 @@
         ],
         [
           1793123168,
+          800
+        ],
+        [
+          1793123458,
           800
         ]
       ],
@@ -4679,5 +4679,5 @@
     }
   },
   "peak48h": 1239,
-  "peak48hAt": "2026-10-25T17:46:11.000Z"
+  "peak48hAt": "2026-10-25T17:51:00.000Z"
 }
