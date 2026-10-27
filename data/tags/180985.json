@@ -3,16 +3,16 @@
   "appid": "975370",
   "steamAppid": 975370,
   "name": "Dwarf Fortress",
-  "players": 675,
+  "players": 670,
   "allTimePeak": 28340,
   "peak24h": 790,
   "peak24hAt": "2026-10-27T20:31:09.000Z",
-  "updatedAt": "2026-10-27T23:51:07.218Z",
+  "updatedAt": "2026-10-27T23:55:55.425Z",
   "img_url": "2024/12/mixcollage-12-dec-2024-12-19-am-7512.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-27T23:51:07.218Z",
-    "updatedAtTs": 1793145067,
+    "updatedAt": "2026-10-27T23:55:55.425Z",
+    "updatedAtTs": 1793145355,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793145067,
-        675
+        1793145355,
+        670
       ],
       "peak24h": [
         1793133069,
         790
       ],
       "peak48h": [
-        1792972268,
-        883
+        1792972564,
+        863
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1792972268,
-          883
-        ],
         [
           1792972564,
           863
@@ -1564,6 +1560,10 @@
         [
           1793145067,
           675
+        ],
+        [
+          1793145355,
+          670
         ]
       ],
       "hourlyPeak": [
@@ -4790,6 +4790,6 @@
       ]
     }
   },
-  "peak48h": 883,
-  "peak48hAt": "2026-10-25T23:51:08.000Z"
+  "peak48h": 863,
+  "peak48hAt": "2026-10-25T23:56:04.000Z"
 }

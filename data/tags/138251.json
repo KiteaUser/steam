@@ -3,16 +3,16 @@
   "appid": "1086940",
   "steamAppid": 1086940,
   "name": "Baldur's Gate 3",
-  "players": 35685,
+  "players": 35614,
   "allTimePeak": 875343,
   "peak24h": 44122,
   "peak24hAt": "2026-10-27T20:21:12.000Z",
-  "updatedAt": "2026-10-27T23:51:07.218Z",
+  "updatedAt": "2026-10-27T23:55:55.425Z",
   "img_url": "2024/12/mixcollage-08-dec-2024-02-20-pm-5221.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-27T23:51:07.218Z",
-    "updatedAtTs": 1793145067,
+    "updatedAt": "2026-10-27T23:55:55.425Z",
+    "updatedAtTs": 1793145355,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793145067,
-        35685
+        1793145355,
+        35614
       ],
       "peak24h": [
         1793132472,
         44122
       ],
       "peak48h": [
-        1792972268,
-        45852
+        1792972564,
+        45584
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1792972268,
-          45852
-        ],
         [
           1792972564,
           45584
@@ -1556,6 +1552,10 @@
         [
           1793145067,
           35685
+        ],
+        [
+          1793145355,
+          35614
         ]
       ],
       "hourlyPeak": [
@@ -4886,6 +4886,6 @@
       ]
     }
   },
-  "peak48h": 45852,
-  "peak48hAt": "2026-10-25T23:51:08.000Z"
+  "peak48h": 45584,
+  "peak48hAt": "2026-10-25T23:56:04.000Z"
 }
