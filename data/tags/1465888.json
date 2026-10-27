@@ -3,16 +3,16 @@
   "appid": "1604270",
   "steamAppid": 1604270,
   "name": "Broken Arrow",
-  "players": 4529,
+  "players": 4530,
   "allTimePeak": 38753,
   "peak24h": 4567,
   "peak24hAt": "2026-10-27T14:11:14.000Z",
-  "updatedAt": "2026-10-27T14:31:28.025Z",
+  "updatedAt": "2026-10-27T14:35:59.816Z",
   "img_url": "2024/12/mixcollage-15-dec-2024-03-33-pm-3818.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-27T14:31:28.025Z",
-    "updatedAtTs": 1793111488,
+    "updatedAt": "2026-10-27T14:35:59.816Z",
+    "updatedAtTs": 1793111759,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793111488,
-        4529
+        1793111759,
+        4530
       ],
       "peak24h": [
         1793110274,
         4567
       ],
       "peak48h": [
-        1792938959,
-        5861
+        1792939262,
+        5824
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1792938959,
-          5861
-        ],
         [
           1792939262,
           5824
@@ -1556,6 +1552,10 @@
         [
           1793111488,
           4529
+        ],
+        [
+          1793111759,
+          4530
         ]
       ],
       "hourlyPeak": [
@@ -4662,6 +4662,6 @@
       ]
     }
   },
-  "peak48h": 5861,
-  "peak48hAt": "2026-10-25T14:35:59.000Z"
+  "peak48h": 5824,
+  "peak48hAt": "2026-10-25T14:41:02.000Z"
 }
