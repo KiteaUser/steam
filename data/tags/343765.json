@@ -3,16 +3,16 @@
   "appid": "244160",
   "steamAppid": 244160,
   "name": "Homeworld Remastered Collection",
-  "players": 106,
+  "players": 99,
   "allTimePeak": 17790,
   "peak24h": 114,
   "peak24hAt": "2026-10-27T18:41:24.000Z",
-  "updatedAt": "2026-10-27T21:01:21.222Z",
+  "updatedAt": "2026-10-27T21:06:04.421Z",
   "img_url": "2024/11/mixcollage-24-nov-2024-11-03-am-4800.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-27T21:01:21.222Z",
-    "updatedAtTs": 1793134881,
+    "updatedAt": "2026-10-27T21:06:04.421Z",
+    "updatedAtTs": 1793135164,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1793134881,
-        106
+        1793135164,
+        99
       ],
       "peak24h": [
         1793126484,
         114
       ],
       "peak48h": [
-        1792962085,
+        1793126484,
         114
       ],
       "allTimePeak": [
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1792962085,
-          114
-        ],
-        [
-          1792962352,
-          113
-        ],
         [
           1792962667,
           102
@@ -1560,6 +1552,10 @@
         [
           1793134881,
           106
+        ],
+        [
+          1793135164,
+          99
         ]
       ],
       "hourlyPeak": [
@@ -4246,6 +4242,10 @@
         [
           1792958400,
           121
+        ],
+        [
+          1792962000,
+          114
         ]
       ],
       "dailyPeak": [
@@ -5163,5 +5163,5 @@
     }
   },
   "peak48h": 114,
-  "peak48hAt": "2026-10-25T21:01:25.000Z"
+  "peak48hAt": "2026-10-27T18:41:24.000Z"
 }
