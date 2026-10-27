@@ -3,16 +3,16 @@
   "appid": "1154030",
   "steamAppid": 1154030,
   "name": "Titan Quest II",
-  "players": 630,
+  "players": 638,
   "allTimePeak": 27099,
-  "peak24h": 637,
-  "peak24hAt": "2026-10-27T15:36:02.000Z",
-  "updatedAt": "2026-10-27T16:21:13.191Z",
+  "peak24h": 638,
+  "peak24hAt": "2026-10-27T16:26:08.000Z",
+  "updatedAt": "2026-10-27T16:26:08.609Z",
   "img_url": "2024/11/mixcollage-25-nov-2024-07-35-pm-1318.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-27T16:21:13.191Z",
-    "updatedAtTs": 1793118073,
+    "updatedAt": "2026-10-27T16:26:08.609Z",
+    "updatedAtTs": 1793118368,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793118073,
-        630
+        1793118368,
+        638
       ],
       "peak24h": [
-        1793115362,
-        637
+        1793118368,
+        638
       ],
       "peak48h": [
-        1792945561,
-        985
+        1792945875,
+        980
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1792945561,
-          985
-        ],
         [
           1792945875,
           980
@@ -1564,6 +1560,10 @@
         [
           1793118073,
           630
+        ],
+        [
+          1793118368,
+          638
         ]
       ],
       "hourlyPeak": [
@@ -4662,6 +4662,6 @@
       ]
     }
   },
-  "peak48h": 985,
-  "peak48hAt": "2026-10-25T16:26:01.000Z"
+  "peak48h": 980,
+  "peak48hAt": "2026-10-25T16:31:15.000Z"
 }

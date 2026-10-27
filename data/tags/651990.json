@@ -3,16 +3,16 @@
   "appid": "2139460",
   "steamAppid": 2139460,
   "name": "Once Human",
-  "players": 32626,
+  "players": 32547,
   "allTimePeak": 231668,
   "peak24h": 34648,
   "peak24hAt": "2026-10-27T14:41:02.000Z",
-  "updatedAt": "2026-10-27T16:21:13.191Z",
+  "updatedAt": "2026-10-27T16:26:08.609Z",
   "img_url": "2024/12/mixcollage-03-dec-2024-10-20-pm-2744.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-27T16:21:13.191Z",
-    "updatedAtTs": 1793118073,
+    "updatedAt": "2026-10-27T16:26:08.609Z",
+    "updatedAtTs": 1793118368,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793118073,
-        32626
+        1793118368,
+        32547
       ],
       "peak24h": [
         1793112062,
         34648
       ],
       "peak48h": [
-        1792945561,
-        43244
+        1792945875,
+        42663
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1792945561,
-          43244
-        ],
         [
           1792945875,
           42663
@@ -1564,6 +1560,10 @@
         [
           1793118073,
           32626
+        ],
+        [
+          1793118368,
+          32547
         ]
       ],
       "hourlyPeak": [
@@ -4714,6 +4714,6 @@
       ]
     }
   },
-  "peak48h": 43244,
-  "peak48hAt": "2026-10-25T16:26:01.000Z"
+  "peak48h": 42663,
+  "peak48hAt": "2026-10-25T16:31:15.000Z"
 }
