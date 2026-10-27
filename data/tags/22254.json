@@ -3,16 +3,16 @@
   "appid": "1149460",
   "steamAppid": 1149460,
   "name": "Icarus",
-  "players": 4697,
+  "players": 4415,
   "allTimePeak": 52501,
   "peak24h": 5081,
   "peak24hAt": "2026-10-27T19:51:15.000Z",
-  "updatedAt": "2026-10-27T21:20:56.792Z",
+  "updatedAt": "2026-10-27T21:26:03.046Z",
   "img_url": "2024/11/mixcollage-20-nov-2024-11-12-am-1999.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-27T21:20:56.792Z",
-    "updatedAtTs": 1793136056,
+    "updatedAt": "2026-10-27T21:26:03.046Z",
+    "updatedAtTs": 1793136363,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793136056,
-        4697
+        1793136363,
+        4415
       ],
       "peak24h": [
         1793130675,
         5081
       ],
       "peak48h": [
-        1792963269,
-        6596
+        1792963882,
+        6360
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1792963269,
-          6596
-        ],
-        [
-          1792963556,
-          6501
-        ],
         [
           1792963882,
           6360
@@ -1568,6 +1560,10 @@
         [
           1793136056,
           4697
+        ],
+        [
+          1793136363,
+          4415
         ]
       ],
       "hourlyPeak": [
@@ -4842,6 +4838,6 @@
       ]
     }
   },
-  "peak48h": 6596,
-  "peak48hAt": "2026-10-25T21:21:09.000Z"
+  "peak48h": 6360,
+  "peak48hAt": "2026-10-25T21:31:22.000Z"
 }

@@ -3,16 +3,16 @@
   "appid": "49540",
   "steamAppid": 49540,
   "name": "Aliens: Colonial Marines",
-  "players": 26,
+  "players": 19,
   "allTimePeak": 13266,
   "peak24h": 34,
   "peak24hAt": "2026-10-27T18:41:24.000Z",
-  "updatedAt": "2026-10-27T21:20:56.792Z",
+  "updatedAt": "2026-10-27T21:26:03.046Z",
   "img_url": "2024/12/mixcollage-09-dec-2024-03-04-am-5474.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-27T21:20:56.792Z",
-    "updatedAtTs": 1793136056,
+    "updatedAt": "2026-10-27T21:26:03.046Z",
+    "updatedAtTs": 1793136363,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1793136056,
-        26
+        1793136363,
+        19
       ],
       "peak24h": [
         1793126484,
         34
       ],
       "peak48h": [
-        1792963269,
+        1793126484,
         34
       ],
       "allTimePeak": [
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1792963269,
-          34
-        ],
-        [
-          1792963556,
-          30
-        ],
         [
           1792963882,
           24
@@ -1560,6 +1552,10 @@
         [
           1793136056,
           26
+        ],
+        [
+          1793136363,
+          19
         ]
       ],
       "hourlyPeak": [
@@ -4249,7 +4245,7 @@
         ],
         [
           1792962000,
-          32
+          34
         ]
       ],
       "dailyPeak": [
@@ -5259,5 +5255,5 @@
     }
   },
   "peak48h": 34,
-  "peak48hAt": "2026-10-25T21:21:09.000Z"
+  "peak48hAt": "2026-10-27T18:41:24.000Z"
 }

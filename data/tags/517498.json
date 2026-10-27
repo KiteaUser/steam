@@ -3,16 +3,16 @@
   "appid": "233860",
   "steamAppid": 233860,
   "name": "Kenshi",
-  "players": 4095,
+  "players": 4082,
   "allTimePeak": 11654,
   "peak24h": 4704,
   "peak24hAt": "2026-10-27T14:51:11.000Z",
-  "updatedAt": "2026-10-27T21:20:56.792Z",
+  "updatedAt": "2026-10-27T21:26:03.046Z",
   "img_url": "2024/11/mixcollage-20-nov-2024-12-30-am-2450.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-27T21:20:56.792Z",
-    "updatedAtTs": 1793136056,
+    "updatedAt": "2026-10-27T21:26:03.046Z",
+    "updatedAtTs": 1793136363,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793136056,
-        4095
+        1793136363,
+        4082
       ],
       "peak24h": [
         1793112671,
         4704
       ],
       "peak48h": [
-        1792963269,
-        4879
+        1792963882,
+        4868
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1792963269,
-          4879
-        ],
-        [
-          1792963556,
-          4866
-        ],
         [
           1792963882,
           4868
@@ -1568,6 +1560,10 @@
         [
           1793136056,
           4095
+        ],
+        [
+          1793136363,
+          4082
         ]
       ],
       "hourlyPeak": [
@@ -5262,6 +5258,6 @@
       ]
     }
   },
-  "peak48h": 4879,
-  "peak48hAt": "2026-10-25T21:21:09.000Z"
+  "peak48h": 4868,
+  "peak48hAt": "2026-10-25T21:31:22.000Z"
 }
