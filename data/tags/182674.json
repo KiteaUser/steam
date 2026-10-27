@@ -3,16 +3,16 @@
   "appid": "265930",
   "steamAppid": 265930,
   "name": "Goat Simulator",
-  "players": 68,
+  "players": 79,
   "allTimePeak": 10108,
   "peak24h": 86,
   "peak24hAt": "2026-10-27T17:50:58.000Z",
-  "updatedAt": "2026-10-27T20:05:51.579Z",
+  "updatedAt": "2026-10-27T20:11:10.832Z",
   "img_url": "2024/12/mixcollage-10-dec-2024-10-06-am-6336.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-27T20:05:51.579Z",
-    "updatedAtTs": 1793131551,
+    "updatedAt": "2026-10-27T20:11:10.832Z",
+    "updatedAtTs": 1793131870,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793131551,
-        68
+        1793131870,
+        79
       ],
       "peak24h": [
         1793123458,
         86
       ],
       "peak48h": [
-        1792959066,
-        100
+        1792959360,
+        99
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1792958762,
-          99
-        ],
-        [
-          1792959066,
-          100
-        ],
         [
           1792959360,
           99
@@ -1560,6 +1552,10 @@
         [
           1793131551,
           68
+        ],
+        [
+          1793131870,
+          79
         ]
       ],
       "hourlyPeak": [
@@ -5206,6 +5202,6 @@
       ]
     }
   },
-  "peak48h": 100,
-  "peak48hAt": "2026-10-25T20:11:06.000Z"
+  "peak48h": 99,
+  "peak48hAt": "2026-10-25T20:16:00.000Z"
 }

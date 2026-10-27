@@ -3,16 +3,16 @@
   "appid": "1259420",
   "steamAppid": 1259420,
   "name": "Days Gone",
-  "players": 2106,
+  "players": 2080,
   "allTimePeak": 27450,
   "peak24h": 2231,
   "peak24hAt": "2026-10-27T18:31:14.000Z",
-  "updatedAt": "2026-10-27T20:05:51.579Z",
+  "updatedAt": "2026-10-27T20:11:10.832Z",
   "img_url": "2024/12/mixcollage-06-dec-2024-08-01-am-3363.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-27T20:05:51.579Z",
-    "updatedAtTs": 1793131551,
+    "updatedAt": "2026-10-27T20:11:10.832Z",
+    "updatedAtTs": 1793131870,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793131551,
-        2106
+        1793131870,
+        2080
       ],
       "peak24h": [
         1793125874,
         2231
       ],
       "peak48h": [
-        1792958762,
-        2877
+        1792959360,
+        2786
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1792958762,
-          2877
-        ],
-        [
-          1792959066,
-          2786
-        ],
         [
           1792959360,
           2786
@@ -1568,6 +1560,10 @@
         [
           1793131551,
           2106
+        ],
+        [
+          1793131870,
+          2080
         ]
       ],
       "hourlyPeak": [
@@ -4870,6 +4866,6 @@
       ]
     }
   },
-  "peak48h": 2877,
-  "peak48hAt": "2026-10-25T20:06:02.000Z"
+  "peak48h": 2786,
+  "peak48hAt": "2026-10-25T20:16:00.000Z"
 }
