@@ -3,16 +3,16 @@
   "appid": "1203620",
   "steamAppid": 1203620,
   "name": "Enshrouded",
-  "players": 65802,
+  "players": 65201,
   "allTimePeak": 160405,
   "peak24h": 82996,
   "peak24hAt": "2026-10-27T20:05:51.000Z",
-  "updatedAt": "2026-10-27T22:31:20.851Z",
+  "updatedAt": "2026-10-27T22:36:02.314Z",
   "img_url": "2024/12/mixcollage-05-dec-2024-05-50-am-5372.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-27T22:31:20.851Z",
-    "updatedAtTs": 1793140280,
+    "updatedAt": "2026-10-27T22:36:02.314Z",
+    "updatedAtTs": 1793140562,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1793140280,
-        65802
+        1793140562,
+        65201
       ],
       "peak24h": [
         1793131551,
         82996
       ],
       "peak48h": [
-        1792967756,
+        1792968063,
         87090
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1792967756,
-          87090
-        ],
         [
           1792968063,
           87090
@@ -1556,6 +1552,10 @@
         [
           1793140280,
           65802
+        ],
+        [
+          1793140562,
+          65201
         ]
       ],
       "hourlyPeak": [
@@ -4731,5 +4731,5 @@
     }
   },
   "peak48h": 87090,
-  "peak48hAt": "2026-10-25T22:35:56.000Z"
+  "peak48hAt": "2026-10-25T22:41:03.000Z"
 }
