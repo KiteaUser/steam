@@ -3,16 +3,16 @@
   "appid": "1601580",
   "steamAppid": 1601580,
   "name": "Frostpunk 2",
-  "players": 520,
+  "players": 514,
   "allTimePeak": 35533,
   "peak24h": 646,
   "peak24hAt": "2026-10-27T19:16:02.000Z",
-  "updatedAt": "2026-10-27T22:16:11.342Z",
+  "updatedAt": "2026-10-27T22:21:03.152Z",
   "img_url": "2024/12/mixcollage-04-dec-2024-01-42-am-9900.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-27T22:16:11.342Z",
-    "updatedAtTs": 1793139371,
+    "updatedAt": "2026-10-27T22:21:03.152Z",
+    "updatedAtTs": 1793139663,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793139371,
-        520
+        1793139663,
+        514
       ],
       "peak24h": [
         1793128562,
         646
       ],
       "peak48h": [
-        1792966576,
-        710
+        1792966865,
+        691
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1792966576,
-          710
-        ],
         [
           1792966865,
           691
@@ -1564,6 +1560,10 @@
         [
           1793139371,
           520
+        ],
+        [
+          1793139663,
+          514
         ]
       ],
       "hourlyPeak": [
@@ -4706,6 +4706,6 @@
       ]
     }
   },
-  "peak48h": 710,
-  "peak48hAt": "2026-10-25T22:16:16.000Z"
+  "peak48h": 691,
+  "peak48hAt": "2026-10-25T22:21:05.000Z"
 }
