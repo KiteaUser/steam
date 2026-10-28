@@ -3,16 +3,16 @@
   "appid": "411300",
   "steamAppid": 411300,
   "name": "ELEX",
-  "players": 32,
+  "players": 31,
   "allTimePeak": 22969,
   "peak24h": 118,
   "peak24hAt": "2026-10-27T20:01:33.000Z",
-  "updatedAt": "2026-10-28T07:35:57.000Z",
+  "updatedAt": "2026-10-28T07:41:08.855Z",
   "img_url": "2025/04/elex-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-28T07:35:57.000Z",
-    "updatedAtTs": 1793172957,
+    "updatedAt": "2026-10-28T07:41:08.855Z",
+    "updatedAtTs": 1793173268,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1793172957,
-        32
+        1793173268,
+        31
       ],
       "peak24h": [
         1793131293,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793000164,
-          39
-        ],
-        [
-          1793000466,
-          39
-        ],
         [
           1793000760,
           43
@@ -1568,6 +1560,10 @@
         [
           1793172957,
           32
+        ],
+        [
+          1793173268,
+          31
         ]
       ],
       "hourlyPeak": [
@@ -4257,7 +4253,7 @@
         ],
         [
           1792998000,
-          36
+          39
         ]
       ],
       "dailyPeak": [
