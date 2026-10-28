@@ -3,16 +3,16 @@
   "appid": "2680010",
   "steamAppid": 2680010,
   "name": "The First Berserker: Khazan",
-  "players": 633,
+  "players": 626,
   "allTimePeak": 32929,
   "peak24h": 673,
-  "peak24hAt": "2026-10-27T15:03:14.000Z",
-  "updatedAt": "2026-10-28T15:01:32.036Z",
+  "peak24hAt": "2026-10-27T15:05:53.000Z",
+  "updatedAt": "2026-10-28T15:05:53.319Z",
   "img_url": "2024/12/mixcollage-15-dec-2024-12-34-pm-4790.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-28T15:01:32.036Z",
-    "updatedAtTs": 1793199692,
+    "updatedAt": "2026-10-28T15:05:53.319Z",
+    "updatedAtTs": 1793199953,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1793199692,
-        633
+        1793199953,
+        626
       ],
       "peak24h": [
-        1793113394,
+        1793113553,
         673
       ],
       "peak48h": [
-        1793026911,
+        1793027157,
         706
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793026911,
-          706
-        ],
         [
           1793027157,
           706
@@ -1572,6 +1568,10 @@
         [
           1793199692,
           633
+        ],
+        [
+          1793199953,
+          626
         ]
       ],
       "hourlyPeak": [
@@ -4258,6 +4258,10 @@
         [
           1793023200,
           706
+        ],
+        [
+          1793026800,
+          706
         ]
       ],
       "dailyPeak": [
@@ -4691,5 +4695,5 @@
     }
   },
   "peak48h": 706,
-  "peak48hAt": "2026-10-26T15:01:51.000Z"
+  "peak48hAt": "2026-10-26T15:05:57.000Z"
 }
