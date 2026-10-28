@@ -3,16 +3,16 @@
   "appid": "3142050",
   "steamAppid": 3142050,
   "name": "Warborne Above Ashes",
-  "players": 42,
+  "players": 37,
   "allTimePeak": 16771,
   "peak24h": 1210,
   "peak24hAt": "2026-10-27T15:56:02.000Z",
-  "updatedAt": "2026-10-28T15:11:05.223Z",
+  "updatedAt": "2026-10-28T15:16:17.927Z",
   "img_url": "2025/03/warborne-above-ashes-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-28T15:11:05.223Z",
-    "updatedAtTs": 1793200265,
+    "updatedAt": "2026-10-28T15:16:17.927Z",
+    "updatedAtTs": 1793200577,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793200265,
-        42
+        1793200577,
+        37
       ],
       "peak24h": [
         1793116562,
         1210
       ],
       "peak48h": [
-        1793027496,
-        1216
+        1793113394,
+        1211
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793027496,
-          1216
-        ],
         [
           1793085482,
           1201
@@ -1576,6 +1572,10 @@
         [
           1793200265,
           42
+        ],
+        [
+          1793200577,
+          37
         ]
       ],
       "hourlyPeak": [
@@ -4674,6 +4674,6 @@
       ]
     }
   },
-  "peak48h": 1216,
-  "peak48hAt": "2026-10-26T15:11:36.000Z"
+  "peak48h": 1211,
+  "peak48hAt": "2026-10-27T15:03:14.000Z"
 }
