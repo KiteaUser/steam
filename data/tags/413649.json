@@ -3,16 +3,16 @@
   "appid": "1145350",
   "steamAppid": 1145350,
   "name": "Hades II",
-  "players": 2481,
+  "players": 2526,
   "allTimePeak": 112947,
   "peak24h": 3776,
   "peak24hAt": "2026-10-27T15:03:14.000Z",
-  "updatedAt": "2026-10-28T11:01:28.695Z",
+  "updatedAt": "2026-10-28T11:05:50.698Z",
   "img_url": "2025/09/hades-2-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-28T11:01:28.695Z",
-    "updatedAtTs": 1793185288,
+    "updatedAt": "2026-10-28T11:05:50.698Z",
+    "updatedAtTs": 1793185550,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1793185288,
-        2481
+        1793185550,
+        2526
       ],
       "peak24h": [
         1793113394,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793012497,
-          2576
-        ],
         [
           1793012772,
           2594
@@ -1568,6 +1564,10 @@
         [
           1793185288,
           2481
+        ],
+        [
+          1793185550,
+          2526
         ]
       ],
       "hourlyPeak": [
@@ -4253,6 +4253,10 @@
         ],
         [
           1793008800,
+          2576
+        ],
+        [
+          1793012400,
           2576
         ]
       ],
