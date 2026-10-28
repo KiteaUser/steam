@@ -3,16 +3,16 @@
   "appid": "3606890",
   "steamAppid": 3606890,
   "name": "Upload Labs",
-  "players": 1047,
+  "players": 1058,
   "allTimePeak": 15592,
   "peak24h": 1129,
   "peak24hAt": "2026-10-27T15:31:11.000Z",
-  "updatedAt": "2026-10-28T14:40:59.915Z",
+  "updatedAt": "2026-10-28T14:46:04.310Z",
   "img_url": "2025/10/upload-labs-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-28T14:40:59.915Z",
-    "updatedAtTs": 1793198459,
+    "updatedAt": "2026-10-28T14:46:04.310Z",
+    "updatedAtTs": 1793198764,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1793198459,
-        1047
+        1793198764,
+        1058
       ],
       "peak24h": [
         1793115071,
         1129
       ],
       "peak48h": [
-        1793025964,
+        1793026574,
         1155
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793025964,
-          1155
-        ],
         [
           1793026274,
           1147
@@ -1572,6 +1568,10 @@
         [
           1793198459,
           1047
+        ],
+        [
+          1793198764,
+          1058
         ]
       ],
       "hourlyPeak": [
@@ -4261,7 +4261,7 @@
         ],
         [
           1793023200,
-          1154
+          1155
         ]
       ],
       "dailyPeak": [
@@ -4667,5 +4667,5 @@
     }
   },
   "peak48h": 1155,
-  "peak48hAt": "2026-10-26T14:46:04.000Z"
+  "peak48hAt": "2026-10-26T14:56:14.000Z"
 }
