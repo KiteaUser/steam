@@ -3,16 +3,16 @@
   "appid": "1097840",
   "steamAppid": 1097840,
   "name": "Gears 5",
-  "players": 301,
+  "players": 303,
   "allTimePeak": 10196,
   "peak24h": 326,
   "peak24hAt": "2026-10-28T01:16:22.000Z",
-  "updatedAt": "2026-10-28T02:31:13.052Z",
+  "updatedAt": "2026-10-28T02:36:01.036Z",
   "img_url": "2024/12/mixcollage-11-dec-2024-08-30-am-5883.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-28T02:31:13.052Z",
-    "updatedAtTs": 1793154673,
+    "updatedAt": "2026-10-28T02:36:01.036Z",
+    "updatedAtTs": 1793154961,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793154673,
-        301
+        1793154961,
+        303
       ],
       "peak24h": [
         1793150182,
         326
       ],
       "peak48h": [
-        1792981882,
-        368
+        1792982770,
+        356
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1792981882,
-          368
-        ],
         [
           1792982169,
           350
@@ -1564,6 +1560,10 @@
         [
           1793154673,
           301
+        ],
+        [
+          1793154961,
+          303
         ]
       ],
       "hourlyPeak": [
@@ -4950,6 +4950,6 @@
       ]
     }
   },
-  "peak48h": 368,
-  "peak48hAt": "2026-10-26T02:31:22.000Z"
+  "peak48h": 356,
+  "peak48hAt": "2026-10-26T02:46:10.000Z"
 }
