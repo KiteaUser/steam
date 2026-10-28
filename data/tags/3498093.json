@@ -3,16 +3,16 @@
   "appid": "2640950",
   "steamAppid": 2640950,
   "name": "Scott Pilgrim EX",
-  "players": 8,
+  "players": 14,
   "allTimePeak": 245,
-  "peak24h": 11,
-  "peak24hAt": "2026-10-27T19:36:08.000Z",
-  "updatedAt": "2026-10-28T01:21:03.241Z",
+  "peak24h": 14,
+  "peak24hAt": "2026-10-28T01:26:04.000Z",
+  "updatedAt": "2026-10-28T01:26:04.566Z",
   "img_url": "2025/06/scott-pilgrim-ex-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-28T01:21:03.241Z",
-    "updatedAtTs": 1793150463,
+    "updatedAt": "2026-10-28T01:26:04.566Z",
+    "updatedAtTs": 1793150764,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793150463,
-        8
+        1793150764,
+        14
       ],
       "peak24h": [
-        1793129768,
-        11
+        1793150764,
+        14
       ],
       "peak48h": [
-        1792978565,
-        11
+        1793150764,
+        14
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1792977673,
-          10
-        ],
-        [
-          1792977961,
-          10
-        ],
         [
           1792978274,
           10
@@ -1480,6 +1472,10 @@
         [
           1793150463,
           8
+        ],
+        [
+          1793150764,
+          14
         ]
       ],
       "hourlyPeak": [
@@ -4542,6 +4538,6 @@
       ]
     }
   },
-  "peak48h": 11,
-  "peak48hAt": "2026-10-26T01:36:05.000Z"
+  "peak48h": 14,
+  "peak48hAt": "2026-10-28T01:26:04.000Z"
 }
