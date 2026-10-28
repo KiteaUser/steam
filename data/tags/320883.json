@@ -3,16 +3,16 @@
   "appid": "1938010",
   "steamAppid": 1938010,
   "name": "WILD HEARTS",
-  "players": 65,
+  "players": 62,
   "allTimePeak": 28511,
   "peak24h": 65,
   "peak24hAt": "2026-10-28T13:21:10.000Z",
-  "updatedAt": "2026-10-28T14:01:29.807Z",
+  "updatedAt": "2026-10-28T14:06:21.053Z",
   "img_url": "2024/12/mixcollage-10-dec-2024-10-31-am-8934.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-28T14:01:29.807Z",
-    "updatedAtTs": 1793196089,
+    "updatedAt": "2026-10-28T14:06:21.053Z",
+    "updatedAtTs": 1793196381,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1793196089,
-        65
+        1793196381,
+        62
       ],
       "peak24h": [
         1793193670,
         65
       ],
       "peak48h": [
-        1793023294,
+        1793023587,
         65
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793023294,
-          65
-        ],
         [
           1793023587,
           65
@@ -1564,6 +1560,10 @@
         [
           1793196089,
           65
+        ],
+        [
+          1793196381,
+          62
         ]
       ],
       "hourlyPeak": [
@@ -4250,6 +4250,10 @@
         [
           1793019600,
           66
+        ],
+        [
+          1793023200,
+          65
         ]
       ],
       "dailyPeak": [
@@ -4783,5 +4787,5 @@
     }
   },
   "peak48h": 65,
-  "peak48hAt": "2026-10-26T14:01:34.000Z"
+  "peak48hAt": "2026-10-26T14:06:27.000Z"
 }
