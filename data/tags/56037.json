@@ -3,16 +3,16 @@
   "appid": "22350",
   "steamAppid": 22350,
   "name": "BRINK",
-  "players": 9,
+  "players": 7,
   "allTimePeak": 16824,
   "peak24h": 10,
   "peak24hAt": "2026-10-27T15:26:00.000Z",
-  "updatedAt": "2026-10-28T10:25:56.559Z",
+  "updatedAt": "2026-10-28T10:31:16.791Z",
   "img_url": "2024/12/mixcollage-14-dec-2024-02-31-am-8916.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-28T10:25:56.559Z",
-    "updatedAtTs": 1793183156,
+    "updatedAt": "2026-10-28T10:31:16.791Z",
+    "updatedAtTs": 1793183476,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1793183156,
-        9
+        1793183476,
+        7
       ],
       "peak24h": [
         1793114760,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793010369,
-          6
-        ],
         [
           1793010689,
           5
@@ -1564,6 +1560,10 @@
         [
           1793183156,
           9
+        ],
+        [
+          1793183476,
+          7
         ]
       ],
       "hourlyPeak": [
@@ -4253,7 +4253,7 @@
         ],
         [
           1793008800,
-          5
+          6
         ]
       ],
       "dailyPeak": [
