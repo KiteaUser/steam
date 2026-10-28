@@ -3,16 +3,16 @@
   "appid": "2051620",
   "steamAppid": 2051620,
   "name": "Enlisted",
-  "players": 2205,
+  "players": 2216,
   "allTimePeak": 7518,
   "peak24h": 4350,
   "peak24hAt": "2026-10-27T18:36:14.000Z",
-  "updatedAt": "2026-10-28T09:35:59.625Z",
+  "updatedAt": "2026-10-28T09:40:53.848Z",
   "img_url": "2024/12/mixcollage-11-dec-2024-09-30-pm-4670.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-28T09:35:59.625Z",
-    "updatedAtTs": 1793180159,
+    "updatedAt": "2026-10-28T09:40:53.848Z",
+    "updatedAtTs": 1793180453,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1793180159,
-        2205
+        1793180453,
+        2216
       ],
       "peak24h": [
         1793126174,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793007365,
-          2343
-        ],
         [
           1793007664,
           2287
@@ -1564,6 +1560,10 @@
         [
           1793180159,
           2205
+        ],
+        [
+          1793180453,
+          2216
         ]
       ],
       "hourlyPeak": [
@@ -4253,7 +4253,7 @@
         ],
         [
           1793005200,
-          2287
+          2343
         ]
       ],
       "dailyPeak": [
