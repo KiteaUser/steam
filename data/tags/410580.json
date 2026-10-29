@@ -3,16 +3,16 @@
   "appid": "1549250",
   "steamAppid": 1549250,
   "name": "Undecember",
-  "players": 774,
+  "players": 763,
   "allTimePeak": 46103,
   "peak24h": 803,
   "peak24hAt": "2026-10-29T13:21:10.000Z",
-  "updatedAt": "2026-10-29T14:11:08.638Z",
+  "updatedAt": "2026-10-29T14:16:08.826Z",
   "img_url": "2024/11/mixcollage-22-nov-2024-01-18-am-2098.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-29T14:11:08.638Z",
-    "updatedAtTs": 1793283068,
+    "updatedAt": "2026-10-29T14:16:08.826Z",
+    "updatedAtTs": 1793283368,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1793283068,
-        774
+        1793283368,
+        763
       ],
       "peak24h": [
         1793280070,
         803
       ],
       "peak48h": [
-        1793110274,
+        1793110575,
         875
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793110274,
-          875
-        ],
         [
           1793110575,
           875
@@ -2348,6 +2344,10 @@
         [
           1793283068,
           774
+        ],
+        [
+          1793283368,
+          763
         ]
       ],
       "hourlyPeak": [
@@ -4977,7 +4977,7 @@
         ],
         [
           1793109600,
-          874
+          875
         ]
       ],
       "dailyPeak": [
@@ -5531,5 +5531,5 @@
     }
   },
   "peak48h": 875,
-  "peak48hAt": "2026-10-27T14:11:14.000Z"
+  "peak48hAt": "2026-10-27T14:16:15.000Z"
 }
