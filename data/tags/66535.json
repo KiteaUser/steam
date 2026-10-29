@@ -3,16 +3,16 @@
   "appid": "211820",
   "steamAppid": 211820,
   "name": "Starbound",
-  "players": 642,
+  "players": 631,
   "allTimePeak": 88709,
   "peak24h": 683,
   "peak24hAt": "2026-10-28T21:56:04.000Z",
-  "updatedAt": "2026-10-29T21:36:05.752Z",
+  "updatedAt": "2026-10-29T21:41:15.136Z",
   "img_url": "2024/12/mixcollage-12-dec-2024-12-26-am-5378.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-29T21:36:05.752Z",
-    "updatedAtTs": 1793309765,
+    "updatedAt": "2026-10-29T21:41:15.136Z",
+    "updatedAtTs": 1793310075,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793309765,
-        642
+        1793310075,
+        631
       ],
       "peak24h": [
         1793224564,
         683
       ],
       "peak48h": [
-        1793137272,
-        722
+        1793137554,
+        710
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793137272,
-          722
-        ],
         [
           1793137554,
           710
@@ -2340,6 +2336,10 @@
         [
           1793309765,
           642
+        ],
+        [
+          1793310075,
+          631
         ]
       ],
       "hourlyPeak": [
@@ -5946,6 +5946,6 @@
       ]
     }
   },
-  "peak48h": 722,
-  "peak48hAt": "2026-10-27T21:41:12.000Z"
+  "peak48h": 710,
+  "peak48hAt": "2026-10-27T21:45:54.000Z"
 }
