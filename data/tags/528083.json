@@ -3,16 +3,16 @@
   "appid": "690830",
   "steamAppid": 690830,
   "name": "Foundation",
-  "players": 1984,
+  "players": 2024,
   "allTimePeak": 18448,
   "peak24h": 2117,
   "peak24hAt": "2026-10-28T20:16:22.000Z",
-  "updatedAt": "2026-10-29T19:31:22.616Z",
+  "updatedAt": "2026-10-29T19:36:09.653Z",
   "img_url": "2025/03/foundation-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-29T19:31:22.616Z",
-    "updatedAtTs": 1793302282,
+    "updatedAt": "2026-10-29T19:36:09.653Z",
+    "updatedAtTs": 1793302569,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1793302282,
-        1984
+        1793302569,
+        2024
       ],
       "peak24h": [
         1793218582,
         2117
       ],
       "peak48h": [
-        1793129768,
+        1793130072,
         2211
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793129768,
-          2211
-        ],
         [
           1793130072,
           2211
@@ -2340,6 +2336,10 @@
         [
           1793302282,
           1984
+        ],
+        [
+          1793302569,
+          2024
         ]
       ],
       "hourlyPeak": [
@@ -4969,7 +4969,7 @@
         ],
         [
           1793127600,
-          2193
+          2211
         ]
       ],
       "dailyPeak": [
@@ -5703,5 +5703,5 @@
     }
   },
   "peak48h": 2211,
-  "peak48hAt": "2026-10-27T19:36:08.000Z"
+  "peak48hAt": "2026-10-27T19:41:12.000Z"
 }
