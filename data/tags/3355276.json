@@ -3,16 +3,16 @@
   "appid": "7510",
   "steamAppid": 7510,
   "name": "X-Blades",
-  "players": 2,
+  "players": 1,
   "allTimePeak": 10294,
   "peak24h": 130,
   "peak24hAt": "2026-10-29T02:21:06.000Z",
-  "updatedAt": "2026-10-29T10:56:06.258Z",
+  "updatedAt": "2026-10-29T11:01:29.358Z",
   "img_url": "2024/12/mixcollage-31-dec-2024-10-09-am-3889.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-29T10:56:06.258Z",
-    "updatedAtTs": 1793271366,
+    "updatedAt": "2026-10-29T11:01:29.358Z",
+    "updatedAtTs": 1793271689,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1793271366,
-        2
+        1793271689,
+        1
       ],
       "peak24h": [
         1793240466,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793098889,
-          1
-        ],
         [
           1793101270,
           1
@@ -1464,13 +1460,13 @@
         [
           1793271366,
           2
+        ],
+        [
+          1793271689,
+          1
         ]
       ],
       "hourlyPeak": [
-        [
-          1790679600,
-          2
-        ],
         [
           1790683200,
           2
@@ -3845,6 +3841,10 @@
         ],
         [
           1793095200,
+          1
+        ],
+        [
+          1793098800,
           1
         ]
       ],
