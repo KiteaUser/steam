@@ -6,13 +6,13 @@
   "players": 1152,
   "allTimePeak": 5216,
   "peak24h": 1359,
-  "peak24hAt": "2026-10-28T19:46:11.000Z",
-  "updatedAt": "2026-10-29T19:41:12.824Z",
+  "peak24hAt": "2026-10-28T19:51:11.000Z",
+  "updatedAt": "2026-10-29T19:46:13.517Z",
   "img_url": "2025/08/valor-mortis-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-29T19:41:12.824Z",
-    "updatedAtTs": 1793302872,
+    "updatedAt": "2026-10-29T19:46:13.517Z",
+    "updatedAtTs": 1793303173,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793302872,
+        1793303173,
         1152
       ],
       "peak24h": [
-        1793216771,
+        1793217071,
         1359
       ],
       "peak48h": [
-        1793130364,
-        1530
+        1793130675,
+        1486
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793130364,
-          1530
-        ],
         [
           1793130675,
           1486
@@ -2336,6 +2332,10 @@
         [
           1793302872,
           1152
+        ],
+        [
+          1793303173,
+          1152
         ]
       ],
       "hourlyPeak": [
@@ -3644,6 +3644,6 @@
       "monthlyPeak": []
     }
   },
-  "peak48h": 1530,
-  "peak48hAt": "2026-10-27T19:46:04.000Z"
+  "peak48h": 1486,
+  "peak48hAt": "2026-10-27T19:51:15.000Z"
 }
