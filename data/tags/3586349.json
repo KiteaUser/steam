@@ -3,16 +3,16 @@
   "appid": "4164420",
   "steamAppid": 4164420,
   "name": "My Winter Car",
-  "players": 1019,
+  "players": 1033,
   "allTimePeak": 24107,
   "peak24h": 1092,
   "peak24hAt": "2026-10-28T18:21:04.000Z",
-  "updatedAt": "2026-10-29T17:46:09.858Z",
+  "updatedAt": "2026-10-29T17:51:03.548Z",
   "img_url": "2025/12/my-winter-car-custom-tag-page-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-29T17:46:09.858Z",
-    "updatedAtTs": 1793295969,
+    "updatedAt": "2026-10-29T17:51:03.548Z",
+    "updatedAtTs": 1793296263,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1793295969,
-        1019
+        1793296263,
+        1033
       ],
       "peak24h": [
         1793211664,
         1092
       ],
       "peak48h": [
-        1793123458,
+        1793123763,
         1099
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793123458,
-          1099
-        ],
         [
           1793123763,
           1099
@@ -2344,6 +2340,10 @@
         [
           1793295969,
           1019
+        ],
+        [
+          1793296263,
+          1033
         ]
       ],
       "hourlyPeak": [
@@ -5371,5 +5371,5 @@
     }
   },
   "peak48h": 1099,
-  "peak48hAt": "2026-10-27T17:50:58.000Z"
+  "peak48hAt": "2026-10-27T17:56:03.000Z"
 }
