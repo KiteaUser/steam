@@ -3,16 +3,16 @@
   "appid": "924970",
   "steamAppid": 924970,
   "name": "Back 4 Blood",
-  "players": 1288,
+  "players": 1300,
   "allTimePeak": 65987,
-  "peak24h": 1402,
-  "peak24hAt": "2026-10-28T14:46:04.000Z",
-  "updatedAt": "2026-10-29T14:46:01.379Z",
+  "peak24h": 1337,
+  "peak24hAt": "2026-10-28T14:56:05.000Z",
+  "updatedAt": "2026-10-29T14:51:07.740Z",
   "img_url": "2024/12/mixcollage-05-dec-2024-07-42-pm-5724.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-29T14:46:01.379Z",
-    "updatedAtTs": 1793285161,
+    "updatedAt": "2026-10-29T14:51:07.740Z",
+    "updatedAtTs": 1793285467,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,12 +23,12 @@
     },
     "summary": {
       "current": [
-        1793285161,
-        1288
+        1793285467,
+        1300
       ],
       "peak24h": [
-        1793198764,
-        1402
+        1793199365,
+        1337
       ],
       "peak48h": [
         1793112671,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793112367,
-          1464
-        ],
         [
           1793112671,
           1477
@@ -2344,6 +2340,10 @@
         [
           1793285161,
           1288
+        ],
+        [
+          1793285467,
+          1300
         ]
       ],
       "hourlyPeak": [
