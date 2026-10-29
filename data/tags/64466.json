@@ -5,14 +5,14 @@
   "name": "Nightingale",
   "players": 52,
   "allTimePeak": 47569,
-  "peak24h": 64,
-  "peak24hAt": "2026-10-28T20:36:16.000Z",
-  "updatedAt": "2026-10-29T20:36:10.428Z",
+  "peak24h": 61,
+  "peak24hAt": "2026-10-28T20:46:00.000Z",
+  "updatedAt": "2026-10-29T20:41:08.363Z",
   "img_url": "2024/12/mixcollage-04-dec-2024-08-43-am-475.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-29T20:36:10.428Z",
-    "updatedAtTs": 1793306170,
+    "updatedAt": "2026-10-29T20:41:08.363Z",
+    "updatedAtTs": 1793306468,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,12 +23,12 @@
     },
     "summary": {
       "current": [
-        1793306170,
+        1793306468,
         52
       ],
       "peak24h": [
-        1793219776,
-        64
+        1793220360,
+        61
       ],
       "peak48h": [
         1793136363,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793133664,
-          70
-        ],
         [
           1793133959,
           76
@@ -2339,6 +2335,10 @@
         ],
         [
           1793306170,
+          52
+        ],
+        [
+          1793306468,
           52
         ]
       ],
