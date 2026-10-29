@@ -3,16 +3,16 @@
   "appid": "1846380",
   "steamAppid": 1846380,
   "name": "Need for Speed Unbound",
-  "players": 669,
+  "players": 680,
   "allTimePeak": 14063,
   "peak24h": 703,
   "peak24hAt": "2026-10-29T15:01:31.000Z",
-  "updatedAt": "2026-10-29T18:01:21.024Z",
+  "updatedAt": "2026-10-29T18:05:59.632Z",
   "img_url": "2024/12/mixcollage-11-dec-2024-09-13-am-6904.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-29T18:01:21.024Z",
-    "updatedAtTs": 1793296881,
+    "updatedAt": "2026-10-29T18:05:59.632Z",
+    "updatedAtTs": 1793297159,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1793296881,
-        669
+        1793297159,
+        680
       ],
       "peak24h": [
         1793286091,
         703
       ],
       "peak48h": [
-        1793124089,
+        1793124665,
         721
       ],
       "allTimePeak": [
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793124089,
-          721
-        ],
-        [
-          1793124353,
-          721
-        ],
         [
           1793124665,
           721
@@ -2348,6 +2340,10 @@
         [
           1793296881,
           669
+        ],
+        [
+          1793297159,
+          680
         ]
       ],
       "hourlyPeak": [
@@ -4974,6 +4970,10 @@
         [
           1793120400,
           727
+        ],
+        [
+          1793124000,
+          721
         ]
       ],
       "dailyPeak": [
@@ -5519,5 +5519,5 @@
     }
   },
   "peak48h": 721,
-  "peak48hAt": "2026-10-27T18:01:29.000Z"
+  "peak48hAt": "2026-10-27T18:11:05.000Z"
 }
