@@ -3,16 +3,16 @@
   "appid": "1928980",
   "steamAppid": 1928980,
   "name": "Nightingale",
-  "players": 43,
+  "players": 45,
   "allTimePeak": 47569,
   "peak24h": 56,
   "peak24hAt": "2026-10-29T02:35:52.000Z",
-  "updatedAt": "2026-10-29T22:20:55.240Z",
+  "updatedAt": "2026-10-29T22:26:13.509Z",
   "img_url": "2024/12/mixcollage-04-dec-2024-08-43-am-475.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-29T22:20:55.240Z",
-    "updatedAtTs": 1793312455,
+    "updatedAt": "2026-10-29T22:26:13.509Z",
+    "updatedAtTs": 1793312773,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793312455,
-        43
+        1793312773,
+        45
       ],
       "peak24h": [
         1793241352,
         56
       ],
       "peak48h": [
-        1793139663,
-        75
+        1793140280,
+        73
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793139663,
-          75
-        ],
-        [
-          1793139954,
-          73
-        ],
         [
           1793140280,
           73
@@ -2348,6 +2340,10 @@
         [
           1793312455,
           43
+        ],
+        [
+          1793312773,
+          45
         ]
       ],
       "hourlyPeak": [
@@ -4977,7 +4973,7 @@
         ],
         [
           1793138400,
-          72
+          75
         ]
       ],
       "dailyPeak": [
@@ -5466,6 +5462,6 @@
       ]
     }
   },
-  "peak48h": 75,
-  "peak48hAt": "2026-10-27T22:21:03.000Z"
+  "peak48h": 73,
+  "peak48hAt": "2026-10-27T22:31:20.000Z"
 }
