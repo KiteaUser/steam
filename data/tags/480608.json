@@ -3,16 +3,16 @@
   "appid": "2071280",
   "steamAppid": 2071280,
   "name": "Ravenswatch",
-  "players": 503,
+  "players": 500,
   "allTimePeak": 10018,
   "peak24h": 1807,
   "peak24hAt": "2026-10-28T20:31:11.000Z",
-  "updatedAt": "2026-10-29T08:41:06.865Z",
+  "updatedAt": "2026-10-29T08:45:58.422Z",
   "img_url": "2024/11/mixcollage-25-nov-2024-04-47-pm-9295.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-29T08:41:06.865Z",
-    "updatedAtTs": 1793263266,
+    "updatedAt": "2026-10-29T08:45:58.422Z",
+    "updatedAtTs": 1793263558,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1793263266,
-        503
+        1793263558,
+        500
       ],
       "peak24h": [
         1793219471,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793090471,
-          574
-        ],
         [
           1793090759,
           574
@@ -2348,6 +2344,10 @@
         [
           1793263266,
           503
+        ],
+        [
+          1793263558,
+          500
         ]
       ],
       "hourlyPeak": [
