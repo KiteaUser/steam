@@ -3,16 +3,16 @@
   "appid": "686060",
   "steamAppid": 686060,
   "name": "Mewgenics",
-  "players": 3318,
+  "players": 3313,
   "allTimePeak": 115428,
   "peak24h": 3484,
   "peak24hAt": "2026-10-28T19:41:06.000Z",
-  "updatedAt": "2026-10-29T18:41:06.652Z",
+  "updatedAt": "2026-10-29T18:46:02.721Z",
   "img_url": "2025/07/mewgenics-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-29T18:41:06.652Z",
-    "updatedAtTs": 1793299266,
+    "updatedAt": "2026-10-29T18:46:02.721Z",
+    "updatedAtTs": 1793299562,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1793299266,
-        3318
+        1793299562,
+        3313
       ],
       "peak24h": [
         1793216466,
         3484
       ],
       "peak48h": [
-        1793126484,
+        1793126769,
         3556
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793126484,
-          3556
-        ],
         [
           1793126769,
           3556
@@ -2348,6 +2344,10 @@
         [
           1793299266,
           3318
+        ],
+        [
+          1793299562,
+          3313
         ]
       ],
       "hourlyPeak": [
@@ -5371,5 +5371,5 @@
     }
   },
   "peak48h": 3556,
-  "peak48hAt": "2026-10-27T18:41:24.000Z"
+  "peak48hAt": "2026-10-27T18:46:09.000Z"
 }
