@@ -3,16 +3,16 @@
   "appid": "4001890",
   "steamAppid": 4001890,
   "name": "How to Fish",
-  "players": 12409,
+  "players": 12211,
   "allTimePeak": 373887,
-  "peak24h": 13562,
-  "peak24hAt": "2026-10-28T14:56:05.000Z",
-  "updatedAt": "2026-10-29T14:51:07.740Z",
+  "peak24h": 12843,
+  "peak24hAt": "2026-10-28T15:01:32.000Z",
+  "updatedAt": "2026-10-29T14:56:16.627Z",
   "img_url": "2026/08/how-to-fish-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-29T14:51:07.740Z",
-    "updatedAtTs": 1793285467,
+    "updatedAt": "2026-10-29T14:56:16.627Z",
+    "updatedAtTs": 1793285776,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793285467,
-        12409
+        1793285776,
+        12211
       ],
       "peak24h": [
-        1793199365,
-        13562
+        1793199692,
+        12843
       ],
       "peak48h": [
-        1793112671,
-        13999
+        1793197876,
+        13814
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793112671,
-          13999
-        ],
-        [
-          1793112962,
-          13863
-        ],
         [
           1793113394,
           13694
@@ -2344,6 +2336,10 @@
         [
           1793285467,
           12409
+        ],
+        [
+          1793285776,
+          12211
         ]
       ],
       "hourlyPeak": [
@@ -5145,6 +5141,6 @@
       "monthlyPeak": []
     }
   },
-  "peak48h": 13999,
-  "peak48hAt": "2026-10-27T14:51:11.000Z"
+  "peak48h": 13814,
+  "peak48hAt": "2026-10-28T14:31:16.000Z"
 }
