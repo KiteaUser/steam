@@ -3,16 +3,16 @@
   "appid": "924980",
   "steamAppid": 924980,
   "name": "Trials of Mana",
-  "players": 50,
+  "players": 43,
   "allTimePeak": 11998,
-  "peak24h": 52,
-  "peak24hAt": "2026-10-29T14:21:14.000Z",
-  "updatedAt": "2026-10-30T14:16:13.410Z",
+  "peak24h": 50,
+  "peak24hAt": "2026-10-30T14:16:13.000Z",
+  "updatedAt": "2026-10-30T14:31:27.522Z",
   "img_url": "2024/12/mixcollage-06-dec-2024-03-54-pm-9967.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-30T14:16:13.410Z",
-    "updatedAtTs": 1793369773,
+    "updatedAt": "2026-10-30T14:31:27.522Z",
+    "updatedAtTs": 1793370687,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,12 +23,12 @@
     },
     "summary": {
       "current": [
-        1793369773,
-        50
+        1793370687,
+        43
       ],
       "peak24h": [
-        1793283674,
-        52
+        1793369773,
+        50
       ],
       "peak48h": [
         1793283368,
@@ -41,18 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793197269,
-          43
-        ],
-        [
-          1793197563,
-          43
-        ],
-        [
-          1793197876,
-          43
-        ],
         [
           1793198162,
           40
@@ -2344,6 +2332,10 @@
         [
           1793369773,
           50
+        ],
+        [
+          1793370687,
+          43
         ]
       ],
       "hourlyPeak": [
