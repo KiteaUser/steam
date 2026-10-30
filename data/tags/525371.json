@@ -3,16 +3,16 @@
   "appid": "1961460",
   "steamAppid": 1961460,
   "name": "Project Playtime",
-  "players": 97,
+  "players": 86,
   "allTimePeak": 21105,
   "peak24h": 112,
   "peak24hAt": "2026-10-30T15:46:10.000Z",
-  "updatedAt": "2026-10-30T16:46:19.119Z",
+  "updatedAt": "2026-10-30T16:51:14.319Z",
   "img_url": "2024/11/mixcollage-25-nov-2024-09-43-am-4474.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-30T16:46:19.119Z",
-    "updatedAtTs": 1793378779,
+    "updatedAt": "2026-10-30T16:51:14.319Z",
+    "updatedAtTs": 1793379074,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793378779,
-        97
+        1793379074,
+        86
       ],
       "peak24h": [
         1793375170,
         112
       ],
       "peak48h": [
-        1793206266,
-        129
+        1793213768,
+        121
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793206266,
-          129
-        ],
         [
           1793206560,
           117
@@ -2336,6 +2332,10 @@
         [
           1793378779,
           97
+        ],
+        [
+          1793379074,
+          86
         ]
       ],
       "hourlyPeak": [
@@ -5514,6 +5514,6 @@
       ]
     }
   },
-  "peak48h": 129,
-  "peak48hAt": "2026-10-28T16:51:06.000Z"
+  "peak48h": 121,
+  "peak48hAt": "2026-10-28T18:56:08.000Z"
 }
