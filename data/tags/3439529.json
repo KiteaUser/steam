@@ -3,16 +3,16 @@
   "appid": "3354750",
   "steamAppid": 3354750,
   "name": "skate",
-  "players": 5497,
+  "players": 5446,
   "allTimePeak": 134901,
   "peak24h": 5854,
   "peak24hAt": "2026-10-29T00:51:09.000Z",
-  "updatedAt": "2026-10-30T00:11:20.233Z",
+  "updatedAt": "2026-10-30T00:16:07.621Z",
   "img_url": "2025/09/skate-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-30T00:11:20.233Z",
-    "updatedAtTs": 1793319080,
+    "updatedAt": "2026-10-30T00:16:07.621Z",
+    "updatedAtTs": 1793319367,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793319080,
-        5497
+        1793319367,
+        5446
       ],
       "peak24h": [
         1793235069,
         5854
       ],
       "peak48h": [
-        1793146566,
-        6140
+        1793146865,
+        6104
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793146566,
-          6140
-        ],
         [
           1793146865,
           6104
@@ -2344,6 +2340,10 @@
         [
           1793319080,
           5497
+        ],
+        [
+          1793319367,
+          5446
         ]
       ],
       "hourlyPeak": [
@@ -5390,6 +5390,6 @@
       ]
     }
   },
-  "peak48h": 6140,
-  "peak48hAt": "2026-10-28T00:16:06.000Z"
+  "peak48h": 6104,
+  "peak48hAt": "2026-10-28T00:21:05.000Z"
 }
