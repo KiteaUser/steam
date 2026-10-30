@@ -3,16 +3,16 @@
   "appid": "611500",
   "steamAppid": 611500,
   "name": "Quake Champions",
-  "players": 286,
+  "players": 300,
   "allTimePeak": 17476,
   "peak24h": 321,
   "peak24hAt": "2026-10-30T19:06:20.000Z",
-  "updatedAt": "2026-10-30T20:01:24.830Z",
+  "updatedAt": "2026-10-30T20:05:59.471Z",
   "img_url": "2024/12/mixcollage-10-dec-2024-12-27-pm-628.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-30T20:01:24.830Z",
-    "updatedAtTs": 1793390484,
+    "updatedAt": "2026-10-30T20:05:59.471Z",
+    "updatedAtTs": 1793390759,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793390484,
-        286
+        1793390759,
+        300
       ],
       "peak24h": [
         1793387180,
         321
       ],
       "peak48h": [
-        1793217957,
-        328
+        1793387180,
+        321
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793217957,
-          328
-        ],
         [
           1793218271,
           313
@@ -2336,6 +2332,10 @@
         [
           1793390484,
           286
+        ],
+        [
+          1793390759,
+          300
         ]
       ],
       "hourlyPeak": [
@@ -4965,7 +4965,7 @@
         ],
         [
           1793217600,
-          313
+          328
         ]
       ],
       "dailyPeak": [
@@ -5770,6 +5770,6 @@
       ]
     }
   },
-  "peak48h": 328,
-  "peak48hAt": "2026-10-28T20:05:57.000Z"
+  "peak48h": 321,
+  "peak48hAt": "2026-10-30T19:06:20.000Z"
 }

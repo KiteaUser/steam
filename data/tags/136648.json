@@ -3,16 +3,16 @@
   "appid": "1252330",
   "steamAppid": 1252330,
   "name": "DEATHLOOP",
-  "players": 75,
+  "players": 78,
   "allTimePeak": 20094,
   "peak24h": 89,
   "peak24hAt": "2026-10-30T15:21:18.000Z",
-  "updatedAt": "2026-10-30T20:01:24.830Z",
+  "updatedAt": "2026-10-30T20:05:59.471Z",
   "img_url": "2024/12/mixcollage-06-dec-2024-10-31-pm-5065.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-30T20:01:24.830Z",
-    "updatedAtTs": 1793390484,
+    "updatedAt": "2026-10-30T20:05:59.471Z",
+    "updatedAtTs": 1793390759,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1793390484,
-        75
+        1793390759,
+        78
       ],
       "peak24h": [
         1793373678,
         89
       ],
       "peak48h": [
-        1793217957,
+        1793218582,
         102
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793217957,
-          102
-        ],
         [
           1793218271,
           99
@@ -2336,6 +2332,10 @@
         [
           1793390484,
           75
+        ],
+        [
+          1793390759,
+          78
         ]
       ],
       "hourlyPeak": [
@@ -4965,7 +4965,7 @@
         ],
         [
           1793217600,
-          100
+          102
         ]
       ],
       "dailyPeak": [
@@ -5575,5 +5575,5 @@
     }
   },
   "peak48h": 102,
-  "peak48hAt": "2026-10-28T20:05:57.000Z"
+  "peak48hAt": "2026-10-28T20:16:22.000Z"
 }

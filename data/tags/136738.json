@@ -3,16 +3,16 @@
   "appid": "2457220",
   "steamAppid": 2457220,
   "name": "Avowed",
-  "players": 199,
+  "players": 200,
   "allTimePeak": 19198,
   "peak24h": 210,
   "peak24hAt": "2026-10-29T20:21:02.000Z",
-  "updatedAt": "2026-10-30T20:01:24.830Z",
+  "updatedAt": "2026-10-30T20:05:59.471Z",
   "img_url": "2025/02/avowed-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-30T20:01:24.830Z",
-    "updatedAtTs": 1793390484,
+    "updatedAt": "2026-10-30T20:05:59.471Z",
+    "updatedAtTs": 1793390759,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793390484,
-        199
+        1793390759,
+        200
       ],
       "peak24h": [
         1793305262,
         210
       ],
       "peak48h": [
-        1793217957,
-        227
+        1793218271,
+        223
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793217957,
-          227
-        ],
         [
           1793218271,
           223
@@ -2336,6 +2332,10 @@
         [
           1793390484,
           199
+        ],
+        [
+          1793390759,
+          200
         ]
       ],
       "hourlyPeak": [
@@ -4965,7 +4965,7 @@
         ],
         [
           1793217600,
-          223
+          227
         ]
       ],
       "dailyPeak": [
@@ -5410,6 +5410,6 @@
       ]
     }
   },
-  "peak48h": 227,
-  "peak48hAt": "2026-10-28T20:05:57.000Z"
+  "peak48h": 223,
+  "peak48hAt": "2026-10-28T20:11:11.000Z"
 }
