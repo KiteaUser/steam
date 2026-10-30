@@ -7,12 +7,12 @@
   "allTimePeak": 19732,
   "peak24h": 559,
   "peak24hAt": "2026-10-30T07:55:59.000Z",
-  "updatedAt": "2026-10-30T08:31:13.958Z",
+  "updatedAt": "2026-10-30T08:35:52.023Z",
   "img_url": "2025/02/tiny-pasture-cover-art-1.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-30T08:31:13.958Z",
-    "updatedAtTs": 1793349073,
+    "updatedAt": "2026-10-30T08:35:52.023Z",
+    "updatedAtTs": 1793349352,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,7 +23,7 @@
     },
     "summary": {
       "current": [
-        1793349073,
+        1793349352,
         555
       ],
       "peak24h": [
@@ -31,8 +31,8 @@
         559
       ],
       "peak48h": [
-        1793176275,
-        574
+        1793176856,
+        568
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793176275,
-          574
-        ],
         [
           1793176567,
           564
@@ -2347,6 +2343,10 @@
         ],
         [
           1793349073,
+          555
+        ],
+        [
+          1793349352,
           555
         ]
       ],
@@ -5422,6 +5422,6 @@
       ]
     }
   },
-  "peak48h": 574,
-  "peak48hAt": "2026-10-28T08:31:15.000Z"
+  "peak48h": 568,
+  "peak48hAt": "2026-10-28T08:40:56.000Z"
 }
