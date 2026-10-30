@@ -7,12 +7,12 @@
   "allTimePeak": 145384,
   "peak24h": 76,
   "peak24hAt": "2026-10-30T13:21:13.000Z",
-  "updatedAt": "2026-10-30T15:01:39.839Z",
+  "updatedAt": "2026-10-30T15:06:17.316Z",
   "img_url": "2022/10/LayersOfFearTagPage.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-30T15:01:39.839Z",
-    "updatedAtTs": 1793372499,
+    "updatedAt": "2026-10-30T15:06:17.316Z",
+    "updatedAtTs": 1793372777,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,7 +23,7 @@
     },
     "summary": {
       "current": [
-        1793372499,
+        1793372777,
         63
       ],
       "peak24h": [
@@ -31,7 +31,7 @@
         76
       ],
       "peak48h": [
-        1793199953,
+        1793366473,
         76
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793199953,
-          76
-        ],
         [
           1793200265,
           67
@@ -2335,6 +2331,10 @@
         ],
         [
           1793372499,
+          63
+        ],
+        [
+          1793372777,
           63
         ]
       ],
@@ -5867,5 +5867,5 @@
     }
   },
   "peak48h": 76,
-  "peak48hAt": "2026-10-28T15:05:53.000Z"
+  "peak48hAt": "2026-10-30T13:21:13.000Z"
 }

@@ -3,16 +3,16 @@
   "appid": "898750",
   "steamAppid": 898750,
   "name": "Super Robot Wars 30",
-  "players": 232,
+  "players": 230,
   "allTimePeak": 17005,
   "peak24h": 255,
   "peak24hAt": "2026-10-30T13:41:05.000Z",
-  "updatedAt": "2026-10-30T15:01:39.839Z",
+  "updatedAt": "2026-10-30T15:06:17.316Z",
   "img_url": "2024/12/mixcollage-09-dec-2024-09-59-am-6860.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-30T15:01:39.839Z",
-    "updatedAtTs": 1793372499,
+    "updatedAt": "2026-10-30T15:06:17.316Z",
+    "updatedAtTs": 1793372777,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793372499,
-        232
+        1793372777,
+        230
       ],
       "peak24h": [
         1793367665,
         255
       ],
       "peak48h": [
-        1793199953,
-        261
+        1793367665,
+        255
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793199953,
-          261
-        ],
         [
           1793200265,
           247
@@ -2336,6 +2332,10 @@
         [
           1793372499,
           232
+        ],
+        [
+          1793372777,
+          230
         ]
       ],
       "hourlyPeak": [
@@ -5570,6 +5570,6 @@
       ]
     }
   },
-  "peak48h": 261,
-  "peak48hAt": "2026-10-28T15:05:53.000Z"
+  "peak48h": 255,
+  "peak48hAt": "2026-10-30T13:41:05.000Z"
 }
