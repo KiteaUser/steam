@@ -3,16 +3,16 @@
   "appid": "4078430",
   "steamAppid": 4078430,
   "name": "STAR WARS: Galactic Racer",
-  "players": 5168,
+  "players": 5052,
   "allTimePeak": 18052,
   "peak24h": 5230,
   "peak24hAt": "2026-10-30T02:01:14.000Z",
-  "updatedAt": "2026-10-30T23:55:51.208Z",
+  "updatedAt": "2026-10-31T00:01:28.337Z",
   "img_url": "2025/12/star-wars-galactic-racer-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-30T23:55:51.208Z",
-    "updatedAtTs": 1793404551,
+    "updatedAt": "2026-10-31T00:01:28.337Z",
+    "updatedAtTs": 1793404888,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1793404551,
-        5168
+        1793404888,
+        5052
       ],
       "peak24h": [
         1793325674,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793231762,
-          5020
-        ],
-        [
-          1793232087,
-          5129
-        ],
         [
           1793232352,
           5100
@@ -2340,6 +2332,10 @@
         [
           1793404551,
           5168
+        ],
+        [
+          1793404888,
+          5052
         ]
       ],
       "hourlyPeak": [
@@ -4453,7 +4449,11 @@
         ],
         [
           1793228400,
-          5002
+          5020
+        ],
+        [
+          1793232000,
+          5129
         ]
       ],
       "dailyPeak": [],
