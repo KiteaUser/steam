@@ -7,12 +7,12 @@
   "allTimePeak": 65753,
   "peak24h": 3004,
   "peak24hAt": "2026-10-31T15:06:12.000Z",
-  "updatedAt": "2026-10-31T16:16:01.120Z",
+  "updatedAt": "2026-10-31T16:21:08.411Z",
   "img_url": "2025/06/the-seven-deadly-sins-origin-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-31T16:16:01.120Z",
-    "updatedAtTs": 1793463361,
+    "updatedAt": "2026-10-31T16:21:08.411Z",
+    "updatedAtTs": 1793463668,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,7 +23,7 @@
     },
     "summary": {
       "current": [
-        1793463361,
+        1793463668,
         2929
       ],
       "peak24h": [
@@ -31,8 +31,8 @@
         3004
       ],
       "peak48h": [
-        1793290579,
-        3214
+        1793290877,
+        3206
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793290579,
-          3214
-        ],
         [
           1793290877,
           3206
@@ -2339,6 +2335,10 @@
         ],
         [
           1793463361,
+          2929
+        ],
+        [
+          1793463668,
           2929
         ]
       ],
@@ -5366,6 +5366,6 @@
       ]
     }
   },
-  "peak48h": 3214,
-  "peak48hAt": "2026-10-29T16:16:19.000Z"
+  "peak48h": 3206,
+  "peak48hAt": "2026-10-29T16:21:17.000Z"
 }
