@@ -3,16 +3,16 @@
   "appid": "308040",
   "steamAppid": 308040,
   "name": "Back to Bed",
-  "players": 4,
+  "players": 8,
   "allTimePeak": 30771,
-  "peak24h": 6,
-  "peak24hAt": "2026-10-30T22:16:04.000Z",
-  "updatedAt": "2026-10-31T22:10:59.451Z",
+  "peak24h": 8,
+  "peak24hAt": "2026-10-31T22:16:12.000Z",
+  "updatedAt": "2026-10-31T22:16:12.760Z",
   "img_url": "2024/11/mixcollage-21-nov-2024-02-43-am-9267.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-31T22:10:59.451Z",
-    "updatedAtTs": 1793484659,
+    "updatedAt": "2026-10-31T22:16:12.760Z",
+    "updatedAtTs": 1793484972,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793484659,
-        4
+        1793484972,
+        8
       ],
       "peak24h": [
-        1793398564,
-        6
+        1793484972,
+        8
       ],
       "peak48h": [
-        1793311865,
-        6
+        1793484972,
+        8
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793311865,
-          6
-        ],
-        [
-          1793312171,
-          6
-        ],
         [
           1793312455,
           6
@@ -2280,6 +2272,10 @@
         [
           1793484659,
           4
+        ],
+        [
+          1793484972,
+          8
         ]
       ],
       "hourlyPeak": [
@@ -5866,6 +5862,6 @@
       ]
     }
   },
-  "peak48h": 6,
-  "peak48hAt": "2026-10-29T22:11:05.000Z"
+  "peak48h": 8,
+  "peak48hAt": "2026-10-31T22:16:12.000Z"
 }
