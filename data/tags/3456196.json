@@ -3,16 +3,16 @@
   "appid": "624090",
   "steamAppid": 624090,
   "name": "Football Manager 2018",
-  "players": 444,
+  "players": 449,
   "allTimePeak": 71575,
   "peak24h": 458,
   "peak24hAt": "2026-10-31T16:26:12.000Z",
-  "updatedAt": "2026-10-31T21:11:10.616Z",
+  "updatedAt": "2026-10-31T21:16:12.618Z",
   "img_url": "",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-31T21:11:10.616Z",
-    "updatedAtTs": 1793481070,
+    "updatedAt": "2026-10-31T21:16:12.618Z",
+    "updatedAtTs": 1793481372,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793481070,
-        444
+        1793481372,
+        449
       ],
       "peak24h": [
         1793463972,
         458
       ],
       "peak48h": [
-        1793308271,
-        462
+        1793463972,
+        458
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793308271,
-          462
-        ],
-        [
-          1793308572,
-          452
-        ],
         [
           1793308879,
           452
@@ -2336,6 +2328,10 @@
         [
           1793481070,
           444
+        ],
+        [
+          1793481372,
+          449
         ]
       ],
       "hourlyPeak": [
@@ -5762,6 +5758,6 @@
       ]
     }
   },
-  "peak48h": 462,
-  "peak48hAt": "2026-10-29T21:11:11.000Z"
+  "peak48h": 458,
+  "peak48hAt": "2026-10-31T16:26:12.000Z"
 }
