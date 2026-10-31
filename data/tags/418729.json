@@ -3,16 +3,16 @@
   "appid": "1876890",
   "steamAppid": 1876890,
   "name": "Wandering Sword",
-  "players": 5127,
+  "players": 5183,
   "allTimePeak": 22824,
-  "peak24h": 5127,
-  "peak24hAt": "2026-10-31T13:01:19.000Z",
-  "updatedAt": "2026-10-31T13:11:10.315Z",
+  "peak24h": 5183,
+  "peak24hAt": "2026-10-31T13:15:58.000Z",
+  "updatedAt": "2026-10-31T13:15:58.447Z",
   "img_url": "2024/11/mixcollage-30-nov-2024-08-31-am-8031.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-31T13:11:10.315Z",
-    "updatedAtTs": 1793452270,
+    "updatedAt": "2026-10-31T13:15:58.447Z",
+    "updatedAtTs": 1793452558,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793452270,
-        5127
+        1793452558,
+        5183
       ],
       "peak24h": [
-        1793451679,
-        5127
+        1793452558,
+        5183
       ],
       "peak48h": [
-        1793283970,
-        5156
+        1793452558,
+        5183
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793279472,
-          4495
-        ],
         [
           1793279763,
           4518
@@ -2328,6 +2324,10 @@
         [
           1793452270,
           5127
+        ],
+        [
+          1793452558,
+          5183
         ]
       ],
       "hourlyPeak": [
@@ -5474,6 +5474,6 @@
       ]
     }
   },
-  "peak48h": 5156,
-  "peak48hAt": "2026-10-29T14:26:10.000Z"
+  "peak48h": 5183,
+  "peak48hAt": "2026-10-31T13:15:58.000Z"
 }
