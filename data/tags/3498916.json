@@ -3,16 +3,16 @@
   "appid": "3115220",
   "steamAppid": 3115220,
   "name": "Town to City",
-  "players": 461,
-  "allTimePeak": 464,
-  "peak24h": 464,
-  "peak24hAt": "2026-10-31T16:46:05.000Z",
-  "updatedAt": "2026-10-31T17:11:01.955Z",
+  "players": 489,
+  "allTimePeak": 489,
+  "peak24h": 489,
+  "peak24hAt": "2026-10-31T17:16:01.000Z",
+  "updatedAt": "2026-10-31T17:16:01.553Z",
   "img_url": "",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-31T17:11:01.955Z",
-    "updatedAtTs": 1793466661,
+    "updatedAt": "2026-10-31T17:16:01.553Z",
+    "updatedAtTs": 1793466961,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,28 +23,24 @@
     },
     "summary": {
       "current": [
-        1793466661,
-        461
+        1793466961,
+        489
       ],
       "peak24h": [
-        1793465165,
-        464
+        1793466961,
+        489
       ],
       "peak48h": [
-        1793303765,
-        464
+        1793466961,
+        489
       ],
       "allTimePeak": [
         null,
-        464
+        489
       ]
     },
     "series": {
       "raw5m": [
-        [
-          1793293863,
-          396
-        ],
         [
           1793294162,
           399
@@ -2336,6 +2332,10 @@
         [
           1793466661,
           461
+        ],
+        [
+          1793466961,
+          489
         ]
       ],
       "hourlyPeak": [
@@ -4965,7 +4965,7 @@
         ],
         [
           1793293200,
-          394
+          396
         ]
       ],
       "dailyPeak": [
@@ -5129,6 +5129,6 @@
       "monthlyPeak": []
     }
   },
-  "peak48h": 464,
-  "peak48hAt": "2026-10-29T19:56:05.000Z"
+  "peak48h": 489,
+  "peak48hAt": "2026-10-31T17:16:01.000Z"
 }
