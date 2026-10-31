@@ -3,16 +3,16 @@
   "appid": "370910",
   "steamAppid": 370910,
   "name": "Kathy Rain",
-  "players": 5,
+  "players": 10,
   "allTimePeak": 348015,
   "peak24h": 21,
   "peak24hAt": "2026-10-31T02:16:13.000Z",
-  "updatedAt": "2026-10-31T12:51:04.561Z",
+  "updatedAt": "2026-10-31T12:56:12.668Z",
   "img_url": "2025/08/kathy-rain-tag-page-cover-art_upscayl_2x_ultramix_balanced.png",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-31T12:51:04.561Z",
-    "updatedAtTs": 1793451064,
+    "updatedAt": "2026-10-31T12:56:12.668Z",
+    "updatedAtTs": 1793451372,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1793451064,
-        5
+        1793451372,
+        10
       ],
       "peak24h": [
         1793412973,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793278270,
-          3
-        ],
-        [
-          1793278564,
-          3
-        ],
         [
           1793278893,
           3
@@ -2248,6 +2240,10 @@
         [
           1793451064,
           5
+        ],
+        [
+          1793451372,
+          10
         ]
       ],
       "hourlyPeak": [
@@ -4869,7 +4865,7 @@
         ],
         [
           1793275200,
-          2
+          3
         ]
       ],
       "dailyPeak": [
