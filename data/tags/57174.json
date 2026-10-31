@@ -3,16 +3,16 @@
   "appid": "44350",
   "steamAppid": 44350,
   "name": "GRID 2",
-  "players": 50,
+  "players": 49,
   "allTimePeak": 27339,
   "peak24h": 78,
   "peak24hAt": "2026-10-30T21:11:15.000Z",
-  "updatedAt": "2026-10-31T17:51:09.075Z",
+  "updatedAt": "2026-10-31T17:56:02.044Z",
   "img_url": "2024/12/mixcollage-13-dec-2024-08-47-am-3707.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-31T17:51:09.075Z",
-    "updatedAtTs": 1793469069,
+    "updatedAt": "2026-10-31T17:56:02.044Z",
+    "updatedAtTs": 1793469362,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1793469069,
-        50
+        1793469362,
+        49
       ],
       "peak24h": [
         1793394675,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793296554,
-          52
-        ],
         [
           1793296881,
           52
@@ -2332,6 +2328,10 @@
         [
           1793469069,
           50
+        ],
+        [
+          1793469362,
+          49
         ]
       ],
       "hourlyPeak": [
