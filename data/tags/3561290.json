@@ -3,16 +3,16 @@
   "appid": "3949040",
   "steamAppid": 3949040,
   "name": "RV There Yet",
-  "players": 6930,
+  "players": 6950,
   "allTimePeak": 100002,
   "peak24h": 8673,
   "peak24hAt": "2026-10-30T20:51:07.000Z",
-  "updatedAt": "2026-10-31T17:01:20.156Z",
+  "updatedAt": "2026-10-31T17:06:00.943Z",
   "img_url": "2025/10/rv-there-yet-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-31T17:01:20.156Z",
-    "updatedAtTs": 1793466080,
+    "updatedAt": "2026-10-31T17:06:00.943Z",
+    "updatedAtTs": 1793466360,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1793466080,
-        6930
+        1793466360,
+        6950
       ],
       "peak24h": [
         1793393467,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793293286,
-          3522
-        ],
         [
           1793293568,
           3656
@@ -2332,6 +2328,10 @@
         [
           1793466080,
           6930
+        ],
+        [
+          1793466360,
+          6950
         ]
       ],
       "hourlyPeak": [
@@ -4957,6 +4957,10 @@
         ],
         [
           1793289600,
+          3522
+        ],
+        [
+          1793293200,
           3522
         ]
       ],
