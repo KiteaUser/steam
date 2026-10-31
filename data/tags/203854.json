@@ -3,16 +3,16 @@
   "appid": "1274570",
   "steamAppid": 1274570,
   "name": "DEVOUR",
-  "players": 819,
+  "players": 815,
   "allTimePeak": 12331,
   "peak24h": 1790,
   "peak24hAt": "2026-10-30T14:11:12.000Z",
-  "updatedAt": "2026-10-31T11:01:17.636Z",
+  "updatedAt": "2026-10-31T11:05:58.492Z",
   "img_url": "2024/12/mixcollage-10-dec-2024-12-25-pm-1107.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-31T11:01:17.636Z",
-    "updatedAtTs": 1793444477,
+    "updatedAt": "2026-10-31T11:05:58.492Z",
+    "updatedAtTs": 1793444758,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1793444477,
-        819
+        1793444758,
+        815
       ],
       "peak24h": [
         1793369472,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793271689,
-          500
-        ],
         [
           1793271963,
           542
@@ -2340,6 +2336,10 @@
         [
           1793444477,
           819
+        ],
+        [
+          1793444758,
+          815
         ]
       ],
       "hourlyPeak": [
@@ -4965,6 +4965,10 @@
         ],
         [
           1793268000,
+          500
+        ],
+        [
+          1793271600,
           500
         ]
       ],
