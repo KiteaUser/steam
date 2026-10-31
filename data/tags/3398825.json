@@ -3,16 +3,16 @@
   "appid": "437220",
   "steamAppid": 437220,
   "name": "The Culling",
-  "players": 14,
+  "players": 15,
   "allTimePeak": 12995,
   "peak24h": 23,
   "peak24hAt": "2026-10-31T19:46:08.000Z",
-  "updatedAt": "2026-10-31T22:01:28.422Z",
+  "updatedAt": "2026-10-31T22:06:05.713Z",
   "img_url": "2025/01/mixcollage-31-jan-2025-10-13-am-5126.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-31T22:01:28.422Z",
-    "updatedAtTs": 1793484088,
+    "updatedAt": "2026-10-31T22:06:05.713Z",
+    "updatedAtTs": 1793484365,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1793484088,
-        14
+        1793484365,
+        15
       ],
       "peak24h": [
         1793475968,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793311294,
-          13
-        ],
         [
           1793311567,
           13
@@ -1572,6 +1568,10 @@
         [
           1793484088,
           14
+        ],
+        [
+          1793484365,
+          15
         ]
       ],
       "hourlyPeak": [
@@ -3361,6 +3361,10 @@
         ],
         [
           1793307600,
+          13
+        ],
+        [
+          1793311200,
           13
         ]
       ],
