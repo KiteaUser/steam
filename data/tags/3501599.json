@@ -3,16 +3,16 @@
   "appid": "295110",
   "steamAppid": 295110,
   "name": "Just Survive",
-  "players": 13,
+  "players": 12,
   "allTimePeak": 40335,
   "peak24h": 73,
   "peak24hAt": "2026-10-30T19:41:22.000Z",
-  "updatedAt": "2026-10-31T07:05:49.822Z",
+  "updatedAt": "2026-10-31T07:11:10.678Z",
   "img_url": "2025/06/just-survive.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-31T07:05:49.822Z",
-    "updatedAtTs": 1793430349,
+    "updatedAt": "2026-10-31T07:11:10.678Z",
+    "updatedAtTs": 1793430670,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1793430349,
-        13
+        1793430670,
+        12
       ],
       "peak24h": [
         1793389282,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793257558,
-          5
-        ],
-        [
-          1793257858,
-          5
-        ],
         [
           1793258160,
           6
@@ -2340,6 +2332,10 @@
         [
           1793430349,
           13
+        ],
+        [
+          1793430670,
+          12
         ]
       ],
       "hourlyPeak": [
