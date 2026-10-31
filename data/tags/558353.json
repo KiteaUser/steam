@@ -3,16 +3,16 @@
   "appid": "242920",
   "steamAppid": 242920,
   "name": "Banished",
-  "players": 551,
+  "players": 531,
   "allTimePeak": 24636,
   "peak24h": 596,
   "peak24hAt": "2026-10-30T20:41:09.000Z",
-  "updatedAt": "2026-10-31T13:01:19.439Z",
+  "updatedAt": "2026-10-31T13:05:55.034Z",
   "img_url": "2024/11/mixcollage-29-nov-2024-11-38-am-5433.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-31T13:01:19.439Z",
-    "updatedAtTs": 1793451679,
+    "updatedAt": "2026-10-31T13:05:55.034Z",
+    "updatedAtTs": 1793451955,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1793451679,
-        551
+        1793451955,
+        531
       ],
       "peak24h": [
         1793392869,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793278893,
-          405
-        ],
         [
           1793279160,
           405
@@ -2340,6 +2336,10 @@
         [
           1793451679,
           551
+        ],
+        [
+          1793451955,
+          531
         ]
       ],
       "hourlyPeak": [
@@ -4965,6 +4965,10 @@
         ],
         [
           1793275200,
+          405
+        ],
+        [
+          1793278800,
           405
         ]
       ],

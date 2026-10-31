@@ -3,16 +3,16 @@
   "appid": "200710",
   "steamAppid": 200710,
   "name": "Torchlight II",
-  "players": 434,
+  "players": 421,
   "allTimePeak": 54821,
   "peak24h": 434,
   "peak24hAt": "2026-10-31T13:01:19.000Z",
-  "updatedAt": "2026-10-31T13:01:19.439Z",
+  "updatedAt": "2026-10-31T13:05:55.034Z",
   "img_url": "2024/12/mixcollage-06-dec-2024-03-51-pm-7452.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-31T13:01:19.439Z",
-    "updatedAtTs": 1793451679,
+    "updatedAt": "2026-10-31T13:05:55.034Z",
+    "updatedAtTs": 1793451955,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1793451679,
-        434
+        1793451955,
+        421
       ],
       "peak24h": [
         1793451679,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793278893,
-          307
-        ],
         [
           1793279160,
           307
@@ -2336,6 +2332,10 @@
         [
           1793451679,
           434
+        ],
+        [
+          1793451955,
+          421
         ]
       ],
       "hourlyPeak": [
@@ -4961,6 +4961,10 @@
         ],
         [
           1793275200,
+          307
+        ],
+        [
+          1793278800,
           307
         ]
       ],

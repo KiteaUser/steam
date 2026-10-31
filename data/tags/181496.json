@@ -3,16 +3,16 @@
   "appid": "834910",
   "steamAppid": 834910,
   "name": "ATLAS",
-  "players": 286,
+  "players": 290,
   "allTimePeak": 58939,
   "peak24h": 348,
   "peak24hAt": "2026-10-30T20:31:18.000Z",
-  "updatedAt": "2026-10-31T13:01:19.439Z",
+  "updatedAt": "2026-10-31T13:05:55.034Z",
   "img_url": "2025/06/atlas-tag-page-cover-art_upscayl_2x_ultramix_balanced.png",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-31T13:01:19.439Z",
-    "updatedAtTs": 1793451679,
+    "updatedAt": "2026-10-31T13:05:55.034Z",
+    "updatedAtTs": 1793451955,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1793451679,
-        286
+        1793451955,
+        290
       ],
       "peak24h": [
         1793392278,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793278893,
-          219
-        ],
         [
           1793279160,
           219
@@ -2336,6 +2332,10 @@
         [
           1793451679,
           286
+        ],
+        [
+          1793451955,
+          290
         ]
       ],
       "hourlyPeak": [
@@ -4961,6 +4961,10 @@
         ],
         [
           1793275200,
+          219
+        ],
+        [
+          1793278800,
           219
         ]
       ],
