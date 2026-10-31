@@ -3,16 +3,16 @@
   "appid": "3960600",
   "steamAppid": 3960600,
   "name": "Warrior Cats: Clans of the Forest",
-  "players": 515,
+  "players": 514,
   "allTimePeak": 4930,
-  "peak24h": 594,
-  "peak24hAt": "2026-10-30T02:11:05.000Z",
-  "updatedAt": "2026-10-31T02:05:54.731Z",
+  "peak24h": 579,
+  "peak24hAt": "2026-10-30T02:21:08.000Z",
+  "updatedAt": "2026-10-31T02:11:22.145Z",
   "img_url": "2026/10/warrior-cats-clans-of-the-forest-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-31T02:05:54.731Z",
-    "updatedAtTs": 1793412354,
+    "updatedAt": "2026-10-31T02:11:22.145Z",
+    "updatedAtTs": 1793412682,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793412354,
-        515
+        1793412682,
+        514
       ],
       "peak24h": [
-        1793326265,
-        594
+        1793326868,
+        579
       ],
       "peak48h": [
-        1793239574,
-        755
+        1793240466,
+        741
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793239574,
-          755
-        ],
-        [
-          1793239864,
-          755
-        ],
         [
           1793240159,
           728
@@ -2340,6 +2332,10 @@
         [
           1793412354,
           515
+        ],
+        [
+          1793412682,
+          514
         ]
       ],
       "hourlyPeak": [
@@ -2812,6 +2808,6 @@
       "monthlyPeak": []
     }
   },
-  "peak48h": 755,
-  "peak48hAt": "2026-10-29T02:06:14.000Z"
+  "peak48h": 741,
+  "peak48hAt": "2026-10-29T02:21:06.000Z"
 }
