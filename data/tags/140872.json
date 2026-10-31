@@ -7,12 +7,12 @@
   "allTimePeak": 87453,
   "peak24h": 8635,
   "peak24hAt": "2026-10-31T16:41:09.000Z",
-  "updatedAt": "2026-10-31T16:41:09.236Z",
+  "updatedAt": "2026-10-31T16:46:05.744Z",
   "img_url": "2025/07/umamusume-pretty-derby-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-10-31T16:41:09.236Z",
-    "updatedAtTs": 1793464869,
+    "updatedAt": "2026-10-31T16:46:05.744Z",
+    "updatedAtTs": 1793465165,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,7 +23,7 @@
     },
     "summary": {
       "current": [
-        1793464869,
+        1793465165,
         8635
       ],
       "peak24h": [
@@ -31,8 +31,8 @@
         8635
       ],
       "peak48h": [
-        1793292077,
-        9376
+        1793292375,
+        9223
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793292077,
-          9376
-        ],
         [
           1793292375,
           9223
@@ -2339,6 +2335,10 @@
         ],
         [
           1793464869,
+          8635
+        ],
+        [
+          1793465165,
           8635
         ]
       ],
@@ -5402,6 +5402,6 @@
       ]
     }
   },
-  "peak48h": 9376,
-  "peak48hAt": "2026-10-29T16:41:17.000Z"
+  "peak48h": 9223,
+  "peak48hAt": "2026-10-29T16:46:15.000Z"
 }
