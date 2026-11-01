@@ -3,16 +3,16 @@
   "appid": "1544020",
   "steamAppid": 1544020,
   "name": "The Callisto Protocol",
-  "players": 100,
+  "players": 105,
   "allTimePeak": 17580,
-  "peak24h": 100,
-  "peak24hAt": "2026-10-31T19:05:59.000Z",
-  "updatedAt": "2026-11-01T19:05:55.894Z",
+  "peak24h": 105,
+  "peak24hAt": "2026-11-01T19:11:05.000Z",
+  "updatedAt": "2026-11-01T19:11:05.031Z",
   "img_url": "2024/12/mixcollage-06-dec-2024-05-07-pm-5246.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-01T19:05:55.894Z",
-    "updatedAtTs": 1793559955,
+    "updatedAt": "2026-11-01T19:11:05.031Z",
+    "updatedAtTs": 1793560265,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793559955,
-        100
+        1793560265,
+        105
       ],
       "peak24h": [
-        1793473559,
-        100
+        1793560265,
+        105
       ],
       "peak48h": [
-        1793473559,
-        100
+        1793560265,
+        105
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793387180,
-          62
-        ],
         [
           1793387467,
           63
@@ -2344,6 +2340,10 @@
         [
           1793559955,
           100
+        ],
+        [
+          1793560265,
+          105
         ]
       ],
       "hourlyPeak": [
@@ -5410,6 +5410,6 @@
       ]
     }
   },
-  "peak48h": 100,
-  "peak48hAt": "2026-10-31T19:05:59.000Z"
+  "peak48h": 105,
+  "peak48hAt": "2026-11-01T19:11:05.000Z"
 }
