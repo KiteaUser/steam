@@ -3,16 +3,16 @@
   "appid": "1118520",
   "steamAppid": 1118520,
   "name": "Paralives",
-  "players": 1159,
+  "players": 1180,
   "allTimePeak": 2797,
-  "peak24h": 1159,
-  "peak24hAt": "2026-11-01T15:56:07.000Z",
-  "updatedAt": "2026-11-01T16:06:01.234Z",
+  "peak24h": 1180,
+  "peak24hAt": "2026-11-01T16:10:55.000Z",
+  "updatedAt": "2026-11-01T16:10:55.939Z",
   "img_url": "2024/08/paralives.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-01T16:06:01.234Z",
-    "updatedAtTs": 1793549161,
+    "updatedAt": "2026-11-01T16:10:55.939Z",
+    "updatedAtTs": 1793549455,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793549161,
-        1159
+        1793549455,
+        1180
       ],
       "peak24h": [
-        1793548567,
-        1159
+        1793549455,
+        1180
       ],
       "peak48h": [
-        1793548567,
-        1159
+        1793549455,
+        1180
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793376374,
-          776
-        ],
         [
           1793376660,
           776
@@ -2348,6 +2344,10 @@
         [
           1793549161,
           1159
+        ],
+        [
+          1793549455,
+          1180
         ]
       ],
       "hourlyPeak": [
@@ -4977,7 +4977,7 @@
         ],
         [
           1793376000,
-          774
+          776
         ]
       ],
       "dailyPeak": [
@@ -5145,6 +5145,6 @@
       "monthlyPeak": []
     }
   },
-  "peak48h": 1159,
-  "peak48hAt": "2026-11-01T15:56:07.000Z"
+  "peak48h": 1180,
+  "peak48hAt": "2026-11-01T16:10:55.000Z"
 }
