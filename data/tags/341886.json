@@ -3,16 +3,16 @@
   "appid": "343710",
   "steamAppid": 343710,
   "name": "KHOLAT",
-  "players": 5,
+  "players": 7,
   "allTimePeak": 275043,
-  "peak24h": 20,
-  "peak24hAt": "2026-10-31T13:46:09.000Z",
-  "updatedAt": "2026-11-01T13:46:00.855Z",
+  "peak24h": 19,
+  "peak24hAt": "2026-10-31T13:55:55.000Z",
+  "updatedAt": "2026-11-01T13:51:08.635Z",
   "img_url": "2024/11/mixcollage-23-nov-2024-10-15-am-8326.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-01T13:46:00.855Z",
-    "updatedAtTs": 1793540760,
+    "updatedAt": "2026-11-01T13:51:08.635Z",
+    "updatedAtTs": 1793541068,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,12 +23,12 @@
     },
     "summary": {
       "current": [
-        1793540760,
-        5
+        1793541068,
+        7
       ],
       "peak24h": [
-        1793454369,
-        20
+        1793454955,
+        19
       ],
       "peak48h": [
         1793451955,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793367962,
-          2
-        ],
-        [
-          1793368265,
-          2
-        ],
         [
           1793368561,
           2
@@ -2236,6 +2228,10 @@
         [
           1793540760,
           5
+        ],
+        [
+          1793541068,
+          7
         ]
       ],
       "hourlyPeak": [
