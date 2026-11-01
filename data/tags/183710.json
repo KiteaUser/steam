@@ -3,16 +3,16 @@
   "appid": "1426210",
   "steamAppid": 1426210,
   "name": "It Takes Two",
-  "players": 3070,
+  "players": 3018,
   "allTimePeak": 71039,
   "peak24h": 15211,
   "peak24hAt": "2026-11-01T14:01:29.000Z",
-  "updatedAt": "2026-11-01T22:21:04.999Z",
+  "updatedAt": "2026-11-01T22:26:06.980Z",
   "img_url": "2024/12/mixcollage-05-dec-2024-06-01-am-5031.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-01T22:21:04.999Z",
-    "updatedAtTs": 1793571665,
+    "updatedAt": "2026-11-01T22:26:06.980Z",
+    "updatedAtTs": 1793571966,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1793571665,
-        3070
+        1793571966,
+        3018
       ],
       "peak24h": [
         1793541689,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793398880,
-          2832
-        ],
-        [
-          1793399163,
-          2832
-        ],
         [
           1793399485,
           2644
@@ -2340,6 +2332,10 @@
         [
           1793571665,
           3070
+        ],
+        [
+          1793571966,
+          3018
         ]
       ],
       "hourlyPeak": [
