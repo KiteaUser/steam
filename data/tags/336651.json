@@ -3,16 +3,16 @@
   "appid": "286160",
   "steamAppid": 286160,
   "name": "Tabletop Simulator",
-  "players": 4000,
+  "players": 4021,
   "allTimePeak": 37198,
   "peak24h": 8180,
   "peak24hAt": "2026-10-31T20:51:05.000Z",
-  "updatedAt": "2026-11-01T10:31:06.379Z",
+  "updatedAt": "2026-11-01T10:36:03.890Z",
   "img_url": "2024/11/mixcollage-22-nov-2024-12-22-am-9153.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-01T10:31:06.379Z",
-    "updatedAtTs": 1793529066,
+    "updatedAt": "2026-11-01T10:36:03.890Z",
+    "updatedAtTs": 1793529363,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1793529066,
-        4000
+        1793529363,
+        4021
       ],
       "peak24h": [
         1793479865,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793356277,
-          2684
-        ],
         [
           1793356576,
           2773
@@ -2336,6 +2332,10 @@
         [
           1793529066,
           4000
+        ],
+        [
+          1793529363,
+          4021
         ]
       ],
       "hourlyPeak": [
