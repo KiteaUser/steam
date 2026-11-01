@@ -3,16 +3,16 @@
   "appid": "597820",
   "steamAppid": 597820,
   "name": "BIOMUTANT",
-  "players": 65,
+  "players": 77,
   "allTimePeak": 55048,
-  "peak24h": 71,
-  "peak24hAt": "2026-11-01T18:21:02.000Z",
-  "updatedAt": "2026-11-01T19:31:15.948Z",
+  "peak24h": 77,
+  "peak24hAt": "2026-11-01T19:35:55.000Z",
+  "updatedAt": "2026-11-01T19:35:55.893Z",
   "img_url": "2024/12/mixcollage-05-dec-2024-07-24-pm-9248.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-01T19:31:15.948Z",
-    "updatedAtTs": 1793561475,
+    "updatedAt": "2026-11-01T19:35:55.893Z",
+    "updatedAtTs": 1793561755,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793561475,
-        65
+        1793561755,
+        77
       ],
       "peak24h": [
-        1793557262,
-        71
+        1793561755,
+        77
       ],
       "peak48h": [
-        1793557262,
-        71
+        1793561755,
+        77
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793388700,
-          52
-        ],
         [
           1793388967,
           52
@@ -2344,6 +2340,10 @@
         [
           1793561475,
           65
+        ],
+        [
+          1793561755,
+          77
         ]
       ],
       "hourlyPeak": [
@@ -4973,7 +4973,7 @@
         ],
         [
           1793386800,
-          51
+          52
         ]
       ],
       "dailyPeak": [
@@ -5518,6 +5518,6 @@
       ]
     }
   },
-  "peak48h": 71,
-  "peak48hAt": "2026-11-01T18:21:02.000Z"
+  "peak48h": 77,
+  "peak48hAt": "2026-11-01T19:35:55.000Z"
 }
