@@ -3,16 +3,16 @@
   "appid": "2640950",
   "steamAppid": 2640950,
   "name": "Scott Pilgrim EX",
-  "players": 10,
+  "players": 15,
   "allTimePeak": 245,
-  "peak24h": 14,
-  "peak24hAt": "2026-10-31T21:51:09.000Z",
-  "updatedAt": "2026-11-01T20:41:06.335Z",
+  "peak24h": 15,
+  "peak24hAt": "2026-11-01T20:46:03.000Z",
+  "updatedAt": "2026-11-01T20:46:03.513Z",
   "img_url": "2025/06/scott-pilgrim-ex-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-01T20:41:06.335Z",
-    "updatedAtTs": 1793565666,
+    "updatedAt": "2026-11-01T20:46:03.513Z",
+    "updatedAtTs": 1793565963,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,12 +23,12 @@
     },
     "summary": {
       "current": [
-        1793565666,
-        10
+        1793565963,
+        15
       ],
       "peak24h": [
-        1793483469,
-        14
+        1793565963,
+        15
       ],
       "peak48h": [
         1793415353,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793392869,
-          5
-        ],
         [
           1793393179,
           5
@@ -2256,6 +2252,10 @@
         [
           1793565666,
           10
+        ],
+        [
+          1793565963,
+          15
         ]
       ],
       "hourlyPeak": [
