@@ -3,16 +3,16 @@
   "appid": "1217060",
   "steamAppid": 1217060,
   "name": "Gunfire Reborn",
-  "players": 806,
+  "players": 832,
   "allTimePeak": 35263,
   "peak24h": 1715,
   "peak24hAt": "2026-10-31T14:26:00.000Z",
-  "updatedAt": "2026-11-01T01:31:06.880Z",
+  "updatedAt": "2026-11-01T01:36:00.964Z",
   "img_url": "2024/12/mixcollage-11-dec-2024-11-42-am-198.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-01T01:31:06.880Z",
-    "updatedAtTs": 1793496666,
+    "updatedAt": "2026-11-01T01:36:00.964Z",
+    "updatedAtTs": 1793496960,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1793496666,
-        806
+        1793496960,
+        832
       ],
       "peak24h": [
         1793456760,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793323872,
-          655
-        ],
-        [
-          1793324155,
-          668
-        ],
         [
           1793324474,
           668
@@ -2336,6 +2328,10 @@
         [
           1793496666,
           806
+        ],
+        [
+          1793496960,
+          832
         ]
       ],
       "hourlyPeak": [
@@ -4965,7 +4961,7 @@
         ],
         [
           1793322000,
-          655
+          668
         ]
       ],
       "dailyPeak": [
