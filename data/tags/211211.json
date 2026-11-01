@@ -3,16 +3,16 @@
   "appid": "780310",
   "steamAppid": 780310,
   "name": "The Riftbreaker",
-  "players": 999,
+  "players": 1016,
   "allTimePeak": 21741,
   "peak24h": 1287,
   "peak24hAt": "2026-10-31T14:11:02.000Z",
-  "updatedAt": "2026-11-01T11:11:02.877Z",
+  "updatedAt": "2026-11-01T11:16:00.227Z",
   "img_url": "2024/12/mixcollage-14-dec-2024-08-04-pm-2417.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-01T11:11:02.877Z",
-    "updatedAtTs": 1793531462,
+    "updatedAt": "2026-11-01T11:16:00.227Z",
+    "updatedAtTs": 1793531760,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1793531462,
-        999
+        1793531760,
+        1016
       ],
       "peak24h": [
         1793455862,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793358668,
-          537
-        ],
         [
           1793358970,
           546
@@ -2328,6 +2324,10 @@
         [
           1793531462,
           999
+        ],
+        [
+          1793531760,
+          1016
         ]
       ],
       "hourlyPeak": [
