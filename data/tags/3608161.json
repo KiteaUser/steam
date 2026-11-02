@@ -7,12 +7,12 @@
   "allTimePeak": 20421,
   "peak24h": 1727,
   "peak24hAt": "2026-11-02T03:21:04.000Z",
-  "updatedAt": "2026-11-02T03:46:03.927Z",
+  "updatedAt": "2026-11-02T03:51:05.026Z",
   "img_url": "2026/02/super-battle-golf-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-02T03:46:03.927Z",
-    "updatedAtTs": 1793591163,
+    "updatedAt": "2026-11-02T03:51:05.026Z",
+    "updatedAtTs": 1793591465,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,7 +23,7 @@
     },
     "summary": {
       "current": [
-        1793591163,
+        1793591465,
         1670
       ],
       "peak24h": [
@@ -31,8 +31,8 @@
         1727
       ],
       "peak48h": [
-        1793418663,
-        1767
+        1793418962,
+        1758
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793418663,
-          1767
-        ],
         [
           1793418962,
           1758
@@ -2339,6 +2335,10 @@
         ],
         [
           1793591163,
+          1670
+        ],
+        [
+          1793591465,
           1670
         ]
       ],
@@ -5258,6 +5258,6 @@
       ]
     }
   },
-  "peak48h": 1767,
-  "peak48hAt": "2026-10-31T03:51:03.000Z"
+  "peak48h": 1758,
+  "peak48hAt": "2026-10-31T03:56:02.000Z"
 }
