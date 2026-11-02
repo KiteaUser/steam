@@ -3,16 +3,16 @@
   "appid": "611500",
   "steamAppid": 611500,
   "name": "Quake Champions",
-  "players": 64,
+  "players": 56,
   "allTimePeak": 17476,
   "peak24h": 340,
   "peak24hAt": "2026-11-01T18:21:02.000Z",
-  "updatedAt": "2026-11-02T06:01:26.605Z",
+  "updatedAt": "2026-11-02T06:05:59.259Z",
   "img_url": "2024/12/mixcollage-10-dec-2024-12-27-pm-628.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-02T06:01:26.605Z",
-    "updatedAtTs": 1793599286,
+    "updatedAt": "2026-11-02T06:05:59.259Z",
+    "updatedAtTs": 1793599559,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1793599286,
-        64
+        1793599559,
+        56
       ],
       "peak24h": [
         1793557262,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793426487,
-          82
-        ],
-        [
-          1793426751,
-          80
-        ],
         [
           1793427072,
           81
@@ -2344,6 +2336,10 @@
         [
           1793599286,
           64
+        ],
+        [
+          1793599559,
+          56
         ]
       ],
       "hourlyPeak": [
@@ -4970,6 +4966,10 @@
         [
           1793422800,
           79
+        ],
+        [
+          1793426400,
+          82
         ]
       ],
       "dailyPeak": [
