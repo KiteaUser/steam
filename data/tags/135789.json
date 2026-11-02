@@ -5,14 +5,14 @@
   "name": "Grounded",
   "players": 1675,
   "allTimePeak": 32012,
-  "peak24h": 2484,
-  "peak24hAt": "2026-11-01T16:45:59.000Z",
-  "updatedAt": "2026-11-02T16:41:11.384Z",
+  "peak24h": 2448,
+  "peak24hAt": "2026-11-01T20:01:21.000Z",
+  "updatedAt": "2026-11-02T16:46:12.154Z",
   "img_url": "2022/09/GROUNDED.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-02T16:41:11.384Z",
-    "updatedAtTs": 1793637671,
+    "updatedAt": "2026-11-02T16:46:12.154Z",
+    "updatedAtTs": 1793637972,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,12 +23,12 @@
     },
     "summary": {
       "current": [
-        1793637671,
+        1793637972,
         1675
       ],
       "peak24h": [
-        1793551559,
-        2484
+        1793563281,
+        2448
       ],
       "peak48h": [
         1793543751,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793465165,
-          2341
-        ],
         [
           1793465464,
           2341
@@ -2343,6 +2339,10 @@
         ],
         [
           1793637671,
+          1675
+        ],
+        [
+          1793637972,
           1675
         ]
       ],
