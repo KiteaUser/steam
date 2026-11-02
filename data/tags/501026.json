@@ -3,16 +3,16 @@
   "appid": "3595270",
   "steamAppid": 3595270,
   "name": "Call of Duty: Modern Warfare III",
-  "players": 4003,
+  "players": 3975,
   "allTimePeak": 14716,
-  "peak24h": 4659,
-  "peak24hAt": "2026-11-01T14:11:02.000Z",
-  "updatedAt": "2026-11-02T14:06:05.343Z",
+  "peak24h": 4613,
+  "peak24hAt": "2026-11-01T14:16:11.000Z",
+  "updatedAt": "2026-11-02T14:11:06.339Z",
   "img_url": "2024/12/mixcollage-24-dec-2024-11-06-pm-3846.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-02T14:06:05.343Z",
-    "updatedAtTs": 1793628365,
+    "updatedAt": "2026-11-02T14:11:06.339Z",
+    "updatedAtTs": 1793628666,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1793628365,
-        4003
+        1793628666,
+        3975
       ],
       "peak24h": [
-        1793542262,
-        4659
+        1793542571,
+        4613
       ],
       "peak48h": [
-        1793455862,
+        1793456162,
         4739
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793455862,
-          4739
-        ],
         [
           1793456162,
           4739
@@ -2344,6 +2340,10 @@
         [
           1793628365,
           4003
+        ],
+        [
+          1793628666,
+          3975
         ]
       ],
       "hourlyPeak": [
@@ -5291,5 +5291,5 @@
     }
   },
   "peak48h": 4739,
-  "peak48hAt": "2026-10-31T14:11:02.000Z"
+  "peak48hAt": "2026-10-31T14:16:02.000Z"
 }
