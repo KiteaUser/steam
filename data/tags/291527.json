@@ -3,16 +3,16 @@
   "appid": "504230",
   "steamAppid": 504230,
   "name": "Celeste",
-  "players": 1845,
+  "players": 1885,
   "allTimePeak": 7782,
   "peak24h": 2193,
   "peak24hAt": "2026-11-01T16:25:58.000Z",
-  "updatedAt": "2026-11-02T16:16:18.273Z",
+  "updatedAt": "2026-11-02T16:21:19.211Z",
   "img_url": "2024/11/mixcollage-27-nov-2024-02-06-am-9878.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-02T16:16:18.273Z",
-    "updatedAtTs": 1793636178,
+    "updatedAt": "2026-11-02T16:21:19.211Z",
+    "updatedAtTs": 1793636479,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1793636178,
-        1845
+        1793636479,
+        1885
       ],
       "peak24h": [
         1793550358,
         2193
       ],
       "peak48h": [
-        1793463668,
+        1793463972,
         2403
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793463668,
-          2403
-        ],
         [
           1793463972,
           2403
@@ -2344,6 +2340,10 @@
         [
           1793636178,
           1845
+        ],
+        [
+          1793636479,
+          1885
         ]
       ],
       "hourlyPeak": [
@@ -5687,5 +5687,5 @@
     }
   },
   "peak48h": 2403,
-  "peak48hAt": "2026-10-31T16:21:08.000Z"
+  "peak48hAt": "2026-10-31T16:26:12.000Z"
 }
