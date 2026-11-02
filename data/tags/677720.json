@@ -3,16 +3,16 @@
   "appid": "3010850",
   "steamAppid": 3010850,
   "name": "Gears of War: E-Day",
-  "players": 7706,
+  "players": 7518,
   "allTimePeak": 31499,
   "peak24h": 7883,
   "peak24hAt": "2026-11-02T01:51:00.000Z",
-  "updatedAt": "2026-11-02T02:55:59.969Z",
+  "updatedAt": "2026-11-02T03:01:40.359Z",
   "img_url": "2026/06/gears-of-war-e-day-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-02T02:55:59.969Z",
-    "updatedAtTs": 1793588159,
+    "updatedAt": "2026-11-02T03:01:40.359Z",
+    "updatedAtTs": 1793588500,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793588159,
-        7706
+        1793588500,
+        7518
       ],
       "peak24h": [
         1793584260,
         7883
       ],
       "peak48h": [
-        1793415687,
-        8078
+        1793415955,
+        8075
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793415687,
-          8078
-        ],
         [
           1793415955,
           8075
@@ -2344,6 +2340,10 @@
         [
           1793588159,
           7706
+        ],
+        [
+          1793588500,
+          7518
         ]
       ],
       "hourlyPeak": [
@@ -4638,12 +4638,16 @@
         [
           1793412000,
           8060
+        ],
+        [
+          1793415600,
+          8078
         ]
       ],
       "dailyPeak": [],
       "monthlyPeak": []
     }
   },
-  "peak48h": 8078,
-  "peak48hAt": "2026-10-31T03:01:27.000Z"
+  "peak48h": 8075,
+  "peak48hAt": "2026-10-31T03:05:55.000Z"
 }
