@@ -6,13 +6,13 @@
   "players": 8835,
   "allTimePeak": 27406,
   "peak24h": 9799,
-  "peak24hAt": "2026-11-01T16:56:07.000Z",
-  "updatedAt": "2026-11-02T16:51:18.008Z",
+  "peak24hAt": "2026-11-01T17:05:55.000Z",
+  "updatedAt": "2026-11-02T16:56:08.097Z",
   "img_url": "2025/03/torchlight-infinite-cover.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-02T16:51:18.008Z",
-    "updatedAtTs": 1793638278,
+    "updatedAt": "2026-11-02T16:56:08.097Z",
+    "updatedAtTs": 1793638568,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,11 +23,11 @@
     },
     "summary": {
       "current": [
-        1793638278,
+        1793638568,
         8835
       ],
       "peak24h": [
-        1793552167,
+        1793552755,
         9799
       ],
       "peak48h": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793465759,
-          10897
-        ],
         [
           1793466080,
           10787
@@ -2343,6 +2339,10 @@
         ],
         [
           1793638278,
+          8835
+        ],
+        [
+          1793638568,
           8835
         ]
       ],
