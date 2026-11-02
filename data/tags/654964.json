@@ -5,14 +5,14 @@
   "name": "Infection Free Zone",
   "players": 1081,
   "allTimePeak": 19380,
-  "peak24h": 1257,
-  "peak24hAt": "2026-11-01T20:35:55.000Z",
-  "updatedAt": "2026-11-02T20:31:20.379Z",
+  "peak24h": 1255,
+  "peak24hAt": "2026-11-01T20:46:03.000Z",
+  "updatedAt": "2026-11-02T20:35:58.700Z",
   "img_url": "2024/12/mixcollage-03-dec-2024-08-48-pm-2658.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-02T20:31:20.379Z",
-    "updatedAtTs": 1793651480,
+    "updatedAt": "2026-11-02T20:35:58.700Z",
+    "updatedAtTs": 1793651758,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,12 +23,12 @@
     },
     "summary": {
       "current": [
-        1793651480,
+        1793651758,
         1081
       ],
       "peak24h": [
-        1793565355,
-        1257
+        1793565963,
+        1255
       ],
       "peak48h": [
         1793547961,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793478687,
-          1151
-        ],
         [
           1793478964,
           1151
@@ -2347,6 +2343,10 @@
         ],
         [
           1793651480,
+          1081
+        ],
+        [
+          1793651758,
           1081
         ]
       ],
