@@ -3,16 +3,16 @@
   "appid": "214490",
   "steamAppid": 214490,
   "name": "Alien: Isolation",
-  "players": 643,
+  "players": 625,
   "allTimePeak": 10870,
   "peak24h": 727,
   "peak24hAt": "2026-11-01T22:16:00.000Z",
-  "updatedAt": "2026-11-02T21:41:18.599Z",
+  "updatedAt": "2026-11-02T21:46:10.309Z",
   "img_url": "2024/12/mixcollage-05-dec-2024-05-47-am-6842.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-02T21:41:18.599Z",
-    "updatedAtTs": 1793655678,
+    "updatedAt": "2026-11-02T21:46:10.309Z",
+    "updatedAtTs": 1793655970,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793655678,
-        643
+        1793655970,
+        625
       ],
       "peak24h": [
         1793571360,
         727
       ],
       "peak48h": [
-        1793483165,
-        958
+        1793484659,
+        924
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793483165,
-          958
-        ],
         [
           1793483469,
           919
@@ -2344,6 +2340,10 @@
         [
           1793655678,
           643
+        ],
+        [
+          1793655970,
+          625
         ]
       ],
       "hourlyPeak": [
@@ -5806,6 +5806,6 @@
       ]
     }
   },
-  "peak48h": 958,
-  "peak48hAt": "2026-10-31T21:46:05.000Z"
+  "peak48h": 924,
+  "peak48hAt": "2026-10-31T22:10:59.000Z"
 }
