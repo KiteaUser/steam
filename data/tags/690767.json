@@ -3,16 +3,16 @@
   "appid": "1818450",
   "steamAppid": 1818450,
   "name": "STALCRAFT: X",
-  "players": 16535,
+  "players": 16643,
   "allTimePeak": 40311,
   "peak24h": 18545,
   "peak24hAt": "2026-11-02T17:21:03.000Z",
-  "updatedAt": "2026-11-02T18:51:15.039Z",
+  "updatedAt": "2026-11-02T18:56:01.370Z",
   "img_url": "2024/11/mixcollage-23-nov-2024-09-34-am-858.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-02T18:51:15.039Z",
-    "updatedAtTs": 1793645475,
+    "updatedAt": "2026-11-02T18:56:01.370Z",
+    "updatedAtTs": 1793645761,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793645475,
-        16535
+        1793645761,
+        16643
       ],
       "peak24h": [
         1793640063,
         18545
       ],
       "peak48h": [
-        1793472952,
-        20178
+        1793553366,
+        19992
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793472952,
-          20178
-        ],
         [
           1793473276,
           19569
@@ -2344,6 +2340,10 @@
         [
           1793645475,
           16535
+        ],
+        [
+          1793645761,
+          16643
         ]
       ],
       "hourlyPeak": [
@@ -5414,6 +5414,6 @@
       ]
     }
   },
-  "peak48h": 20178,
-  "peak48hAt": "2026-10-31T18:55:52.000Z"
+  "peak48h": 19992,
+  "peak48hAt": "2026-11-01T17:16:06.000Z"
 }
