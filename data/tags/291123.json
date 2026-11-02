@@ -3,16 +3,16 @@
   "appid": "447040",
   "steamAppid": 447040,
   "name": "WatchDogs 2",
-  "players": 2519,
+  "players": 2526,
   "allTimePeak": 18138,
   "peak24h": 3051,
   "peak24hAt": "2026-11-01T14:56:03.000Z",
-  "updatedAt": "2026-11-02T14:46:17.397Z",
+  "updatedAt": "2026-11-02T14:51:24.842Z",
   "img_url": "2024/12/mixcollage-04-dec-2024-07-11-am-1048.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-02T14:46:17.397Z",
-    "updatedAtTs": 1793630777,
+    "updatedAt": "2026-11-02T14:51:24.842Z",
+    "updatedAtTs": 1793631084,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793630777,
-        2519
+        1793631084,
+        2526
       ],
       "peak24h": [
         1793544963,
         3051
       ],
       "peak48h": [
-        1793458265,
-        3535
+        1793458887,
+        3484
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793458265,
-          3535
-        ],
         [
           1793458569,
           3476
@@ -2344,6 +2340,10 @@
         [
           1793630777,
           2519
+        ],
+        [
+          1793631084,
+          2526
         ]
       ],
       "hourlyPeak": [
@@ -5706,6 +5706,6 @@
       ]
     }
   },
-  "peak48h": 3535,
-  "peak48hAt": "2026-10-31T14:51:05.000Z"
+  "peak48h": 3484,
+  "peak48hAt": "2026-10-31T15:01:27.000Z"
 }
