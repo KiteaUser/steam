@@ -3,16 +3,16 @@
   "appid": "359320",
   "steamAppid": 359320,
   "name": "Elite Dangerous",
-  "players": 5232,
+  "players": 5174,
   "allTimePeak": 28923,
-  "peak24h": 6130,
-  "peak24hAt": "2026-11-01T22:31:12.000Z",
-  "updatedAt": "2026-11-02T22:26:07.130Z",
+  "peak24h": 6060,
+  "peak24hAt": "2026-11-01T22:36:06.000Z",
+  "updatedAt": "2026-11-02T22:31:17.344Z",
   "img_url": "2024/12/mixcollage-10-dec-2024-02-41-pm-1768.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-02T22:26:07.130Z",
-    "updatedAtTs": 1793658367,
+    "updatedAt": "2026-11-02T22:31:17.344Z",
+    "updatedAtTs": 1793658677,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,12 +23,12 @@
     },
     "summary": {
       "current": [
-        1793658367,
-        5232
+        1793658677,
+        5174
       ],
       "peak24h": [
-        1793572272,
-        6130
+        1793572566,
+        6060
       ],
       "peak48h": [
         1793562372,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793485876,
-          6468
-        ],
         [
           1793486158,
           6391
@@ -2344,6 +2340,10 @@
         [
           1793658367,
           5232
+        ],
+        [
+          1793658677,
+          5174
         ]
       ],
       "hourlyPeak": [
