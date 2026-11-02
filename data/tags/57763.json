@@ -3,16 +3,16 @@
   "appid": "281990",
   "steamAppid": 281990,
   "name": "Stellaris",
-  "players": 11200,
+  "players": 10974,
   "allTimePeak": 68602,
   "peak24h": 15232,
   "peak24hAt": "2026-11-01T15:36:04.000Z",
-  "updatedAt": "2026-11-02T15:31:19.963Z",
+  "updatedAt": "2026-11-02T15:36:02.608Z",
   "img_url": "2024/12/mixcollage-04-dec-2024-06-49-pm-9059.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-02T15:31:19.963Z",
-    "updatedAtTs": 1793633479,
+    "updatedAt": "2026-11-02T15:36:02.608Z",
+    "updatedAtTs": 1793633762,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1793633479,
-        11200
+        1793633762,
+        10974
       ],
       "peak24h": [
         1793547364,
         15232
       ],
       "peak48h": [
-        1793460952,
+        1793461256,
         15944
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793460952,
-          15944
-        ],
         [
           1793461256,
           15944
@@ -2344,6 +2340,10 @@
         [
           1793633479,
           11200
+        ],
+        [
+          1793633762,
+          10974
         ]
       ],
       "hourlyPeak": [
@@ -5767,5 +5767,5 @@
     }
   },
   "peak48h": 15944,
-  "peak48hAt": "2026-10-31T15:35:52.000Z"
+  "peak48hAt": "2026-10-31T15:40:56.000Z"
 }

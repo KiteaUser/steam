@@ -3,16 +3,16 @@
   "appid": "601510",
   "steamAppid": 601510,
   "name": "Yu-Gi-Oh Duel Links",
-  "players": 2375,
+  "players": 2353,
   "allTimePeak": 21520,
   "peak24h": 2438,
   "peak24hAt": "2026-11-01T15:40:57.000Z",
-  "updatedAt": "2026-11-02T15:31:19.963Z",
+  "updatedAt": "2026-11-02T15:36:02.608Z",
   "img_url": "2024/12/mixcollage-13-dec-2024-10-52-am-6888.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-02T15:31:19.963Z",
-    "updatedAtTs": 1793633479,
+    "updatedAt": "2026-11-02T15:36:02.608Z",
+    "updatedAtTs": 1793633762,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793633479,
-        2375
+        1793633762,
+        2353
       ],
       "peak24h": [
         1793547657,
         2438
       ],
       "peak48h": [
-        1793460952,
-        2553
+        1793461256,
+        2535
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793460952,
-          2553
-        ],
         [
           1793461256,
           2535
@@ -2344,6 +2340,10 @@
         [
           1793633479,
           2375
+        ],
+        [
+          1793633762,
+          2353
         ]
       ],
       "hourlyPeak": [
@@ -5658,6 +5658,6 @@
       ]
     }
   },
-  "peak48h": 2553,
-  "peak48hAt": "2026-10-31T15:35:52.000Z"
+  "peak48h": 2535,
+  "peak48hAt": "2026-10-31T15:40:56.000Z"
 }

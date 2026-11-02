@@ -3,16 +3,16 @@
   "appid": "1282270",
   "steamAppid": 1282270,
   "name": "Strinova",
-  "players": 1916,
+  "players": 1886,
   "allTimePeak": 38043,
   "peak24h": 2078,
   "peak24hAt": "2026-11-01T15:36:04.000Z",
-  "updatedAt": "2026-11-02T15:31:19.963Z",
+  "updatedAt": "2026-11-02T15:36:02.608Z",
   "img_url": "2024/12/mixcollage-15-dec-2024-03-35-pm-7394.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-02T15:31:19.963Z",
-    "updatedAtTs": 1793633479,
+    "updatedAt": "2026-11-02T15:36:02.608Z",
+    "updatedAtTs": 1793633762,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793633479,
-        1916
+        1793633762,
+        1886
       ],
       "peak24h": [
         1793547364,
         2078
       ],
       "peak48h": [
-        1793460952,
-        2223
+        1793461256,
+        2177
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793460952,
-          2223
-        ],
         [
           1793461256,
           2177
@@ -2344,6 +2340,10 @@
         [
           1793633479,
           1916
+        ],
+        [
+          1793633762,
+          1886
         ]
       ],
       "hourlyPeak": [
@@ -5322,6 +5322,6 @@
       ]
     }
   },
-  "peak48h": 2223,
-  "peak48hAt": "2026-10-31T15:35:52.000Z"
+  "peak48h": 2177,
+  "peak48hAt": "2026-10-31T15:40:56.000Z"
 }
