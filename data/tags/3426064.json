@@ -3,16 +3,16 @@
   "appid": "2104890",
   "steamAppid": 2104890,
   "name": "RoadCraft",
-  "players": 1215,
+  "players": 1183,
   "allTimePeak": 33761,
-  "peak24h": 1484,
-  "peak24hAt": "2026-11-01T21:16:10.000Z",
-  "updatedAt": "2026-11-02T21:11:13.914Z",
+  "peak24h": 1426,
+  "peak24hAt": "2026-11-01T21:21:02.000Z",
+  "updatedAt": "2026-11-02T21:16:14.623Z",
   "img_url": "2025/04/roadcraft-tag-image.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-02T21:11:13.914Z",
-    "updatedAtTs": 1793653873,
+    "updatedAt": "2026-11-02T21:16:14.623Z",
+    "updatedAtTs": 1793654174,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,12 +23,12 @@
     },
     "summary": {
       "current": [
-        1793653873,
-        1215
+        1793654174,
+        1183
       ],
       "peak24h": [
-        1793567770,
-        1484
+        1793568062,
+        1426
       ],
       "peak48h": [
         1793550964,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793481372,
-          1462
-        ],
         [
           1793481661,
           1442
@@ -2344,6 +2340,10 @@
         [
           1793653873,
           1215
+        ],
+        [
+          1793654174,
+          1183
         ]
       ],
       "hourlyPeak": [
