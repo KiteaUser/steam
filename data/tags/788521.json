@@ -3,16 +3,16 @@
   "appid": "3097560",
   "steamAppid": 3097560,
   "name": "Liar's Bar",
-  "players": 708,
+  "players": 737,
   "allTimePeak": 113798,
   "peak24h": 830,
   "peak24hAt": "2026-11-01T20:10:55.000Z",
-  "updatedAt": "2026-11-02T15:36:02.608Z",
+  "updatedAt": "2026-11-02T15:41:16.547Z",
   "img_url": "2024/12/mixcollage-15-dec-2024-08-41-am-5588.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-02T15:36:02.608Z",
-    "updatedAtTs": 1793633762,
+    "updatedAt": "2026-11-02T15:41:16.547Z",
+    "updatedAtTs": 1793634076,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793633762,
-        708
+        1793634076,
+        737
       ],
       "peak24h": [
         1793563855,
         830
       ],
       "peak48h": [
-        1793461256,
-        987
+        1793461568,
+        979
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793461256,
-          987
-        ],
         [
           1793461568,
           979
@@ -2344,6 +2340,10 @@
         [
           1793633762,
           708
+        ],
+        [
+          1793634076,
+          737
         ]
       ],
       "hourlyPeak": [
@@ -5326,6 +5326,6 @@
       ]
     }
   },
-  "peak48h": 987,
-  "peak48hAt": "2026-10-31T15:40:56.000Z"
+  "peak48h": 979,
+  "peak48hAt": "2026-10-31T15:46:08.000Z"
 }
