@@ -3,16 +3,16 @@
   "appid": "1158160",
   "steamAppid": 1158160,
   "name": "Coral Island",
-  "players": 1873,
+  "players": 1801,
   "allTimePeak": 15418,
-  "peak24h": 2590,
-  "peak24hAt": "2026-11-01T22:10:59.000Z",
-  "updatedAt": "2026-11-02T22:06:05.068Z",
+  "peak24h": 2556,
+  "peak24hAt": "2026-11-01T22:21:05.000Z",
+  "updatedAt": "2026-11-02T22:11:00.919Z",
   "img_url": "2024/12/mixcollage-04-dec-2024-07-34-am-7593.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-02T22:06:05.068Z",
-    "updatedAtTs": 1793657165,
+    "updatedAt": "2026-11-02T22:11:00.919Z",
+    "updatedAtTs": 1793657460,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,12 +23,12 @@
     },
     "summary": {
       "current": [
-        1793657165,
-        1873
+        1793657460,
+        1801
       ],
       "peak24h": [
-        1793571059,
-        2590
+        1793571665,
+        2556
       ],
       "peak48h": [
         1793565073,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793484659,
-          1989
-        ],
         [
           1793484972,
           1956
@@ -2344,6 +2340,10 @@
         [
           1793657165,
           1873
+        ],
+        [
+          1793657460,
+          1801
         ]
       ],
       "hourlyPeak": [
