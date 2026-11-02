@@ -3,16 +3,16 @@
   "appid": "342940",
   "steamAppid": 342940,
   "name": "Project: Gorgon",
-  "players": 266,
+  "players": 265,
   "allTimePeak": 4126,
   "peak24h": 462,
   "peak24hAt": "2026-11-01T21:35:59.000Z",
-  "updatedAt": "2026-11-02T18:25:59.566Z",
+  "updatedAt": "2026-11-02T18:31:36.558Z",
   "img_url": "2025/02/mixcollage-24-feb-2025-12-19-am-6125.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-02T18:25:59.566Z",
-    "updatedAtTs": 1793643959,
+    "updatedAt": "2026-11-02T18:31:36.558Z",
+    "updatedAtTs": 1793644296,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793643959,
-        266
+        1793644296,
+        265
       ],
       "peak24h": [
         1793568959,
         462
       ],
       "peak48h": [
-        1793471474,
-        502
+        1793471755,
+        488
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793471474,
-          502
-        ],
         [
           1793471755,
           488
@@ -2344,6 +2340,10 @@
         [
           1793643959,
           266
+        ],
+        [
+          1793644296,
+          265
         ]
       ],
       "hourlyPeak": [
@@ -4973,7 +4973,7 @@
         ],
         [
           1793469600,
-          499
+          502
         ]
       ],
       "dailyPeak": [
@@ -5642,6 +5642,6 @@
       ]
     }
   },
-  "peak48h": 502,
-  "peak48hAt": "2026-10-31T18:31:14.000Z"
+  "peak48h": 488,
+  "peak48hAt": "2026-10-31T18:35:55.000Z"
 }
