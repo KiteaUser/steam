@@ -3,16 +3,16 @@
   "appid": "238090",
   "steamAppid": 238090,
   "name": "Sniper Elite 3",
-  "players": 206,
+  "players": 200,
   "allTimePeak": 10861,
   "peak24h": 259,
   "peak24hAt": "2026-11-01T17:25:59.000Z",
-  "updatedAt": "2026-11-02T17:05:59.177Z",
+  "updatedAt": "2026-11-02T17:11:06.645Z",
   "img_url": "2025/02/sniper-elite-3-tag-cover.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-02T17:05:59.177Z",
-    "updatedAtTs": 1793639159,
+    "updatedAt": "2026-11-02T17:11:06.645Z",
+    "updatedAtTs": 1793639466,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1793639159,
-        206
+        1793639466,
+        200
       ],
       "peak24h": [
         1793553959,
         259
       ],
       "peak48h": [
-        1793466360,
+        1793466961,
         277
       ],
       "allTimePeak": [
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793466360,
-          277
-        ],
-        [
-          1793466661,
-          277
-        ],
         [
           1793466961,
           277
@@ -2348,6 +2340,10 @@
         [
           1793639159,
           206
+        ],
+        [
+          1793639466,
+          200
         ]
       ],
       "hourlyPeak": [
@@ -5831,5 +5827,5 @@
     }
   },
   "peak48h": 277,
-  "peak48hAt": "2026-10-31T17:06:00.000Z"
+  "peak48hAt": "2026-10-31T17:16:01.000Z"
 }
