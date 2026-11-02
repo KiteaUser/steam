@@ -5,14 +5,14 @@
   "name": "Prey",
   "players": 360,
   "allTimePeak": 24594,
-  "peak24h": 440,
-  "peak24hAt": "2026-11-01T23:01:25.000Z",
-  "updatedAt": "2026-11-02T23:01:24.260Z",
+  "peak24h": 432,
+  "peak24hAt": "2026-11-01T23:11:01.000Z",
+  "updatedAt": "2026-11-02T23:06:11.250Z",
   "img_url": "2025/01/mixcollage-07-jan-2025-08-48-am-2419.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-02T23:01:24.260Z",
-    "updatedAtTs": 1793660484,
+    "updatedAt": "2026-11-02T23:06:11.250Z",
+    "updatedAtTs": 1793660771,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,12 +23,12 @@
     },
     "summary": {
       "current": [
-        1793660484,
+        1793660771,
         360
       ],
       "peak24h": [
-        1793574085,
-        440
+        1793574661,
+        432
       ],
       "peak48h": [
         1793560265,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793487963,
-          401
-        ],
         [
           1793488255,
           401
@@ -2343,6 +2339,10 @@
         ],
         [
           1793660484,
+          360
+        ],
+        [
+          1793660771,
           360
         ]
       ],
