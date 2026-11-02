@@ -5,14 +5,14 @@
   "name": "VEIN",
   "players": 945,
   "allTimePeak": 11073,
-  "peak24h": 1364,
-  "peak24hAt": "2026-11-01T23:16:01.000Z",
-  "updatedAt": "2026-11-02T23:11:17.247Z",
+  "peak24h": 1362,
+  "peak24hAt": "2026-11-01T23:21:04.000Z",
+  "updatedAt": "2026-11-02T23:16:13.105Z",
   "img_url": "2025/11/vein-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-02T23:11:17.247Z",
-    "updatedAtTs": 1793661077,
+    "updatedAt": "2026-11-02T23:16:13.105Z",
+    "updatedAtTs": 1793661373,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,12 +23,12 @@
     },
     "summary": {
       "current": [
-        1793661077,
+        1793661373,
         945
       ],
       "peak24h": [
-        1793574961,
-        1364
+        1793575264,
+        1362
       ],
       "peak48h": [
         1793565073,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793488565,
-          1272
-        ],
         [
           1793488864,
           1272
@@ -2343,6 +2339,10 @@
         ],
         [
           1793661077,
+          945
+        ],
+        [
+          1793661373,
           945
         ]
       ],
