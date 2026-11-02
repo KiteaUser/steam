@@ -6,13 +6,13 @@
   "players": 23,
   "allTimePeak": 1554,
   "peak24h": 35,
-  "peak24hAt": "2026-11-01T20:05:53.000Z",
-  "updatedAt": "2026-11-02T20:01:29.855Z",
+  "peak24hAt": "2026-11-01T20:10:55.000Z",
+  "updatedAt": "2026-11-02T20:06:05.799Z",
   "img_url": "2024/12/shenmue-2-cover.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-02T20:01:29.855Z",
-    "updatedAtTs": 1793649689,
+    "updatedAt": "2026-11-02T20:06:05.799Z",
+    "updatedAtTs": 1793649965,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,11 +23,11 @@
     },
     "summary": {
       "current": [
-        1793649689,
+        1793649965,
         23
       ],
       "peak24h": [
-        1793563553,
+        1793563855,
         35
       ],
       "peak48h": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793477162,
-          21
-        ],
         [
           1793477462,
           23
@@ -2343,6 +2339,10 @@
         ],
         [
           1793649689,
+          23
+        ],
+        [
+          1793649965,
           23
         ]
       ],
