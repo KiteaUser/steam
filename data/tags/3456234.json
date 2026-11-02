@@ -3,16 +3,16 @@
   "appid": "270550",
   "steamAppid": 270550,
   "name": "Yet Another Zombie Defense",
-  "players": 6,
+  "players": 5,
   "allTimePeak": 67959,
   "peak24h": 10,
   "peak24hAt": "2026-11-02T08:01:27.000Z",
-  "updatedAt": "2026-11-02T21:16:14.623Z",
+  "updatedAt": "2026-11-02T21:21:09.868Z",
   "img_url": "2025/07/yet-another-zombie-defense-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-02T21:16:14.623Z",
-    "updatedAtTs": 1793654174,
+    "updatedAt": "2026-11-02T21:21:09.868Z",
+    "updatedAtTs": 1793654469,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1793654174,
-        6
+        1793654469,
+        5
       ],
       "peak24h": [
         1793606487,
         10
       ],
       "peak48h": [
-        1793481661,
+        1793482270,
         11
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793481661,
-          11
-        ],
         [
           1793481951,
           10
@@ -2236,6 +2232,10 @@
         [
           1793654174,
           6
+        ],
+        [
+          1793654469,
+          5
         ]
       ],
       "hourlyPeak": [
@@ -5711,5 +5711,5 @@
     }
   },
   "peak48h": 11,
-  "peak48hAt": "2026-10-31T21:21:01.000Z"
+  "peak48hAt": "2026-10-31T21:31:10.000Z"
 }
