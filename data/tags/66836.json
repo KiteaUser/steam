@@ -3,16 +3,16 @@
   "appid": "703080",
   "steamAppid": 703080,
   "name": "Planet Zoo",
-  "players": 2530,
+  "players": 2525,
   "allTimePeak": 38630,
   "peak24h": 2963,
   "peak24hAt": "2026-11-02T19:35:56.000Z",
-  "updatedAt": "2026-11-03T16:31:26.356Z",
+  "updatedAt": "2026-11-03T16:36:08.758Z",
   "img_url": "2024/12/mixcollage-04-dec-2024-02-17-pm-458.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-03T16:31:26.356Z",
-    "updatedAtTs": 1793723486,
+    "updatedAt": "2026-11-03T16:36:08.758Z",
+    "updatedAtTs": 1793723768,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793723486,
-        2530
+        1793723768,
+        2525
       ],
       "peak24h": [
         1793648156,
         2963
       ],
       "peak48h": [
-        1793550964,
-        4006
+        1793551266,
+        3974
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793550964,
-          4006
-        ],
         [
           1793551266,
           3974
@@ -2328,6 +2324,10 @@
         [
           1793723486,
           2530
+        ],
+        [
+          1793723768,
+          2525
         ]
       ],
       "hourlyPeak": [
@@ -5550,6 +5550,6 @@
       ]
     }
   },
-  "peak48h": 4006,
-  "peak48hAt": "2026-11-01T16:36:04.000Z"
+  "peak48h": 3974,
+  "peak48hAt": "2026-11-01T16:41:06.000Z"
 }
