@@ -3,16 +3,16 @@
   "appid": "294100",
   "steamAppid": 294100,
   "name": "RimWorld",
-  "players": 28337,
+  "players": 28269,
   "allTimePeak": 96040,
   "peak24h": 34571,
   "peak24hAt": "2026-11-03T14:46:02.000Z",
-  "updatedAt": "2026-11-03T19:26:39.468Z",
+  "updatedAt": "2026-11-03T19:31:26.163Z",
   "img_url": "2024/12/mixcollage-09-dec-2024-01-39-am-2290.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-03T19:26:39.468Z",
-    "updatedAtTs": 1793733999,
+    "updatedAt": "2026-11-03T19:31:26.163Z",
+    "updatedAtTs": 1793734286,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1793733999,
-        28337
+        1793734286,
+        28269
       ],
       "peak24h": [
         1793717162,
         34571
       ],
       "peak48h": [
-        1793561475,
+        1793561755,
         35313
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793561475,
-          35313
-        ],
         [
           1793561755,
           35313
@@ -2340,6 +2336,10 @@
         [
           1793733999,
           28337
+        ],
+        [
+          1793734286,
+          28269
         ]
       ],
       "hourlyPeak": [
@@ -5731,5 +5731,5 @@
     }
   },
   "peak48h": 35313,
-  "peak48hAt": "2026-11-01T19:31:15.000Z"
+  "peak48hAt": "2026-11-01T19:35:55.000Z"
 }
