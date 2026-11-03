@@ -3,16 +3,16 @@
   "appid": "602960",
   "steamAppid": 602960,
   "name": "Barotrauma",
-  "players": 4166,
+  "players": 3804,
   "allTimePeak": 19655,
   "peak24h": 4378,
   "peak24hAt": "2026-11-03T14:46:02.000Z",
-  "updatedAt": "2026-11-03T15:36:04.131Z",
+  "updatedAt": "2026-11-03T15:41:43.086Z",
   "img_url": "2024/12/mixcollage-04-dec-2024-03-33-pm-5989.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-03T15:36:04.131Z",
-    "updatedAtTs": 1793720164,
+    "updatedAt": "2026-11-03T15:41:43.086Z",
+    "updatedAtTs": 1793720503,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1793720164,
-        4166
+        1793720503,
+        3804
       ],
       "peak24h": [
         1793717162,
         4378
       ],
       "peak48h": [
-        1793547657,
+        1793547961,
         5421
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793547657,
-          5421
-        ],
         [
           1793547961,
           5421
@@ -2332,6 +2328,10 @@
         [
           1793720164,
           4166
+        ],
+        [
+          1793720503,
+          3804
         ]
       ],
       "hourlyPeak": [
@@ -5575,5 +5575,5 @@
     }
   },
   "peak48h": 5421,
-  "peak48hAt": "2026-11-01T15:40:57.000Z"
+  "peak48hAt": "2026-11-01T15:46:01.000Z"
 }

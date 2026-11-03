@@ -3,16 +3,16 @@
   "appid": "1676840",
   "steamAppid": 1676840,
   "name": "For The King II",
-  "players": 771,
+  "players": 741,
   "allTimePeak": 28528,
   "peak24h": 887,
   "peak24hAt": "2026-11-02T20:26:03.000Z",
-  "updatedAt": "2026-11-03T15:36:04.131Z",
+  "updatedAt": "2026-11-03T15:41:43.086Z",
   "img_url": "2024/11/mixcollage-23-nov-2024-03-42-pm-1525.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-03T15:36:04.131Z",
-    "updatedAtTs": 1793720164,
+    "updatedAt": "2026-11-03T15:41:43.086Z",
+    "updatedAtTs": 1793720503,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1793720164,
-        771
+        1793720503,
+        741
       ],
       "peak24h": [
         1793651163,
         887
       ],
       "peak48h": [
-        1793547657,
+        1793547961,
         1157
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793547657,
-          1157
-        ],
         [
           1793547961,
           1157
@@ -2336,6 +2332,10 @@
         [
           1793720164,
           771
+        ],
+        [
+          1793720503,
+          741
         ]
       ],
       "hourlyPeak": [
@@ -5367,5 +5367,5 @@
     }
   },
   "peak48h": 1157,
-  "peak48hAt": "2026-11-01T15:40:57.000Z"
+  "peak48hAt": "2026-11-01T15:46:01.000Z"
 }
