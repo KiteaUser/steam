@@ -3,16 +3,16 @@
   "appid": "924970",
   "steamAppid": 924970,
   "name": "Back 4 Blood",
-  "players": 1255,
+  "players": 1234,
   "allTimePeak": 65987,
   "peak24h": 1255,
   "peak24hAt": "2026-11-03T14:06:00.000Z",
-  "updatedAt": "2026-11-03T14:06:00.324Z",
+  "updatedAt": "2026-11-03T14:11:18.105Z",
   "img_url": "2024/12/mixcollage-05-dec-2024-07-42-pm-5724.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-03T14:06:00.324Z",
-    "updatedAtTs": 1793714760,
+    "updatedAt": "2026-11-03T14:11:18.105Z",
+    "updatedAtTs": 1793715078,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793714760,
-        1255
+        1793715078,
+        1234
       ],
       "peak24h": [
         1793714760,
         1255
       ],
       "peak48h": [
-        1793541963,
-        1615
+        1793542861,
+        1589
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793541963,
-          1615
-        ],
-        [
-          1793542262,
-          1585
-        ],
         [
           1793542571,
           1581
@@ -2348,6 +2340,10 @@
         [
           1793714760,
           1255
+        ],
+        [
+          1793715078,
+          1234
         ]
       ],
       "hourlyPeak": [
@@ -5478,6 +5474,6 @@
       ]
     }
   },
-  "peak48h": 1615,
-  "peak48hAt": "2026-11-01T14:06:03.000Z"
+  "peak48h": 1589,
+  "peak48hAt": "2026-11-01T14:21:01.000Z"
 }
