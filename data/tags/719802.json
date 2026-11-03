@@ -3,16 +3,16 @@
   "appid": "2709570",
   "steamAppid": 2709570,
   "name": "Supermarket Together",
-  "players": 3683,
+  "players": 3569,
   "allTimePeak": 47836,
   "peak24h": 6997,
   "peak24hAt": "2026-11-02T14:41:05.000Z",
-  "updatedAt": "2026-11-03T10:26:03.253Z",
+  "updatedAt": "2026-11-03T10:31:23.143Z",
   "img_url": "2024/11/mixcollage-29-nov-2024-03-05-am-2650.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-03T10:26:03.253Z",
-    "updatedAtTs": 1793701563,
+    "updatedAt": "2026-11-03T10:31:23.143Z",
+    "updatedAtTs": 1793701883,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1793701563,
-        3683
+        1793701883,
+        3569
       ],
       "peak24h": [
         1793630465,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793529066,
-          5458
-        ],
         [
           1793529363,
           5566
@@ -2344,6 +2340,10 @@
         [
           1793701563,
           3683
+        ],
+        [
+          1793701883,
+          3569
         ]
       ],
       "hourlyPeak": [
