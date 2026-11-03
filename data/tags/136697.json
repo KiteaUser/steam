@@ -3,16 +3,16 @@
   "appid": "1407200",
   "steamAppid": 1407200,
   "name": "World of Tanks",
-  "players": 8581,
+  "players": 8579,
   "allTimePeak": 24172,
-  "peak24h": 9211,
-  "peak24hAt": "2026-11-02T19:16:07.000Z",
-  "updatedAt": "2026-11-03T19:11:13.064Z",
+  "peak24h": 9139,
+  "peak24hAt": "2026-11-02T19:26:09.000Z",
+  "updatedAt": "2026-11-03T19:16:21.799Z",
   "img_url": "2025/09/world-of-tanks-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-03T19:11:13.064Z",
-    "updatedAtTs": 1793733073,
+    "updatedAt": "2026-11-03T19:16:21.799Z",
+    "updatedAtTs": 1793733381,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,12 +23,12 @@
     },
     "summary": {
       "current": [
-        1793733073,
-        8581
+        1793733381,
+        8579
       ],
       "peak24h": [
-        1793646967,
-        9211
+        1793647569,
+        9139
       ],
       "peak48h": [
         1793560860,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793560571,
-          9357
-        ],
         [
           1793560860,
           9424
@@ -2344,6 +2340,10 @@
         [
           1793733073,
           8581
+        ],
+        [
+          1793733381,
+          8579
         ]
       ],
       "hourlyPeak": [
