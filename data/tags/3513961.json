@@ -6,13 +6,13 @@
   "players": 1,
   "allTimePeak": 10930,
   "peak24h": 1,
-  "peak24hAt": "2026-11-02T17:01:30.000Z",
-  "updatedAt": "2026-11-03T17:01:19.802Z",
+  "peak24hAt": "2026-11-02T17:11:06.000Z",
+  "updatedAt": "2026-11-03T17:06:09.637Z",
   "img_url": "2025/07/nether.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-03T17:01:19.802Z",
-    "updatedAtTs": 1793725279,
+    "updatedAt": "2026-11-03T17:06:09.637Z",
+    "updatedAtTs": 1793725569,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,11 +23,11 @@
     },
     "summary": {
       "current": [
-        1793725279,
+        1793725569,
         1
       ],
       "peak24h": [
-        1793638890,
+        1793639466,
         1
       ],
       "peak48h": [
@@ -719,6 +719,10 @@
         ],
         [
           1793725279,
+          1
+        ],
+        [
+          1793725569,
           1
         ]
       ],
