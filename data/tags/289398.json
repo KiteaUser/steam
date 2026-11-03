@@ -3,16 +3,16 @@
   "appid": "524220",
   "steamAppid": 524220,
   "name": "NieR:Automata",
-  "players": 606,
+  "players": 588,
   "allTimePeak": 23908,
   "peak24h": 725,
   "peak24hAt": "2026-11-03T14:56:06.000Z",
-  "updatedAt": "2026-11-03T22:26:11.786Z",
+  "updatedAt": "2026-11-03T22:31:27.807Z",
   "img_url": "2024/12/mixcollage-06-dec-2024-02-50-pm-2616.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-03T22:26:11.786Z",
-    "updatedAtTs": 1793744771,
+    "updatedAt": "2026-11-03T22:31:27.807Z",
+    "updatedAtTs": 1793745087,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793744771,
-        606
+        1793745087,
+        588
       ],
       "peak24h": [
         1793717766,
         725
       ],
       "peak48h": [
-        1793572272,
-        823
+        1793572566,
+        807
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793572272,
-          823
-        ],
         [
           1793572566,
           807
@@ -2328,6 +2324,10 @@
         [
           1793744771,
           606
+        ],
+        [
+          1793745087,
+          588
         ]
       ],
       "hourlyPeak": [
@@ -5678,6 +5678,6 @@
       ]
     }
   },
-  "peak48h": 823,
-  "peak48hAt": "2026-11-01T22:31:12.000Z"
+  "peak48h": 807,
+  "peak48hAt": "2026-11-01T22:36:06.000Z"
 }
