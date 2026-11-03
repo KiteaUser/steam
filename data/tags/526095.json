@@ -3,16 +3,16 @@
   "appid": "1782210",
   "steamAppid": 1782210,
   "name": "Crab Game",
-  "players": 1001,
+  "players": 960,
   "allTimePeak": 75967,
   "peak24h": 1291,
   "peak24hAt": "2026-11-03T13:55:58.000Z",
-  "updatedAt": "2026-11-03T17:41:29.886Z",
+  "updatedAt": "2026-11-03T17:46:21.530Z",
   "img_url": "2024/11/mixcollage-22-nov-2024-12-06-am-3261.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-03T17:41:29.886Z",
-    "updatedAtTs": 1793727689,
+    "updatedAt": "2026-11-03T17:46:21.530Z",
+    "updatedAtTs": 1793727981,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1793727689,
-        1001
+        1793727981,
+        960
       ],
       "peak24h": [
         1793714158,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793555159,
-          1381
-        ],
         [
           1793555471,
           1386
@@ -2344,6 +2340,10 @@
         [
           1793727689,
           1001
+        ],
+        [
+          1793727981,
+          960
         ]
       ],
       "hourlyPeak": [
