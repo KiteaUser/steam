@@ -3,16 +3,16 @@
   "appid": "10",
   "steamAppid": 10,
   "name": "Counter-Strike",
-  "players": 7101,
+  "players": 6910,
   "allTimePeak": 319586,
   "peak24h": 13610,
   "peak24hAt": "2026-11-02T18:51:15.000Z",
-  "updatedAt": "2026-11-03T00:01:38.728Z",
+  "updatedAt": "2026-11-03T00:05:59.355Z",
   "img_url": "2024/12/counter-strike-tag-page-cover-art-1.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-03T00:01:38.728Z",
-    "updatedAtTs": 1793664098,
+    "updatedAt": "2026-11-03T00:05:59.355Z",
+    "updatedAtTs": 1793664359,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1793664098,
-        7101
+        1793664359,
+        6910
       ],
       "peak24h": [
         1793645475,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793491557,
-          8130
-        ],
         [
           1793491866,
           7817
@@ -2344,6 +2340,10 @@
         [
           1793664098,
           7101
+        ],
+        [
+          1793664359,
+          6910
         ]
       ],
       "hourlyPeak": [
