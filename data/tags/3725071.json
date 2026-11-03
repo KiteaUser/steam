@@ -3,16 +3,16 @@
   "appid": "2950790",
   "steamAppid": 2950790,
   "name": "IRON NEST: Heavy Turret Simulator",
-  "players": 675,
+  "players": 661,
   "allTimePeak": 17599,
   "peak24h": 802,
   "peak24hAt": "2026-11-03T20:36:09.000Z",
-  "updatedAt": "2026-11-03T22:36:05.641Z",
+  "updatedAt": "2026-11-03T22:41:33.636Z",
   "img_url": "2026/08/iron-nest-heavy-turret-simulator-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-03T22:36:05.641Z",
-    "updatedAtTs": 1793745365,
+    "updatedAt": "2026-11-03T22:41:33.636Z",
+    "updatedAtTs": 1793745693,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793745365,
-        675
+        1793745693,
+        661
       ],
       "peak24h": [
         1793738169,
         802
       ],
       "peak48h": [
-        1793572566,
-        910
+        1793573171,
+        850
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793572566,
-          910
-        ],
-        [
-          1793572861,
-          850
-        ],
         [
           1793573171,
           850
@@ -2336,6 +2328,10 @@
         [
           1793745365,
           675
+        ],
+        [
+          1793745693,
+          661
         ]
       ],
       "hourlyPeak": [
@@ -5141,6 +5137,6 @@
       "monthlyPeak": []
     }
   },
-  "peak48h": 910,
-  "peak48hAt": "2026-11-01T22:36:06.000Z"
+  "peak48h": 850,
+  "peak48hAt": "2026-11-01T22:46:11.000Z"
 }
