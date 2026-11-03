@@ -3,16 +3,16 @@
   "appid": "1812450",
   "steamAppid": 1812450,
   "name": "Bellwright",
-  "players": 1776,
+  "players": 1742,
   "allTimePeak": 15263,
   "peak24h": 1836,
-  "peak24hAt": "2026-11-02T20:35:58.000Z",
-  "updatedAt": "2026-11-03T20:31:25.387Z",
+  "peak24hAt": "2026-11-02T20:41:14.000Z",
+  "updatedAt": "2026-11-03T20:36:09.425Z",
   "img_url": "2024/12/mixcollage-02-dec-2024-01-32-pm-4002.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-03T20:31:25.387Z",
-    "updatedAtTs": 1793737885,
+    "updatedAt": "2026-11-03T20:36:09.425Z",
+    "updatedAtTs": 1793738169,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793737885,
-        1776
+        1793738169,
+        1742
       ],
       "peak24h": [
-        1793651758,
+        1793652074,
         1836
       ],
       "peak48h": [
-        1793565355,
-        2164
+        1793565666,
+        2163
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793565355,
-          2164
-        ],
         [
           1793565666,
           2163
@@ -2340,6 +2336,10 @@
         [
           1793737885,
           1776
+        ],
+        [
+          1793738169,
+          1742
         ]
       ],
       "hourlyPeak": [
@@ -5350,6 +5350,6 @@
       ]
     }
   },
-  "peak48h": 2164,
-  "peak48hAt": "2026-11-01T20:35:55.000Z"
+  "peak48h": 2163,
+  "peak48hAt": "2026-11-01T20:41:06.000Z"
 }
