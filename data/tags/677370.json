@@ -3,16 +3,16 @@
   "appid": "1588550",
   "steamAppid": 1588550,
   "name": "Cairn",
-  "players": 1078,
+  "players": 1037,
   "allTimePeak": 14996,
   "peak24h": 1726,
   "peak24hAt": "2026-11-03T14:31:12.000Z",
-  "updatedAt": "2026-11-03T23:31:16.790Z",
+  "updatedAt": "2026-11-03T23:35:59.686Z",
   "img_url": "2025/02/cairn-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-03T23:31:16.790Z",
-    "updatedAtTs": 1793748676,
+    "updatedAt": "2026-11-03T23:35:59.686Z",
+    "updatedAtTs": 1793748959,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1793748676,
-        1078
+        1793748959,
+        1037
       ],
       "peak24h": [
         1793716272,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793576157,
-          1503
-        ],
         [
           1793576466,
           1486
@@ -2312,6 +2308,10 @@
         [
           1793748676,
           1078
+        ],
+        [
+          1793748959,
+          1037
         ]
       ],
       "hourlyPeak": [
