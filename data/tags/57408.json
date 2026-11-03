@@ -3,16 +3,16 @@
   "appid": "219740",
   "steamAppid": 219740,
   "name": "Don't Starve",
-  "players": 2502,
+  "players": 2483,
   "allTimePeak": 16796,
-  "peak24h": 2565,
-  "peak24hAt": "2026-11-02T14:26:06.000Z",
-  "updatedAt": "2026-11-03T14:21:24.641Z",
+  "peak24h": 2533,
+  "peak24hAt": "2026-11-03T14:01:25.000Z",
+  "updatedAt": "2026-11-03T14:26:11.462Z",
   "img_url": "2024/12/mixcollage-03-dec-2024-10-43-pm-9188.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-03T14:21:24.641Z",
-    "updatedAtTs": 1793715684,
+    "updatedAt": "2026-11-03T14:26:11.462Z",
+    "updatedAtTs": 1793715971,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793715684,
-        2502
+        1793715971,
+        2483
       ],
       "peak24h": [
-        1793629566,
-        2565
+        1793714485,
+        2533
       ],
       "peak48h": [
-        1793543168,
-        2970
+        1793543475,
+        2848
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793543168,
-          2970
-        ],
         [
           1793543475,
           2848
@@ -2340,6 +2336,10 @@
         [
           1793715684,
           2502
+        ],
+        [
+          1793715971,
+          2483
         ]
       ],
       "hourlyPeak": [
@@ -5890,6 +5890,6 @@
       ]
     }
   },
-  "peak48h": 2970,
-  "peak48hAt": "2026-11-01T14:26:08.000Z"
+  "peak48h": 2848,
+  "peak48hAt": "2026-11-01T14:31:15.000Z"
 }
