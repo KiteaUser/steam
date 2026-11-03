@@ -3,16 +3,16 @@
   "appid": "646570",
   "steamAppid": 646570,
   "name": "Slay the Spire",
-  "players": 9971,
+  "players": 9483,
   "allTimePeak": 57025,
   "peak24h": 10354,
   "peak24hAt": "2026-11-03T14:11:18.000Z",
-  "updatedAt": "2026-11-03T15:11:14.212Z",
+  "updatedAt": "2026-11-03T15:16:10.919Z",
   "img_url": "2024/12/mixcollage-09-dec-2024-12-25-am-4035.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-03T15:11:14.212Z",
-    "updatedAtTs": 1793718674,
+    "updatedAt": "2026-11-03T15:16:10.919Z",
+    "updatedAtTs": 1793718970,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793718674,
-        9971
+        1793718970,
+        9483
       ],
       "peak24h": [
         1793715078,
         10354
       ],
       "peak48h": [
-        1793546165,
-        10462
+        1793630184,
+        10402
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793546165,
-          10462
-        ],
         [
           1793546464,
           9741
@@ -2328,6 +2324,10 @@
         [
           1793718674,
           9971
+        ],
+        [
+          1793718970,
+          9483
         ]
       ],
       "hourlyPeak": [
@@ -5666,6 +5666,6 @@
       ]
     }
   },
-  "peak48h": 10462,
-  "peak48hAt": "2026-11-01T15:16:05.000Z"
+  "peak48h": 10402,
+  "peak48hAt": "2026-11-02T14:36:24.000Z"
 }
