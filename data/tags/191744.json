@@ -3,16 +3,16 @@
   "appid": "2840770",
   "steamAppid": 2840770,
   "name": "Avatar: Frontiers of Pandora",
-  "players": 1137,
+  "players": 1078,
   "allTimePeak": 15283,
   "peak24h": 1198,
   "peak24hAt": "2026-11-03T19:11:13.000Z",
-  "updatedAt": "2026-11-03T21:41:13.650Z",
+  "updatedAt": "2026-11-03T21:46:06.616Z",
   "img_url": "2024/12/mixcollage-04-dec-2024-08-08-pm-6262.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-03T21:41:13.650Z",
-    "updatedAtTs": 1793742073,
+    "updatedAt": "2026-11-03T21:46:06.616Z",
+    "updatedAtTs": 1793742366,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1793742073,
-        1137
+        1793742366,
+        1078
       ],
       "peak24h": [
         1793733073,
         1198
       ],
       "peak48h": [
-        1793569274,
+        1793569572,
         1335
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793569274,
-          1335
-        ],
         [
           1793569572,
           1335
@@ -2336,6 +2332,10 @@
         [
           1793742073,
           1137
+        ],
+        [
+          1793742366,
+          1078
         ]
       ],
       "hourlyPeak": [
@@ -5339,5 +5339,5 @@
     }
   },
   "peak48h": 1335,
-  "peak48hAt": "2026-11-01T21:41:14.000Z"
+  "peak48hAt": "2026-11-01T21:46:12.000Z"
 }
