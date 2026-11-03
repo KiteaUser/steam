@@ -3,16 +3,16 @@
   "appid": "1507580",
   "steamAppid": 1507580,
   "name": "Enigma of Fear",
-  "players": 25,
+  "players": 30,
   "allTimePeak": 10542,
   "peak24h": 85,
   "peak24hAt": "2026-11-02T20:46:42.000Z",
-  "updatedAt": "2026-11-03T20:41:21.307Z",
+  "updatedAt": "2026-11-03T20:46:28.693Z",
   "img_url": "2025/02/mixcollage-07-feb-2025-09-54-am-7270.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-03T20:41:21.307Z",
-    "updatedAtTs": 1793738481,
+    "updatedAt": "2026-11-03T20:46:28.693Z",
+    "updatedAtTs": 1793738788,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1793738481,
-        25
+        1793738788,
+        30
       ],
       "peak24h": [
         1793652402,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793565963,
-          80
-        ],
         [
           1793566260,
           80
@@ -2336,6 +2332,10 @@
         [
           1793738481,
           25
+        ],
+        [
+          1793738788,
+          30
         ]
       ],
       "hourlyPeak": [

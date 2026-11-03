@@ -3,16 +3,16 @@
   "appid": "2670630",
   "steamAppid": 2670630,
   "name": "Supermarket Simulator",
-  "players": 3190,
+  "players": 3133,
   "allTimePeak": 51363,
   "peak24h": 3372,
   "peak24hAt": "2026-11-03T19:41:26.000Z",
-  "updatedAt": "2026-11-03T20:41:21.307Z",
+  "updatedAt": "2026-11-03T20:46:28.693Z",
   "img_url": "2024/12/mixcollage-12-dec-2024-05-37-pm-5728.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-03T20:41:21.307Z",
-    "updatedAtTs": 1793738481,
+    "updatedAt": "2026-11-03T20:46:28.693Z",
+    "updatedAtTs": 1793738788,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793738481,
-        3190
+        1793738788,
+        3133
       ],
       "peak24h": [
         1793734886,
         3372
       ],
       "peak48h": [
-        1793565963,
-        4029
+        1793566260,
+        3930
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793565963,
-          4029
-        ],
         [
           1793566260,
           3930
@@ -2336,6 +2332,10 @@
         [
           1793738481,
           3190
+        ],
+        [
+          1793738788,
+          3133
         ]
       ],
       "hourlyPeak": [
@@ -5354,6 +5354,6 @@
       ]
     }
   },
-  "peak48h": 4029,
-  "peak48hAt": "2026-11-01T20:46:03.000Z"
+  "peak48h": 3930,
+  "peak48hAt": "2026-11-01T20:51:00.000Z"
 }

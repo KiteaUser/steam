@@ -3,16 +3,16 @@
   "appid": "1118200",
   "steamAppid": 1118200,
   "name": "People Playground",
-  "players": 3164,
+  "players": 3130,
   "allTimePeak": 17015,
   "peak24h": 3482,
   "peak24hAt": "2026-11-03T18:47:03.000Z",
-  "updatedAt": "2026-11-03T20:41:21.307Z",
+  "updatedAt": "2026-11-03T20:46:28.693Z",
   "img_url": "2024/11/mixcollage-26-nov-2024-11-16-pm-3144.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-03T20:41:21.307Z",
-    "updatedAtTs": 1793738481,
+    "updatedAt": "2026-11-03T20:46:28.693Z",
+    "updatedAtTs": 1793738788,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1793738481,
-        3164
+        1793738788,
+        3130
       ],
       "peak24h": [
         1793731623,
         3482
       ],
       "peak48h": [
-        1793565963,
+        1793566260,
         3844
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793565963,
-          3844
-        ],
         [
           1793566260,
           3844
@@ -2340,6 +2336,10 @@
         [
           1793738481,
           3164
+        ],
+        [
+          1793738788,
+          3130
         ]
       ],
       "hourlyPeak": [
@@ -5579,5 +5579,5 @@
     }
   },
   "peak48h": 3844,
-  "peak48hAt": "2026-11-01T20:46:03.000Z"
+  "peak48hAt": "2026-11-01T20:51:00.000Z"
 }
