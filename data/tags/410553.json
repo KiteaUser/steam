@@ -3,16 +3,16 @@
   "appid": "529340",
   "steamAppid": 529340,
   "name": "Victoria 3",
-  "players": 5240,
+  "players": 5191,
   "allTimePeak": 70100,
   "peak24h": 6102,
   "peak24hAt": "2026-11-03T14:35:59.000Z",
-  "updatedAt": "2026-11-03T20:21:15.972Z",
+  "updatedAt": "2026-11-03T20:26:07.323Z",
   "img_url": "2024/12/mixcollage-08-dec-2024-11-49-pm-3887.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-03T20:21:15.972Z",
-    "updatedAtTs": 1793737275,
+    "updatedAt": "2026-11-03T20:26:07.323Z",
+    "updatedAtTs": 1793737567,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793737275,
-        5240
+        1793737567,
+        5191
       ],
       "peak24h": [
         1793716559,
         6102
       ],
       "peak48h": [
-        1793564758,
-        6797
+        1793565073,
+        6780
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793564758,
-          6797
-        ],
         [
           1793565073,
           6780
@@ -2344,6 +2340,10 @@
         [
           1793737275,
           5240
+        ],
+        [
+          1793737567,
+          5191
         ]
       ],
       "hourlyPeak": [
@@ -5426,6 +5426,6 @@
       ]
     }
   },
-  "peak48h": 6797,
-  "peak48hAt": "2026-11-01T20:25:58.000Z"
+  "peak48h": 6780,
+  "peak48hAt": "2026-11-01T20:31:13.000Z"
 }
