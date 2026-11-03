@@ -3,16 +3,16 @@
   "appid": "220",
   "steamAppid": 220,
   "name": "Half-Life 2",
-  "players": 1096,
+  "players": 1088,
   "allTimePeak": 64085,
   "peak24h": 2000,
   "peak24hAt": "2026-11-02T18:56:01.000Z",
-  "updatedAt": "2026-11-03T10:01:26.611Z",
+  "updatedAt": "2026-11-03T10:06:18.974Z",
   "img_url": "2024/12/mixcollage-05-dec-2024-07-00-am-3978.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-03T10:01:26.611Z",
-    "updatedAtTs": 1793700086,
+    "updatedAt": "2026-11-03T10:06:18.974Z",
+    "updatedAtTs": 1793700378,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1793700086,
-        1096
+        1793700378,
+        1088
       ],
       "peak24h": [
         1793645761,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793527556,
-          1604
-        ],
         [
           1793527862,
           1604
@@ -2344,6 +2340,10 @@
         [
           1793700086,
           1096
+        ],
+        [
+          1793700378,
+          1088
         ]
       ],
       "hourlyPeak": [
@@ -4973,7 +4973,7 @@
         ],
         [
           1793527200,
-          1585
+          1604
         ]
       ],
       "dailyPeak": [
