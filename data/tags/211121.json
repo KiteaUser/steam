@@ -3,16 +3,16 @@
   "appid": "1129580",
   "steamAppid": 1129580,
   "name": "Medieval Dynasty",
-  "players": 3487,
+  "players": 3463,
   "allTimePeak": 31057,
   "peak24h": 3816,
   "peak24hAt": "2026-11-02T20:11:08.000Z",
-  "updatedAt": "2026-11-03T19:46:10.504Z",
+  "updatedAt": "2026-11-03T19:51:26.613Z",
   "img_url": "2025/02/medieval-dynasty-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-03T19:46:10.504Z",
-    "updatedAtTs": 1793735170,
+    "updatedAt": "2026-11-03T19:51:26.613Z",
+    "updatedAtTs": 1793735486,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793735170,
-        3487
+        1793735486,
+        3463
       ],
       "peak24h": [
         1793650268,
         3816
       ],
       "peak48h": [
-        1793562372,
-        4641
+        1793562966,
+        4620
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793562372,
-          4641
-        ],
-        [
-          1793562672,
-          4620
-        ],
         [
           1793562966,
           4620
@@ -2332,6 +2324,10 @@
         [
           1793735170,
           3487
+        ],
+        [
+          1793735486,
+          3463
         ]
       ],
       "hourlyPeak": [
@@ -5514,6 +5510,6 @@
       ]
     }
   },
-  "peak48h": 4641,
-  "peak48hAt": "2026-11-01T19:46:12.000Z"
+  "peak48h": 4620,
+  "peak48hAt": "2026-11-01T19:56:06.000Z"
 }

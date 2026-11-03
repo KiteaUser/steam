@@ -3,16 +3,16 @@
   "appid": "2051620",
   "steamAppid": 2051620,
   "name": "Enlisted",
-  "players": 4259,
+  "players": 4199,
   "allTimePeak": 7518,
   "peak24h": 4438,
   "peak24hAt": "2026-11-03T17:51:06.000Z",
-  "updatedAt": "2026-11-03T19:46:10.504Z",
+  "updatedAt": "2026-11-03T19:51:26.613Z",
   "img_url": "2024/12/mixcollage-11-dec-2024-09-30-pm-4670.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-03T19:46:10.504Z",
-    "updatedAtTs": 1793735170,
+    "updatedAt": "2026-11-03T19:51:26.613Z",
+    "updatedAtTs": 1793735486,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793735170,
-        4259
+        1793735486,
+        4199
       ],
       "peak24h": [
         1793728266,
         4438
       ],
       "peak48h": [
-        1793562372,
-        4733
+        1793563281,
+        4680
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793562372,
-          4733
-        ],
-        [
-          1793562672,
-          4713
-        ],
         [
           1793562966,
           4616
@@ -2336,6 +2328,10 @@
         [
           1793735170,
           4259
+        ],
+        [
+          1793735486,
+          4199
         ]
       ],
       "hourlyPeak": [
@@ -5350,6 +5346,6 @@
       ]
     }
   },
-  "peak48h": 4733,
-  "peak48hAt": "2026-11-01T19:46:12.000Z"
+  "peak48h": 4680,
+  "peak48hAt": "2026-11-01T20:01:21.000Z"
 }
