@@ -3,16 +3,16 @@
   "appid": "3321460",
   "steamAppid": 3321460,
   "name": "Crimson Desert",
-  "players": 29693,
+  "players": 29472,
   "allTimePeak": 276261,
   "peak24h": 32505,
   "peak24hAt": "2026-11-02T19:31:32.000Z",
-  "updatedAt": "2026-11-03T15:26:03.628Z",
+  "updatedAt": "2026-11-03T15:31:30.085Z",
   "img_url": "2025/12/crimson-desert-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-03T15:26:03.628Z",
-    "updatedAtTs": 1793719563,
+    "updatedAt": "2026-11-03T15:31:30.085Z",
+    "updatedAtTs": 1793719890,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793719563,
-        29693
+        1793719890,
+        29472
       ],
       "peak24h": [
         1793647892,
         32505
       ],
       "peak48h": [
-        1793547067,
-        43375
+        1793547364,
+        43139
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793547067,
-          43375
-        ],
         [
           1793547364,
           43139
@@ -2336,6 +2332,10 @@
         [
           1793719563,
           29693
+        ],
+        [
+          1793719890,
+          29472
         ]
       ],
       "hourlyPeak": [
@@ -5254,6 +5254,6 @@
       ]
     }
   },
-  "peak48h": 43375,
-  "peak48hAt": "2026-11-01T15:31:07.000Z"
+  "peak48h": 43139,
+  "peak48hAt": "2026-11-01T15:36:04.000Z"
 }
