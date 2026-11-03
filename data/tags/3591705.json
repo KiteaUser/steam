@@ -7,12 +7,12 @@
   "allTimePeak": 14775,
   "peak24h": 221,
   "peak24hAt": "2026-11-03T19:26:39.000Z",
-  "updatedAt": "2026-11-03T20:36:09.425Z",
+  "updatedAt": "2026-11-03T20:41:21.307Z",
   "img_url": "2026/01/yapyap-custom-cover-art-image.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-03T20:36:09.425Z",
-    "updatedAtTs": 1793738169,
+    "updatedAt": "2026-11-03T20:41:21.307Z",
+    "updatedAtTs": 1793738481,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,7 +23,7 @@
     },
     "summary": {
       "current": [
-        1793738169,
+        1793738481,
         197
       ],
       "peak24h": [
@@ -31,8 +31,8 @@
         221
       ],
       "peak48h": [
-        1793565666,
-        296
+        1793565963,
+        294
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793565666,
-          296
-        ],
         [
           1793565963,
           294
@@ -2343,6 +2339,10 @@
         ],
         [
           1793738169,
+          197
+        ],
+        [
+          1793738481,
           197
         ]
       ],
@@ -5266,6 +5266,6 @@
       ]
     }
   },
-  "peak48h": 296,
-  "peak48hAt": "2026-11-01T20:41:06.000Z"
+  "peak48h": 294,
+  "peak48hAt": "2026-11-01T20:46:03.000Z"
 }
