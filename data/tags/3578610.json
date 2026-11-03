@@ -6,13 +6,13 @@
   "players": 2937,
   "allTimePeak": 42799,
   "peak24h": 3204,
-  "peak24hAt": "2026-11-02T22:16:15.000Z",
-  "updatedAt": "2026-11-03T22:16:10.063Z",
+  "peak24hAt": "2026-11-02T22:21:14.000Z",
+  "updatedAt": "2026-11-03T22:21:14.935Z",
   "img_url": "2025/12/control-resonant-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-03T22:16:10.063Z",
-    "updatedAtTs": 1793744170,
+    "updatedAt": "2026-11-03T22:21:14.935Z",
+    "updatedAtTs": 1793744474,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793744170,
+        1793744474,
         2937
       ],
       "peak24h": [
-        1793657775,
+        1793658074,
         3204
       ],
       "peak48h": [
-        1793571665,
-        4534
+        1793571966,
+        4457
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793571665,
-          4534
-        ],
         [
           1793571966,
           4457
@@ -2331,6 +2327,10 @@
         ],
         [
           1793744170,
+          2937
+        ],
+        [
+          1793744474,
           2937
         ]
       ],
@@ -5018,6 +5018,6 @@
       ]
     }
   },
-  "peak48h": 4534,
-  "peak48hAt": "2026-11-01T22:21:05.000Z"
+  "peak48h": 4457,
+  "peak48hAt": "2026-11-01T22:26:06.000Z"
 }
