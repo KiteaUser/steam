@@ -3,16 +3,16 @@
   "appid": "1211630",
   "steamAppid": 1211630,
   "name": "The Jackbox Party Pack 7",
-  "players": 100,
+  "players": 101,
   "allTimePeak": 10599,
-  "peak24h": 180,
-  "peak24hAt": "2026-11-02T04:35:53.000Z",
-  "updatedAt": "2026-11-03T04:31:29.716Z",
+  "peak24h": 173,
+  "peak24hAt": "2026-11-02T04:41:10.000Z",
+  "updatedAt": "2026-11-03T04:36:08.095Z",
   "img_url": "2025/03/the-jackbox-party-pack-7-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-03T04:31:29.716Z",
-    "updatedAtTs": 1793680289,
+    "updatedAt": "2026-11-03T04:36:08.095Z",
+    "updatedAtTs": 1793680568,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793680289,
-        100
+        1793680568,
+        101
       ],
       "peak24h": [
-        1793594153,
-        180
+        1793594470,
+        173
       ],
       "peak48h": [
-        1793507753,
-        883
+        1793508057,
+        859
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793507753,
-          883
-        ],
         [
           1793508057,
           859
@@ -2344,6 +2340,10 @@
         [
           1793680289,
           100
+        ],
+        [
+          1793680568,
+          101
         ]
       ],
       "hourlyPeak": [
@@ -5522,6 +5522,6 @@
       ]
     }
   },
-  "peak48h": 883,
-  "peak48hAt": "2026-11-01T04:35:53.000Z"
+  "peak48h": 859,
+  "peak48hAt": "2026-11-01T04:40:57.000Z"
 }
