@@ -3,16 +3,16 @@
   "appid": "1062090",
   "steamAppid": 1062090,
   "name": "Timberborn",
-  "players": 4334,
+  "players": 4299,
   "allTimePeak": 25234,
   "peak24h": 4827,
   "peak24hAt": "2026-11-02T20:41:14.000Z",
-  "updatedAt": "2026-11-03T18:51:26.117Z",
+  "updatedAt": "2026-11-03T18:56:18.044Z",
   "img_url": "2024/11/mixcollage-21-nov-2024-09-38-pm-8464.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-03T18:51:26.117Z",
-    "updatedAtTs": 1793731886,
+    "updatedAt": "2026-11-03T18:56:18.044Z",
+    "updatedAtTs": 1793732178,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793731886,
-        4334
+        1793732178,
+        4299
       ],
       "peak24h": [
         1793652074,
         4827
       ],
       "peak48h": [
-        1793559362,
-        6225
+        1793559681,
+        6223
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793559362,
-          6225
-        ],
         [
           1793559681,
           6223
@@ -2340,6 +2336,10 @@
         [
           1793731886,
           4334
+        ],
+        [
+          1793732178,
+          4299
         ]
       ],
       "hourlyPeak": [
@@ -5474,6 +5474,6 @@
       ]
     }
   },
-  "peak48h": 6225,
-  "peak48hAt": "2026-11-01T18:56:02.000Z"
+  "peak48h": 6223,
+  "peak48hAt": "2026-11-01T19:01:21.000Z"
 }
