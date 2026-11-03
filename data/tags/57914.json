@@ -3,16 +3,16 @@
   "appid": "438100",
   "steamAppid": 438100,
   "name": "VRChat",
-  "players": 44022,
+  "players": 43717,
   "allTimePeak": 79593,
   "peak24h": 56168,
   "peak24hAt": "2026-11-02T14:55:58.000Z",
-  "updatedAt": "2026-11-03T07:05:49.611Z",
+  "updatedAt": "2026-11-03T07:11:10.238Z",
   "img_url": "2025/02/vr-chat-tag-cover.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-03T07:05:49.611Z",
-    "updatedAtTs": 1793689549,
+    "updatedAt": "2026-11-03T07:11:10.238Z",
+    "updatedAtTs": 1793689870,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793689549,
-        44022
+        1793689870,
+        43717
       ],
       "peak24h": [
         1793631358,
         56168
       ],
       "peak48h": [
-        1793516755,
-        62448
+        1793545565,
+        61398
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793516755,
-          62448
-        ],
-        [
-          1793517065,
-          62149
-        ],
         [
           1793517355,
           61322
@@ -2348,6 +2340,10 @@
         [
           1793689549,
           44022
+        ],
+        [
+          1793689870,
+          43717
         ]
       ],
       "hourlyPeak": [
@@ -5706,6 +5702,6 @@
       ]
     }
   },
-  "peak48h": 62448,
-  "peak48hAt": "2026-11-01T07:05:55.000Z"
+  "peak48h": 61398,
+  "peak48hAt": "2026-11-01T15:06:05.000Z"
 }
