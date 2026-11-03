@@ -6,13 +6,13 @@
   "players": 80,
   "allTimePeak": 15912,
   "peak24h": 87,
-  "peak24hAt": "2026-11-02T20:31:20.000Z",
-  "updatedAt": "2026-11-03T20:26:07.323Z",
+  "peak24hAt": "2026-11-02T20:35:58.000Z",
+  "updatedAt": "2026-11-03T20:31:25.387Z",
   "img_url": "2025/06/len-s-island-tag-image.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-03T20:26:07.323Z",
-    "updatedAtTs": 1793737567,
+    "updatedAt": "2026-11-03T20:31:25.387Z",
+    "updatedAtTs": 1793737885,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,11 +23,11 @@
     },
     "summary": {
       "current": [
-        1793737567,
+        1793737885,
         80
       ],
       "peak24h": [
-        1793651480,
+        1793651758,
         87
       ],
       "peak48h": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793565073,
-          98
-        ],
         [
           1793565355,
           96
@@ -2327,6 +2323,10 @@
         ],
         [
           1793737567,
+          80
+        ],
+        [
+          1793737885,
           80
         ]
       ],
