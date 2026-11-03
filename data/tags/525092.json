@@ -3,16 +3,16 @@
   "appid": "2399830",
   "steamAppid": 2399830,
   "name": "ARK: Survival Ascended",
-  "players": 21382,
+  "players": 21353,
   "allTimePeak": 98047,
   "peak24h": 25363,
   "peak24hAt": "2026-11-03T14:26:11.000Z",
-  "updatedAt": "2026-11-03T20:46:28.693Z",
+  "updatedAt": "2026-11-03T20:51:21.659Z",
   "img_url": "2024/12/mixcollage-09-dec-2024-02-07-am-6280.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-03T20:46:28.693Z",
-    "updatedAtTs": 1793738788,
+    "updatedAt": "2026-11-03T20:51:21.659Z",
+    "updatedAtTs": 1793739081,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793738788,
-        21382
+        1793739081,
+        21353
       ],
       "peak24h": [
         1793715971,
         25363
       ],
       "peak48h": [
-        1793566260,
-        27923
+        1793566560,
+        27603
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793566260,
-          27923
-        ],
         [
           1793566560,
           27603
@@ -2328,6 +2324,10 @@
         [
           1793738788,
           21382
+        ],
+        [
+          1793739081,
+          21353
         ]
       ],
       "hourlyPeak": [
@@ -5362,6 +5362,6 @@
       ]
     }
   },
-  "peak48h": 27923,
-  "peak48hAt": "2026-11-01T20:51:00.000Z"
+  "peak48h": 27603,
+  "peak48hAt": "2026-11-01T20:56:00.000Z"
 }
