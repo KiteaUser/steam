@@ -3,16 +3,16 @@
   "appid": "699130",
   "steamAppid": 699130,
   "name": "World War Z",
-  "players": 2753,
+  "players": 2694,
   "allTimePeak": 8036,
-  "peak24h": 3055,
-  "peak24hAt": "2026-11-02T15:06:34.000Z",
-  "updatedAt": "2026-11-03T15:05:56.458Z",
+  "peak24h": 3044,
+  "peak24hAt": "2026-11-03T14:16:01.000Z",
+  "updatedAt": "2026-11-03T15:11:14.212Z",
   "img_url": "2025/10/world-war-z-game-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-03T15:05:56.458Z",
-    "updatedAtTs": 1793718356,
+    "updatedAt": "2026-11-03T15:11:14.212Z",
+    "updatedAtTs": 1793718674,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793718356,
-        2753
+        1793718674,
+        2694
       ],
       "peak24h": [
-        1793631994,
-        3055
+        1793715361,
+        3044
       ],
       "peak48h": [
-        1793545565,
-        3537
+        1793546165,
+        3483
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793545565,
-          3537
-        ],
-        [
-          1793545859,
-          3537
-        ],
         [
           1793546165,
           3483
@@ -2344,6 +2336,10 @@
         [
           1793718356,
           2753
+        ],
+        [
+          1793718674,
+          2694
         ]
       ],
       "hourlyPeak": [
@@ -5478,6 +5474,6 @@
       ]
     }
   },
-  "peak48h": 3537,
-  "peak48hAt": "2026-11-01T15:06:05.000Z"
+  "peak48h": 3483,
+  "peak48hAt": "2026-11-01T15:16:05.000Z"
 }

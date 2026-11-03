@@ -3,16 +3,16 @@
   "appid": "1196590",
   "steamAppid": 1196590,
   "name": "Resident Evil Village",
-  "players": 3086,
+  "players": 3024,
   "allTimePeak": 106631,
-  "peak24h": 3276,
-  "peak24hAt": "2026-11-02T15:06:34.000Z",
-  "updatedAt": "2026-11-03T15:05:56.458Z",
+  "peak24h": 3221,
+  "peak24hAt": "2026-11-02T15:11:14.000Z",
+  "updatedAt": "2026-11-03T15:11:14.212Z",
   "img_url": "2024/12/mixcollage-07-dec-2024-07-08-pm-49.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-03T15:05:56.458Z",
-    "updatedAtTs": 1793718356,
+    "updatedAt": "2026-11-03T15:11:14.212Z",
+    "updatedAtTs": 1793718674,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793718356,
-        3086
+        1793718674,
+        3024
       ],
       "peak24h": [
-        1793631994,
-        3276
+        1793632274,
+        3221
       ],
       "peak48h": [
-        1793545565,
-        4048
+        1793546165,
+        4005
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793545565,
-          4048
-        ],
-        [
-          1793545859,
-          4005
-        ],
         [
           1793546165,
           4005
@@ -2348,6 +2340,10 @@
         [
           1793718356,
           3086
+        ],
+        [
+          1793718674,
+          3024
         ]
       ],
       "hourlyPeak": [
@@ -5498,6 +5494,6 @@
       ]
     }
   },
-  "peak48h": 4048,
-  "peak48hAt": "2026-11-01T15:06:05.000Z"
+  "peak48h": 4005,
+  "peak48hAt": "2026-11-01T15:16:05.000Z"
 }
