@@ -7,12 +7,12 @@
   "allTimePeak": 19901,
   "peak24h": 102,
   "peak24hAt": "2026-11-03T02:11:11.000Z",
-  "updatedAt": "2026-11-03T23:11:14.838Z",
+  "updatedAt": "2026-11-03T23:16:25.533Z",
   "img_url": "2026/03/echoes-of-aincrad-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-03T23:11:14.838Z",
-    "updatedAtTs": 1793747474,
+    "updatedAt": "2026-11-03T23:16:25.533Z",
+    "updatedAtTs": 1793747785,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,7 +23,7 @@
     },
     "summary": {
       "current": [
-        1793747474,
+        1793747785,
         65
       ],
       "peak24h": [
@@ -31,8 +31,8 @@
         102
       ],
       "peak48h": [
-        1793574961,
-        130
+        1793575264,
+        121
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793574961,
-          130
-        ],
         [
           1793575264,
           121
@@ -2335,6 +2331,10 @@
         ],
         [
           1793747474,
+          65
+        ],
+        [
+          1793747785,
           65
         ]
       ],
@@ -5242,6 +5242,6 @@
       ]
     }
   },
-  "peak48h": 130,
-  "peak48hAt": "2026-11-01T23:16:01.000Z"
+  "peak48h": 121,
+  "peak48hAt": "2026-11-01T23:21:04.000Z"
 }
