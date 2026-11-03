@@ -3,16 +3,16 @@
   "appid": "2015270",
   "steamAppid": 2015270,
   "name": "Rotwood",
-  "players": 102,
+  "players": 104,
   "allTimePeak": 28595,
   "peak24h": 108,
   "peak24hAt": "2026-11-02T15:31:19.000Z",
-  "updatedAt": "2026-11-03T15:21:13.134Z",
+  "updatedAt": "2026-11-03T15:26:03.628Z",
   "img_url": "2026/03/rotwood-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-03T15:21:13.134Z",
-    "updatedAtTs": 1793719273,
+    "updatedAt": "2026-11-03T15:26:03.628Z",
+    "updatedAtTs": 1793719563,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793719273,
-        102
+        1793719563,
+        104
       ],
       "peak24h": [
         1793633479,
         108
       ],
       "peak48h": [
-        1793546752,
-        137
+        1793631084,
+        129
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793546752,
-          137
-        ],
         [
           1793547067,
           125
@@ -2340,6 +2336,10 @@
         [
           1793719273,
           102
+        ],
+        [
+          1793719563,
+          104
         ]
       ],
       "hourlyPeak": [
@@ -5350,6 +5350,6 @@
       ]
     }
   },
-  "peak48h": 137,
-  "peak48hAt": "2026-11-01T15:25:52.000Z"
+  "peak48h": 129,
+  "peak48hAt": "2026-11-02T14:51:24.000Z"
 }
