@@ -3,16 +3,16 @@
   "appid": "594650",
   "steamAppid": 594650,
   "name": "Hunt: Showdown 1896",
-  "players": 24552,
+  "players": 24139,
   "allTimePeak": 60124,
   "peak24h": 24629,
   "peak24hAt": "2026-11-03T14:01:25.000Z",
-  "updatedAt": "2026-11-03T14:31:12.980Z",
+  "updatedAt": "2026-11-03T14:35:59.223Z",
   "img_url": "2024/08/hunt-showdown-1896-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-03T14:31:12.980Z",
-    "updatedAtTs": 1793716272,
+    "updatedAt": "2026-11-03T14:35:59.223Z",
+    "updatedAtTs": 1793716559,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793716272,
-        24552
+        1793716559,
+        24139
       ],
       "peak24h": [
         1793714485,
         24629
       ],
       "peak48h": [
-        1793543475,
-        29376
+        1793544064,
+        29010
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793543475,
-          29376
-        ],
-        [
-          1793543751,
-          29234
-        ],
         [
           1793544064,
           29010
@@ -2348,6 +2340,10 @@
         [
           1793716272,
           24552
+        ],
+        [
+          1793716559,
+          24139
         ]
       ],
       "hourlyPeak": [
@@ -5670,6 +5666,6 @@
       ]
     }
   },
-  "peak48h": 29376,
-  "peak48hAt": "2026-11-01T14:31:15.000Z"
+  "peak48h": 29010,
+  "peak48hAt": "2026-11-01T14:41:04.000Z"
 }
