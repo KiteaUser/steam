@@ -7,12 +7,12 @@
   "allTimePeak": 19198,
   "peak24h": 202,
   "peak24hAt": "2026-11-03T19:51:26.000Z",
-  "updatedAt": "2026-11-03T23:06:03.722Z",
+  "updatedAt": "2026-11-03T23:11:14.838Z",
   "img_url": "2025/02/avowed-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-03T23:06:03.722Z",
-    "updatedAtTs": 1793747163,
+    "updatedAt": "2026-11-03T23:11:14.838Z",
+    "updatedAtTs": 1793747474,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,7 +23,7 @@
     },
     "summary": {
       "current": [
-        1793747163,
+        1793747474,
         107
       ],
       "peak24h": [
@@ -31,8 +31,8 @@
         202
       ],
       "peak48h": [
-        1793574661,
-        246
+        1793574961,
+        240
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793574661,
-          246
-        ],
         [
           1793574961,
           240
@@ -2339,6 +2335,10 @@
         ],
         [
           1793747163,
+          107
+        ],
+        [
+          1793747474,
           107
         ]
       ],
@@ -5310,6 +5310,6 @@
       ]
     }
   },
-  "peak48h": 246,
-  "peak48hAt": "2026-11-01T23:11:01.000Z"
+  "peak48h": 240,
+  "peak48hAt": "2026-11-01T23:16:01.000Z"
 }

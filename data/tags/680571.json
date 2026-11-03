@@ -3,16 +3,16 @@
   "appid": "3014080",
   "steamAppid": 3014080,
   "name": "The Hundred Line -Last Defense Academy-",
-  "players": 134,
+  "players": 125,
   "allTimePeak": 10026,
   "peak24h": 168,
   "peak24hAt": "2026-11-03T03:26:05.000Z",
-  "updatedAt": "2026-11-03T23:06:03.722Z",
+  "updatedAt": "2026-11-03T23:11:14.838Z",
   "img_url": "2024/10/hundred-line-cover.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-03T23:06:03.722Z",
-    "updatedAtTs": 1793747163,
+    "updatedAt": "2026-11-03T23:11:14.838Z",
+    "updatedAtTs": 1793747474,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1793747163,
-        134
+        1793747474,
+        125
       ],
       "peak24h": [
         1793676365,
         168
       ],
       "peak48h": [
-        1793574661,
+        1793574961,
         171
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793574661,
-          171
-        ],
         [
           1793574961,
           171
@@ -2332,6 +2328,10 @@
         [
           1793747163,
           134
+        ],
+        [
+          1793747474,
+          125
         ]
       ],
       "hourlyPeak": [
@@ -4961,7 +4961,7 @@
         ],
         [
           1793574000,
-          168
+          171
         ]
       ],
       "dailyPeak": [
@@ -5295,5 +5295,5 @@
     }
   },
   "peak48h": 171,
-  "peak48hAt": "2026-11-01T23:11:01.000Z"
+  "peak48hAt": "2026-11-01T23:16:01.000Z"
 }
