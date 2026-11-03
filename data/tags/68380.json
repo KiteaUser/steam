@@ -3,16 +3,16 @@
   "appid": "220200",
   "steamAppid": 220200,
   "name": "Kerbal Space Program",
-  "players": 3060,
+  "players": 3013,
   "allTimePeak": 23482,
   "peak24h": 3244,
   "peak24hAt": "2026-11-03T20:01:33.000Z",
-  "updatedAt": "2026-11-03T21:31:34.455Z",
+  "updatedAt": "2026-11-03T21:36:15.372Z",
   "img_url": "2024/12/mixcollage-11-dec-2024-09-27-pm-5283.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-03T21:31:34.455Z",
-    "updatedAtTs": 1793741494,
+    "updatedAt": "2026-11-03T21:36:15.372Z",
+    "updatedAtTs": 1793741775,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793741494,
-        3060
+        1793741775,
+        3013
       ],
       "peak24h": [
         1793736093,
         3244
       ],
       "peak48h": [
-        1793568959,
-        3939
+        1793569274,
+        3849
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793568959,
-          3939
-        ],
         [
           1793569274,
           3849
@@ -2344,6 +2340,10 @@
         [
           1793741494,
           3060
+        ],
+        [
+          1793741775,
+          3013
         ]
       ],
       "hourlyPeak": [
@@ -5886,6 +5886,6 @@
       ]
     }
   },
-  "peak48h": 3939,
-  "peak48hAt": "2026-11-01T21:35:59.000Z"
+  "peak48h": 3849,
+  "peak48hAt": "2026-11-01T21:41:14.000Z"
 }
