@@ -3,16 +3,16 @@
   "appid": "2324650",
   "steamAppid": 2324650,
   "name": "The Murder of Sonic the Hedgehog",
-  "players": 17,
+  "players": 19,
   "allTimePeak": 15543,
   "peak24h": 27,
   "peak24hAt": "2026-11-02T01:11:10.000Z",
-  "updatedAt": "2026-11-03T00:46:02.796Z",
+  "updatedAt": "2026-11-03T00:51:05.218Z",
   "img_url": "2024/11/mixcollage-30-nov-2024-12-32-pm-9293.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-03T00:46:02.796Z",
-    "updatedAtTs": 1793666762,
+    "updatedAt": "2026-11-03T00:51:05.218Z",
+    "updatedAtTs": 1793667065,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793666762,
-        17
+        1793667065,
+        19
       ],
       "peak24h": [
         1793581870,
         27
       ],
       "peak48h": [
-        1793493969,
-        30
+        1793494274,
+        27
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793493969,
-          30
-        ],
         [
           1793494274,
           27
@@ -2348,6 +2344,10 @@
         [
           1793666762,
           17
+        ],
+        [
+          1793667065,
+          19
         ]
       ],
       "hourlyPeak": [
@@ -5406,6 +5406,6 @@
       ]
     }
   },
-  "peak48h": 30,
-  "peak48hAt": "2026-11-01T00:46:09.000Z"
+  "peak48h": 27,
+  "peak48hAt": "2026-11-01T00:51:14.000Z"
 }
