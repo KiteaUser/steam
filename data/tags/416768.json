@@ -3,16 +3,16 @@
   "appid": "1868140",
   "steamAppid": 1868140,
   "name": "DAVE THE DIVER",
-  "players": 7109,
+  "players": 7072,
   "allTimePeak": 98480,
   "peak24h": 7433,
   "peak24hAt": "2026-11-02T14:26:06.000Z",
-  "updatedAt": "2026-11-03T13:36:16.379Z",
+  "updatedAt": "2026-11-03T13:41:12.913Z",
   "img_url": "2024/12/mixcollage-08-dec-2024-11-29-pm-3201.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-03T13:36:16.379Z",
-    "updatedAtTs": 1793712976,
+    "updatedAt": "2026-11-03T13:41:12.913Z",
+    "updatedAtTs": 1793713272,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793712976,
-        7109
+        1793713272,
+        7072
       ],
       "peak24h": [
         1793629566,
         7433
       ],
       "peak48h": [
-        1793540460,
-        8706
+        1793540760,
+        8685
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793540460,
-          8706
-        ],
         [
           1793540760,
           8685
@@ -2344,6 +2340,10 @@
         [
           1793712976,
           7109
+        ],
+        [
+          1793713272,
+          7072
         ]
       ],
       "hourlyPeak": [
@@ -4973,7 +4973,7 @@
         ],
         [
           1793538000,
-          8568
+          8706
         ]
       ],
       "dailyPeak": [
@@ -5426,6 +5426,6 @@
       ]
     }
   },
-  "peak48h": 8706,
-  "peak48hAt": "2026-11-01T13:41:00.000Z"
+  "peak48h": 8685,
+  "peak48hAt": "2026-11-01T13:46:00.000Z"
 }
