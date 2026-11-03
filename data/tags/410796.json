@@ -3,16 +3,16 @@
   "appid": "2074920",
   "steamAppid": 2074920,
   "name": "The First Descendant",
-  "players": 3216,
+  "players": 3153,
   "allTimePeak": 264860,
   "peak24h": 3575,
   "peak24hAt": "2026-11-03T14:06:00.000Z",
-  "updatedAt": "2026-11-03T15:31:30.085Z",
+  "updatedAt": "2026-11-03T15:36:04.131Z",
   "img_url": "2024/12/mixcollage-04-dec-2024-08-57-am-3503.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-03T15:31:30.085Z",
-    "updatedAtTs": 1793719890,
+    "updatedAt": "2026-11-03T15:36:04.131Z",
+    "updatedAtTs": 1793720164,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793719890,
-        3216
+        1793720164,
+        3153
       ],
       "peak24h": [
         1793714760,
         3575
       ],
       "peak48h": [
-        1793547364,
-        3841
+        1793547657,
+        3766
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793547364,
-          3841
-        ],
         [
           1793547657,
           3766
@@ -2344,6 +2340,10 @@
         [
           1793719890,
           3216
+        ],
+        [
+          1793720164,
+          3153
         ]
       ],
       "hourlyPeak": [
@@ -5342,6 +5342,6 @@
       ]
     }
   },
-  "peak48h": 3841,
-  "peak48hAt": "2026-11-01T15:36:04.000Z"
+  "peak48h": 3766,
+  "peak48hAt": "2026-11-01T15:40:57.000Z"
 }
