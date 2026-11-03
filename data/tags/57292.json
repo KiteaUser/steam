@@ -3,16 +3,16 @@
   "appid": "201810",
   "steamAppid": 201810,
   "name": "Wolfenstein: The New Order",
-  "players": 412,
+  "players": 400,
   "allTimePeak": 11986,
   "peak24h": 450,
   "peak24hAt": "2026-11-03T18:11:20.000Z",
-  "updatedAt": "2026-11-03T21:26:21.551Z",
+  "updatedAt": "2026-11-03T21:31:34.455Z",
   "img_url": "2024/12/mixcollage-11-dec-2024-02-29-am-2835.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-03T21:26:21.551Z",
-    "updatedAtTs": 1793741181,
+    "updatedAt": "2026-11-03T21:31:34.455Z",
+    "updatedAtTs": 1793741494,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793741181,
-        412
+        1793741494,
+        400
       ],
       "peak24h": [
         1793729480,
         450
       ],
       "peak48h": [
-        1793568682,
-        543
+        1793568959,
+        537
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793568682,
-          543
-        ],
         [
           1793568959,
           537
@@ -2340,6 +2336,10 @@
         [
           1793741181,
           412
+        ],
+        [
+          1793741494,
+          400
         ]
       ],
       "hourlyPeak": [
@@ -5826,6 +5826,6 @@
       ]
     }
   },
-  "peak48h": 543,
-  "peak48hAt": "2026-11-01T21:31:22.000Z"
+  "peak48h": 537,
+  "peak48hAt": "2026-11-01T21:35:59.000Z"
 }
