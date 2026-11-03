@@ -3,16 +3,16 @@
   "appid": "1962700",
   "steamAppid": 1962700,
   "name": "Subnautica 2",
-  "players": 3312,
+  "players": 3216,
   "allTimePeak": 467582,
   "peak24h": 3774,
   "peak24hAt": "2026-11-03T19:56:06.000Z",
-  "updatedAt": "2026-11-03T22:05:57.045Z",
+  "updatedAt": "2026-11-03T22:11:19.308Z",
   "img_url": "2024/12/mixcollage-12-dec-2024-07-15-am-3297.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-03T22:05:57.045Z",
-    "updatedAtTs": 1793743557,
+    "updatedAt": "2026-11-03T22:11:19.308Z",
+    "updatedAtTs": 1793743879,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793743557,
-        3312
+        1793743879,
+        3216
       ],
       "peak24h": [
         1793735766,
         3774
       ],
       "peak48h": [
-        1793570762,
-        4546
+        1793571360,
+        4335
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793570762,
-          4546
-        ],
-        [
-          1793571059,
-          4435
-        ],
         [
           1793571360,
           4335
@@ -2336,6 +2328,10 @@
         [
           1793743557,
           3312
+        ],
+        [
+          1793743879,
+          3216
         ]
       ],
       "hourlyPeak": [
@@ -5246,6 +5242,6 @@
       ]
     }
   },
-  "peak48h": 4546,
-  "peak48hAt": "2026-11-01T22:06:02.000Z"
+  "peak48h": 4335,
+  "peak48hAt": "2026-11-01T22:16:00.000Z"
 }

@@ -3,16 +3,16 @@
   "appid": "1657630",
   "steamAppid": 1657630,
   "name": "Slime Rancher 2",
-  "players": 971,
+  "players": 974,
   "allTimePeak": 21524,
   "peak24h": 1154,
   "peak24hAt": "2026-11-03T19:46:10.000Z",
-  "updatedAt": "2026-11-03T22:05:57.045Z",
+  "updatedAt": "2026-11-03T22:11:19.308Z",
   "img_url": "2024/12/mixcollage-04-dec-2024-03-55-am-6219.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-03T22:05:57.045Z",
-    "updatedAtTs": 1793743557,
+    "updatedAt": "2026-11-03T22:11:19.308Z",
+    "updatedAtTs": 1793743879,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793743557,
-        971
+        1793743879,
+        974
       ],
       "peak24h": [
         1793735170,
         1154
       ],
       "peak48h": [
-        1793570762,
-        1285
+        1793571360,
+        1238
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793570762,
-          1285
-        ],
-        [
-          1793571059,
-          1253
-        ],
         [
           1793571360,
           1238
@@ -2340,6 +2332,10 @@
         [
           1793743557,
           971
+        ],
+        [
+          1793743879,
+          974
         ]
       ],
       "hourlyPeak": [
@@ -5426,6 +5422,6 @@
       ]
     }
   },
-  "peak48h": 1285,
-  "peak48hAt": "2026-11-01T22:06:02.000Z"
+  "peak48h": 1238,
+  "peak48hAt": "2026-11-01T22:16:00.000Z"
 }
