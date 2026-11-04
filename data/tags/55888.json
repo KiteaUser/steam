@@ -3,16 +3,16 @@
   "appid": "50300",
   "steamAppid": 50300,
   "name": "Spec Ops: The Line",
-  "players": 30,
+  "players": 28,
   "allTimePeak": 13995,
   "peak24h": 38,
   "peak24hAt": "2026-11-03T20:01:33.000Z",
-  "updatedAt": "2026-11-04T17:06:01.010Z",
+  "updatedAt": "2026-11-04T17:11:25.340Z",
   "img_url": "2024/12/mixcollage-13-dec-2024-10-06-am-6425.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-04T17:06:01.010Z",
-    "updatedAtTs": 1793811961,
+    "updatedAt": "2026-11-04T17:11:25.340Z",
+    "updatedAtTs": 1793812285,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1793811961,
-        30
+        1793812285,
+        28
       ],
       "peak24h": [
         1793736093,
         38
       ],
       "peak48h": [
-        1793639466,
+        1793639763,
         40
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793639466,
-          40
-        ],
         [
           1793639763,
           40
@@ -2288,6 +2284,10 @@
         [
           1793811961,
           30
+        ],
+        [
+          1793812285,
+          28
         ]
       ],
       "hourlyPeak": [
@@ -5867,5 +5867,5 @@
     }
   },
   "peak48h": 40,
-  "peak48hAt": "2026-11-02T17:11:06.000Z"
+  "peak48hAt": "2026-11-02T17:16:03.000Z"
 }
