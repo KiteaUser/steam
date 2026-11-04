@@ -3,16 +3,16 @@
   "appid": "304240",
   "steamAppid": 304240,
   "name": "Resident Evil",
-  "players": 622,
+  "players": 584,
   "allTimePeak": 4388,
   "peak24h": 730,
   "peak24hAt": "2026-11-03T20:46:28.000Z",
-  "updatedAt": "2026-11-04T00:06:04.966Z",
+  "updatedAt": "2026-11-04T00:11:21.327Z",
   "img_url": "sharedimages/2024/12/resident-evil-1-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-04T00:06:04.966Z",
-    "updatedAtTs": 1793750764,
+    "updatedAt": "2026-11-04T00:11:21.327Z",
+    "updatedAtTs": 1793751081,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793750764,
-        622
+        1793751081,
+        584
       ],
       "peak24h": [
         1793738788,
         730
       ],
       "peak48h": [
-        1793578259,
-        867
+        1793579754,
+        866
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793578259,
-          867
-        ],
         [
           1793578567,
           863
@@ -2328,6 +2324,10 @@
         [
           1793750764,
           622
+        ],
+        [
+          1793751081,
+          584
         ]
       ],
       "hourlyPeak": [
@@ -5806,6 +5806,6 @@
       ]
     }
   },
-  "peak48h": 867,
-  "peak48hAt": "2026-11-02T00:10:59.000Z"
+  "peak48h": 866,
+  "peak48hAt": "2026-11-02T00:35:54.000Z"
 }
