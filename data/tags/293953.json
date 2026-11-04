@@ -3,16 +3,16 @@
   "appid": "1158160",
   "steamAppid": 1158160,
   "name": "Coral Island",
-  "players": 1738,
+  "players": 1742,
   "allTimePeak": 15418,
   "peak24h": 1962,
   "peak24hAt": "2026-11-03T02:11:11.000Z",
-  "updatedAt": "2026-11-04T00:36:41.102Z",
+  "updatedAt": "2026-11-04T00:41:13.338Z",
   "img_url": "2024/12/mixcollage-04-dec-2024-07-34-am-7593.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-04T00:36:41.102Z",
-    "updatedAtTs": 1793752601,
+    "updatedAt": "2026-11-04T00:41:13.338Z",
+    "updatedAtTs": 1793752873,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793752601,
-        1738
+        1793752873,
+        1742
       ],
       "peak24h": [
         1793671871,
         1962
       ],
       "peak48h": [
-        1793580062,
-        2251
+        1793582167,
+        2234
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793580062,
-          2251
-        ],
         [
           1793580372,
           2214
@@ -2324,6 +2320,10 @@
         [
           1793752601,
           1738
+        ],
+        [
+          1793752873,
+          1742
         ]
       ],
       "hourlyPeak": [
@@ -4953,7 +4953,7 @@
         ],
         [
           1793577600,
-          2245
+          2251
         ]
       ],
       "dailyPeak": [
@@ -5410,6 +5410,6 @@
       ]
     }
   },
-  "peak48h": 2251,
-  "peak48hAt": "2026-11-02T00:41:02.000Z"
+  "peak48h": 2234,
+  "peak48hAt": "2026-11-02T01:16:07.000Z"
 }
