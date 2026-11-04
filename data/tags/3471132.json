@@ -6,13 +6,13 @@
   "players": 644,
   "allTimePeak": 3496,
   "peak24h": 793,
-  "peak24hAt": "2026-11-03T23:41:12.000Z",
-  "updatedAt": "2026-11-04T23:41:08.569Z",
+  "peak24hAt": "2026-11-03T23:46:13.000Z",
+  "updatedAt": "2026-11-04T23:46:00.323Z",
   "img_url": "2025/04/dead-as-disco-tag-image-2.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-04T23:41:08.569Z",
-    "updatedAtTs": 1793835668,
+    "updatedAt": "2026-11-04T23:46:00.323Z",
+    "updatedAtTs": 1793835960,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,11 +23,11 @@
     },
     "summary": {
       "current": [
-        1793835668,
+        1793835960,
         644
       ],
       "peak24h": [
-        1793749272,
+        1793749573,
         793
       ],
       "peak48h": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793662872,
-          493
-        ],
         [
           1793663171,
           478
@@ -2279,6 +2275,10 @@
         ],
         [
           1793835668,
+          644
+        ],
+        [
+          1793835960,
           644
         ]
       ],
