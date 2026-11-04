@@ -3,16 +3,16 @@
   "appid": "2379780",
   "steamAppid": 2379780,
   "name": "Balatro",
-  "players": 8088,
+  "players": 8114,
   "allTimePeak": 43905,
   "peak24h": 8455,
   "peak24hAt": "2026-11-03T21:36:15.000Z",
-  "updatedAt": "2026-11-04T21:21:18.423Z",
+  "updatedAt": "2026-11-04T21:26:13.199Z",
   "img_url": "2024/12/mixcollage-04-dec-2024-01-11-am-2970.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-04T21:21:18.423Z",
-    "updatedAtTs": 1793827278,
+    "updatedAt": "2026-11-04T21:26:13.199Z",
+    "updatedAtTs": 1793827573,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793827278,
-        8088
+        1793827573,
+        8114
       ],
       "peak24h": [
         1793741775,
         8455
       ],
       "peak48h": [
-        1793654758,
-        8739
+        1793655370,
+        8720
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793654758,
-          8739
-        ],
         [
           1793655093,
           8662
@@ -2288,6 +2284,10 @@
         [
           1793827278,
           8088
+        ],
+        [
+          1793827573,
+          8114
         ]
       ],
       "hourlyPeak": [
@@ -5310,6 +5310,6 @@
       ]
     }
   },
-  "peak48h": 8739,
-  "peak48hAt": "2026-11-02T21:25:58.000Z"
+  "peak48h": 8720,
+  "peak48hAt": "2026-11-02T21:36:10.000Z"
 }

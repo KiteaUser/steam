@@ -3,16 +3,16 @@
   "appid": "1282730",
   "steamAppid": 1282730,
   "name": "Loop Hero",
-  "players": 161,
+  "players": 149,
   "allTimePeak": 51156,
   "peak24h": 188,
   "peak24hAt": "2026-11-04T18:56:14.000Z",
-  "updatedAt": "2026-11-04T21:21:18.423Z",
+  "updatedAt": "2026-11-04T21:26:13.199Z",
   "img_url": "2024/12/mixcollage-11-dec-2024-07-53-am-5277.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-04T21:21:18.423Z",
-    "updatedAtTs": 1793827278,
+    "updatedAt": "2026-11-04T21:26:13.199Z",
+    "updatedAtTs": 1793827573,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793827278,
-        161
+        1793827573,
+        149
       ],
       "peak24h": [
         1793818574,
         188
       ],
       "peak48h": [
-        1793654758,
-        200
+        1793656585,
+        199
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793654758,
-          200
-        ],
         [
           1793655093,
           195
@@ -2292,6 +2288,10 @@
         [
           1793827278,
           161
+        ],
+        [
+          1793827573,
+          149
         ]
       ],
       "hourlyPeak": [
@@ -5454,6 +5454,6 @@
       ]
     }
   },
-  "peak48h": 200,
-  "peak48hAt": "2026-11-02T21:25:58.000Z"
+  "peak48h": 199,
+  "peak48hAt": "2026-11-02T21:56:25.000Z"
 }

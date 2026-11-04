@@ -7,12 +7,12 @@
   "allTimePeak": 42799,
   "peak24h": 3263,
   "peak24hAt": "2026-11-04T21:01:26.000Z",
-  "updatedAt": "2026-11-04T21:21:18.423Z",
+  "updatedAt": "2026-11-04T21:26:13.199Z",
   "img_url": "2025/12/control-resonant-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-04T21:21:18.423Z",
-    "updatedAtTs": 1793827278,
+    "updatedAt": "2026-11-04T21:26:13.199Z",
+    "updatedAtTs": 1793827573,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,7 +23,7 @@
     },
     "summary": {
       "current": [
-        1793827278,
+        1793827573,
         3230
       ],
       "peak24h": [
@@ -31,8 +31,8 @@
         3263
       ],
       "peak48h": [
-        1793654758,
-        3371
+        1793655093,
+        3342
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793654758,
-          3371
-        ],
         [
           1793655093,
           3342
@@ -2275,6 +2271,10 @@
         ],
         [
           1793827278,
+          3230
+        ],
+        [
+          1793827573,
           3230
         ]
       ],
@@ -4966,6 +4966,6 @@
       ]
     }
   },
-  "peak48h": 3371,
-  "peak48hAt": "2026-11-02T21:25:58.000Z"
+  "peak48h": 3342,
+  "peak48hAt": "2026-11-02T21:31:33.000Z"
 }
