@@ -3,16 +3,16 @@
   "appid": "1414850",
   "steamAppid": 1414850,
   "name": "Nickelodeon All-Star Brawl",
-  "players": 2,
+  "players": 4,
   "allTimePeak": 13314,
   "peak24h": 9,
   "peak24hAt": "2026-11-04T15:51:16.000Z",
-  "updatedAt": "2026-11-04T19:55:58.661Z",
+  "updatedAt": "2026-11-04T20:01:30.093Z",
   "img_url": "2024/12/mixcollage-04-dec-2024-08-47-am-4177.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-04T19:55:58.661Z",
-    "updatedAtTs": 1793822158,
+    "updatedAt": "2026-11-04T20:01:30.093Z",
+    "updatedAtTs": 1793822490,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1793822158,
-        2
+        1793822490,
+        4
       ],
       "peak24h": [
         1793807476,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793649362,
-          3
-        ],
-        [
-          1793649689,
-          3
-        ],
         [
           1793649965,
           2
@@ -2128,13 +2120,13 @@
         [
           1793822158,
           2
+        ],
+        [
+          1793822490,
+          4
         ]
       ],
       "hourlyPeak": [
-        [
-          1791230400,
-          1
-        ],
         [
           1791234000,
           5
@@ -4741,6 +4733,10 @@
         ],
         [
           1793646000,
+          3
+        ],
+        [
+          1793649600,
           3
         ]
       ],
