@@ -3,16 +3,16 @@
   "appid": "234140",
   "steamAppid": 234140,
   "name": "Mad Max",
-  "players": 401,
+  "players": 393,
   "allTimePeak": 33356,
   "peak24h": 1040,
   "peak24hAt": "2026-11-03T17:51:06.000Z",
-  "updatedAt": "2026-11-04T07:11:04.142Z",
+  "updatedAt": "2026-11-04T07:16:16.618Z",
   "img_url": "2024/12/mixcollage-08-dec-2024-08-05-pm-2609.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-04T07:11:04.142Z",
-    "updatedAtTs": 1793776264,
+    "updatedAt": "2026-11-04T07:16:16.618Z",
+    "updatedAtTs": 1793776576,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1793776264,
-        401
+        1793776576,
+        393
       ],
       "peak24h": [
         1793728266,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793603761,
-          419
-        ],
         [
           1793604060,
           427
@@ -2340,6 +2336,10 @@
         [
           1793776264,
           401
+        ],
+        [
+          1793776576,
+          393
         ]
       ],
       "hourlyPeak": [
