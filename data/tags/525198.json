@@ -3,16 +3,16 @@
   "appid": "3910",
   "steamAppid": 3910,
   "name": "Sid Meier's Civilization III",
-  "players": 1751,
+  "players": 1745,
   "allTimePeak": 4600,
   "peak24h": 1751,
   "peak24hAt": "2026-11-04T20:46:17.000Z",
-  "updatedAt": "2026-11-04T20:51:12.116Z",
+  "updatedAt": "2026-11-04T20:56:06.868Z",
   "img_url": "2024/12/mixcollage-31-dec-2024-01-56-am-3151.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-04T20:51:12.116Z",
-    "updatedAtTs": 1793825472,
+    "updatedAt": "2026-11-04T20:56:06.868Z",
+    "updatedAtTs": 1793825766,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793825472,
-        1751
+        1793825766,
+        1745
       ],
       "peak24h": [
         1793825177,
         1751
       ],
       "peak48h": [
-        1793652965,
-        1755
+        1793825177,
+        1751
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793652965,
-          1755
-        ],
         [
           1793653296,
           1716
@@ -2288,6 +2284,10 @@
         [
           1793825472,
           1751
+        ],
+        [
+          1793825766,
+          1745
         ]
       ],
       "hourlyPeak": [
@@ -5866,6 +5866,6 @@
       ]
     }
   },
-  "peak48h": 1755,
-  "peak48hAt": "2026-11-02T20:56:05.000Z"
+  "peak48h": 1751,
+  "peak48hAt": "2026-11-04T20:46:17.000Z"
 }

@@ -3,16 +3,16 @@
   "appid": "768200",
   "steamAppid": 768200,
   "name": "Smalland: Survive the Wilds",
-  "players": 280,
+  "players": 275,
   "allTimePeak": 12741,
-  "peak24h": 313,
-  "peak24hAt": "2026-11-03T20:51:21.000Z",
-  "updatedAt": "2026-11-04T20:51:12.116Z",
+  "peak24h": 309,
+  "peak24hAt": "2026-11-03T21:16:05.000Z",
+  "updatedAt": "2026-11-04T20:56:06.868Z",
   "img_url": "2024/11/mixcollage-25-nov-2024-02-34-am-5688.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-04T20:51:12.116Z",
-    "updatedAtTs": 1793825472,
+    "updatedAt": "2026-11-04T20:56:06.868Z",
+    "updatedAtTs": 1793825766,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793825472,
-        280
+        1793825766,
+        275
       ],
       "peak24h": [
-        1793739081,
-        313
+        1793740565,
+        309
       ],
       "peak48h": [
-        1793652965,
-        365
+        1793653296,
+        360
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793652965,
-          365
-        ],
         [
           1793653296,
           360
@@ -2276,6 +2272,10 @@
         [
           1793825472,
           280
+        ],
+        [
+          1793825766,
+          275
         ]
       ],
       "hourlyPeak": [
@@ -5358,6 +5358,6 @@
       ]
     }
   },
-  "peak48h": 365,
-  "peak48hAt": "2026-11-02T20:56:05.000Z"
+  "peak48h": 360,
+  "peak48hAt": "2026-11-02T21:01:36.000Z"
 }
