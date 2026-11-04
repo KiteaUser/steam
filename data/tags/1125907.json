@@ -3,16 +3,16 @@
   "appid": "1507580",
   "steamAppid": 1507580,
   "name": "Enigma of Fear",
-  "players": 29,
+  "players": 34,
   "allTimePeak": 10542,
   "peak24h": 43,
   "peak24hAt": "2026-11-04T00:11:21.000Z",
-  "updatedAt": "2026-11-04T21:01:26.197Z",
+  "updatedAt": "2026-11-04T21:06:01.078Z",
   "img_url": "2025/02/mixcollage-07-feb-2025-09-54-am-7270.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-04T21:01:26.197Z",
-    "updatedAtTs": 1793826086,
+    "updatedAt": "2026-11-04T21:06:01.078Z",
+    "updatedAtTs": 1793826361,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793826086,
-        29
+        1793826361,
+        34
       ],
       "peak24h": [
         1793751081,
         43
       ],
       "peak48h": [
-        1793653296,
-        85
+        1793658367,
+        83
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793653296,
-          85
-        ],
         [
           1793653564,
           81
@@ -2288,6 +2284,10 @@
         [
           1793826086,
           29
+        ],
+        [
+          1793826361,
+          34
         ]
       ],
       "hourlyPeak": [
@@ -4914,6 +4914,10 @@
         [
           1793649600,
           87
+        ],
+        [
+          1793653200,
+          85
         ]
       ],
       "dailyPeak": [
@@ -5270,6 +5274,6 @@
       ]
     }
   },
-  "peak48h": 85,
-  "peak48hAt": "2026-11-02T21:01:36.000Z"
+  "peak48h": 83,
+  "peak48hAt": "2026-11-02T22:26:07.000Z"
 }
