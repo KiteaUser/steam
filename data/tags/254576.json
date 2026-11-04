@@ -3,16 +3,16 @@
   "appid": "1237320",
   "steamAppid": 1237320,
   "name": "Sonic Frontiers",
-  "players": 147,
+  "players": 149,
   "allTimePeak": 19181,
   "peak24h": 174,
   "peak24hAt": "2026-11-03T22:11:19.000Z",
-  "updatedAt": "2026-11-04T21:31:18.074Z",
+  "updatedAt": "2026-11-04T21:36:10.206Z",
   "img_url": "2024/12/mixcollage-07-dec-2024-07-36-am-4577.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-04T21:31:18.074Z",
-    "updatedAtTs": 1793827878,
+    "updatedAt": "2026-11-04T21:36:10.206Z",
+    "updatedAtTs": 1793828170,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1793827878,
-        147
+        1793828170,
+        149
       ],
       "peak24h": [
         1793743879,
         174
       ],
       "peak48h": [
-        1793655370,
+        1793655678,
         183
       ],
       "allTimePeak": [
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793655093,
-          180
-        ],
-        [
-          1793655370,
-          183
-        ],
         [
           1793655678,
           183
@@ -2284,6 +2276,10 @@
         [
           1793827878,
           147
+        ],
+        [
+          1793828170,
+          149
         ]
       ],
       "hourlyPeak": [
@@ -4913,7 +4909,7 @@
         ],
         [
           1793653200,
-          174
+          183
         ]
       ],
       "dailyPeak": [
@@ -5367,5 +5363,5 @@
     }
   },
   "peak48h": 183,
-  "peak48hAt": "2026-11-02T21:36:10.000Z"
+  "peak48hAt": "2026-11-02T21:41:18.000Z"
 }
