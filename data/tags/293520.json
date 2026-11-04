@@ -3,16 +3,16 @@
   "appid": "1621690",
   "steamAppid": 1621690,
   "name": "Core Keeper",
-  "players": 5749,
+  "players": 5703,
   "allTimePeak": 46465,
-  "peak24h": 6483,
-  "peak24hAt": "2026-11-03T14:26:11.000Z",
-  "updatedAt": "2026-11-04T14:26:09.266Z",
+  "peak24h": 6321,
+  "peak24hAt": "2026-11-03T14:35:59.000Z",
+  "updatedAt": "2026-11-04T14:31:14.544Z",
   "img_url": "2024/12/mixcollage-08-dec-2024-08-04-pm-5829.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-04T14:26:09.266Z",
-    "updatedAtTs": 1793802369,
+    "updatedAt": "2026-11-04T14:31:14.544Z",
+    "updatedAtTs": 1793802674,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793802369,
-        5749
+        1793802674,
+        5703
       ],
       "peak24h": [
-        1793715971,
-        6483
+        1793716559,
+        6321
       ],
       "peak48h": [
-        1793629870,
-        6894
+        1793630184,
+        6881
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793629870,
-          6894
-        ],
         [
           1793630184,
           6881
@@ -2292,6 +2288,10 @@
         [
           1793802369,
           5749
+        ],
+        [
+          1793802674,
+          5703
         ]
       ],
       "hourlyPeak": [
@@ -5406,6 +5406,6 @@
       ]
     }
   },
-  "peak48h": 6894,
-  "peak48hAt": "2026-11-02T14:31:10.000Z"
+  "peak48h": 6881,
+  "peak48hAt": "2026-11-02T14:36:24.000Z"
 }
