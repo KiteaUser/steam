@@ -3,16 +3,16 @@
   "appid": "920210",
   "steamAppid": 920210,
   "name": "LEGO Star Wars: The Skywalker Saga",
-  "players": 525,
+  "players": 535,
   "allTimePeak": 82517,
   "peak24h": 584,
   "peak24hAt": "2026-11-03T19:01:38.000Z",
-  "updatedAt": "2026-11-04T18:56:14.975Z",
+  "updatedAt": "2026-11-04T19:01:32.285Z",
   "img_url": "2024/12/mixcollage-07-dec-2024-07-16-am-9929.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-04T18:56:14.975Z",
-    "updatedAtTs": 1793818574,
+    "updatedAt": "2026-11-04T19:01:32.285Z",
+    "updatedAtTs": 1793818892,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793818574,
-        525
+        1793818892,
+        535
       ],
       "peak24h": [
         1793732498,
         584
       ],
       "peak48h": [
-        1793646074,
-        633
+        1793646366,
+        613
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793646074,
-          633
-        ],
         [
           1793646366,
           613
@@ -2280,13 +2276,13 @@
         [
           1793818574,
           525
+        ],
+        [
+          1793818892,
+          535
         ]
       ],
       "hourlyPeak": [
-        [
-          1791226800,
-          611
-        ],
         [
           1791230400,
           569
@@ -4910,6 +4906,10 @@
         [
           1793642400,
           633
+        ],
+        [
+          1793646000,
+          633
         ]
       ],
       "dailyPeak": [
@@ -5390,6 +5390,6 @@
       ]
     }
   },
-  "peak48h": 633,
-  "peak48hAt": "2026-11-02T19:01:14.000Z"
+  "peak48h": 613,
+  "peak48hAt": "2026-11-02T19:06:06.000Z"
 }
