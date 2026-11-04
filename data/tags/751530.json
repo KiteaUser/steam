@@ -3,16 +3,16 @@
   "appid": "2688950",
   "steamAppid": 2688950,
   "name": "Planet Coaster 2",
-  "players": 2063,
+  "players": 2066,
   "allTimePeak": 20048,
   "peak24h": 2412,
-  "peak24hAt": "2026-11-03T20:31:25.000Z",
-  "updatedAt": "2026-11-04T20:31:11.983Z",
+  "peak24hAt": "2026-11-03T20:41:21.000Z",
+  "updatedAt": "2026-11-04T20:36:10.035Z",
   "img_url": "2025/02/planet-coaster-2-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-04T20:31:11.983Z",
-    "updatedAtTs": 1793824271,
+    "updatedAt": "2026-11-04T20:36:10.035Z",
+    "updatedAtTs": 1793824570,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793824271,
-        2063
+        1793824570,
+        2066
       ],
       "peak24h": [
-        1793737885,
+        1793738481,
         2412
       ],
       "peak48h": [
-        1793651480,
-        2697
+        1793652074,
+        2595
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793651480,
-          2697
-        ],
-        [
-          1793651758,
-          2655
-        ],
         [
           1793652074,
           2595
@@ -2280,6 +2272,10 @@
         [
           1793824271,
           2063
+        ],
+        [
+          1793824570,
+          2066
         ]
       ],
       "hourlyPeak": [
@@ -5266,6 +5262,6 @@
       ]
     }
   },
-  "peak48h": 2697,
-  "peak48hAt": "2026-11-02T20:31:20.000Z"
+  "peak48h": 2595,
+  "peak48hAt": "2026-11-02T20:41:14.000Z"
 }
