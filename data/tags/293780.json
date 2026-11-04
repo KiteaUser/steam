@@ -3,16 +3,16 @@
   "appid": "386360",
   "steamAppid": 386360,
   "name": "SMITE",
-  "players": 1025,
+  "players": 1013,
   "allTimePeak": 31169,
   "peak24h": 1201,
   "peak24hAt": "2026-11-04T01:55:53.000Z",
-  "updatedAt": "2026-11-04T23:01:52.418Z",
+  "updatedAt": "2026-11-04T23:06:12.663Z",
   "img_url": "2024/12/mixcollage-11-dec-2024-08-21-am-5517.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-04T23:01:52.418Z",
-    "updatedAtTs": 1793833312,
+    "updatedAt": "2026-11-04T23:06:12.663Z",
+    "updatedAtTs": 1793833572,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1793833312,
-        1025
+        1793833572,
+        1013
       ],
       "peak24h": [
         1793757353,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793660771,
-          1156
-        ],
         [
           1793661077,
           1144
@@ -2284,6 +2280,10 @@
         [
           1793833312,
           1025
+        ],
+        [
+          1793833572,
+          1013
         ]
       ],
       "hourlyPeak": [
@@ -4913,7 +4913,7 @@
         ],
         [
           1793660400,
-          1142
+          1156
         ]
       ],
       "dailyPeak": [
