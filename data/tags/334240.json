@@ -3,16 +3,16 @@
   "appid": "249050",
   "steamAppid": 249050,
   "name": "Dungeon of the ENDLESS",
-  "players": 32,
+  "players": 34,
   "allTimePeak": 35159,
   "peak24h": 42,
   "peak24hAt": "2026-11-04T22:21:17.000Z",
-  "updatedAt": "2026-11-05T22:11:13.417Z",
+  "updatedAt": "2026-11-05T22:16:12.004Z",
   "img_url": "2024/11/mixcollage-20-nov-2024-12-24-am-6062.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-05T22:11:13.417Z",
-    "updatedAtTs": 1793916673,
+    "updatedAt": "2026-11-05T22:16:12.004Z",
+    "updatedAtTs": 1793916972,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1793916673,
-        32
+        1793916972,
+        34
       ],
       "peak24h": [
         1793830877,
         42
       ],
       "peak48h": [
-        1793743879,
+        1793744474,
         48
       ],
       "allTimePeak": [
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793743879,
-          48
-        ],
-        [
-          1793744170,
-          47
-        ],
         [
           1793744474,
           48
@@ -2276,6 +2268,10 @@
         [
           1793916673,
           32
+        ],
+        [
+          1793916972,
+          34
         ]
       ],
       "hourlyPeak": [
@@ -4905,7 +4901,7 @@
         ],
         [
           1793743200,
-          46
+          48
         ]
       ],
       "dailyPeak": [
@@ -5791,5 +5787,5 @@
     }
   },
   "peak48h": 48,
-  "peak48hAt": "2026-11-03T22:11:19.000Z"
+  "peak48hAt": "2026-11-03T22:21:14.000Z"
 }
