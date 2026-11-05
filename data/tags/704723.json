@@ -3,16 +3,16 @@
   "appid": "1857090",
   "steamAppid": 1857090,
   "name": "Norland",
-  "players": 274,
+  "players": 251,
   "allTimePeak": 11866,
   "peak24h": 308,
-  "peak24hAt": "2026-11-04T16:46:20.000Z",
-  "updatedAt": "2026-11-05T16:46:00.393Z",
+  "peak24hAt": "2026-11-04T19:01:32.000Z",
+  "updatedAt": "2026-11-05T16:51:23.806Z",
   "img_url": "sharedimages/2024/07/norland-cover.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-05T16:46:00.393Z",
-    "updatedAtTs": 1793897160,
+    "updatedAt": "2026-11-05T16:51:23.806Z",
+    "updatedAtTs": 1793897483,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793897160,
-        274
+        1793897483,
+        251
       ],
       "peak24h": [
-        1793810780,
+        1793818892,
         308
       ],
       "peak48h": [
-        1793724392,
-        314
+        1793732767,
+        311
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793724392,
-          314
-        ],
-        [
-          1793724668,
-          303
-        ],
         [
           1793724965,
           303
@@ -2268,6 +2260,10 @@
         [
           1793897160,
           274
+        ],
+        [
+          1793897483,
+          251
         ]
       ],
       "hourlyPeak": [
@@ -4897,7 +4893,7 @@
         ],
         [
           1793721600,
-          313
+          314
         ]
       ],
       "dailyPeak": [
@@ -5274,6 +5270,6 @@
       ]
     }
   },
-  "peak48h": 314,
-  "peak48hAt": "2026-11-03T16:46:32.000Z"
+  "peak48h": 311,
+  "peak48hAt": "2026-11-03T19:06:07.000Z"
 }

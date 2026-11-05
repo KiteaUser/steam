@@ -3,16 +3,16 @@
   "appid": "3199170",
   "steamAppid": 3199170,
   "name": "BLOODSTRIKE",
-  "players": 4098,
+  "players": 3975,
   "allTimePeak": 7765,
   "peak24h": 4098,
   "peak24hAt": "2026-11-05T16:46:00.000Z",
-  "updatedAt": "2026-11-05T16:46:00.393Z",
+  "updatedAt": "2026-11-05T16:51:23.806Z",
   "img_url": "2024/11/mixcollage-18-nov-2024-01-06-pm-4341-1.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-05T16:46:00.393Z",
-    "updatedAtTs": 1793897160,
+    "updatedAt": "2026-11-05T16:51:23.806Z",
+    "updatedAtTs": 1793897483,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1793897160,
-        4098
+        1793897483,
+        3975
       ],
       "peak24h": [
         1793897160,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793724392,
-          4109
-        ],
-        [
-          1793724668,
-          4083
-        ],
         [
           1793724965,
           4083
@@ -2268,6 +2260,10 @@
         [
           1793897160,
           4098
+        ],
+        [
+          1793897483,
+          3975
         ]
       ],
       "hourlyPeak": [
