@@ -3,16 +3,16 @@
   "appid": "113400",
   "steamAppid": 113400,
   "name": "APB Reloaded",
-  "players": 201,
+  "players": 200,
   "allTimePeak": 11813,
   "peak24h": 234,
   "peak24hAt": "2026-11-04T20:11:00.000Z",
-  "updatedAt": "2026-11-05T19:56:05.067Z",
+  "updatedAt": "2026-11-05T20:01:36.536Z",
   "img_url": "2025/03/apb-reloaded-cover.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-05T19:56:05.067Z",
-    "updatedAtTs": 1793908565,
+    "updatedAt": "2026-11-05T20:01:36.536Z",
+    "updatedAtTs": 1793908896,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1793908565,
-        201
+        1793908896,
+        200
       ],
       "peak24h": [
         1793823060,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793735766,
-          232
-        ],
-        [
-          1793736093,
-          238
-        ],
         [
           1793736387,
           238
@@ -2276,13 +2268,13 @@
         [
           1793908565,
           201
+        ],
+        [
+          1793908896,
+          200
         ]
       ],
       "hourlyPeak": [
-        [
-          1791316800,
-          244
-        ],
         [
           1791320400,
           212
@@ -4906,6 +4898,10 @@
         [
           1793732400,
           253
+        ],
+        [
+          1793736000,
+          238
         ]
       ],
       "dailyPeak": [
