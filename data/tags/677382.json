@@ -3,16 +3,16 @@
   "appid": "1063730",
   "steamAppid": 1063730,
   "name": "New World: Aeternum",
-  "players": 334,
+  "players": 338,
   "allTimePeak": 913634,
-  "peak24h": 390,
-  "peak24hAt": "2026-11-04T21:21:18.000Z",
-  "updatedAt": "2026-11-05T21:21:11.488Z",
+  "peak24h": 368,
+  "peak24hAt": "2026-11-05T19:11:18.000Z",
+  "updatedAt": "2026-11-05T21:26:15.088Z",
   "img_url": "2024/12/mixcollage-10-dec-2024-07-41-pm-7737.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-05T21:21:11.488Z",
-    "updatedAtTs": 1793913671,
+    "updatedAt": "2026-11-05T21:26:15.088Z",
+    "updatedAtTs": 1793913975,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793913671,
-        334
+        1793913975,
+        338
       ],
       "peak24h": [
-        1793827278,
-        390
+        1793905878,
+        368
       ],
       "peak48h": [
-        1793740876,
-        433
+        1793741181,
+        420
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793740876,
-          433
-        ],
         [
           1793741181,
           420
@@ -2280,6 +2276,10 @@
         [
           1793913671,
           334
+        ],
+        [
+          1793913975,
+          338
         ]
       ],
       "hourlyPeak": [
@@ -5422,6 +5422,6 @@
       ]
     }
   },
-  "peak48h": 433,
-  "peak48hAt": "2026-11-03T21:21:16.000Z"
+  "peak48h": 420,
+  "peak48hAt": "2026-11-03T21:26:21.000Z"
 }

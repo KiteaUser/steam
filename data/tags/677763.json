@@ -3,16 +3,16 @@
   "appid": "1569580",
   "steamAppid": 1569580,
   "name": "Blue Prince",
-  "players": 1062,
+  "players": 1052,
   "allTimePeak": 19243,
-  "peak24h": 1120,
-  "peak24hAt": "2026-11-04T21:26:13.000Z",
-  "updatedAt": "2026-11-05T21:21:11.488Z",
+  "peak24h": 1111,
+  "peak24hAt": "2026-11-04T21:31:18.000Z",
+  "updatedAt": "2026-11-05T21:26:15.088Z",
   "img_url": "2024/12/mixcollage-14-dec-2024-12-20-pm-9626.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-05T21:21:11.488Z",
-    "updatedAtTs": 1793913671,
+    "updatedAt": "2026-11-05T21:26:15.088Z",
+    "updatedAtTs": 1793913975,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,12 +23,12 @@
     },
     "summary": {
       "current": [
-        1793913671,
-        1062
+        1793913975,
+        1052
       ],
       "peak24h": [
-        1793827573,
-        1120
+        1793827878,
+        1111
       ],
       "peak48h": [
         1793741775,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793740876,
-          1220
-        ],
         [
           1793741181,
           1235
@@ -2276,6 +2272,10 @@
         [
           1793913671,
           1062
+        ],
+        [
+          1793913975,
+          1052
         ]
       ],
       "hourlyPeak": [

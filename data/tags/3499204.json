@@ -3,16 +3,16 @@
   "appid": "1783560",
   "steamAppid": 1783560,
   "name": "The Last Caretaker",
-  "players": 3349,
+  "players": 3298,
   "allTimePeak": 10767,
-  "peak24h": 3584,
-  "peak24hAt": "2026-11-04T21:21:18.000Z",
-  "updatedAt": "2026-11-05T21:21:11.488Z",
+  "peak24h": 3555,
+  "peak24hAt": "2026-11-05T19:41:17.000Z",
+  "updatedAt": "2026-11-05T21:26:15.088Z",
   "img_url": "2025/07/the-last-caretaker-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-05T21:21:11.488Z",
-    "updatedAtTs": 1793913671,
+    "updatedAt": "2026-11-05T21:26:15.088Z",
+    "updatedAtTs": 1793913975,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793913671,
-        3349
+        1793913975,
+        3298
       ],
       "peak24h": [
-        1793827278,
-        3584
+        1793907677,
+        3555
       ],
       "peak48h": [
-        1793740876,
-        3849
+        1793821280,
+        3795
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793740876,
-          3849
-        ],
         [
           1793741181,
           3767
@@ -2276,6 +2272,10 @@
         [
           1793913671,
           3349
+        ],
+        [
+          1793913975,
+          3298
         ]
       ],
       "hourlyPeak": [
@@ -5218,6 +5218,6 @@
       ]
     }
   },
-  "peak48h": 3849,
-  "peak48hAt": "2026-11-03T21:21:16.000Z"
+  "peak48h": 3795,
+  "peak48hAt": "2026-11-04T19:41:20.000Z"
 }
