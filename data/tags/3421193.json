@@ -3,16 +3,16 @@
   "appid": "1693980",
   "steamAppid": 1693980,
   "name": "Dead Space",
-  "players": 565,
+  "players": 556,
   "allTimePeak": 30925,
   "peak24h": 602,
   "peak24hAt": "2026-11-05T20:41:02.000Z",
-  "updatedAt": "2026-11-05T21:36:08.627Z",
+  "updatedAt": "2026-11-05T21:41:10.707Z",
   "img_url": "2025/02/mixcollage-25-feb-2025-11-47-am-9719.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-05T21:36:08.627Z",
-    "updatedAtTs": 1793914568,
+    "updatedAt": "2026-11-05T21:41:10.707Z",
+    "updatedAtTs": 1793914870,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793914568,
-        565
+        1793914870,
+        556
       ],
       "peak24h": [
         1793911262,
         602
       ],
       "peak48h": [
-        1793741775,
-        662
+        1793742073,
+        644
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793741775,
-          662
-        ],
         [
           1793742073,
           644
@@ -2276,6 +2272,10 @@
         [
           1793914568,
           565
+        ],
+        [
+          1793914870,
+          556
         ]
       ],
       "hourlyPeak": [
@@ -4905,7 +4905,7 @@
         ],
         [
           1793739600,
-          661
+          662
         ]
       ],
       "dailyPeak": [
@@ -5354,6 +5354,6 @@
       ]
     }
   },
-  "peak48h": 662,
-  "peak48hAt": "2026-11-03T21:36:15.000Z"
+  "peak48h": 644,
+  "peak48hAt": "2026-11-03T21:41:13.000Z"
 }
