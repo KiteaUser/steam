@@ -3,16 +3,16 @@
   "appid": "768200",
   "steamAppid": 768200,
   "name": "Smalland: Survive the Wilds",
-  "players": 96,
+  "players": 100,
   "allTimePeak": 12741,
   "peak24h": 282,
   "peak24hAt": "2026-11-04T19:55:58.000Z",
-  "updatedAt": "2026-11-05T11:36:00.897Z",
+  "updatedAt": "2026-11-05T11:41:15.660Z",
   "img_url": "2024/11/mixcollage-25-nov-2024-02-34-am-5688.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-05T11:36:00.897Z",
-    "updatedAtTs": 1793878560,
+    "updatedAt": "2026-11-05T11:41:15.660Z",
+    "updatedAtTs": 1793878875,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1793878560,
-        96
+        1793878875,
+        100
       ],
       "peak24h": [
         1793822158,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793706070,
-          148
-        ],
         [
           1793706370,
           148
@@ -2272,6 +2268,10 @@
         [
           1793878560,
           96
+        ],
+        [
+          1793878875,
+          100
         ]
       ],
       "hourlyPeak": [
@@ -4901,7 +4901,7 @@
         ],
         [
           1793703600,
-          137
+          148
         ]
       ],
       "dailyPeak": [

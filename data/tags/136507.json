@@ -7,12 +7,12 @@
   "allTimePeak": 89538,
   "peak24h": 5564,
   "peak24hAt": "2026-11-04T14:26:09.000Z",
-  "updatedAt": "2026-11-05T11:36:00.897Z",
+  "updatedAt": "2026-11-05T11:41:15.660Z",
   "img_url": "2025/01/tomb-raider.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-05T11:36:00.897Z",
-    "updatedAtTs": 1793878560,
+    "updatedAt": "2026-11-05T11:41:15.660Z",
+    "updatedAtTs": 1793878875,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,7 +23,7 @@
     },
     "summary": {
       "current": [
-        1793878560,
+        1793878875,
         3190
       ],
       "peak24h": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793706070,
-          3753
-        ],
         [
           1793706370,
           3753
@@ -2287,6 +2283,10 @@
         ],
         [
           1793878560,
+          3190
+        ],
+        [
+          1793878875,
           3190
         ]
       ],
@@ -4917,7 +4917,7 @@
         ],
         [
           1793703600,
-          3637
+          3753
         ]
       ],
       "dailyPeak": [
