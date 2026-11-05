@@ -7,12 +7,12 @@
   "allTimePeak": 33761,
   "peak24h": 2253,
   "peak24hAt": "2026-11-05T19:51:07.000Z",
-  "updatedAt": "2026-11-05T21:01:20.345Z",
+  "updatedAt": "2026-11-05T21:05:52.711Z",
   "img_url": "2025/04/roadcraft-tag-image.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-05T21:01:20.345Z",
-    "updatedAtTs": 1793912480,
+    "updatedAt": "2026-11-05T21:05:52.711Z",
+    "updatedAtTs": 1793912752,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,7 +23,7 @@
     },
     "summary": {
       "current": [
-        1793912480,
+        1793912752,
         2021
       ],
       "peak24h": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793739734,
-          1838
-        ],
         [
           1793739966,
           1838
@@ -2267,6 +2263,10 @@
         ],
         [
           1793912480,
+          2021
+        ],
+        [
+          1793912752,
           2021
         ]
       ],
@@ -4894,6 +4894,10 @@
         [
           1793736000,
           2011
+        ],
+        [
+          1793739600,
+          1838
         ]
       ],
       "dailyPeak": [
