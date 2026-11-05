@@ -3,16 +3,16 @@
   "appid": "2796010",
   "steamAppid": 2796010,
   "name": "Party Club",
-  "players": 8,
+  "players": 10,
   "allTimePeak": 40828,
   "peak24h": 51,
   "peak24hAt": "2026-11-05T12:26:04.000Z",
-  "updatedAt": "2026-11-05T18:56:11.858Z",
+  "updatedAt": "2026-11-05T19:01:43.448Z",
   "img_url": "2025/03/party-club-tag-page-cover-art-custom.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-05T18:56:11.858Z",
-    "updatedAtTs": 1793904971,
+    "updatedAt": "2026-11-05T19:01:43.448Z",
+    "updatedAtTs": 1793905303,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1793904971,
-        8
+        1793905303,
+        10
       ],
       "peak24h": [
         1793881564,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793732178,
-          15
-        ],
-        [
-          1793732498,
-          15
-        ],
         [
           1793732767,
           16
@@ -2272,13 +2264,13 @@
         [
           1793904971,
           8
+        ],
+        [
+          1793905303,
+          10
         ]
       ],
       "hourlyPeak": [
-        [
-          1791313200,
-          18
-        ],
         [
           1791316800,
           13
@@ -4902,6 +4894,10 @@
         [
           1793728800,
           18
+        ],
+        [
+          1793732400,
+          15
         ]
       ],
       "dailyPeak": [
