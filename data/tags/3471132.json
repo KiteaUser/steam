@@ -3,16 +3,16 @@
   "appid": "3404260",
   "steamAppid": 3404260,
   "name": "Dead as Disco",
-  "players": 570,
+  "players": 583,
   "allTimePeak": 3496,
   "peak24h": 691,
   "peak24hAt": "2026-11-04T22:41:06.000Z",
-  "updatedAt": "2026-11-05T21:51:08.083Z",
+  "updatedAt": "2026-11-05T21:56:16.326Z",
   "img_url": "2025/04/dead-as-disco-tag-image-2.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-05T21:51:08.083Z",
-    "updatedAtTs": 1793915468,
+    "updatedAt": "2026-11-05T21:56:16.326Z",
+    "updatedAtTs": 1793915776,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793915468,
-        570
+        1793915776,
+        583
       ],
       "peak24h": [
         1793832066,
         691
       ],
       "peak48h": [
-        1793742670,
-        840
+        1793743291,
+        818
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793742670,
-          840
-        ],
-        [
-          1793742970,
-          840
-        ],
         [
           1793743291,
           818
@@ -2272,6 +2264,10 @@
         [
           1793915468,
           570
+        ],
+        [
+          1793915776,
+          583
         ]
       ],
       "hourlyPeak": [
@@ -5085,6 +5081,6 @@
       "monthlyPeak": []
     }
   },
-  "peak48h": 840,
-  "peak48hAt": "2026-11-03T21:51:10.000Z"
+  "peak48h": 818,
+  "peak48hAt": "2026-11-03T22:01:31.000Z"
 }
