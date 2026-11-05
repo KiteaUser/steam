@@ -3,16 +3,16 @@
   "appid": "1331550",
   "steamAppid": 1331550,
   "name": "Big Ambitions",
-  "players": 1048,
+  "players": 1054,
   "allTimePeak": 12220,
   "peak24h": 1143,
   "peak24hAt": "2026-11-04T20:46:17.000Z",
-  "updatedAt": "2026-11-05T20:41:02.768Z",
+  "updatedAt": "2026-11-05T20:46:12.786Z",
   "img_url": "2024/12/mixcollage-07-dec-2024-06-41-pm-1736.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-05T20:41:02.768Z",
-    "updatedAtTs": 1793911262,
+    "updatedAt": "2026-11-05T20:46:12.786Z",
+    "updatedAtTs": 1793911572,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793911262,
-        1048
+        1793911572,
+        1054
       ],
       "peak24h": [
         1793825177,
         1143
       ],
       "peak48h": [
-        1793738481,
-        1266
+        1793738788,
+        1257
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793738481,
-          1266
-        ],
         [
           1793738788,
           1257
@@ -2272,6 +2268,10 @@
         [
           1793911262,
           1048
+        ],
+        [
+          1793911572,
+          1054
         ]
       ],
       "hourlyPeak": [
@@ -5342,6 +5342,6 @@
       ]
     }
   },
-  "peak48h": 1266,
-  "peak48hAt": "2026-11-03T20:41:21.000Z"
+  "peak48h": 1257,
+  "peak48hAt": "2026-11-03T20:46:28.000Z"
 }
