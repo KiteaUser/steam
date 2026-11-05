@@ -3,16 +3,16 @@
   "appid": "2791440",
   "steamAppid": 2791440,
   "name": "Brighter Shores",
-  "players": 142,
+  "players": 128,
   "allTimePeak": 21272,
-  "peak24h": 143,
-  "peak24hAt": "2026-11-04T22:46:13.000Z",
-  "updatedAt": "2026-11-05T22:46:12.231Z",
+  "peak24h": 142,
+  "peak24hAt": "2026-11-05T22:31:13.000Z",
+  "updatedAt": "2026-11-05T22:51:18.259Z",
   "img_url": "2024/10/brighter-shores-tag-image.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-05T22:46:12.231Z",
-    "updatedAtTs": 1793918772,
+    "updatedAt": "2026-11-05T22:51:18.259Z",
+    "updatedAtTs": 1793919078,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1793918772,
-        142
+        1793919078,
+        128
       ],
       "peak24h": [
-        1793832373,
-        143
+        1793917873,
+        142
       ],
       "peak48h": [
-        1793745974,
+        1793746555,
         156
       ],
       "allTimePeak": [
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793745974,
-          156
-        ],
-        [
-          1793746268,
-          156
-        ],
         [
           1793746555,
           156
@@ -2272,6 +2264,10 @@
         [
           1793918772,
           142
+        ],
+        [
+          1793919078,
+          128
         ]
       ],
       "hourlyPeak": [
@@ -5263,5 +5259,5 @@
     }
   },
   "peak48h": 156,
-  "peak48hAt": "2026-11-03T22:46:14.000Z"
+  "peak48hAt": "2026-11-03T22:55:55.000Z"
 }
