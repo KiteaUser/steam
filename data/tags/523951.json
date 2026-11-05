@@ -3,16 +3,16 @@
   "appid": "1592190",
   "steamAppid": 1592190,
   "name": "BONELAB",
-  "players": 308,
+  "players": 324,
   "allTimePeak": 11991,
   "peak24h": 382,
   "peak24hAt": "2026-11-05T00:41:15.000Z",
-  "updatedAt": "2026-11-05T22:31:13.773Z",
+  "updatedAt": "2026-11-05T22:36:08.494Z",
   "img_url": "2024/11/mixcollage-22-nov-2024-02-33-am-2401.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-05T22:31:13.773Z",
-    "updatedAtTs": 1793917873,
+    "updatedAt": "2026-11-05T22:36:08.494Z",
+    "updatedAtTs": 1793918168,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1793917873,
-        308
+        1793918168,
+        324
       ],
       "peak24h": [
         1793839275,
         382
       ],
       "peak48h": [
-        1793745365,
+        1793745693,
         389
       ],
       "allTimePeak": [
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793745087,
-          384
-        ],
-        [
-          1793745365,
-          389
-        ],
         [
           1793745693,
           389
@@ -2276,6 +2268,10 @@
         [
           1793917873,
           308
+        ],
+        [
+          1793918168,
+          324
         ]
       ],
       "hourlyPeak": [
@@ -5367,5 +5363,5 @@
     }
   },
   "peak48h": 389,
-  "peak48hAt": "2026-11-03T22:36:05.000Z"
+  "peak48hAt": "2026-11-03T22:41:33.000Z"
 }
