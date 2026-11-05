@@ -7,12 +7,12 @@
   "allTimePeak": 21272,
   "peak24h": 142,
   "peak24hAt": "2026-11-05T22:31:13.000Z",
-  "updatedAt": "2026-11-05T22:51:18.259Z",
+  "updatedAt": "2026-11-05T22:56:04.311Z",
   "img_url": "2024/10/brighter-shores-tag-image.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-05T22:51:18.259Z",
-    "updatedAtTs": 1793919078,
+    "updatedAt": "2026-11-05T22:56:04.311Z",
+    "updatedAtTs": 1793919364,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,7 +23,7 @@
     },
     "summary": {
       "current": [
-        1793919078,
+        1793919364,
         128
       ],
       "peak24h": [
@@ -31,8 +31,8 @@
         142
       ],
       "peak48h": [
-        1793746555,
-        156
+        1793831173,
+        143
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793746555,
-          156
-        ],
         [
           1793747163,
           141
@@ -2267,6 +2263,10 @@
         ],
         [
           1793919078,
+          128
+        ],
+        [
+          1793919364,
           128
         ]
       ],
@@ -5258,6 +5258,6 @@
       ]
     }
   },
-  "peak48h": 156,
-  "peak48hAt": "2026-11-03T22:55:55.000Z"
+  "peak48h": 143,
+  "peak48hAt": "2026-11-04T22:26:13.000Z"
 }
