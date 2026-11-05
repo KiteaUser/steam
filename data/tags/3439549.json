@@ -7,12 +7,12 @@
   "allTimePeak": 5222,
   "peak24h": 2865,
   "peak24hAt": "2026-11-05T13:11:14.000Z",
-  "updatedAt": "2026-11-05T13:16:04.654Z",
+  "updatedAt": "2026-11-05T13:21:15.404Z",
   "img_url": "2025/03/wizardry-variants-daphne-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-05T13:16:04.654Z",
-    "updatedAtTs": 1793884564,
+    "updatedAt": "2026-11-05T13:21:15.404Z",
+    "updatedAtTs": 1793884875,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,7 +23,7 @@
     },
     "summary": {
       "current": [
-        1793884564,
+        1793884875,
         2865
       ],
       "peak24h": [
@@ -31,8 +31,8 @@
         2865
       ],
       "peak48h": [
-        1793711768,
-        3077
+        1793712369,
+        3069
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793711768,
-          3077
-        ],
-        [
-          1793712070,
-          3038
-        ],
         [
           1793712369,
           3069
@@ -2275,6 +2267,10 @@
         ],
         [
           1793884564,
+          2865
+        ],
+        [
+          1793884875,
           2865
         ]
       ],
@@ -5250,6 +5246,6 @@
       ]
     }
   },
-  "peak48h": 3077,
-  "peak48hAt": "2026-11-03T13:16:08.000Z"
+  "peak48h": 3069,
+  "peak48hAt": "2026-11-03T13:26:09.000Z"
 }
