@@ -3,16 +3,16 @@
   "appid": "1818750",
   "steamAppid": 1818750,
   "name": "MultiVersus",
-  "players": 10,
+  "players": 5,
   "allTimePeak": 153433,
   "peak24h": 49,
   "peak24hAt": "2026-11-05T03:26:03.000Z",
-  "updatedAt": "2026-11-05T10:41:13.628Z",
+  "updatedAt": "2026-11-05T10:46:15.382Z",
   "img_url": "2024/12/mixcollage-07-dec-2024-08-01-am-3721.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-05T10:41:13.628Z",
-    "updatedAtTs": 1793875273,
+    "updatedAt": "2026-11-05T10:46:15.382Z",
+    "updatedAtTs": 1793875575,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1793875273,
-        10
+        1793875575,
+        5
       ],
       "peak24h": [
         1793849163,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793702770,
-          5
-        ],
         [
           1793703076,
           4
@@ -2268,6 +2264,10 @@
         [
           1793875273,
           10
+        ],
+        [
+          1793875575,
+          5
         ]
       ],
       "hourlyPeak": [
