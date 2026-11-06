@@ -7,12 +7,12 @@
   "allTimePeak": 27406,
   "peak24h": 6488,
   "peak24hAt": "2026-11-06T14:36:01.000Z",
-  "updatedAt": "2026-11-06T16:06:02.963Z",
+  "updatedAt": "2026-11-06T16:11:03.614Z",
   "img_url": "2025/03/torchlight-infinite-cover.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-06T16:06:02.963Z",
-    "updatedAtTs": 1793981162,
+    "updatedAt": "2026-11-06T16:11:03.614Z",
+    "updatedAtTs": 1793981463,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,7 +23,7 @@
     },
     "summary": {
       "current": [
-        1793981162,
+        1793981463,
         6252
       ],
       "peak24h": [
@@ -31,7 +31,7 @@
         6488
       ],
       "peak48h": [
-        1793808384,
+        1793808673,
         7445
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793808384,
-          7445
-        ],
         [
           1793808673,
           7445
@@ -2319,6 +2315,10 @@
         ],
         [
           1793981162,
+          6252
+        ],
+        [
+          1793981463,
           6252
         ]
       ],
@@ -5415,5 +5415,5 @@
     }
   },
   "peak48h": 7445,
-  "peak48hAt": "2026-11-04T16:06:24.000Z"
+  "peak48hAt": "2026-11-04T16:11:13.000Z"
 }
