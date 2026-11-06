@@ -3,16 +3,16 @@
   "appid": "42910",
   "steamAppid": 42910,
   "name": "Magicka",
-  "players": 7,
+  "players": 5,
   "allTimePeak": 11727,
   "peak24h": 32,
   "peak24hAt": "2026-11-05T17:16:07.000Z",
-  "updatedAt": "2026-11-06T14:11:13.247Z",
+  "updatedAt": "2026-11-06T14:16:19.558Z",
   "img_url": "2024/12/mixcollage-12-dec-2024-12-00-pm-8966.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-06T14:11:13.247Z",
-    "updatedAtTs": 1793974273,
+    "updatedAt": "2026-11-06T14:16:19.558Z",
+    "updatedAtTs": 1793974579,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1793974273,
-        7
+        1793974579,
+        5
       ],
       "peak24h": [
         1793898967,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793801771,
-          23
-        ],
         [
           1793802072,
           23
@@ -2296,6 +2292,10 @@
         [
           1793974273,
           7
+        ],
+        [
+          1793974579,
+          5
         ]
       ],
       "hourlyPeak": [
@@ -4925,7 +4925,7 @@
         ],
         [
           1793800800,
-          21
+          23
         ]
       ],
       "dailyPeak": [
