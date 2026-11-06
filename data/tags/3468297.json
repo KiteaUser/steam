@@ -3,16 +3,16 @@
   "appid": "2075800",
   "steamAppid": 2075800,
   "name": "STAR WARS Zero Company",
-  "players": 1440,
+  "players": 1432,
   "allTimePeak": 77811,
   "peak24h": 1440,
   "peak24hAt": "2026-11-06T20:51:17.000Z",
-  "updatedAt": "2026-11-06T20:51:17.272Z",
+  "updatedAt": "2026-11-06T20:56:06.364Z",
   "img_url": "2025/04/star-wars-zero-company-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-06T20:51:17.272Z",
-    "updatedAtTs": 1793998277,
+    "updatedAt": "2026-11-06T20:56:06.364Z",
+    "updatedAtTs": 1793998566,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793998277,
-        1440
+        1793998566,
+        1432
       ],
       "peak24h": [
         1793998277,
         1440
       ],
       "peak48h": [
-        1793825766,
-        1509
+        1793826086,
+        1482
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793825766,
-          1509
-        ],
         [
           1793826086,
           1482
@@ -2320,6 +2316,10 @@
         [
           1793998277,
           1440
+        ],
+        [
+          1793998566,
+          1432
         ]
       ],
       "hourlyPeak": [
@@ -5130,6 +5130,6 @@
       ]
     }
   },
-  "peak48h": 1509,
-  "peak48hAt": "2026-11-04T20:56:06.000Z"
+  "peak48h": 1482,
+  "peak48hAt": "2026-11-04T21:01:26.000Z"
 }
