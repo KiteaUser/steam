@@ -3,16 +3,16 @@
   "appid": "892970",
   "steamAppid": 892970,
   "name": "Valheim",
-  "players": 64544,
+  "players": 64291,
   "allTimePeak": 502387,
   "peak24h": 65030,
   "peak24hAt": "2026-11-06T20:51:17.000Z",
-  "updatedAt": "2026-11-06T21:05:55.291Z",
+  "updatedAt": "2026-11-06T21:11:08.480Z",
   "img_url": "wm/2024/12/mixcollage-07-dec-2024-09-01-am-6529.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-06T21:05:55.291Z",
-    "updatedAtTs": 1793999155,
+    "updatedAt": "2026-11-06T21:11:08.480Z",
+    "updatedAtTs": 1793999468,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1793999155,
-        64544
+        1793999468,
+        64291
       ],
       "peak24h": [
         1793998277,
         65030
       ],
       "peak48h": [
-        1793826361,
+        1793826671,
         65948
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793826361,
-          65948
-        ],
         [
           1793826671,
           65948
@@ -2312,6 +2308,10 @@
         [
           1793999155,
           64544
+        ],
+        [
+          1793999468,
+          64291
         ]
       ],
       "hourlyPeak": [
@@ -5487,5 +5487,5 @@
     }
   },
   "peak48h": 65948,
-  "peak48hAt": "2026-11-04T21:06:01.000Z"
+  "peak48hAt": "2026-11-04T21:11:11.000Z"
 }
