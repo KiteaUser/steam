@@ -3,16 +3,16 @@
   "appid": "2408820",
   "steamAppid": 2408820,
   "name": "Luma Island",
-  "players": 427,
+  "players": 405,
   "allTimePeak": 35098,
   "peak24h": 453,
   "peak24hAt": "2026-11-06T14:41:06.000Z",
-  "updatedAt": "2026-11-06T15:21:03.072Z",
+  "updatedAt": "2026-11-06T15:26:03.443Z",
   "img_url": "2024/11/luma-island-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-06T15:21:03.072Z",
-    "updatedAtTs": 1793978463,
+    "updatedAt": "2026-11-06T15:26:03.443Z",
+    "updatedAtTs": 1793978763,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793978463,
-        427
+        1793978763,
+        405
       ],
       "peak24h": [
         1793976066,
         453
       ],
       "peak48h": [
-        1793805955,
-        487
+        1793806275,
+        478
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793805955,
-          487
-        ],
         [
           1793806275,
           478
@@ -2312,6 +2308,10 @@
         [
           1793978463,
           427
+        ],
+        [
+          1793978763,
+          405
         ]
       ],
       "hourlyPeak": [
@@ -5306,6 +5306,6 @@
       ]
     }
   },
-  "peak48h": 487,
-  "peak48hAt": "2026-11-04T15:25:55.000Z"
+  "peak48h": 478,
+  "peak48hAt": "2026-11-04T15:31:15.000Z"
 }
