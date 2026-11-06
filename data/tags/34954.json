@@ -3,16 +3,16 @@
   "appid": "109600",
   "steamAppid": 109600,
   "name": "Neverwinter",
-  "players": 721,
+  "players": 742,
   "allTimePeak": 14866,
   "peak24h": 745,
   "peak24hAt": "2026-11-05T20:51:12.000Z",
-  "updatedAt": "2026-11-06T20:11:13.519Z",
+  "updatedAt": "2026-11-06T20:16:09.153Z",
   "img_url": "2024/12/mixcollage-09-dec-2024-10-12-am-929.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-06T20:11:13.519Z",
-    "updatedAtTs": 1793995873,
+    "updatedAt": "2026-11-06T20:16:09.153Z",
+    "updatedAtTs": 1793996169,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1793995873,
-        721
+        1793996169,
+        742
       ],
       "peak24h": [
         1793911872,
         745
       ],
       "peak48h": [
-        1793823367,
+        1793823664,
         808
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793823367,
-          808
-        ],
         [
           1793823664,
           808
@@ -2316,6 +2312,10 @@
         [
           1793995873,
           721
+        ],
+        [
+          1793996169,
+          742
         ]
       ],
       "hourlyPeak": [
@@ -5835,5 +5835,5 @@
     }
   },
   "peak48h": 808,
-  "peak48hAt": "2026-11-04T20:16:07.000Z"
+  "peak48hAt": "2026-11-04T20:21:04.000Z"
 }
