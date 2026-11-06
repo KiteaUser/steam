@@ -3,16 +3,16 @@
   "appid": "794260",
   "steamAppid": 794260,
   "name": "Outward",
-  "players": 485,
+  "players": 487,
   "allTimePeak": 11296,
   "peak24h": 511,
   "peak24hAt": "2026-11-06T19:21:14.000Z",
-  "updatedAt": "2026-11-06T20:01:47.229Z",
+  "updatedAt": "2026-11-06T20:06:10.817Z",
   "img_url": "2024/12/mixcollage-14-dec-2024-08-17-pm-5506.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-06T20:01:47.229Z",
-    "updatedAtTs": 1793995307,
+    "updatedAt": "2026-11-06T20:06:10.817Z",
+    "updatedAtTs": 1793995570,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1793995307,
-        485
+        1793995570,
+        487
       ],
       "peak24h": [
         1793992874,
         511
       ],
       "peak48h": [
-        1793822759,
-        529
+        1793827278,
+        521
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793822759,
-          529
-        ],
         [
           1793823060,
           503
@@ -2312,6 +2308,10 @@
         [
           1793995307,
           485
+        ],
+        [
+          1793995570,
+          487
         ]
       ],
       "hourlyPeak": [
@@ -4941,7 +4941,7 @@
         ],
         [
           1793822400,
-          521
+          529
         ]
       ],
       "dailyPeak": [
@@ -5578,6 +5578,6 @@
       ]
     }
   },
-  "peak48h": 529,
-  "peak48hAt": "2026-11-04T20:05:59.000Z"
+  "peak48h": 521,
+  "peak48hAt": "2026-11-04T21:21:18.000Z"
 }
