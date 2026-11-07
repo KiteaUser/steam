@@ -3,16 +3,16 @@
   "appid": "2217000",
   "steamAppid": 2217000,
   "name": "Rivals of Aether II",
-  "players": 621,
+  "players": 611,
   "allTimePeak": 11765,
   "peak24h": 621,
   "peak24hAt": "2026-11-07T03:31:20.000Z",
-  "updatedAt": "2026-11-07T03:36:02.968Z",
+  "updatedAt": "2026-11-07T03:41:05.009Z",
   "img_url": "2024/12/mixcollage-10-dec-2024-07-06-am-28.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-07T03:36:02.968Z",
-    "updatedAtTs": 1794022562,
+    "updatedAt": "2026-11-07T03:41:05.009Z",
+    "updatedAtTs": 1794022865,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794022562,
-        621
+        1794022865,
+        611
       ],
       "peak24h": [
         1794022280,
         621
       ],
       "peak48h": [
-        1793849763,
-        625
+        1794022280,
+        621
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793849763,
-          625
-        ],
         [
           1793850076,
           603
@@ -2320,6 +2316,10 @@
         [
           1794022562,
           621
+        ],
+        [
+          1794022865,
+          611
         ]
       ],
       "hourlyPeak": [
@@ -5318,6 +5318,6 @@
       ]
     }
   },
-  "peak48h": 625,
-  "peak48hAt": "2026-11-05T03:36:03.000Z"
+  "peak48h": 621,
+  "peak48hAt": "2026-11-07T03:31:20.000Z"
 }
