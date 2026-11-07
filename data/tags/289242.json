@@ -3,16 +3,16 @@
   "appid": "440",
   "steamAppid": 440,
   "name": "Team Fortress 2",
-  "players": 99358,
+  "players": 103424,
   "allTimePeak": 253997,
   "peak24h": 103676,
   "peak24hAt": "2026-11-07T19:16:07.000Z",
-  "updatedAt": "2026-11-07T19:21:17.383Z",
+  "updatedAt": "2026-11-07T19:26:07.742Z",
   "img_url": "2024/12/mixcollage-04-dec-2024-06-52-pm-4803.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-07T19:21:17.383Z",
-    "updatedAtTs": 1794079277,
+    "updatedAt": "2026-11-07T19:26:07.742Z",
+    "updatedAtTs": 1794079567,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794079277,
-        99358
+        1794079567,
+        103424
       ],
       "peak24h": [
         1794078967,
         103676
       ],
       "peak48h": [
-        1793906766,
-        104257
+        1794078967,
+        103676
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793906766,
-          104257
-        ],
         [
           1793907095,
           101148
@@ -2328,6 +2324,10 @@
         [
           1794079277,
           99358
+        ],
+        [
+          1794079567,
+          103424
         ]
       ],
       "hourlyPeak": [
@@ -5918,6 +5918,6 @@
       ]
     }
   },
-  "peak48h": 104257,
-  "peak48hAt": "2026-11-05T19:26:06.000Z"
+  "peak48h": 103676,
+  "peak48hAt": "2026-11-07T19:16:07.000Z"
 }
