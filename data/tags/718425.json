@@ -3,16 +3,16 @@
   "appid": "2201320",
   "steamAppid": 2201320,
   "name": "Date Everything",
-  "players": 200,
+  "players": 201,
   "allTimePeak": 14231,
   "peak24h": 365,
   "peak24hAt": "2026-11-07T03:01:32.000Z",
-  "updatedAt": "2026-11-07T15:11:08.747Z",
+  "updatedAt": "2026-11-07T15:16:06.661Z",
   "img_url": "2024/11/mixcollage-22-nov-2024-12-14-pm-8306.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-07T15:11:08.747Z",
-    "updatedAtTs": 1794064268,
+    "updatedAt": "2026-11-07T15:16:06.661Z",
+    "updatedAtTs": 1794064566,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1794064268,
-        200
+        1794064566,
+        201
       ],
       "peak24h": [
         1794020492,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793891477,
-          151
-        ],
         [
           1793891774,
           151
@@ -2328,6 +2324,10 @@
         [
           1794064268,
           200
+        ],
+        [
+          1794064566,
+          201
         ]
       ],
       "hourlyPeak": [
