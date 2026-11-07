@@ -3,16 +3,16 @@
   "appid": "619820",
   "steamAppid": 619820,
   "name": "Heroes of Hammerwatch II",
-  "players": 200,
+  "players": 180,
   "allTimePeak": 21237,
   "peak24h": 262,
   "peak24hAt": "2026-11-07T05:01:26.000Z",
-  "updatedAt": "2026-11-07T10:01:23.211Z",
+  "updatedAt": "2026-11-07T10:06:11.902Z",
   "img_url": "2025/01/mixcollage-22-jan-2025-02-13-am-72.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-07T10:01:23.211Z",
-    "updatedAtTs": 1794045683,
+    "updatedAt": "2026-11-07T10:06:11.902Z",
+    "updatedAtTs": 1794045971,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1794045683,
-        200
+        1794045971,
+        180
       ],
       "peak24h": [
         1794027686,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793872894,
-          126
-        ],
-        [
-          1793873160,
-          132
-        ],
         [
           1793873464,
           126
@@ -2316,6 +2308,10 @@
         [
           1794045683,
           200
+        ],
+        [
+          1794045971,
+          180
         ]
       ],
       "hourlyPeak": [
@@ -4941,6 +4937,10 @@
         ],
         [
           1793869200,
+          132
+        ],
+        [
+          1793872800,
           132
         ]
       ],
