@@ -3,16 +3,16 @@
   "appid": "927350",
   "steamAppid": 927350,
   "name": "Hood: Outlaws & Legends",
-  "players": 6,
+  "players": 5,
   "allTimePeak": 11536,
   "peak24h": 6,
   "peak24hAt": "2026-11-06T22:21:10.000Z",
-  "updatedAt": "2026-11-07T20:25:55.914Z",
+  "updatedAt": "2026-11-07T20:31:15.601Z",
   "img_url": "2022/10/HoodOutlawsLegendsTagPage.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-07T20:25:55.914Z",
-    "updatedAtTs": 1794083155,
+    "updatedAt": "2026-11-07T20:31:15.601Z",
+    "updatedAtTs": 1794083475,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1794083155,
-        6
+        1794083475,
+        5
       ],
       "peak24h": [
         1794003670,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793910365,
-          7
-        ],
         [
           1793910688,
           8
@@ -1416,6 +1412,10 @@
         [
           1794083155,
           6
+        ],
+        [
+          1794083475,
+          5
         ]
       ],
       "hourlyPeak": [
