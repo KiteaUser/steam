@@ -3,16 +3,16 @@
   "appid": "1335830",
   "steamAppid": 1335830,
   "name": "Len's Island",
-  "players": 119,
+  "players": 124,
   "allTimePeak": 15912,
-  "peak24h": 119,
-  "peak24hAt": "2026-11-07T14:01:27.000Z",
-  "updatedAt": "2026-11-07T15:01:21.193Z",
+  "peak24h": 124,
+  "peak24hAt": "2026-11-07T15:05:59.000Z",
+  "updatedAt": "2026-11-07T15:05:59.447Z",
   "img_url": "2025/06/len-s-island-tag-image.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-07T15:01:21.193Z",
-    "updatedAtTs": 1794063681,
+    "updatedAt": "2026-11-07T15:05:59.447Z",
+    "updatedAtTs": 1794063959,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794063681,
-        119
+        1794063959,
+        124
       ],
       "peak24h": [
-        1794060087,
-        119
+        1794063959,
+        124
       ],
       "peak48h": [
-        1794060087,
-        119
+        1794063959,
+        124
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793890899,
-          61
-        ],
         [
           1793891164,
           62
@@ -2320,6 +2316,10 @@
         [
           1794063681,
           119
+        ],
+        [
+          1794063959,
+          124
         ]
       ],
       "hourlyPeak": [
@@ -4946,6 +4946,10 @@
         [
           1793887200,
           72
+        ],
+        [
+          1793890800,
+          61
         ]
       ],
       "dailyPeak": [
@@ -5458,6 +5462,6 @@
       ]
     }
   },
-  "peak48h": 119,
-  "peak48hAt": "2026-11-07T14:01:27.000Z"
+  "peak48h": 124,
+  "peak48hAt": "2026-11-07T15:05:59.000Z"
 }
