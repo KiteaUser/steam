@@ -3,16 +3,16 @@
   "appid": "20920",
   "steamAppid": 20920,
   "name": "The Witcher 2",
-  "players": 797,
+  "players": 786,
   "allTimePeak": 12884,
   "peak24h": 797,
   "peak24hAt": "2026-11-07T20:01:22.000Z",
-  "updatedAt": "2026-11-07T20:01:22.060Z",
+  "updatedAt": "2026-11-07T20:06:03.932Z",
   "img_url": "2024/12/mixcollage-04-dec-2024-07-58-am-2429.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-07T20:01:22.060Z",
-    "updatedAtTs": 1794081682,
+    "updatedAt": "2026-11-07T20:06:03.932Z",
+    "updatedAtTs": 1794081963,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1794081682,
-        797
+        1794081963,
+        786
       ],
       "peak24h": [
         1794081682,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793908896,
-          625
-        ],
         [
           1793909168,
           603
@@ -2324,6 +2320,10 @@
         [
           1794081682,
           797
+        ],
+        [
+          1794081963,
+          786
         ]
       ],
       "hourlyPeak": [
@@ -4949,6 +4949,10 @@
         ],
         [
           1793905200,
+          625
+        ],
+        [
+          1793908800,
           625
         ]
       ],
