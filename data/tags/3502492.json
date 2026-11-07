@@ -3,16 +3,16 @@
   "appid": "560380",
   "steamAppid": 560380,
   "name": "MapleStory 2",
-  "players": 1,
+  "players": 2,
   "allTimePeak": 42467,
-  "peak24h": 1,
-  "peak24hAt": "2026-11-06T22:51:24.000Z",
-  "updatedAt": "2026-11-07T19:11:16.562Z",
+  "peak24h": 2,
+  "peak24hAt": "2026-11-07T19:16:07.000Z",
+  "updatedAt": "2026-11-07T19:16:07.237Z",
   "img_url": "",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-07T19:11:16.562Z",
-    "updatedAtTs": 1794078676,
+    "updatedAt": "2026-11-07T19:16:07.237Z",
+    "updatedAtTs": 1794078967,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794078676,
-        1
+        1794078967,
+        2
       ],
       "peak24h": [
-        1794005484,
-        1
+        1794078967,
+        2
       ],
       "peak48h": [
-        1793905878,
-        1
+        1794078967,
+        2
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793905878,
-          1
-        ],
         [
           1793906182,
           1
@@ -1504,6 +1500,10 @@
         [
           1794078676,
           1
+        ],
+        [
+          1794078967,
+          2
         ]
       ],
       "hourlyPeak": [
@@ -2830,6 +2830,6 @@
       ]
     }
   },
-  "peak48h": 1,
-  "peak48hAt": "2026-11-05T19:11:18.000Z"
+  "peak48h": 2,
+  "peak48hAt": "2026-11-07T19:16:07.000Z"
 }
