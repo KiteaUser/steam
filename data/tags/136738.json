@@ -3,16 +3,16 @@
   "appid": "2457220",
   "steamAppid": 2457220,
   "name": "Avowed",
-  "players": 260,
+  "players": 256,
   "allTimePeak": 19198,
   "peak24h": 260,
   "peak24hAt": "2026-11-07T20:51:08.000Z",
-  "updatedAt": "2026-11-07T20:51:08.787Z",
+  "updatedAt": "2026-11-07T20:55:59.811Z",
   "img_url": "2025/02/avowed-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-07T20:51:08.787Z",
-    "updatedAtTs": 1794084668,
+    "updatedAt": "2026-11-07T20:55:59.811Z",
+    "updatedAtTs": 1794084959,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1794084668,
-        260
+        1794084959,
+        256
       ],
       "peak24h": [
         1794084668,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793911872,
-          175
-        ],
         [
           1793912170,
           166
@@ -2336,6 +2332,10 @@
         [
           1794084668,
           260
+        ],
+        [
+          1794084959,
+          256
         ]
       ],
       "hourlyPeak": [
