@@ -3,16 +3,16 @@
   "appid": "2667970",
   "steamAppid": 2667970,
   "name": "100 Asian Cats",
-  "players": 6,
+  "players": 4,
   "allTimePeak": 13382,
   "peak24h": 7,
   "peak24hAt": "2026-11-07T10:41:03.000Z",
-  "updatedAt": "2026-11-07T13:11:02.369Z",
+  "updatedAt": "2026-11-07T13:16:07.104Z",
   "img_url": "2024/12/mixcollage-03-dec-2024-11-35-pm-1321.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-07T13:11:02.369Z",
-    "updatedAtTs": 1794057062,
+    "updatedAt": "2026-11-07T13:16:07.104Z",
+    "updatedAtTs": 1794057367,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1794057062,
-        6
+        1794057367,
+        4
       ],
       "peak24h": [
         1794048063,
         7
       ],
       "peak48h": [
-        1793884564,
+        1793884875,
         11
       ],
       "allTimePeak": [
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793884274,
-          10
-        ],
-        [
-          1793884564,
-          11
-        ],
         [
           1793884875,
           11
@@ -2320,6 +2312,10 @@
         [
           1794057062,
           6
+        ],
+        [
+          1794057367,
+          4
         ]
       ],
       "hourlyPeak": [
@@ -4949,7 +4945,7 @@
         ],
         [
           1793883600,
-          9
+          11
         ]
       ],
       "dailyPeak": [
@@ -5363,5 +5359,5 @@
     }
   },
   "peak48h": 11,
-  "peak48hAt": "2026-11-05T13:16:04.000Z"
+  "peak48hAt": "2026-11-05T13:21:15.000Z"
 }
