@@ -3,16 +3,16 @@
   "appid": "211820",
   "steamAppid": 211820,
   "name": "Starbound",
-  "players": 863,
+  "players": 861,
   "allTimePeak": 88709,
   "peak24h": 863,
   "peak24hAt": "2026-11-07T14:21:08.000Z",
-  "updatedAt": "2026-11-07T14:21:08.075Z",
+  "updatedAt": "2026-11-07T14:26:08.021Z",
   "img_url": "2024/12/mixcollage-12-dec-2024-12-26-am-5378.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-07T14:21:08.075Z",
-    "updatedAtTs": 1794061268,
+    "updatedAt": "2026-11-07T14:26:08.021Z",
+    "updatedAtTs": 1794061568,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1794061268,
-        863
+        1794061568,
+        861
       ],
       "peak24h": [
         1794061268,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793888478,
-          638
-        ],
         [
           1793889162,
           642
@@ -2320,6 +2316,10 @@
         [
           1794061268,
           863
+        ],
+        [
+          1794061568,
+          861
         ]
       ],
       "hourlyPeak": [
