@@ -3,16 +3,16 @@
   "appid": "1966410",
   "steamAppid": 1966410,
   "name": "Aphelion",
-  "players": 8,
+  "players": 9,
   "allTimePeak": 120,
-  "peak24h": 8,
-  "peak24hAt": "2026-11-07T15:51:11.000Z",
-  "updatedAt": "2026-11-08T15:51:09.637Z",
+  "peak24h": 9,
+  "peak24hAt": "2026-11-08T15:56:09.000Z",
+  "updatedAt": "2026-11-08T15:56:09.275Z",
   "img_url": "2026/02/aphelion-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-08T15:51:09.637Z",
-    "updatedAtTs": 1794153069,
+    "updatedAt": "2026-11-08T15:56:09.275Z",
+    "updatedAtTs": 1794153369,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794153069,
-        8
+        1794153369,
+        9
       ],
       "peak24h": [
-        1794066671,
-        8
+        1794153369,
+        9
       ],
       "peak48h": [
-        1794063681,
-        8
+        1794153369,
+        9
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793980274,
-          6
-        ],
-        [
-          1793980568,
-          7
-        ],
         [
           1793980891,
           6
@@ -2344,6 +2336,10 @@
         [
           1794153069,
           8
+        ],
+        [
+          1794153369,
+          9
         ]
       ],
       "hourlyPeak": [
@@ -5110,6 +5106,6 @@
       ]
     }
   },
-  "peak48h": 8,
-  "peak48hAt": "2026-11-07T15:01:21.000Z"
+  "peak48h": 9,
+  "peak48hAt": "2026-11-08T15:56:09.000Z"
 }
