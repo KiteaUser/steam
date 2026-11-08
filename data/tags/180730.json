@@ -3,16 +3,16 @@
   "appid": "1144200",
   "steamAppid": 1144200,
   "name": "Ready or Not",
-  "players": 7839,
+  "players": 7896,
   "allTimePeak": 55174,
-  "peak24h": 8015,
-  "peak24hAt": "2026-11-07T14:46:09.000Z",
-  "updatedAt": "2026-11-08T14:46:03.861Z",
+  "peak24h": 7999,
+  "peak24hAt": "2026-11-08T14:21:13.000Z",
+  "updatedAt": "2026-11-08T14:51:03.117Z",
   "img_url": "2025/09/ready-or-not-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-08T14:46:03.861Z",
-    "updatedAtTs": 1794149163,
+    "updatedAt": "2026-11-08T14:51:03.117Z",
+    "updatedAtTs": 1794149463,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,12 +23,12 @@
     },
     "summary": {
       "current": [
-        1794149163,
-        7839
+        1794149463,
+        7896
       ],
       "peak24h": [
-        1794062769,
-        8015
+        1794147673,
+        7999
       ],
       "peak48h": [
         1794062162,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793976377,
-          6678
-        ],
         [
           1793976681,
           6644
@@ -2344,6 +2340,10 @@
         [
           1794149163,
           7839
+        ],
+        [
+          1794149463,
+          7896
         ]
       ],
       "hourlyPeak": [
@@ -4973,7 +4973,7 @@
         ],
         [
           1793973600,
-          6644
+          6678
         ]
       ],
       "dailyPeak": [
