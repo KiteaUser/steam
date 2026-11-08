@@ -3,16 +3,16 @@
   "appid": "493520",
   "steamAppid": 493520,
   "name": "GTFO",
-  "players": 1063,
+  "players": 1030,
   "allTimePeak": 18813,
   "peak24h": 1063,
   "peak24hAt": "2026-11-08T15:01:30.000Z",
-  "updatedAt": "2026-11-08T15:11:08.009Z",
+  "updatedAt": "2026-11-08T15:16:11.024Z",
   "img_url": "2024/12/mixcollage-14-dec-2024-01-02-am-4846.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-08T15:11:08.009Z",
-    "updatedAtTs": 1794150668,
+    "updatedAt": "2026-11-08T15:16:11.024Z",
+    "updatedAtTs": 1794150971,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1794150668,
-        1063
+        1794150971,
+        1030
       ],
       "peak24h": [
         1794150090,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793977887,
-          961
-        ],
         [
           1793978181,
           958
@@ -2344,6 +2340,10 @@
         [
           1794150668,
           1063
+        ],
+        [
+          1794150971,
+          1030
         ]
       ],
       "hourlyPeak": [
