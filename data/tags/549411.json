@@ -3,16 +3,16 @@
   "appid": "2452280",
   "steamAppid": 2452280,
   "name": "Mecha BREAK",
-  "players": 1226,
+  "players": 1160,
   "allTimePeak": 132816,
   "peak24h": 1316,
   "peak24hAt": "2026-11-08T13:51:10.000Z",
-  "updatedAt": "2026-11-08T14:31:10.835Z",
+  "updatedAt": "2026-11-08T14:35:59.675Z",
   "img_url": "2024/12/mixcollage-10-dec-2024-12-24-pm-1139.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-08T14:31:10.835Z",
-    "updatedAtTs": 1794148270,
+    "updatedAt": "2026-11-08T14:35:59.675Z",
+    "updatedAtTs": 1794148559,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1794148270,
-        1226
+        1794148559,
+        1160
       ],
       "peak24h": [
         1794145870,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793975486,
-          1184
-        ],
         [
           1793975761,
           1184
@@ -2344,6 +2340,10 @@
         [
           1794148270,
           1226
+        ],
+        [
+          1794148559,
+          1160
         ]
       ],
       "hourlyPeak": [
