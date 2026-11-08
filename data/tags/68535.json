@@ -7,12 +7,12 @@
   "allTimePeak": 16492,
   "peak24h": 11,
   "peak24hAt": "2026-11-08T18:36:04.000Z",
-  "updatedAt": "2026-11-08T23:21:03.485Z",
+  "updatedAt": "2026-11-08T23:25:59.155Z",
   "img_url": "2025/06/the-mighty-quest-for-epic-loot.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-08T23:21:03.485Z",
-    "updatedAtTs": 1794180063,
+    "updatedAt": "2026-11-08T23:25:59.155Z",
+    "updatedAtTs": 1794180359,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,7 +23,7 @@
     },
     "summary": {
       "current": [
-        1794180063,
+        1794180359,
         3
       ],
       "peak24h": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794007279,
-          3
-        ],
         [
           1794007568,
           3
@@ -2344,6 +2340,10 @@
         [
           1794180063,
           3
+        ],
+        [
+          1794180359,
+          3
         ]
       ],
       "hourlyPeak": [
@@ -4445,7 +4445,7 @@
         ],
         [
           1794006000,
-          1
+          3
         ]
       ],
       "dailyPeak": [
