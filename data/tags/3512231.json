@@ -3,16 +3,16 @@
   "appid": "3282300",
   "steamAppid": 3282300,
   "name": "Mistfall Hunter",
-  "players": 443,
+  "players": 430,
   "allTimePeak": 44472,
   "peak24h": 488,
   "peak24hAt": "2026-11-08T13:56:09.000Z",
-  "updatedAt": "2026-11-08T16:25:53.775Z",
+  "updatedAt": "2026-11-08T16:31:22.979Z",
   "img_url": "2025/07/mistfall-hunter-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-08T16:25:53.775Z",
-    "updatedAtTs": 1794155153,
+    "updatedAt": "2026-11-08T16:31:22.979Z",
+    "updatedAtTs": 1794155482,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1794155153,
-        443
+        1794155482,
+        430
       ],
       "peak24h": [
         1794146169,
         488
       ],
       "peak48h": [
-        1793982396,
+        1793982961,
         513
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793982396,
-          513
-        ],
         [
           1793982690,
           506
@@ -2344,6 +2340,10 @@
         [
           1794155153,
           443
+        ],
+        [
+          1794155482,
+          430
         ]
       ],
       "hourlyPeak": [
@@ -4973,7 +4973,7 @@
         ],
         [
           1793980800,
-          499
+          513
         ]
       ],
       "dailyPeak": [
@@ -5246,5 +5246,5 @@
     }
   },
   "peak48h": 513,
-  "peak48hAt": "2026-11-06T16:26:36.000Z"
+  "peak48hAt": "2026-11-06T16:36:01.000Z"
 }
