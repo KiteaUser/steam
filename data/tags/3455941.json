@@ -3,16 +3,16 @@
   "appid": "638070",
   "steamAppid": 638070,
   "name": "Murderous Pursuits",
-  "players": 2,
+  "players": 1,
   "allTimePeak": 149224,
   "peak24h": 4,
   "peak24hAt": "2026-11-07T15:05:59.000Z",
-  "updatedAt": "2026-11-08T09:01:21.325Z",
+  "updatedAt": "2026-11-08T09:05:56.550Z",
   "img_url": "2025/08/murderous-pursuits-tag-page-cover-art_upscayl_2x_ultramix_balanced.png",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-08T09:01:21.325Z",
-    "updatedAtTs": 1794128481,
+    "updatedAt": "2026-11-08T09:05:56.550Z",
+    "updatedAtTs": 1794128756,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1794128481,
-        2
+        1794128756,
+        1
       ],
       "peak24h": [
         1794063959,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793955685,
-          2
-        ],
         [
           1793955968,
           2
@@ -1304,6 +1300,10 @@
         [
           1794128481,
           2
+        ],
+        [
+          1794128756,
+          1
         ]
       ],
       "hourlyPeak": [
@@ -3617,6 +3617,10 @@
         ],
         [
           1793952000,
+          2
+        ],
+        [
+          1793955600,
           2
         ]
       ],
