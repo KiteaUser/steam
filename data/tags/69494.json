@@ -3,16 +3,16 @@
   "appid": "1617400",
   "steamAppid": 1617400,
   "name": "The Bazaar",
-  "players": 5640,
+  "players": 5382,
   "allTimePeak": 17136,
   "peak24h": 6164,
   "peak24hAt": "2026-11-08T13:56:09.000Z",
-  "updatedAt": "2026-11-08T15:36:04.260Z",
+  "updatedAt": "2026-11-08T15:41:04.254Z",
   "img_url": "2025/01/mixcollage-24-jan-2025-02-44-pm-9851.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-08T15:36:04.260Z",
-    "updatedAtTs": 1794152164,
+    "updatedAt": "2026-11-08T15:41:04.254Z",
+    "updatedAtTs": 1794152464,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1794152164,
-        5640
+        1794152464,
+        5382
       ],
       "peak24h": [
         1794146169,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793979664,
-          5928
-        ],
         [
           1793979972,
           5882
@@ -2340,6 +2336,10 @@
         [
           1794152164,
           5640
+        ],
+        [
+          1794152464,
+          5382
         ]
       ],
       "hourlyPeak": [
