@@ -3,16 +3,16 @@
   "appid": "488790",
   "steamAppid": 488790,
   "name": "South Park The Fractured But Whole",
-  "players": 832,
+  "players": 854,
   "allTimePeak": 21609,
-  "peak24h": 849,
-  "peak24hAt": "2026-11-07T21:56:12.000Z",
-  "updatedAt": "2026-11-08T18:11:03.428Z",
+  "peak24h": 854,
+  "peak24hAt": "2026-11-08T18:16:04.000Z",
+  "updatedAt": "2026-11-08T18:16:04.634Z",
   "img_url": "2024/12/mixcollage-10-dec-2024-10-02-am-7623.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-08T18:11:03.428Z",
-    "updatedAtTs": 1794161463,
+    "updatedAt": "2026-11-08T18:16:04.634Z",
+    "updatedAtTs": 1794161764,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794161463,
-        832
+        1794161764,
+        854
       ],
       "peak24h": [
-        1794088572,
-        849
+        1794161764,
+        854
       ],
       "peak48h": [
-        1794088572,
-        849
+        1794161764,
+        854
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1793988678,
-          583
-        ],
         [
           1793988987,
           583
@@ -2344,6 +2340,10 @@
         [
           1794161463,
           832
+        ],
+        [
+          1794161764,
+          854
         ]
       ],
       "hourlyPeak": [
@@ -4973,7 +4973,7 @@
         ],
         [
           1793988000,
-          581
+          583
         ]
       ],
       "dailyPeak": [
@@ -5686,6 +5686,6 @@
       ]
     }
   },
-  "peak48h": 849,
-  "peak48hAt": "2026-11-07T21:56:12.000Z"
+  "peak48h": 854,
+  "peak48hAt": "2026-11-08T18:16:04.000Z"
 }
