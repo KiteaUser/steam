@@ -3,16 +3,16 @@
   "appid": "291480",
   "steamAppid": 291480,
   "name": "Warface: Clutch",
-  "players": 2,
+  "players": 3,
   "allTimePeak": 13867,
   "peak24h": 14,
   "peak24hAt": "2026-11-08T14:25:53.000Z",
-  "updatedAt": "2026-11-08T22:56:11.629Z",
+  "updatedAt": "2026-11-08T23:01:30.068Z",
   "img_url": "2024/12/mixcollage-09-dec-2024-11-29-pm-7989.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-08T22:56:11.629Z",
-    "updatedAtTs": 1794178571,
+    "updatedAt": "2026-11-08T23:01:30.068Z",
+    "updatedAtTs": 1794178890,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1794178571,
-        2
+        1794178890,
+        3
       ],
       "peak24h": [
         1794147953,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794006089,
-          4
-        ],
         [
           1794006361,
           4
@@ -2340,13 +2336,13 @@
         [
           1794178571,
           2
+        ],
+        [
+          1794178890,
+          3
         ]
       ],
       "hourlyPeak": [
-        [
-          1791586800,
-          3
-        ],
         [
           1791590400,
           2
@@ -4969,6 +4965,10 @@
         ],
         [
           1794002400,
+          4
+        ],
+        [
+          1794006000,
           4
         ]
       ],
