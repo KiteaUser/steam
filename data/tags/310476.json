@@ -5,14 +5,14 @@
   "name": "Farthest Frontier",
   "players": 1602,
   "allTimePeak": 24910,
-  "peak24h": 2167,
-  "peak24hAt": "2026-11-08T17:25:59.000Z",
-  "updatedAt": "2026-11-09T17:21:20.155Z",
+  "peak24h": 2143,
+  "peak24hAt": "2026-11-08T18:01:30.000Z",
+  "updatedAt": "2026-11-09T17:26:12.494Z",
   "img_url": "2025/02/farthest-frontier-cover-1.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-09T17:21:20.155Z",
-    "updatedAtTs": 1794244880,
+    "updatedAt": "2026-11-09T17:26:12.494Z",
+    "updatedAtTs": 1794245172,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,12 +23,12 @@
     },
     "summary": {
       "current": [
-        1794244880,
+        1794245172,
         1602
       ],
       "peak24h": [
-        1794158759,
-        2167
+        1794160890,
+        2143
       ],
       "peak48h": [
         1794150090,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794072362,
-          2055
-        ],
         [
           1794072669,
           2054
@@ -2343,6 +2339,10 @@
         ],
         [
           1794244880,
+          1602
+        ],
+        [
+          1794245172,
           1602
         ]
       ],
