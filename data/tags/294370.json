@@ -3,16 +3,16 @@
   "appid": "477160",
   "steamAppid": 477160,
   "name": "Human Fall Flat",
-  "players": 4732,
+  "players": 4958,
   "allTimePeak": 127517,
   "peak24h": 6446,
   "peak24hAt": "2026-11-09T14:31:22.000Z",
-  "updatedAt": "2026-11-09T15:16:08.776Z",
+  "updatedAt": "2026-11-09T15:21:15.152Z",
   "img_url": "2024/12/mixcollage-14-dec-2024-12-17-pm-9180.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-09T15:16:08.776Z",
-    "updatedAtTs": 1794237368,
+    "updatedAt": "2026-11-09T15:21:15.152Z",
+    "updatedAtTs": 1794237675,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794237368,
-        4732
+        1794237675,
+        4958
       ],
       "peak24h": [
         1794234682,
         6446
       ],
       "peak48h": [
-        1794064863,
-        8617
+        1794065166,
+        8368
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794064863,
-          8617
-        ],
         [
           1794065166,
           8368
@@ -2344,6 +2340,10 @@
         [
           1794237368,
           4732
+        ],
+        [
+          1794237675,
+          4958
         ]
       ],
       "hourlyPeak": [
@@ -5754,6 +5754,6 @@
       ]
     }
   },
-  "peak48h": 8617,
-  "peak48hAt": "2026-11-07T15:21:03.000Z"
+  "peak48h": 8368,
+  "peak48hAt": "2026-11-07T15:26:06.000Z"
 }
