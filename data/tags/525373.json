@@ -3,16 +3,16 @@
   "appid": "1987080",
   "steamAppid": 1987080,
   "name": "Inside the Backrooms",
-  "players": 512,
+  "players": 438,
   "allTimePeak": 15033,
   "peak24h": 653,
   "peak24hAt": "2026-11-09T14:31:22.000Z",
-  "updatedAt": "2026-11-09T15:26:21.660Z",
+  "updatedAt": "2026-11-09T15:31:42.102Z",
   "img_url": "2024/11/mixcollage-29-nov-2024-02-28-pm-9010.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-09T15:26:21.660Z",
-    "updatedAtTs": 1794237981,
+    "updatedAt": "2026-11-09T15:31:42.102Z",
+    "updatedAtTs": 1794238302,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794237981,
-        512
+        1794238302,
+        438
       ],
       "peak24h": [
         1794234682,
         653
       ],
       "peak48h": [
-        1794065484,
-        898
+        1794065776,
+        851
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794065484,
-          898
-        ],
         [
           1794065776,
           851
@@ -2344,6 +2340,10 @@
         [
           1794237981,
           512
+        ],
+        [
+          1794238302,
+          438
         ]
       ],
       "hourlyPeak": [
@@ -5466,6 +5466,6 @@
       ]
     }
   },
-  "peak48h": 898,
-  "peak48hAt": "2026-11-07T15:31:24.000Z"
+  "peak48h": 851,
+  "peak48hAt": "2026-11-07T15:36:16.000Z"
 }
