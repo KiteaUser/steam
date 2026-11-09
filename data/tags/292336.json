@@ -3,16 +3,16 @@
   "appid": "1816670",
   "steamAppid": 1816670,
   "name": "GUNDAM EVOLUTION",
-  "players": 8,
+  "players": 9,
   "allTimePeak": 56911,
   "peak24h": 12,
   "peak24hAt": "2026-11-09T05:06:54.000Z",
-  "updatedAt": "2026-11-09T05:55:58.155Z",
+  "updatedAt": "2026-11-09T06:01:32.330Z",
   "img_url": "2024/12/mixcollage-04-dec-2024-02-59-pm-1564.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-09T05:55:58.155Z",
-    "updatedAtTs": 1794203758,
+    "updatedAt": "2026-11-09T06:01:32.330Z",
+    "updatedAtTs": 1794204092,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1794203758,
-        8
+        1794204092,
+        9
       ],
       "peak24h": [
         1794200814,
         12
       ],
       "peak48h": [
-        1794031288,
+        1794031565,
         12
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794031288,
-          12
-        ],
         [
           1794031565,
           12
@@ -1892,13 +1888,13 @@
         [
           1794203758,
           8
+        ],
+        [
+          1794204092,
+          9
         ]
       ],
       "hourlyPeak": [
-        [
-          1791612000,
-          4
-        ],
         [
           1791615600,
           3
@@ -4082,6 +4078,10 @@
         [
           1794027600,
           13
+        ],
+        [
+          1794031200,
+          12
         ]
       ],
       "dailyPeak": [
@@ -4563,5 +4563,5 @@
     }
   },
   "peak48h": 12,
-  "peak48hAt": "2026-11-07T06:01:28.000Z"
+  "peak48hAt": "2026-11-07T06:06:05.000Z"
 }
