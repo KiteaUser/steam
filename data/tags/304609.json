@@ -3,16 +3,16 @@
   "appid": "1062520",
   "steamAppid": 1062520,
   "name": "Dinkum",
-  "players": 933,
+  "players": 902,
   "allTimePeak": 13412,
-  "peak24h": 1222,
-  "peak24hAt": "2026-11-08T14:35:59.000Z",
-  "updatedAt": "2026-11-09T14:31:22.890Z",
+  "peak24h": 1213,
+  "peak24hAt": "2026-11-08T14:46:03.000Z",
+  "updatedAt": "2026-11-09T14:36:19.274Z",
   "img_url": "2025/07/dinkum-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-09T14:31:22.890Z",
-    "updatedAtTs": 1794234682,
+    "updatedAt": "2026-11-09T14:36:19.274Z",
+    "updatedAtTs": 1794234979,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794234682,
-        933
+        1794234979,
+        902
       ],
       "peak24h": [
-        1794148559,
-        1222
+        1794149163,
+        1213
       ],
       "peak48h": [
-        1794062162,
-        1286
+        1794062472,
+        1277
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794062162,
-          1286
-        ],
         [
           1794062472,
           1277
@@ -2344,6 +2340,10 @@
         [
           1794234682,
           933
+        ],
+        [
+          1794234979,
+          902
         ]
       ],
       "hourlyPeak": [
@@ -5462,6 +5462,6 @@
       ]
     }
   },
-  "peak48h": 1286,
-  "peak48hAt": "2026-11-07T14:36:02.000Z"
+  "peak48h": 1277,
+  "peak48hAt": "2026-11-07T14:41:12.000Z"
 }
