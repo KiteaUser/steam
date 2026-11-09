@@ -3,16 +3,16 @@
   "appid": "1057090",
   "steamAppid": 1057090,
   "name": "Ori and the Will of the Wisps",
-  "players": 2903,
+  "players": 2563,
   "allTimePeak": 34807,
   "peak24h": 3258,
   "peak24hAt": "2026-11-09T14:21:18.000Z",
-  "updatedAt": "2026-11-09T15:11:26.850Z",
+  "updatedAt": "2026-11-09T15:16:08.776Z",
   "img_url": "2024/12/mixcollage-11-dec-2024-09-24-am-8757.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-09T15:11:26.850Z",
-    "updatedAtTs": 1794237086,
+    "updatedAt": "2026-11-09T15:16:08.776Z",
+    "updatedAtTs": 1794237368,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1794237086,
-        2903
+        1794237368,
+        2563
       ],
       "peak24h": [
         1794234078,
         3258
       ],
       "peak48h": [
-        1794064566,
+        1794064863,
         3935
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794064566,
-          3935
-        ],
         [
           1794064863,
           3935
@@ -2344,6 +2340,10 @@
         [
           1794237086,
           2903
+        ],
+        [
+          1794237368,
+          2563
         ]
       ],
       "hourlyPeak": [
@@ -5575,5 +5575,5 @@
     }
   },
   "peak48h": 3935,
-  "peak48hAt": "2026-11-07T15:16:06.000Z"
+  "peak48hAt": "2026-11-07T15:21:03.000Z"
 }
