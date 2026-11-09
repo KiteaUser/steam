@@ -3,16 +3,16 @@
   "appid": "2273430",
   "steamAppid": 2273430,
   "name": "BlazBlue Entropy Effect",
-  "players": 1158,
+  "players": 1087,
   "allTimePeak": 11918,
   "peak24h": 1322,
   "peak24hAt": "2026-11-09T14:41:19.000Z",
-  "updatedAt": "2026-11-09T15:06:06.448Z",
+  "updatedAt": "2026-11-09T15:11:26.850Z",
   "img_url": "2024/11/mixcollage-20-nov-2024-10-39-pm-6504.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-09T15:06:06.448Z",
-    "updatedAtTs": 1794236766,
+    "updatedAt": "2026-11-09T15:11:26.850Z",
+    "updatedAtTs": 1794237086,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794236766,
-        1158
+        1794237086,
+        1087
       ],
       "peak24h": [
         1794235279,
         1322
       ],
       "peak48h": [
-        1794064268,
-        1623
+        1794064566,
+        1503
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794064268,
-          1623
-        ],
         [
           1794064566,
           1503
@@ -2344,6 +2340,10 @@
         [
           1794236766,
           1158
+        ],
+        [
+          1794237086,
+          1087
         ]
       ],
       "hourlyPeak": [
@@ -5410,6 +5410,6 @@
       ]
     }
   },
-  "peak48h": 1623,
-  "peak48hAt": "2026-11-07T15:11:08.000Z"
+  "peak48h": 1503,
+  "peak48hAt": "2026-11-07T15:16:06.000Z"
 }

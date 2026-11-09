@@ -3,16 +3,16 @@
   "appid": "457140",
   "steamAppid": 457140,
   "name": "Oxygen Not Included",
-  "players": 8336,
+  "players": 8312,
   "allTimePeak": 27486,
-  "peak24h": 10014,
-  "peak24hAt": "2026-11-08T15:06:06.000Z",
-  "updatedAt": "2026-11-09T15:06:06.448Z",
+  "peak24h": 9880,
+  "peak24hAt": "2026-11-08T15:16:11.000Z",
+  "updatedAt": "2026-11-09T15:11:26.850Z",
   "img_url": "2024/12/mixcollage-12-dec-2024-12-22-am-69.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-09T15:06:06.448Z",
-    "updatedAtTs": 1794236766,
+    "updatedAt": "2026-11-09T15:11:26.850Z",
+    "updatedAtTs": 1794237086,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794236766,
-        8336
+        1794237086,
+        8312
       ],
       "peak24h": [
-        1794150366,
-        10014
+        1794150971,
+        9880
       ],
       "peak48h": [
-        1794064268,
-        10551
+        1794146486,
+        10549
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794064268,
-          10551
-        ],
         [
           1794064566,
           10439
@@ -2344,6 +2340,10 @@
         [
           1794236766,
           8336
+        ],
+        [
+          1794237086,
+          8312
         ]
       ],
       "hourlyPeak": [
@@ -5754,6 +5754,6 @@
       ]
     }
   },
-  "peak48h": 10551,
-  "peak48hAt": "2026-11-07T15:11:08.000Z"
+  "peak48h": 10549,
+  "peak48hAt": "2026-11-08T14:01:26.000Z"
 }
