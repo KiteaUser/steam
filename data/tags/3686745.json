@@ -7,12 +7,12 @@
   "allTimePeak": 37590,
   "peak24h": 2528,
   "peak24hAt": "2026-11-09T14:06:11.000Z",
-  "updatedAt": "2026-11-09T15:21:15.152Z",
+  "updatedAt": "2026-11-09T15:26:21.660Z",
   "img_url": "2026/04/shift-at-midnight-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-09T15:21:15.152Z",
-    "updatedAtTs": 1794237675,
+    "updatedAt": "2026-11-09T15:26:21.660Z",
+    "updatedAtTs": 1794237981,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,7 +23,7 @@
     },
     "summary": {
       "current": [
-        1794237675,
+        1794237981,
         1821
       ],
       "peak24h": [
@@ -31,8 +31,8 @@
         2528
       ],
       "peak48h": [
-        1794065166,
-        3702
+        1794065484,
+        3560
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794065166,
-          3702
-        ],
         [
           1794065484,
           3560
@@ -2343,6 +2339,10 @@
         ],
         [
           1794237675,
+          1821
+        ],
+        [
+          1794237981,
           1821
         ]
       ],
@@ -5173,6 +5173,6 @@
       "monthlyPeak": []
     }
   },
-  "peak48h": 3702,
-  "peak48hAt": "2026-11-07T15:26:06.000Z"
+  "peak48h": 3560,
+  "peak48hAt": "2026-11-07T15:31:24.000Z"
 }

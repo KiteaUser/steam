@@ -3,16 +3,16 @@
   "appid": "860510",
   "steamAppid": 860510,
   "name": "Little Nightmares II",
-  "players": 334,
+  "players": 321,
   "allTimePeak": 10563,
   "peak24h": 384,
   "peak24hAt": "2026-11-09T14:31:22.000Z",
-  "updatedAt": "2026-11-09T15:21:15.152Z",
+  "updatedAt": "2026-11-09T15:26:21.660Z",
   "img_url": "2022/10/little-nightmares-2.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-09T15:21:15.152Z",
-    "updatedAtTs": 1794237675,
+    "updatedAt": "2026-11-09T15:26:21.660Z",
+    "updatedAtTs": 1794237981,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1794237675,
-        334
+        1794237981,
+        321
       ],
       "peak24h": [
         1794234682,
         384
       ],
       "peak48h": [
-        1794065166,
+        1794065484,
         448
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794065166,
-          448
-        ],
         [
           1794065484,
           448
@@ -2344,6 +2340,10 @@
         [
           1794237675,
           334
+        ],
+        [
+          1794237981,
+          321
         ]
       ],
       "hourlyPeak": [
@@ -5531,5 +5531,5 @@
     }
   },
   "peak48h": 448,
-  "peak48hAt": "2026-11-07T15:26:06.000Z"
+  "peak48hAt": "2026-11-07T15:31:24.000Z"
 }

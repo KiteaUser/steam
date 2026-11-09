@@ -3,16 +3,16 @@
   "appid": "883710",
   "steamAppid": 883710,
   "name": "Resident Evil 2",
-  "players": 3415,
+  "players": 3469,
   "allTimePeak": 74227,
   "peak24h": 4640,
   "peak24hAt": "2026-11-08T15:31:12.000Z",
-  "updatedAt": "2026-11-09T15:21:15.152Z",
+  "updatedAt": "2026-11-09T15:26:21.660Z",
   "img_url": "2024/12/resident-evil-2-1998.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-09T15:21:15.152Z",
-    "updatedAtTs": 1794237675,
+    "updatedAt": "2026-11-09T15:26:21.660Z",
+    "updatedAtTs": 1794237981,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794237675,
-        3415
+        1794237981,
+        3469
       ],
       "peak24h": [
         1794151872,
         4640
       ],
       "peak48h": [
-        1794065166,
-        5246
+        1794065776,
+        5208
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794065166,
-          5246
-        ],
         [
           1794065484,
           5182
@@ -2344,6 +2340,10 @@
         [
           1794237675,
           3415
+        ],
+        [
+          1794237981,
+          3469
         ]
       ],
       "hourlyPeak": [
@@ -5630,6 +5630,6 @@
       ]
     }
   },
-  "peak48h": 5246,
-  "peak48hAt": "2026-11-07T15:26:06.000Z"
+  "peak48h": 5208,
+  "peak48hAt": "2026-11-07T15:36:16.000Z"
 }

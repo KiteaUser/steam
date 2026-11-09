@@ -3,16 +3,16 @@
   "appid": "262060",
   "steamAppid": 262060,
   "name": "Darkest Dungeon",
-  "players": 4232,
+  "players": 4192,
   "allTimePeak": 20064,
-  "peak24h": 4924,
-  "peak24hAt": "2026-11-08T15:26:01.000Z",
-  "updatedAt": "2026-11-09T15:21:15.152Z",
+  "peak24h": 4870,
+  "peak24hAt": "2026-11-08T15:36:04.000Z",
+  "updatedAt": "2026-11-09T15:26:21.660Z",
   "img_url": "2024/12/mixcollage-11-dec-2024-04-11-pm-8664.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-09T15:21:15.152Z",
-    "updatedAtTs": 1794237675,
+    "updatedAt": "2026-11-09T15:26:21.660Z",
+    "updatedAtTs": 1794237981,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794237675,
-        4232
+        1794237981,
+        4192
       ],
       "peak24h": [
-        1794151561,
-        4924
+        1794152164,
+        4870
       ],
       "peak48h": [
-        1794065166,
-        5421
+        1794146486,
+        5412
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794065166,
-          5421
-        ],
         [
           1794065484,
           5329
@@ -2344,6 +2340,10 @@
         [
           1794237675,
           4232
+        ],
+        [
+          1794237981,
+          4192
         ]
       ],
       "hourlyPeak": [
@@ -5826,6 +5826,6 @@
       ]
     }
   },
-  "peak48h": 5421,
-  "peak48hAt": "2026-11-07T15:26:06.000Z"
+  "peak48h": 5412,
+  "peak48hAt": "2026-11-08T14:01:26.000Z"
 }
