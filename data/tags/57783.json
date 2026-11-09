@@ -5,14 +5,14 @@
   "name": "Worms WMD",
   "players": 252,
   "allTimePeak": 5122,
-  "peak24h": 365,
-  "peak24hAt": "2026-11-08T20:26:02.000Z",
-  "updatedAt": "2026-11-09T20:21:24.329Z",
+  "peak24h": 330,
+  "peak24hAt": "2026-11-08T20:31:21.000Z",
+  "updatedAt": "2026-11-09T20:26:21.712Z",
   "img_url": "2025/02/worms-w-m-d.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-09T20:21:24.329Z",
-    "updatedAtTs": 1794255684,
+    "updatedAt": "2026-11-09T20:26:21.712Z",
+    "updatedAtTs": 1794255981,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,12 +23,12 @@
     },
     "summary": {
       "current": [
-        1794255684,
+        1794255981,
         252
       ],
       "peak24h": [
-        1794169562,
-        365
+        1794169881,
+        330
       ],
       "peak48h": [
         1794089463,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794083155,
-          352
-        ],
         [
           1794083475,
           351
@@ -2331,6 +2327,10 @@
         ],
         [
           1794255684,
+          252
+        ],
+        [
+          1794255981,
           252
         ]
       ],
