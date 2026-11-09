@@ -7,12 +7,12 @@
   "allTimePeak": 2851,
   "peak24h": 57,
   "peak24hAt": "2026-11-09T03:41:16.000Z",
-  "updatedAt": "2026-11-09T14:26:03.103Z",
+  "updatedAt": "2026-11-09T14:31:22.890Z",
   "img_url": "2026/01/mega-man-star-force-legacy-collection.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-09T14:26:03.103Z",
-    "updatedAtTs": 1794234363,
+    "updatedAt": "2026-11-09T14:31:22.890Z",
+    "updatedAtTs": 1794234682,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,7 +23,7 @@
     },
     "summary": {
       "current": [
-        1794234363,
+        1794234682,
         45
       ],
       "peak24h": [
@@ -31,8 +31,8 @@
         57
       ],
       "peak48h": [
-        1794061568,
-        58
+        1794062162,
+        57
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794061568,
-          58
-        ],
-        [
-          1794061880,
-          53
-        ],
         [
           1794062162,
           57
@@ -2347,6 +2339,10 @@
         ],
         [
           1794234363,
+          45
+        ],
+        [
+          1794234682,
           45
         ]
       ],
@@ -5290,6 +5286,6 @@
       ]
     }
   },
-  "peak48h": 58,
-  "peak48hAt": "2026-11-07T14:26:08.000Z"
+  "peak48h": 57,
+  "peak48hAt": "2026-11-07T14:36:02.000Z"
 }
