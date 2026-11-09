@@ -6,13 +6,13 @@
   "players": 1,
   "allTimePeak": 42467,
   "peak24h": 1,
-  "peak24hAt": "2026-11-08T09:05:56.000Z",
-  "updatedAt": "2026-11-09T09:01:28.925Z",
+  "peak24hAt": "2026-11-08T09:11:06.000Z",
+  "updatedAt": "2026-11-09T09:06:12.983Z",
   "img_url": "",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-09T09:01:28.925Z",
-    "updatedAtTs": 1794214888,
+    "updatedAt": "2026-11-09T09:06:12.983Z",
+    "updatedAtTs": 1794215172,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,11 +23,11 @@
     },
     "summary": {
       "current": [
-        1794214888,
+        1794215172,
         1
       ],
       "peak24h": [
-        1794128756,
+        1794129066,
         1
       ],
       "peak48h": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794042354,
-          1
-        ],
         [
           1794042666,
           1
@@ -1827,6 +1823,10 @@
         ],
         [
           1794214888,
+          1
+        ],
+        [
+          1794215172,
           1
         ]
       ],
