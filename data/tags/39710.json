@@ -3,16 +3,16 @@
   "appid": "952060",
   "steamAppid": 952060,
   "name": "Resident Evil 3",
-  "players": 1069,
+  "players": 1062,
   "allTimePeak": 60293,
-  "peak24h": 1542,
-  "peak24hAt": "2026-11-08T15:46:12.000Z",
-  "updatedAt": "2026-11-09T15:41:19.696Z",
+  "peak24h": 1512,
+  "peak24hAt": "2026-11-08T15:56:09.000Z",
+  "updatedAt": "2026-11-09T15:46:17.470Z",
   "img_url": "2024/12/mixcollage-07-dec-2024-07-53-am-2083.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-09T15:41:19.696Z",
-    "updatedAtTs": 1794238879,
+    "updatedAt": "2026-11-09T15:46:17.470Z",
+    "updatedAtTs": 1794239177,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794238879,
-        1069
+        1794239177,
+        1062
       ],
       "peak24h": [
-        1794152772,
-        1542
+        1794153369,
+        1512
       ],
       "peak48h": [
-        1794066366,
-        1593
+        1794147080,
+        1583
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794066366,
-          1593
-        ],
         [
           1794066671,
           1553
@@ -2344,6 +2340,10 @@
         [
           1794238879,
           1069
+        ],
+        [
+          1794239177,
+          1062
         ]
       ],
       "hourlyPeak": [
@@ -5570,6 +5570,6 @@
       ]
     }
   },
-  "peak48h": 1593,
-  "peak48hAt": "2026-11-07T15:46:06.000Z"
+  "peak48h": 1583,
+  "peak48hAt": "2026-11-08T14:11:20.000Z"
 }
