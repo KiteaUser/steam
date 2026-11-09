@@ -3,16 +3,16 @@
   "appid": "2103140",
   "steamAppid": 2103140,
   "name": "Magicraft",
-  "players": 906,
+  "players": 914,
   "allTimePeak": 18834,
   "peak24h": 1028,
   "peak24hAt": "2026-11-08T14:25:53.000Z",
-  "updatedAt": "2026-11-09T14:16:32.486Z",
+  "updatedAt": "2026-11-09T14:21:18.022Z",
   "img_url": "2025/01/magicraft-video-game-cover-art-tag.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-09T14:16:32.486Z",
-    "updatedAtTs": 1794233792,
+    "updatedAt": "2026-11-09T14:21:18.022Z",
+    "updatedAtTs": 1794234078,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794233792,
-        906
+        1794234078,
+        914
       ],
       "peak24h": [
         1794147953,
         1028
       ],
       "peak48h": [
-        1794061268,
-        1087
+        1794061568,
+        1077
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794061268,
-          1087
-        ],
         [
           1794061568,
           1077
@@ -2344,6 +2340,10 @@
         [
           1794233792,
           906
+        ],
+        [
+          1794234078,
+          914
         ]
       ],
       "hourlyPeak": [
@@ -4973,7 +4973,7 @@
         ],
         [
           1794060000,
-          1074
+          1087
         ]
       ],
       "dailyPeak": [
@@ -5398,6 +5398,6 @@
       ]
     }
   },
-  "peak48h": 1087,
-  "peak48hAt": "2026-11-07T14:21:08.000Z"
+  "peak48h": 1077,
+  "peak48hAt": "2026-11-07T14:26:08.000Z"
 }
