@@ -3,16 +3,16 @@
   "appid": "227940",
   "steamAppid": 227940,
   "name": "Heroes & Generals",
-  "players": 2,
+  "players": 3,
   "allTimePeak": 21026,
   "peak24h": 18,
   "peak24hAt": "2026-11-08T20:56:07.000Z",
-  "updatedAt": "2026-11-09T03:55:59.911Z",
+  "updatedAt": "2026-11-09T04:01:31.839Z",
   "img_url": "2024/12/mixcollage-29-dec-2024-08-44-am-349.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-09T03:55:59.911Z",
-    "updatedAtTs": 1794196559,
+    "updatedAt": "2026-11-09T04:01:31.839Z",
+    "updatedAtTs": 1794196891,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1794196559,
-        2
+        1794196891,
+        3
       ],
       "peak24h": [
         1794171367,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794023769,
-          6
-        ],
-        [
-          1794024087,
-          6
-        ],
         [
           1794024361,
           5
@@ -2348,13 +2340,13 @@
         [
           1794196559,
           2
+        ],
+        [
+          1794196891,
+          3
         ]
       ],
       "hourlyPeak": [
-        [
-          1791604800,
-          3
-        ],
         [
           1791608400,
           5
@@ -4977,6 +4969,10 @@
         ],
         [
           1794020400,
+          6
+        ],
+        [
+          1794024000,
           6
         ]
       ],
