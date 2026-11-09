@@ -3,16 +3,16 @@
   "appid": "1588550",
   "steamAppid": 1588550,
   "name": "Cairn",
-  "players": 1010,
+  "players": 1035,
   "allTimePeak": 14996,
   "peak24h": 1540,
   "peak24hAt": "2026-11-08T14:41:11.000Z",
-  "updatedAt": "2026-11-09T14:01:34.226Z",
+  "updatedAt": "2026-11-09T14:06:11.450Z",
   "img_url": "2025/02/cairn-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-09T14:01:34.226Z",
-    "updatedAtTs": 1794232894,
+    "updatedAt": "2026-11-09T14:06:11.450Z",
+    "updatedAtTs": 1794233171,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794232894,
-        1010
+        1794233171,
+        1035
       ],
       "peak24h": [
         1794148871,
         1540
       ],
       "peak48h": [
-        1794060369,
-        1664
+        1794060970,
+        1663
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794060369,
-          1664
-        ],
         [
           1794060668,
           1648
@@ -2344,6 +2340,10 @@
         [
           1794232894,
           1010
+        ],
+        [
+          1794233171,
+          1035
         ]
       ],
       "hourlyPeak": [
@@ -4973,7 +4973,7 @@
         ],
         [
           1794060000,
-          1648
+          1664
         ]
       ],
       "dailyPeak": [
@@ -5290,6 +5290,6 @@
       ]
     }
   },
-  "peak48h": 1664,
-  "peak48hAt": "2026-11-07T14:06:09.000Z"
+  "peak48h": 1663,
+  "peak48hAt": "2026-11-07T14:16:10.000Z"
 }
