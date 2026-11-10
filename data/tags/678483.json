@@ -3,16 +3,16 @@
   "appid": "1898300",
   "steamAppid": 1898300,
   "name": "ASKA",
-  "players": 691,
+  "players": 701,
   "allTimePeak": 10713,
   "peak24h": 930,
   "peak24hAt": "2026-11-10T19:46:26.000Z",
-  "updatedAt": "2026-11-10T22:41:10.703Z",
+  "updatedAt": "2026-11-10T22:46:09.648Z",
   "img_url": "2024/12/mixcollage-03-dec-2024-12-03-pm-3357.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-10T22:41:10.703Z",
-    "updatedAtTs": 1794350470,
+    "updatedAt": "2026-11-10T22:46:09.648Z",
+    "updatedAtTs": 1794350769,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794350470,
-        691
+        1794350769,
+        701
       ],
       "peak24h": [
         1794339986,
         930
       ],
       "peak48h": [
-        1794177675,
-        978
+        1794250894,
+        970
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794177675,
-          978
-        ],
         [
           1794177973,
           922
@@ -2312,6 +2308,10 @@
         [
           1794350470,
           691
+        ],
+        [
+          1794350769,
+          701
         ]
       ],
       "hourlyPeak": [
@@ -5342,6 +5342,6 @@
       ]
     }
   },
-  "peak48h": 978,
-  "peak48hAt": "2026-11-08T22:41:15.000Z"
+  "peak48h": 970,
+  "peak48hAt": "2026-11-09T19:01:34.000Z"
 }
