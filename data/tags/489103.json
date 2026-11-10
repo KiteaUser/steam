@@ -3,16 +3,16 @@
   "appid": "2698940",
   "steamAppid": 2698940,
   "name": "The Crew Motorfest",
-  "players": 1108,
+  "players": 1117,
   "allTimePeak": 12945,
   "peak24h": 1131,
   "peak24hAt": "2026-11-10T17:41:29.000Z",
-  "updatedAt": "2026-11-10T19:56:12.249Z",
+  "updatedAt": "2026-11-10T20:01:43.428Z",
   "img_url": "2024/07/the-crew-motorfest-tag-page.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-10T19:56:12.249Z",
-    "updatedAtTs": 1794340572,
+    "updatedAt": "2026-11-10T20:01:43.428Z",
+    "updatedAtTs": 1794340903,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794340572,
-        1108
+        1794340903,
+        1117
       ],
       "peak24h": [
         1794332489,
         1131
       ],
       "peak48h": [
-        1794168090,
-        1286
+        1794168365,
+        1243
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794168090,
-          1286
-        ],
         [
           1794168365,
           1243
@@ -2308,13 +2304,13 @@
         [
           1794340572,
           1108
+        ],
+        [
+          1794340903,
+          1117
         ]
       ],
       "hourlyPeak": [
-        [
-          1791748800,
-          2144
-        ],
         [
           1791752400,
           1822
@@ -4938,6 +4934,10 @@
         [
           1794164400,
           1313
+        ],
+        [
+          1794168000,
+          1286
         ]
       ],
       "dailyPeak": [
@@ -5346,6 +5346,6 @@
       ]
     }
   },
-  "peak48h": 1286,
-  "peak48hAt": "2026-11-08T20:01:30.000Z"
+  "peak48h": 1243,
+  "peak48hAt": "2026-11-08T20:06:05.000Z"
 }
