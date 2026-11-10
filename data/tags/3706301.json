@@ -3,16 +3,16 @@
   "appid": "4704690",
   "steamAppid": 4704690,
   "name": "MECCHA CHAMELEON",
-  "players": 2290,
+  "players": 2309,
   "allTimePeak": 340394,
   "peak24h": 2790,
   "peak24hAt": "2026-11-10T14:36:33.000Z",
-  "updatedAt": "2026-11-10T21:46:13.878Z",
+  "updatedAt": "2026-11-10T21:51:14.393Z",
   "img_url": "2026/06/meccha-chameleon-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-10T21:46:13.878Z",
-    "updatedAtTs": 1794347173,
+    "updatedAt": "2026-11-10T21:51:14.393Z",
+    "updatedAtTs": 1794347474,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794347173,
-        2290
+        1794347474,
+        2309
       ],
       "peak24h": [
         1794321393,
         2790
       ],
       "peak48h": [
-        1794174665,
-        3301
+        1794234363,
+        3062
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794174665,
-          3301
-        ],
         [
           1794174969,
           3056
@@ -2304,6 +2300,10 @@
         [
           1794347173,
           2290
+        ],
+        [
+          1794347474,
+          2309
         ]
       ],
       "hourlyPeak": [
@@ -5238,6 +5238,6 @@
       ]
     }
   },
-  "peak48h": 3301,
-  "peak48hAt": "2026-11-08T21:51:05.000Z"
+  "peak48h": 3062,
+  "peak48hAt": "2026-11-09T14:26:03.000Z"
 }
