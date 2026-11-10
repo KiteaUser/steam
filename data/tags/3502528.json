@@ -6,13 +6,13 @@
   "players": 1,
   "allTimePeak": 12757,
   "peak24h": 1,
-  "peak24hAt": "2026-11-09T01:31:22.000Z",
-  "updatedAt": "2026-11-10T07:11:17.086Z",
+  "peak24hAt": "2026-11-10T07:16:11.000Z",
+  "updatedAt": "2026-11-10T07:16:11.951Z",
   "img_url": "2025/07/radical-heights-tag-page-cover-art.png",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-10T07:11:17.086Z",
-    "updatedAtTs": 1794294677,
+    "updatedAt": "2026-11-10T07:16:11.951Z",
+    "updatedAtTs": 1794294971,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,10 +23,13 @@
     },
     "summary": {
       "current": [
-        1794294677,
+        1794294971,
         1
       ],
-      "peak24h": null,
+      "peak24h": [
+        1794294971,
+        1
+      ],
       "peak48h": [
         1794187882,
         1
@@ -40,6 +43,10 @@
       "raw5m": [
         [
           1794187882,
+          1
+        ],
+        [
+          1794294971,
           1
         ]
       ],
