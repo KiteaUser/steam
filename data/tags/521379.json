@@ -3,16 +3,16 @@
   "appid": "823130",
   "steamAppid": 823130,
   "name": "Totally Accurate Battlegrounds",
-  "players": 28,
+  "players": 29,
   "allTimePeak": 29438,
   "peak24h": 65,
   "peak24hAt": "2026-11-09T14:51:16.000Z",
-  "updatedAt": "2026-11-10T06:11:14.930Z",
+  "updatedAt": "2026-11-10T06:17:17.664Z",
   "img_url": "2024/11/mixcollage-26-nov-2024-11-57-am-504.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-10T06:11:14.930Z",
-    "updatedAtTs": 1794291074,
+    "updatedAt": "2026-11-10T06:17:17.664Z",
+    "updatedAtTs": 1794291437,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1794291074,
-        28
+        1794291437,
+        29
       ],
       "peak24h": [
         1794235876,
         65
       ],
       "peak48h": [
-        1794118567,
+        1794118871,
         78
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794118567,
-          78
-        ],
         [
           1794118871,
           78
@@ -2328,6 +2324,10 @@
         [
           1794291074,
           28
+        ],
+        [
+          1794291437,
+          29
         ]
       ],
       "hourlyPeak": [
@@ -4957,7 +4957,7 @@
         ],
         [
           1794117600,
-          68
+          78
         ]
       ],
       "dailyPeak": [
@@ -5647,5 +5647,5 @@
     }
   },
   "peak48h": 78,
-  "peak48hAt": "2026-11-08T06:16:07.000Z"
+  "peak48hAt": "2026-11-08T06:21:11.000Z"
 }
