@@ -3,16 +3,16 @@
   "appid": "239220",
   "steamAppid": 239220,
   "name": "The Mighty Quest For Epic Loot",
-  "players": 6,
+  "players": 5,
   "allTimePeak": 16492,
   "peak24h": 9,
   "peak24hAt": "2026-11-09T20:26:21.000Z",
-  "updatedAt": "2026-11-10T10:56:00.288Z",
+  "updatedAt": "2026-11-10T11:01:35.576Z",
   "img_url": "2025/06/the-mighty-quest-for-epic-loot.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-10T10:56:00.288Z",
-    "updatedAtTs": 1794308160,
+    "updatedAt": "2026-11-10T11:01:35.576Z",
+    "updatedAtTs": 1794308495,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1794308160,
-        6
+        1794308495,
+        5
       ],
       "peak24h": [
         1794255981,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794135362,
-          5
-        ],
-        [
-          1794135693,
-          5
-        ],
         [
           1794135968,
           5
@@ -2328,13 +2320,13 @@
         [
           1794308160,
           6
+        ],
+        [
+          1794308495,
+          5
         ]
       ],
       "hourlyPeak": [
-        [
-          1791716400,
-          3
-        ],
         [
           1791720000,
           3
@@ -4453,6 +4445,10 @@
         ],
         [
           1794132000,
+          5
+        ],
+        [
+          1794135600,
           5
         ]
       ],

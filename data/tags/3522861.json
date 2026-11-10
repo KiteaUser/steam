@@ -3,16 +3,16 @@
   "appid": "3716600",
   "steamAppid": 3716600,
   "name": "Mage Arena",
-  "players": 14,
+  "players": 8,
   "allTimePeak": 17404,
   "peak24h": 43,
   "peak24hAt": "2026-11-09T21:01:29.000Z",
-  "updatedAt": "2026-11-10T10:56:00.288Z",
+  "updatedAt": "2026-11-10T11:01:35.576Z",
   "img_url": "2025/07/mage-arena-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-10T10:56:00.288Z",
-    "updatedAtTs": 1794308160,
+    "updatedAt": "2026-11-10T11:01:35.576Z",
+    "updatedAtTs": 1794308495,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1794308160,
-        14
+        1794308495,
+        8
       ],
       "peak24h": [
         1794258089,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794135362,
-          22
-        ],
-        [
-          1794135693,
-          22
-        ],
         [
           1794135968,
           32
@@ -2328,13 +2320,13 @@
         [
           1794308160,
           14
+        ],
+        [
+          1794308495,
+          8
         ]
       ],
       "hourlyPeak": [
-        [
-          1791716400,
-          26
-        ],
         [
           1791720000,
           19
@@ -4957,7 +4949,11 @@
         ],
         [
           1794132000,
-          21
+          22
+        ],
+        [
+          1794135600,
+          22
         ]
       ],
       "dailyPeak": [
