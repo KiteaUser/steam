@@ -3,16 +3,16 @@
   "appid": "2909400",
   "steamAppid": 2909400,
   "name": "FINAL FANTASY VII REBIRTH",
-  "players": 2153,
+  "players": 2133,
   "allTimePeak": 40564,
   "peak24h": 2545,
   "peak24hAt": "2026-11-10T14:36:33.000Z",
-  "updatedAt": "2026-11-10T15:46:22.112Z",
+  "updatedAt": "2026-11-10T15:51:23.813Z",
   "img_url": "2025/02/ff7-rebirth-cover.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-10T15:46:22.112Z",
-    "updatedAtTs": 1794325582,
+    "updatedAt": "2026-11-10T15:51:23.813Z",
+    "updatedAtTs": 1794325883,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1794325582,
-        2153
+        1794325883,
+        2133
       ],
       "peak24h": [
         1794321393,
         2545
       ],
       "peak48h": [
-        1794153069,
+        1794153369,
         3286
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794153069,
-          3286
-        ],
         [
           1794153369,
           3286
@@ -2308,6 +2304,10 @@
         [
           1794325582,
           2153
+        ],
+        [
+          1794325883,
+          2133
         ]
       ],
       "hourlyPeak": [
@@ -5311,5 +5311,5 @@
     }
   },
   "peak48h": 3286,
-  "peak48hAt": "2026-11-08T15:51:09.000Z"
+  "peak48hAt": "2026-11-08T15:56:09.000Z"
 }

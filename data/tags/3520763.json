@@ -7,12 +7,12 @@
   "allTimePeak": 45773,
   "peak24h": 1853,
   "peak24hAt": "2026-11-10T14:46:27.000Z",
-  "updatedAt": "2026-11-10T15:46:22.112Z",
+  "updatedAt": "2026-11-10T15:51:23.813Z",
   "img_url": "2025/07/shape-of-dreams-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-10T15:46:22.112Z",
-    "updatedAtTs": 1794325582,
+    "updatedAt": "2026-11-10T15:51:23.813Z",
+    "updatedAtTs": 1794325883,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,7 +23,7 @@
     },
     "summary": {
       "current": [
-        1794325582,
+        1794325883,
         1575
       ],
       "peak24h": [
@@ -31,8 +31,8 @@
         1853
       ],
       "peak48h": [
-        1794153069,
-        1946
+        1794153369,
+        1910
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794153069,
-          1946
-        ],
         [
           1794153369,
           1910
@@ -2299,6 +2295,10 @@
         ],
         [
           1794325582,
+          1575
+        ],
+        [
+          1794325883,
           1575
         ]
       ],
@@ -5270,6 +5270,6 @@
       ]
     }
   },
-  "peak48h": 1946,
-  "peak48hAt": "2026-11-08T15:51:09.000Z"
+  "peak48h": 1910,
+  "peak48hAt": "2026-11-08T15:56:09.000Z"
 }

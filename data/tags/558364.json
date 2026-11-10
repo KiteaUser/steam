@@ -3,16 +3,16 @@
   "appid": "393380",
   "steamAppid": 393380,
   "name": "Squad",
-  "players": 8729,
+  "players": 8606,
   "allTimePeak": 38573,
   "peak24h": 11104,
   "peak24hAt": "2026-11-10T13:56:09.000Z",
-  "updatedAt": "2026-11-10T15:46:22.112Z",
+  "updatedAt": "2026-11-10T15:51:23.813Z",
   "img_url": "2024/11/mixcollage-27-nov-2024-12-11-pm-3960.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-10T15:46:22.112Z",
-    "updatedAtTs": 1794325582,
+    "updatedAt": "2026-11-10T15:51:23.813Z",
+    "updatedAtTs": 1794325883,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1794325582,
-        8729
+        1794325883,
+        8606
       ],
       "peak24h": [
         1794318969,
         11104
       ],
       "peak48h": [
-        1794153069,
+        1794153686,
         11390
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794153069,
-          11390
-        ],
         [
           1794153369,
           11316
@@ -2316,6 +2312,10 @@
         [
           1794325582,
           8729
+        ],
+        [
+          1794325883,
+          8606
         ]
       ],
       "hourlyPeak": [
@@ -5759,5 +5759,5 @@
     }
   },
   "peak48h": 11390,
-  "peak48hAt": "2026-11-08T15:51:09.000Z"
+  "peak48hAt": "2026-11-08T16:01:26.000Z"
 }

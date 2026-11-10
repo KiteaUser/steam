@@ -3,16 +3,16 @@
   "appid": "1566690",
   "steamAppid": 1566690,
   "name": "Outpost: Infinity Siege",
-  "players": 79,
+  "players": 82,
   "allTimePeak": 17128,
   "peak24h": 87,
   "peak24hAt": "2026-11-10T15:01:39.000Z",
-  "updatedAt": "2026-11-10T15:46:22.112Z",
+  "updatedAt": "2026-11-10T15:51:23.813Z",
   "img_url": "2024/12/mixcollage-12-dec-2024-11-30-pm-4504.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-10T15:46:22.112Z",
-    "updatedAtTs": 1794325582,
+    "updatedAt": "2026-11-10T15:51:23.813Z",
+    "updatedAtTs": 1794325883,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794325582,
-        79
+        1794325883,
+        82
       ],
       "peak24h": [
         1794322899,
         87
       ],
       "peak48h": [
-        1794153069,
-        103
+        1794153369,
+        97
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794153069,
-          103
-        ],
         [
           1794153369,
           97
@@ -2308,6 +2304,10 @@
         [
           1794325582,
           79
+        ],
+        [
+          1794325883,
+          82
         ]
       ],
       "hourlyPeak": [
@@ -5350,6 +5350,6 @@
       ]
     }
   },
-  "peak48h": 103,
-  "peak48hAt": "2026-11-08T15:51:09.000Z"
+  "peak48h": 97,
+  "peak48hAt": "2026-11-08T15:56:09.000Z"
 }

@@ -3,16 +3,16 @@
   "appid": "397540",
   "steamAppid": 397540,
   "name": "Borderlands 3",
-  "players": 3101,
+  "players": 3050,
   "allTimePeak": 93820,
   "peak24h": 3525,
   "peak24hAt": "2026-11-10T14:36:33.000Z",
-  "updatedAt": "2026-11-10T15:46:22.112Z",
+  "updatedAt": "2026-11-10T15:51:23.813Z",
   "img_url": "2024/12/mixcollage-08-dec-2024-01-32-pm-3996.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-10T15:46:22.112Z",
-    "updatedAtTs": 1794325582,
+    "updatedAt": "2026-11-10T15:51:23.813Z",
+    "updatedAtTs": 1794325883,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794325582,
-        3101
+        1794325883,
+        3050
       ],
       "peak24h": [
         1794321393,
         3525
       ],
       "peak48h": [
-        1794153069,
-        3981
+        1794153686,
+        3947
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794153069,
-          3981
-        ],
         [
           1794153369,
           3875
@@ -2312,6 +2308,10 @@
         [
           1794325582,
           3101
+        ],
+        [
+          1794325883,
+          3050
         ]
       ],
       "hourlyPeak": [
@@ -5546,6 +5546,6 @@
       ]
     }
   },
-  "peak48h": 3981,
-  "peak48hAt": "2026-11-08T15:51:09.000Z"
+  "peak48h": 3947,
+  "peak48hAt": "2026-11-08T16:01:26.000Z"
 }
