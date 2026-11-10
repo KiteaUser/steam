@@ -3,16 +3,16 @@
   "appid": "1097150",
   "steamAppid": 1097150,
   "name": "Fall Guys: Ultimate Knockout",
-  "players": 452,
+  "players": 446,
   "allTimePeak": 172213,
   "peak24h": 452,
   "peak24hAt": "2026-11-10T20:51:13.000Z",
-  "updatedAt": "2026-11-10T20:56:08.459Z",
+  "updatedAt": "2026-11-10T21:01:30.187Z",
   "img_url": "2025/02/fall-guys-tag-cover.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-10T20:56:08.459Z",
-    "updatedAtTs": 1794344168,
+    "updatedAt": "2026-11-10T21:01:30.187Z",
+    "updatedAtTs": 1794344490,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794344168,
-        452
+        1794344490,
+        446
       ],
       "peak24h": [
         1794343873,
         452
       ],
       "peak48h": [
-        1794171686,
-        542
+        1794171966,
+        531
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794171686,
-          542
-        ],
         [
           1794171966,
           531
@@ -2308,13 +2304,13 @@
         [
           1794344168,
           452
+        ],
+        [
+          1794344490,
+          446
         ]
       ],
       "hourlyPeak": [
-        [
-          1791752400,
-          613
-        ],
         [
           1791756000,
           571
@@ -4938,6 +4934,10 @@
         [
           1794168000,
           569
+        ],
+        [
+          1794171600,
+          542
         ]
       ],
       "dailyPeak": [
@@ -5522,6 +5522,6 @@
       ]
     }
   },
-  "peak48h": 542,
-  "peak48hAt": "2026-11-08T21:01:26.000Z"
+  "peak48h": 531,
+  "peak48hAt": "2026-11-08T21:06:06.000Z"
 }
