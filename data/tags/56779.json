@@ -3,16 +3,16 @@
   "appid": "204300",
   "steamAppid": 204300,
   "name": "Awesomenauts",
-  "players": 60,
+  "players": 62,
   "allTimePeak": 12156,
   "peak24h": 63,
-  "peak24hAt": "2026-11-09T22:11:25.000Z",
-  "updatedAt": "2026-11-10T22:11:09.376Z",
+  "peak24hAt": "2026-11-09T22:21:16.000Z",
+  "updatedAt": "2026-11-10T22:16:14.811Z",
   "img_url": "2025/02/awesomenauts-tag-cover.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-10T22:11:09.376Z",
-    "updatedAtTs": 1794348669,
+    "updatedAt": "2026-11-10T22:16:14.811Z",
+    "updatedAtTs": 1794348974,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794348669,
-        60
+        1794348974,
+        62
       ],
       "peak24h": [
-        1794262285,
+        1794262876,
         63
       ],
       "peak48h": [
-        1794176170,
-        68
+        1794176473,
+        66
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794175870,
-          64
-        ],
-        [
-          1794176170,
-          68
-        ],
         [
           1794176473,
           66
@@ -2316,6 +2308,10 @@
         [
           1794348669,
           60
+        ],
+        [
+          1794348974,
+          62
         ]
       ],
       "hourlyPeak": [
@@ -4945,7 +4941,7 @@
         ],
         [
           1794175200,
-          64
+          68
         ]
       ],
       "dailyPeak": [
@@ -5914,6 +5910,6 @@
       ]
     }
   },
-  "peak48h": 68,
-  "peak48hAt": "2026-11-08T22:16:10.000Z"
+  "peak48h": 66,
+  "peak48hAt": "2026-11-08T22:21:13.000Z"
 }

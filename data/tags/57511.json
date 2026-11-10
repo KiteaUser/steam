@@ -3,16 +3,16 @@
   "appid": "244850",
   "steamAppid": 244850,
   "name": "Space Engineers",
-  "players": 3115,
+  "players": 3074,
   "allTimePeak": 23888,
   "peak24h": 3368,
   "peak24hAt": "2026-11-10T19:51:19.000Z",
-  "updatedAt": "2026-11-10T22:11:09.376Z",
+  "updatedAt": "2026-11-10T22:16:14.811Z",
   "img_url": "2024/12/mixcollage-13-dec-2024-10-06-am-9872.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-10T22:11:09.376Z",
-    "updatedAtTs": 1794348669,
+    "updatedAt": "2026-11-10T22:16:14.811Z",
+    "updatedAtTs": 1794348974,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794348669,
-        3115
+        1794348974,
+        3074
       ],
       "peak24h": [
         1794340279,
         3368
       ],
       "peak48h": [
-        1794175870,
-        4020
+        1794176473,
+        3927
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794175870,
-          4020
-        ],
-        [
-          1794176170,
-          3900
-        ],
         [
           1794176473,
           3927
@@ -2316,6 +2308,10 @@
         [
           1794348669,
           3115
+        ],
+        [
+          1794348974,
+          3074
         ]
       ],
       "hourlyPeak": [
@@ -5858,6 +5854,6 @@
       ]
     }
   },
-  "peak48h": 4020,
-  "peak48hAt": "2026-11-08T22:11:10.000Z"
+  "peak48h": 3927,
+  "peak48hAt": "2026-11-08T22:21:13.000Z"
 }
