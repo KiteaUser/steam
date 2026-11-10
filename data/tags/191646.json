@@ -3,16 +3,16 @@
   "appid": "2707930",
   "steamAppid": 2707930,
   "name": "Palia",
-  "players": 4117,
+  "players": 4021,
   "allTimePeak": 24104,
   "peak24h": 4673,
   "peak24hAt": "2026-11-10T20:16:16.000Z",
-  "updatedAt": "2026-11-10T22:21:10.559Z",
+  "updatedAt": "2026-11-10T22:25:56.351Z",
   "img_url": "2024/12/mixcollage-04-dec-2024-07-31-pm-5624.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-10T22:21:10.559Z",
-    "updatedAtTs": 1794349270,
+    "updatedAt": "2026-11-10T22:25:56.351Z",
+    "updatedAtTs": 1794349556,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794349270,
-        4117
+        1794349556,
+        4021
       ],
       "peak24h": [
         1794341776,
         4673
       ],
       "peak48h": [
-        1794176473,
-        5315
+        1794176759,
+        5206
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794176473,
-          5315
-        ],
         [
           1794176759,
           5206
@@ -2308,6 +2304,10 @@
         [
           1794349270,
           4117
+        ],
+        [
+          1794349556,
+          4021
         ]
       ],
       "hourlyPeak": [
@@ -5350,6 +5350,6 @@
       ]
     }
   },
-  "peak48h": 5315,
-  "peak48hAt": "2026-11-08T22:21:13.000Z"
+  "peak48h": 5206,
+  "peak48hAt": "2026-11-08T22:25:59.000Z"
 }
