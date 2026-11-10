@@ -7,12 +7,12 @@
   "allTimePeak": 17701,
   "peak24h": 1006,
   "peak24hAt": "2026-11-10T23:16:16.000Z",
-  "updatedAt": "2026-11-10T23:21:06.227Z",
+  "updatedAt": "2026-11-10T23:26:11.587Z",
   "img_url": "2022/10/DCUniverseOnlineTagPage.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-10T23:21:06.227Z",
-    "updatedAtTs": 1794352866,
+    "updatedAt": "2026-11-10T23:26:11.587Z",
+    "updatedAtTs": 1794353171,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,7 +23,7 @@
     },
     "summary": {
       "current": [
-        1794352866,
+        1794353171,
         1006
       ],
       "peak24h": [
@@ -31,8 +31,8 @@
         1006
       ],
       "peak48h": [
-        1794180359,
-        1054
+        1794180957,
+        1052
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794180359,
-          1054
-        ],
         [
           1794180678,
           1037
@@ -2303,6 +2299,10 @@
         ],
         [
           1794352866,
+          1006
+        ],
+        [
+          1794353171,
           1006
         ]
       ],
@@ -5906,6 +5906,6 @@
       ]
     }
   },
-  "peak48h": 1054,
-  "peak48hAt": "2026-11-08T23:25:59.000Z"
+  "peak48h": 1052,
+  "peak48hAt": "2026-11-08T23:35:57.000Z"
 }
