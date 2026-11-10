@@ -3,16 +3,16 @@
   "appid": "597820",
   "steamAppid": 597820,
   "name": "BIOMUTANT",
-  "players": 34,
+  "players": 33,
   "allTimePeak": 55048,
   "peak24h": 47,
   "peak24hAt": "2026-11-10T20:06:14.000Z",
-  "updatedAt": "2026-11-10T23:51:20.254Z",
+  "updatedAt": "2026-11-10T23:56:22.127Z",
   "img_url": "2024/12/mixcollage-05-dec-2024-07-24-pm-9248.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-10T23:51:20.254Z",
-    "updatedAtTs": 1794354680,
+    "updatedAt": "2026-11-10T23:56:22.127Z",
+    "updatedAtTs": 1794354982,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794354680,
-        34
+        1794354982,
+        33
       ],
       "peak24h": [
         1794341174,
         47
       ],
       "peak48h": [
-        1794182158,
-        51
+        1794183965,
+        49
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794182158,
-          51
-        ],
         [
           1794182494,
           48
@@ -2308,6 +2304,10 @@
         [
           1794354680,
           34
+        ],
+        [
+          1794354982,
+          33
         ]
       ],
       "hourlyPeak": [
@@ -5518,6 +5518,6 @@
       ]
     }
   },
-  "peak48h": 51,
-  "peak48hAt": "2026-11-08T23:55:58.000Z"
+  "peak48h": 49,
+  "peak48hAt": "2026-11-09T00:26:05.000Z"
 }
