@@ -3,16 +3,16 @@
   "appid": "522210",
   "steamAppid": 522210,
   "name": "Serial Cleaner",
-  "players": 7,
+  "players": 12,
   "allTimePeak": 13958,
-  "peak24h": 11,
-  "peak24hAt": "2026-11-10T15:11:12.000Z",
-  "updatedAt": "2026-11-10T15:16:27.735Z",
+  "peak24h": 12,
+  "peak24hAt": "2026-11-10T15:21:21.000Z",
+  "updatedAt": "2026-11-10T15:21:21.662Z",
   "img_url": "2025/04/mixcollage-06-apr-2025-10-19-am-5728.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-10T15:16:27.735Z",
-    "updatedAtTs": 1794323787,
+    "updatedAt": "2026-11-10T15:21:21.662Z",
+    "updatedAtTs": 1794324081,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1794323787,
-        7
+        1794324081,
+        12
       ],
       "peak24h": [
-        1794323472,
-        11
+        1794324081,
+        12
       ],
       "peak48h": [
-        1794151271,
+        1794151561,
         12
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794151271,
-          12
-        ],
         [
           1794151561,
           12
@@ -2312,6 +2308,10 @@
         [
           1794323787,
           7
+        ],
+        [
+          1794324081,
+          12
         ]
       ],
       "hourlyPeak": [
@@ -5715,5 +5715,5 @@
     }
   },
   "peak48h": 12,
-  "peak48hAt": "2026-11-08T15:21:11.000Z"
+  "peak48hAt": "2026-11-08T15:26:01.000Z"
 }

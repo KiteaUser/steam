@@ -3,16 +3,16 @@
   "appid": "203160",
   "steamAppid": 203160,
   "name": "Tomb Raider",
-  "players": 2572,
+  "players": 2496,
   "allTimePeak": 89538,
   "peak24h": 2966,
   "peak24hAt": "2026-11-10T14:31:26.000Z",
-  "updatedAt": "2026-11-10T15:16:27.735Z",
+  "updatedAt": "2026-11-10T15:21:21.662Z",
   "img_url": "2024/12/mixcollage-22-dec-2024-06-13-am-5317.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-10T15:16:27.735Z",
-    "updatedAtTs": 1794323787,
+    "updatedAt": "2026-11-10T15:21:21.662Z",
+    "updatedAtTs": 1794324081,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794323787,
-        2572
+        1794324081,
+        2496
       ],
       "peak24h": [
         1794321086,
         2966
       ],
       "peak48h": [
-        1794151271,
-        3707
+        1794151561,
+        3623
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794151271,
-          3707
-        ],
         [
           1794151561,
           3623
@@ -2312,6 +2308,10 @@
         [
           1794323787,
           2572
+        ],
+        [
+          1794324081,
+          2496
         ]
       ],
       "hourlyPeak": [
@@ -5882,6 +5882,6 @@
       ]
     }
   },
-  "peak48h": 3707,
-  "peak48hAt": "2026-11-08T15:21:11.000Z"
+  "peak48h": 3623,
+  "peak48hAt": "2026-11-08T15:26:01.000Z"
 }
