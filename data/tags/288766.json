@@ -3,16 +3,16 @@
   "appid": "305620",
   "steamAppid": 305620,
   "name": "The Long Dark",
-  "players": 3659,
+  "players": 3558,
   "allTimePeak": 15037,
   "peak24h": 4013,
   "peak24hAt": "2026-11-10T19:31:28.000Z",
-  "updatedAt": "2026-11-10T21:16:03.573Z",
+  "updatedAt": "2026-11-10T21:21:15.582Z",
   "img_url": "2024/12/mixcollage-07-dec-2024-01-23-am-8867.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-10T21:16:03.573Z",
-    "updatedAtTs": 1794345363,
+    "updatedAt": "2026-11-10T21:21:15.582Z",
+    "updatedAtTs": 1794345675,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794345363,
-        3659
+        1794345675,
+        3558
       ],
       "peak24h": [
         1794339088,
         4013
       ],
       "peak48h": [
-        1794172576,
-        4628
+        1794173167,
+        4338
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794172576,
-          4628
-        ],
-        [
-          1794172873,
-          4524
-        ],
         [
           1794173167,
           4338
@@ -2316,6 +2308,10 @@
         [
           1794345363,
           3659
+        ],
+        [
+          1794345675,
+          3558
         ]
       ],
       "hourlyPeak": [
@@ -5814,6 +5810,6 @@
       ]
     }
   },
-  "peak48h": 4628,
-  "peak48hAt": "2026-11-08T21:16:16.000Z"
+  "peak48h": 4338,
+  "peak48hAt": "2026-11-08T21:26:07.000Z"
 }

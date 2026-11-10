@@ -3,16 +3,16 @@
   "appid": "1995520",
   "steamAppid": 1995520,
   "name": "Pax Dei",
-  "players": 1070,
+  "players": 1092,
   "allTimePeak": 11531,
   "peak24h": 1171,
   "peak24hAt": "2026-11-10T20:06:14.000Z",
-  "updatedAt": "2026-11-10T21:16:03.573Z",
+  "updatedAt": "2026-11-10T21:21:15.582Z",
   "img_url": "2024/12/mixcollage-03-dec-2024-09-26-pm-3173.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-10T21:16:03.573Z",
-    "updatedAtTs": 1794345363,
+    "updatedAt": "2026-11-10T21:21:15.582Z",
+    "updatedAtTs": 1794345675,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794345363,
-        1070
+        1794345675,
+        1092
       ],
       "peak24h": [
         1794341174,
         1171
       ],
       "peak48h": [
-        1794172576,
-        1280
+        1794173167,
+        1242
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794172576,
-          1280
-        ],
-        [
-          1794172873,
-          1258
-        ],
         [
           1794173167,
           1242
@@ -2324,6 +2316,10 @@
         [
           1794345363,
           1070
+        ],
+        [
+          1794345675,
+          1092
         ]
       ],
       "hourlyPeak": [
@@ -5354,6 +5350,6 @@
       ]
     }
   },
-  "peak48h": 1280,
-  "peak48hAt": "2026-11-08T21:16:16.000Z"
+  "peak48h": 1242,
+  "peak48hAt": "2026-11-08T21:26:07.000Z"
 }

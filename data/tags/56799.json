@@ -3,16 +3,16 @@
   "appid": "102500",
   "steamAppid": 102500,
   "name": "Kingdoms of Amalur: Reckoning",
-  "players": 21,
+  "players": 23,
   "allTimePeak": 12800,
   "peak24h": 25,
   "peak24hAt": "2026-11-10T03:06:06.000Z",
-  "updatedAt": "2026-11-10T21:16:03.573Z",
+  "updatedAt": "2026-11-10T21:21:15.582Z",
   "img_url": "2024/12/mixcollage-11-dec-2024-08-35-am-306.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-10T21:16:03.573Z",
-    "updatedAtTs": 1794345363,
+    "updatedAt": "2026-11-10T21:21:15.582Z",
+    "updatedAtTs": 1794345675,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794345363,
-        21
+        1794345675,
+        23
       ],
       "peak24h": [
         1794279966,
         25
       ],
       "peak48h": [
-        1794172576,
-        28
+        1794173167,
+        27
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794172576,
-          28
-        ],
-        [
-          1794172873,
-          26
-        ],
         [
           1794173167,
           27
@@ -2312,6 +2304,10 @@
         [
           1794345363,
           21
+        ],
+        [
+          1794345675,
+          23
         ]
       ],
       "hourlyPeak": [
@@ -4941,7 +4937,7 @@
         ],
         [
           1794171600,
-          26
+          28
         ]
       ],
       "dailyPeak": [
@@ -5914,6 +5910,6 @@
       ]
     }
   },
-  "peak48h": 28,
-  "peak48hAt": "2026-11-08T21:16:16.000Z"
+  "peak48h": 27,
+  "peak48hAt": "2026-11-08T21:26:07.000Z"
 }
