@@ -7,12 +7,12 @@
   "allTimePeak": 20919,
   "peak24h": 62,
   "peak24hAt": "2026-11-09T14:21:18.000Z",
-  "updatedAt": "2026-11-10T06:17:17.664Z",
+  "updatedAt": "2026-11-10T06:21:15.980Z",
   "img_url": "2025/02/mixcollage-02-feb-2025-07-22-am-7308.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-10T06:17:17.664Z",
-    "updatedAtTs": 1794291437,
+    "updatedAt": "2026-11-10T06:21:15.980Z",
+    "updatedAtTs": 1794291675,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,7 +23,7 @@
     },
     "summary": {
       "current": [
-        1794291437,
+        1794291675,
         12
       ],
       "peak24h": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794118871,
-          52
-        ],
         [
           1794119165,
           52
@@ -2319,6 +2315,10 @@
         ],
         [
           1794291437,
+          12
+        ],
+        [
+          1794291675,
           12
         ]
       ],
@@ -4949,7 +4949,7 @@
         ],
         [
           1794117600,
-          45
+          52
         ]
       ],
       "dailyPeak": [
