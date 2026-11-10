@@ -3,16 +3,16 @@
   "appid": "729040",
   "steamAppid": 729040,
   "name": "Borderlands",
-  "players": 1136,
+  "players": 1133,
   "allTimePeak": 26446,
   "peak24h": 1148,
   "peak24hAt": "2026-11-10T20:16:16.000Z",
-  "updatedAt": "2026-11-10T20:26:01.583Z",
+  "updatedAt": "2026-11-10T20:31:40.375Z",
   "img_url": "2024/12/mixcollage-10-dec-2024-12-23-pm-6192.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-10T20:26:01.583Z",
-    "updatedAtTs": 1794342361,
+    "updatedAt": "2026-11-10T20:31:40.375Z",
+    "updatedAtTs": 1794342700,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794342361,
-        1136
+        1794342700,
+        1133
       ],
       "peak24h": [
         1794341776,
         1148
       ],
       "peak48h": [
-        1794169562,
-        1604
+        1794170171,
+        1586
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794169562,
-          1604
-        ],
-        [
-          1794169881,
-          1604
-        ],
         [
           1794170171,
           1586
@@ -2320,6 +2312,10 @@
         [
           1794342361,
           1136
+        ],
+        [
+          1794342700,
+          1133
         ]
       ],
       "hourlyPeak": [
@@ -5598,6 +5594,6 @@
       ]
     }
   },
-  "peak48h": 1604,
-  "peak48hAt": "2026-11-08T20:26:02.000Z"
+  "peak48h": 1586,
+  "peak48hAt": "2026-11-08T20:36:11.000Z"
 }

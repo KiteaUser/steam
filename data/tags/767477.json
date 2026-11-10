@@ -3,16 +3,16 @@
   "appid": "2198150",
   "steamAppid": 2198150,
   "name": "Tiny Glade",
-  "players": 340,
+  "players": 319,
   "allTimePeak": 10692,
   "peak24h": 341,
   "peak24hAt": "2026-11-10T20:11:13.000Z",
-  "updatedAt": "2026-11-10T20:26:01.583Z",
+  "updatedAt": "2026-11-10T20:31:40.375Z",
   "img_url": "2024/09/tiny-glade-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-10T20:26:01.583Z",
-    "updatedAtTs": 1794342361,
+    "updatedAt": "2026-11-10T20:31:40.375Z",
+    "updatedAtTs": 1794342700,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794342361,
-        340
+        1794342700,
+        319
       ],
       "peak24h": [
         1794341473,
         341
       ],
       "peak48h": [
-        1794169562,
-        432
+        1794171076,
+        408
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794169562,
-          432
-        ],
-        [
-          1794169881,
-          432
-        ],
         [
           1794170171,
           395
@@ -2332,6 +2324,10 @@
         [
           1794342361,
           340
+        ],
+        [
+          1794342700,
+          319
         ]
       ],
       "hourlyPeak": [
@@ -5350,6 +5346,6 @@
       ]
     }
   },
-  "peak48h": 432,
-  "peak48hAt": "2026-11-08T20:26:02.000Z"
+  "peak48h": 408,
+  "peak48hAt": "2026-11-08T20:51:16.000Z"
 }

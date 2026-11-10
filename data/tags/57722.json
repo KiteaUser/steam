@@ -3,16 +3,16 @@
   "appid": "589360",
   "steamAppid": 589360,
   "name": "Ni no Kuni II: Revenant Kingdom",
-  "players": 64,
+  "players": 63,
   "allTimePeak": 10805,
-  "peak24h": 87,
-  "peak24hAt": "2026-11-09T20:26:21.000Z",
-  "updatedAt": "2026-11-10T20:26:01.583Z",
+  "peak24h": 82,
+  "peak24hAt": "2026-11-09T20:36:14.000Z",
+  "updatedAt": "2026-11-10T20:31:40.375Z",
   "img_url": "2024/12/mixcollage-04-dec-2024-01-04-am-7405.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-10T20:26:01.583Z",
-    "updatedAtTs": 1794342361,
+    "updatedAt": "2026-11-10T20:31:40.375Z",
+    "updatedAtTs": 1794342700,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794342361,
-        64
+        1794342700,
+        63
       ],
       "peak24h": [
-        1794255981,
-        87
+        1794256574,
+        82
       ],
       "peak48h": [
-        1794169562,
-        90
+        1794170471,
+        87
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794169562,
-          90
-        ],
-        [
-          1794169881,
-          89
-        ],
         [
           1794170171,
           86
@@ -2316,6 +2308,10 @@
         [
           1794342361,
           64
+        ],
+        [
+          1794342700,
+          63
         ]
       ],
       "hourlyPeak": [
@@ -5646,6 +5642,6 @@
       ]
     }
   },
-  "peak48h": 90,
-  "peak48hAt": "2026-11-08T20:26:02.000Z"
+  "peak48h": 87,
+  "peak48hAt": "2026-11-08T20:41:11.000Z"
 }

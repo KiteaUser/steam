@@ -3,16 +3,16 @@
   "appid": "286160",
   "steamAppid": 286160,
   "name": "Tabletop Simulator",
-  "players": 6491,
+  "players": 6660,
   "allTimePeak": 37198,
   "peak24h": 8144,
   "peak24hAt": "2026-11-10T02:51:15.000Z",
-  "updatedAt": "2026-11-10T20:26:01.583Z",
+  "updatedAt": "2026-11-10T20:31:40.375Z",
   "img_url": "2024/11/mixcollage-22-nov-2024-12-22-am-9153.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-10T20:26:01.583Z",
-    "updatedAtTs": 1794342361,
+    "updatedAt": "2026-11-10T20:31:40.375Z",
+    "updatedAtTs": 1794342700,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794342361,
-        6491
+        1794342700,
+        6660
       ],
       "peak24h": [
         1794279075,
         8144
       ],
       "peak48h": [
-        1794169562,
-        9343
+        1794170171,
+        9290
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794169562,
-          9343
-        ],
-        [
-          1794169881,
-          9343
-        ],
         [
           1794170171,
           9290
@@ -2316,6 +2308,10 @@
         [
           1794342361,
           6491
+        ],
+        [
+          1794342700,
+          6660
         ]
       ],
       "hourlyPeak": [
@@ -4945,7 +4941,7 @@
         ],
         [
           1794168000,
-          9302
+          9343
         ]
       ],
       "dailyPeak": [
@@ -5834,6 +5830,6 @@
       ]
     }
   },
-  "peak48h": 9343,
-  "peak48hAt": "2026-11-08T20:26:02.000Z"
+  "peak48h": 9290,
+  "peak48hAt": "2026-11-08T20:36:11.000Z"
 }
