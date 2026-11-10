@@ -3,16 +3,16 @@
   "appid": "1465460",
   "steamAppid": 1465460,
   "name": "Infection Free Zone",
-  "players": 702,
+  "players": 712,
   "allTimePeak": 19380,
   "peak24h": 787,
   "peak24hAt": "2026-11-10T20:16:16.000Z",
-  "updatedAt": "2026-11-10T21:36:00.068Z",
+  "updatedAt": "2026-11-10T21:41:10.182Z",
   "img_url": "2024/12/mixcollage-03-dec-2024-08-48-pm-2658.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-10T21:36:00.068Z",
-    "updatedAtTs": 1794346560,
+    "updatedAt": "2026-11-10T21:41:10.182Z",
+    "updatedAtTs": 1794346870,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794346560,
-        702
+        1794346870,
+        712
       ],
       "peak24h": [
         1794341776,
         787
       ],
       "peak48h": [
-        1794173761,
-        957
+        1794174361,
+        937
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794173761,
-          957
-        ],
-        [
-          1794174065,
-          923
-        ],
         [
           1794174361,
           937
@@ -2312,6 +2304,10 @@
         [
           1794346560,
           702
+        ],
+        [
+          1794346870,
+          712
         ]
       ],
       "hourlyPeak": [
@@ -5350,6 +5346,6 @@
       ]
     }
   },
-  "peak48h": 957,
-  "peak48hAt": "2026-11-08T21:36:01.000Z"
+  "peak48h": 937,
+  "peak48hAt": "2026-11-08T21:46:01.000Z"
 }
