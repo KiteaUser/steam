@@ -3,16 +3,16 @@
   "appid": "2138720",
   "steamAppid": 2138720,
   "name": "REMATCH",
-  "players": 2882,
+  "players": 2785,
   "allTimePeak": 92841,
   "peak24h": 5137,
   "peak24hAt": "2026-11-09T21:01:29.000Z",
-  "updatedAt": "2026-11-10T15:26:08.899Z",
+  "updatedAt": "2026-11-10T15:31:34.545Z",
   "img_url": "2025/04/rematch-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-10T15:26:08.899Z",
-    "updatedAtTs": 1794324368,
+    "updatedAt": "2026-11-10T15:31:34.545Z",
+    "updatedAtTs": 1794324694,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1794324368,
-        2882
+        1794324694,
+        2785
       ],
       "peak24h": [
         1794258089,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794151872,
-          4072
-        ],
         [
           1794152164,
           4072
@@ -2324,6 +2320,10 @@
         [
           1794324368,
           2882
+        ],
+        [
+          1794324694,
+          2785
         ]
       ],
       "hourlyPeak": [
@@ -4953,7 +4953,7 @@
         ],
         [
           1794150000,
-          4056
+          4072
         ]
       ],
       "dailyPeak": [

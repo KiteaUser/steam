@@ -3,16 +3,16 @@
   "appid": "485510",
   "steamAppid": 485510,
   "name": "Nioh",
-  "players": 328,
+  "players": 313,
   "allTimePeak": 10649,
   "peak24h": 381,
   "peak24hAt": "2026-11-10T14:25:59.000Z",
-  "updatedAt": "2026-11-10T15:26:08.899Z",
+  "updatedAt": "2026-11-10T15:31:34.545Z",
   "img_url": "2024/11/mixcollage-25-nov-2024-05-08-pm-8263.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-10T15:26:08.899Z",
-    "updatedAtTs": 1794324368,
+    "updatedAt": "2026-11-10T15:31:34.545Z",
+    "updatedAtTs": 1794324694,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794324368,
-        328
+        1794324694,
+        313
       ],
       "peak24h": [
         1794320759,
         381
       ],
       "peak48h": [
-        1794151872,
-        442
+        1794152164,
+        434
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794151872,
-          442
-        ],
         [
           1794152164,
           434
@@ -2320,6 +2316,10 @@
         [
           1794324368,
           328
+        ],
+        [
+          1794324694,
+          313
         ]
       ],
       "hourlyPeak": [
@@ -5670,6 +5670,6 @@
       ]
     }
   },
-  "peak48h": 442,
-  "peak48hAt": "2026-11-08T15:31:12.000Z"
+  "peak48h": 434,
+  "peak48hAt": "2026-11-08T15:36:04.000Z"
 }
