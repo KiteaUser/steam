@@ -3,16 +3,16 @@
   "appid": "2060130",
   "steamAppid": 2060130,
   "name": "Return to Monkey Island",
-  "players": 12,
+  "players": 20,
   "allTimePeak": 15539,
   "peak24h": 39,
   "peak24hAt": "2026-11-10T18:46:21.000Z",
-  "updatedAt": "2026-11-10T22:56:08.785Z",
+  "updatedAt": "2026-11-10T23:01:27.465Z",
   "img_url": "2024/12/mixcollage-09-dec-2024-02-29-am-560.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-10T22:56:08.785Z",
-    "updatedAtTs": 1794351368,
+    "updatedAt": "2026-11-10T23:01:27.465Z",
+    "updatedAtTs": 1794351687,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794351368,
-        12
+        1794351687,
+        20
       ],
       "peak24h": [
         1794336381,
         39
       ],
       "peak48h": [
-        1794178571,
-        45
+        1794178890,
+        43
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794178571,
-          45
-        ],
         [
           1794178890,
           43
@@ -2324,13 +2320,13 @@
         [
           1794351368,
           12
+        ],
+        [
+          1794351687,
+          20
         ]
       ],
       "hourlyPeak": [
-        [
-          1791759600,
-          33
-        ],
         [
           1791763200,
           34
@@ -4953,7 +4949,7 @@
         ],
         [
           1794175200,
-          44
+          45
         ]
       ],
       "dailyPeak": [
@@ -5438,6 +5434,6 @@
       ]
     }
   },
-  "peak48h": 45,
-  "peak48hAt": "2026-11-08T22:56:11.000Z"
+  "peak48h": 43,
+  "peak48hAt": "2026-11-08T23:01:30.000Z"
 }
