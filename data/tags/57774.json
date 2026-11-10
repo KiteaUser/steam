@@ -3,16 +3,16 @@
   "appid": "495420",
   "steamAppid": 495420,
   "name": "State of Decay 2",
-  "players": 1123,
+  "players": 1133,
   "allTimePeak": 22728,
   "peak24h": 1271,
   "peak24hAt": "2026-11-10T15:31:34.000Z",
-  "updatedAt": "2026-11-10T20:31:40.375Z",
+  "updatedAt": "2026-11-10T20:36:11.237Z",
   "img_url": "2024/12/mixcollage-09-dec-2024-10-59-am-2354.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-10T20:31:40.375Z",
-    "updatedAtTs": 1794342700,
+    "updatedAt": "2026-11-10T20:36:11.237Z",
+    "updatedAtTs": 1794342971,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794342700,
-        1123
+        1794342971,
+        1133
       ],
       "peak24h": [
         1794324694,
         1271
       ],
       "peak48h": [
-        1794170171,
-        1542
+        1794170471,
+        1520
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794170171,
-          1542
-        ],
         [
           1794170471,
           1520
@@ -2324,6 +2320,10 @@
         [
           1794342700,
           1123
+        ],
+        [
+          1794342971,
+          1133
         ]
       ],
       "hourlyPeak": [
@@ -5558,6 +5558,6 @@
       ]
     }
   },
-  "peak48h": 1542,
-  "peak48hAt": "2026-11-08T20:36:11.000Z"
+  "peak48h": 1520,
+  "peak48hAt": "2026-11-08T20:41:11.000Z"
 }
