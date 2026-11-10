@@ -3,16 +3,16 @@
   "appid": "216150",
   "steamAppid": 216150,
   "name": "MapleStory",
-  "players": 19263,
+  "players": 19053,
   "allTimePeak": 27434,
   "peak24h": 21253,
   "peak24hAt": "2026-11-10T03:11:10.000Z",
-  "updatedAt": "2026-11-10T05:46:08.573Z",
+  "updatedAt": "2026-11-10T05:51:11.237Z",
   "img_url": "2024/12/mixcollage-21-dec-2024-11-38-am-7578.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-10T05:46:08.573Z",
-    "updatedAtTs": 1794289568,
+    "updatedAt": "2026-11-10T05:51:11.237Z",
+    "updatedAtTs": 1794289871,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794289568,
-        19263
+        1794289871,
+        19053
       ],
       "peak24h": [
         1794280270,
         21253
       ],
       "peak48h": [
-        1794117067,
-        21696
+        1794117367,
+        21600
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794117067,
-          21696
-        ],
         [
           1794117367,
           21600
@@ -2312,6 +2308,10 @@
         [
           1794289568,
           19263
+        ],
+        [
+          1794289871,
+          19053
         ]
       ],
       "hourlyPeak": [
@@ -5910,6 +5910,6 @@
       ]
     }
   },
-  "peak48h": 21696,
-  "peak48hAt": "2026-11-08T05:51:07.000Z"
+  "peak48h": 21600,
+  "peak48hAt": "2026-11-08T05:56:07.000Z"
 }
