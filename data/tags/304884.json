@@ -3,16 +3,16 @@
   "appid": "626690",
   "steamAppid": 626690,
   "name": "Sword Art Online: Fatal Bullet",
-  "players": 48,
+  "players": 51,
   "allTimePeak": 21727,
   "peak24h": 67,
   "peak24hAt": "2026-11-09T12:01:24.000Z",
-  "updatedAt": "2026-11-10T04:51:13.946Z",
+  "updatedAt": "2026-11-10T04:56:00.782Z",
   "img_url": "2025/01/fatal-bullet.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-10T04:51:13.946Z",
-    "updatedAtTs": 1794286273,
+    "updatedAt": "2026-11-10T04:56:00.782Z",
+    "updatedAtTs": 1794286560,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1794286273,
-        48
+        1794286560,
+        51
       ],
       "peak24h": [
         1794225684,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794113754,
-          66
-        ],
         [
           1794114076,
           66
@@ -2312,6 +2308,10 @@
         [
           1794286273,
           48
+        ],
+        [
+          1794286560,
+          51
         ]
       ],
       "hourlyPeak": [
