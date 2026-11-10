@@ -3,16 +3,16 @@
   "appid": "2661300",
   "steamAppid": 2661300,
   "name": "Grounded 2",
-  "players": 3020,
+  "players": 3008,
   "allTimePeak": 49836,
   "peak24h": 3195,
   "peak24hAt": "2026-11-09T20:26:21.000Z",
-  "updatedAt": "2026-11-10T20:01:43.428Z",
+  "updatedAt": "2026-11-10T20:06:14.492Z",
   "img_url": "2025/06/grounded-2-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-10T20:01:43.428Z",
-    "updatedAtTs": 1794340903,
+    "updatedAt": "2026-11-10T20:06:14.492Z",
+    "updatedAtTs": 1794341174,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794340903,
-        3020
+        1794341174,
+        3008
       ],
       "peak24h": [
         1794255981,
         3195
       ],
       "peak48h": [
-        1794168365,
-        5028
+        1794168677,
+        4999
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794168365,
-          5028
-        ],
         [
           1794168677,
           4999
@@ -2316,6 +2312,10 @@
         [
           1794340903,
           3020
+        ],
+        [
+          1794341174,
+          3008
         ]
       ],
       "hourlyPeak": [
@@ -4945,7 +4945,7 @@
         ],
         [
           1794168000,
-          4999
+          5028
         ]
       ],
       "dailyPeak": [
@@ -5294,6 +5294,6 @@
       ]
     }
   },
-  "peak48h": 5028,
-  "peak48hAt": "2026-11-08T20:06:05.000Z"
+  "peak48h": 4999,
+  "peak48hAt": "2026-11-08T20:11:17.000Z"
 }
