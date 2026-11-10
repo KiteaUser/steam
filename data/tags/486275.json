@@ -7,12 +7,12 @@
   "allTimePeak": 31057,
   "peak24h": 1280,
   "peak24hAt": "2026-11-10T13:56:09.000Z",
-  "updatedAt": "2026-11-10T14:21:13.645Z",
+  "updatedAt": "2026-11-10T14:25:59.652Z",
   "img_url": "2025/08/volcano-princess-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-10T14:21:13.645Z",
-    "updatedAtTs": 1794320473,
+    "updatedAt": "2026-11-10T14:25:59.652Z",
+    "updatedAtTs": 1794320759,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,7 +23,7 @@
     },
     "summary": {
       "current": [
-        1794320473,
+        1794320759,
         1260
       ],
       "peak24h": [
@@ -31,8 +31,8 @@
         1280
       ],
       "peak48h": [
-        1794147953,
-        1484
+        1794148270,
+        1464
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794147953,
-          1484
-        ],
         [
           1794148270,
           1464
@@ -2307,6 +2303,10 @@
         ],
         [
           1794320473,
+          1260
+        ],
+        [
+          1794320759,
           1260
         ]
       ],
@@ -5394,6 +5394,6 @@
       ]
     }
   },
-  "peak48h": 1484,
-  "peak48hAt": "2026-11-08T14:25:53.000Z"
+  "peak48h": 1464,
+  "peak48hAt": "2026-11-08T14:31:10.000Z"
 }
