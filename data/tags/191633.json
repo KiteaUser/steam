@@ -3,16 +3,16 @@
   "appid": "1124300",
   "steamAppid": 1124300,
   "name": "HUMANKIND",
-  "players": 545,
+  "players": 544,
   "allTimePeak": 55284,
   "peak24h": 545,
   "peak24hAt": "2026-11-10T21:06:08.000Z",
-  "updatedAt": "2026-11-10T21:06:08.916Z",
+  "updatedAt": "2026-11-10T21:11:15.191Z",
   "img_url": "2024/12/mixcollage-07-dec-2024-02-46-am-9278.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-10T21:06:08.916Z",
-    "updatedAtTs": 1794344768,
+    "updatedAt": "2026-11-10T21:11:15.191Z",
+    "updatedAtTs": 1794345075,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794344768,
-        545
+        1794345075,
+        544
       ],
       "peak24h": [
         1794344768,
         545
       ],
       "peak48h": [
-        1794172268,
-        637
+        1794172576,
+        626
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794172268,
-          637
-        ],
         [
           1794172576,
           626
@@ -2328,6 +2324,10 @@
         [
           1794344768,
           545
+        ],
+        [
+          1794345075,
+          544
         ]
       ],
       "hourlyPeak": [
@@ -5494,6 +5494,6 @@
       ]
     }
   },
-  "peak48h": 637,
-  "peak48hAt": "2026-11-08T21:11:08.000Z"
+  "peak48h": 626,
+  "peak48hAt": "2026-11-08T21:16:16.000Z"
 }
