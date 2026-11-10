@@ -3,16 +3,16 @@
   "appid": "386940",
   "steamAppid": 386940,
   "name": "Ultimate Chicken Horse",
-  "players": 370,
+  "players": 360,
   "allTimePeak": 15874,
   "peak24h": 405,
   "peak24hAt": "2026-11-09T15:01:44.000Z",
-  "updatedAt": "2026-11-10T14:41:18.686Z",
+  "updatedAt": "2026-11-10T14:46:27.339Z",
   "img_url": "2024/11/mixcollage-21-nov-2024-01-32-pm-5676.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-10T14:41:18.686Z",
-    "updatedAtTs": 1794321678,
+    "updatedAt": "2026-11-10T14:46:27.339Z",
+    "updatedAtTs": 1794321987,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794321678,
-        370
+        1794321987,
+        360
       ],
       "peak24h": [
         1794236504,
         405
       ],
       "peak48h": [
-        1794149163,
-        623
+        1794149463,
+        587
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794149163,
-          623
-        ],
         [
           1794149463,
           587
@@ -2320,6 +2316,10 @@
         [
           1794321678,
           370
+        ],
+        [
+          1794321987,
+          360
         ]
       ],
       "hourlyPeak": [
@@ -5770,6 +5770,6 @@
       ]
     }
   },
-  "peak48h": 623,
-  "peak48hAt": "2026-11-08T14:46:03.000Z"
+  "peak48h": 587,
+  "peak48hAt": "2026-11-08T14:51:03.000Z"
 }

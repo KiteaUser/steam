@@ -3,16 +3,16 @@
   "appid": "374320",
   "steamAppid": 374320,
   "name": "DARK SOULS III",
-  "players": 4119,
+  "players": 4114,
   "allTimePeak": 129975,
-  "peak24h": 4126,
-  "peak24hAt": "2026-11-09T14:41:19.000Z",
-  "updatedAt": "2026-11-10T14:41:18.686Z",
+  "peak24h": 4119,
+  "peak24hAt": "2026-11-10T14:41:18.000Z",
+  "updatedAt": "2026-11-10T14:46:27.339Z",
   "img_url": "2024/12/mixcollage-07-dec-2024-08-39-am-2204.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-10T14:41:18.686Z",
-    "updatedAtTs": 1794321678,
+    "updatedAt": "2026-11-10T14:46:27.339Z",
+    "updatedAtTs": 1794321987,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
+        1794321987,
+        4114
+      ],
+      "peak24h": [
         1794321678,
         4119
       ],
-      "peak24h": [
-        1794235279,
-        4126
-      ],
       "peak48h": [
-        1794149163,
-        5394
+        1794150090,
+        5377
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794149163,
-          5394
-        ],
         [
           1794149463,
           5351
@@ -2316,6 +2312,10 @@
         [
           1794321678,
           4119
+        ],
+        [
+          1794321987,
+          4114
         ]
       ],
       "hourlyPeak": [
@@ -5738,6 +5738,6 @@
       ]
     }
   },
-  "peak48h": 5394,
-  "peak48hAt": "2026-11-08T14:46:03.000Z"
+  "peak48h": 5377,
+  "peak48hAt": "2026-11-08T15:01:30.000Z"
 }

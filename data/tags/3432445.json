@@ -3,16 +3,16 @@
   "appid": "3241660",
   "steamAppid": 3241660,
   "name": "REPO",
-  "players": 41333,
+  "players": 41360,
   "allTimePeak": 271571,
   "peak24h": 44409,
   "peak24hAt": "2026-11-09T14:46:27.000Z",
-  "updatedAt": "2026-11-10T14:41:18.686Z",
+  "updatedAt": "2026-11-10T14:46:27.339Z",
   "img_url": "2025/03/r-e-p-o-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-10T14:41:18.686Z",
-    "updatedAtTs": 1794321678,
+    "updatedAt": "2026-11-10T14:46:27.339Z",
+    "updatedAtTs": 1794321987,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1794321678,
-        41333
+        1794321987,
+        41360
       ],
       "peak24h": [
         1794235587,
         44409
       ],
       "peak48h": [
-        1794149163,
+        1794149463,
         61250
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794149163,
-          61250
-        ],
         [
           1794149463,
           61250
@@ -2312,6 +2308,10 @@
         [
           1794321678,
           41333
+        ],
+        [
+          1794321987,
+          41360
         ]
       ],
       "hourlyPeak": [
@@ -5311,5 +5311,5 @@
     }
   },
   "peak48h": 61250,
-  "peak48hAt": "2026-11-08T14:46:03.000Z"
+  "peak48hAt": "2026-11-08T14:51:03.000Z"
 }
