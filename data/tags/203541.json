@@ -3,16 +3,16 @@
   "appid": "457140",
   "steamAppid": 457140,
   "name": "Oxygen Not Included",
-  "players": 8402,
+  "players": 8384,
   "allTimePeak": 27486,
   "peak24h": 8680,
   "peak24hAt": "2026-11-10T14:16:08.000Z",
-  "updatedAt": "2026-11-10T15:06:12.954Z",
+  "updatedAt": "2026-11-10T15:11:12.607Z",
   "img_url": "2024/12/mixcollage-12-dec-2024-12-22-am-69.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-10T15:06:12.954Z",
-    "updatedAtTs": 1794323172,
+    "updatedAt": "2026-11-10T15:11:12.607Z",
+    "updatedAtTs": 1794323472,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794323172,
-        8402
+        1794323472,
+        8384
       ],
       "peak24h": [
         1794320168,
         8680
       ],
       "peak48h": [
-        1794150668,
-        10014
+        1794150971,
+        9880
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794150668,
-          10014
-        ],
         [
           1794150971,
           9880
@@ -2300,6 +2296,10 @@
         [
           1794323172,
           8402
+        ],
+        [
+          1794323472,
+          8384
         ]
       ],
       "hourlyPeak": [
@@ -5714,6 +5714,6 @@
       ]
     }
   },
-  "peak48h": 10014,
-  "peak48hAt": "2026-11-08T15:11:08.000Z"
+  "peak48h": 9880,
+  "peak48hAt": "2026-11-08T15:16:11.000Z"
 }
