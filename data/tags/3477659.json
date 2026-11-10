@@ -3,16 +3,16 @@
   "appid": "2763740",
   "steamAppid": 2763740,
   "name": "Revolution Idle",
-  "players": 7627,
+  "players": 7615,
   "allTimePeak": 20515,
   "peak24h": 7857,
   "peak24hAt": "2026-11-09T17:36:06.000Z",
-  "updatedAt": "2026-11-10T16:36:25.075Z",
+  "updatedAt": "2026-11-10T16:41:22.217Z",
   "img_url": "2025/05/revolution-idle-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-10T16:36:25.075Z",
-    "updatedAtTs": 1794328585,
+    "updatedAt": "2026-11-10T16:41:22.217Z",
+    "updatedAtTs": 1794328882,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794328585,
-        7627
+        1794328882,
+        7615
       ],
       "peak24h": [
         1794245766,
         7857
       ],
       "peak48h": [
-        1794156077,
-        8056
+        1794156370,
+        8052
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794156077,
-          8056
-        ],
         [
           1794156370,
           8052
@@ -2312,6 +2308,10 @@
         [
           1794328585,
           7627
+        ],
+        [
+          1794328882,
+          7615
         ]
       ],
       "hourlyPeak": [
@@ -5326,6 +5326,6 @@
       ]
     }
   },
-  "peak48h": 8056,
-  "peak48hAt": "2026-11-08T16:41:17.000Z"
+  "peak48h": 8052,
+  "peak48hAt": "2026-11-08T16:46:10.000Z"
 }

@@ -3,16 +3,16 @@
   "appid": "236390",
   "steamAppid": 236390,
   "name": "War Thunder",
-  "players": 65832,
+  "players": 65449,
   "allTimePeak": 125323,
   "peak24h": 74001,
   "peak24hAt": "2026-11-10T14:36:33.000Z",
-  "updatedAt": "2026-11-10T16:36:25.075Z",
+  "updatedAt": "2026-11-10T16:41:22.217Z",
   "img_url": "2024/12/mixcollage-04-dec-2024-02-12-pm-6489.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-10T16:36:25.075Z",
-    "updatedAtTs": 1794328585,
+    "updatedAt": "2026-11-10T16:41:22.217Z",
+    "updatedAtTs": 1794328882,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794328585,
-        65832
+        1794328882,
+        65449
       ],
       "peak24h": [
         1794321393,
         74001
       ],
       "peak48h": [
-        1794156077,
-        80571
+        1794156370,
+        80113
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794156077,
-          80571
-        ],
         [
           1794156370,
           80113
@@ -2316,6 +2312,10 @@
         [
           1794328585,
           65832
+        ],
+        [
+          1794328882,
+          65449
         ]
       ],
       "hourlyPeak": [
@@ -5882,6 +5882,6 @@
       ]
     }
   },
-  "peak48h": 80571,
-  "peak48hAt": "2026-11-08T16:41:17.000Z"
+  "peak48h": 80113,
+  "peak48hAt": "2026-11-08T16:46:10.000Z"
 }
