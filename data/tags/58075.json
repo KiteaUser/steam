@@ -3,16 +3,16 @@
   "appid": "617290",
   "steamAppid": 617290,
   "name": "Remnant: From the Ashes",
-  "players": 538,
+  "players": 537,
   "allTimePeak": 48289,
-  "peak24h": 583,
-  "peak24hAt": "2026-11-09T20:11:14.000Z",
-  "updatedAt": "2026-11-10T20:11:13.886Z",
+  "peak24h": 567,
+  "peak24hAt": "2026-11-09T20:21:24.000Z",
+  "updatedAt": "2026-11-10T20:16:16.328Z",
   "img_url": "2024/12/mixcollage-05-dec-2024-06-37-am-9399.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-10T20:11:13.886Z",
-    "updatedAtTs": 1794341473,
+    "updatedAt": "2026-11-10T20:16:16.328Z",
+    "updatedAtTs": 1794341776,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794341473,
-        538
+        1794341776,
+        537
       ],
       "peak24h": [
-        1794255074,
-        583
+        1794255684,
+        567
       ],
       "peak48h": [
-        1794168974,
-        825
+        1794169264,
+        802
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794168677,
-          815
-        ],
-        [
-          1794168974,
-          825
-        ],
         [
           1794169264,
           802
@@ -2308,6 +2300,10 @@
         [
           1794341473,
           538
+        ],
+        [
+          1794341776,
+          537
         ]
       ],
       "hourlyPeak": [
@@ -5570,6 +5566,6 @@
       ]
     }
   },
-  "peak48h": 825,
-  "peak48hAt": "2026-11-08T20:16:14.000Z"
+  "peak48h": 802,
+  "peak48hAt": "2026-11-08T20:21:04.000Z"
 }
