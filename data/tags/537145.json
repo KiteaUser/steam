@@ -3,16 +3,16 @@
   "appid": "380600",
   "steamAppid": 380600,
   "name": "Fishing Planet",
-  "players": 3321,
+  "players": 3259,
   "allTimePeak": 9926,
   "peak24h": 3494,
   "peak24hAt": "2026-11-10T18:21:21.000Z",
-  "updatedAt": "2026-11-10T19:36:13.788Z",
+  "updatedAt": "2026-11-10T19:41:29.341Z",
   "img_url": "2024/11/mixcollage-25-nov-2024-07-45-am-2040.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-10T19:36:13.788Z",
-    "updatedAtTs": 1794339373,
+    "updatedAt": "2026-11-10T19:41:29.341Z",
+    "updatedAtTs": 1794339689,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794339373,
-        3321
+        1794339689,
+        3259
       ],
       "peak24h": [
         1794334881,
         3494
       ],
       "peak48h": [
-        1794166879,
-        3676
+        1794167170,
+        3640
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794166879,
-          3676
-        ],
         [
           1794167170,
           3640
@@ -2320,6 +2316,10 @@
         [
           1794339373,
           3321
+        ],
+        [
+          1794339689,
+          3259
         ]
       ],
       "hourlyPeak": [
@@ -5774,6 +5774,6 @@
       ]
     }
   },
-  "peak48h": 3676,
-  "peak48hAt": "2026-11-08T19:41:19.000Z"
+  "peak48h": 3640,
+  "peak48hAt": "2026-11-08T19:46:10.000Z"
 }
