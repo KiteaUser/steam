@@ -3,16 +3,16 @@
   "appid": "3669870",
   "steamAppid": 3669870,
   "name": "CONTROL Resonant",
-  "players": 2876,
+  "players": 2843,
   "allTimePeak": 42799,
   "peak24h": 3179,
   "peak24hAt": "2026-11-10T21:06:08.000Z",
-  "updatedAt": "2026-11-10T23:01:27.465Z",
+  "updatedAt": "2026-11-10T23:05:53.326Z",
   "img_url": "2025/12/control-resonant-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-10T23:01:27.465Z",
-    "updatedAtTs": 1794351687,
+    "updatedAt": "2026-11-10T23:05:53.326Z",
+    "updatedAtTs": 1794351953,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1794351687,
-        2876
+        1794351953,
+        2843
       ],
       "peak24h": [
         1794344768,
         3179
       ],
       "peak48h": [
-        1794178890,
+        1794179176,
         4088
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794178890,
-          4088
-        ],
         [
           1794179176,
           4088
@@ -2312,6 +2308,10 @@
         [
           1794351687,
           2876
+        ],
+        [
+          1794351953,
+          2843
         ]
       ],
       "hourlyPeak": [
@@ -4938,6 +4938,10 @@
         [
           1794175200,
           4565
+        ],
+        [
+          1794178800,
+          4088
         ]
       ],
       "dailyPeak": [
@@ -5023,5 +5027,5 @@
     }
   },
   "peak48h": 4088,
-  "peak48hAt": "2026-11-08T23:01:30.000Z"
+  "peak48hAt": "2026-11-08T23:06:16.000Z"
 }
