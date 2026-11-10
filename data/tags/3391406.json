@@ -3,16 +3,16 @@
   "appid": "2904000",
   "steamAppid": 2904000,
   "name": "The Spell Brigade",
-  "players": 1389,
+  "players": 1451,
   "allTimePeak": 14514,
   "peak24h": 1524,
   "peak24hAt": "2026-11-10T13:46:17.000Z",
-  "updatedAt": "2026-11-10T14:56:13.403Z",
+  "updatedAt": "2026-11-10T15:01:39.192Z",
   "img_url": "2025/01/the-spell-brigade-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-10T14:56:13.403Z",
-    "updatedAtTs": 1794322573,
+    "updatedAt": "2026-11-10T15:01:39.192Z",
+    "updatedAtTs": 1794322899,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1794322573,
-        1389
+        1794322899,
+        1451
       ],
       "peak24h": [
         1794318377,
         1524
       ],
       "peak48h": [
-        1794150090,
+        1794150366,
         1799
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794150090,
-          1799
-        ],
         [
           1794150366,
           1799
@@ -2316,13 +2312,13 @@
         [
           1794322573,
           1389
+        ],
+        [
+          1794322899,
+          1451
         ]
       ],
       "hourlyPeak": [
-        [
-          1791730800,
-          3424
-        ],
         [
           1791734400,
           2968
@@ -4946,6 +4942,10 @@
         [
           1794146400,
           1910
+        ],
+        [
+          1794150000,
+          1799
         ]
       ],
       "dailyPeak": [
@@ -5335,5 +5335,5 @@
     }
   },
   "peak48h": 1799,
-  "peak48hAt": "2026-11-08T15:01:30.000Z"
+  "peak48hAt": "2026-11-08T15:06:06.000Z"
 }
