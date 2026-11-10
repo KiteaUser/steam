@@ -3,16 +3,16 @@
   "appid": "1145350",
   "steamAppid": 1145350,
   "name": "Hades II",
-  "players": 2759,
+  "players": 2696,
   "allTimePeak": 112947,
   "peak24h": 2996,
   "peak24hAt": "2026-11-10T21:36:00.000Z",
-  "updatedAt": "2026-11-10T22:36:07.282Z",
+  "updatedAt": "2026-11-10T22:41:10.703Z",
   "img_url": "2025/09/hades-2-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-10T22:36:07.282Z",
-    "updatedAtTs": 1794350167,
+    "updatedAt": "2026-11-10T22:41:10.703Z",
+    "updatedAtTs": 1794350470,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1794350167,
-        2759
+        1794350470,
+        2696
       ],
       "peak24h": [
         1794346560,
         2996
       ],
       "peak48h": [
-        1794177378,
+        1794177675,
         3301
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794177378,
-          3301
-        ],
         [
           1794177675,
           3301
@@ -2316,6 +2312,10 @@
         [
           1794350167,
           2759
+        ],
+        [
+          1794350470,
+          2696
         ]
       ],
       "hourlyPeak": [
@@ -5351,5 +5351,5 @@
     }
   },
   "peak48h": 3301,
-  "peak48hAt": "2026-11-08T22:36:18.000Z"
+  "peak48hAt": "2026-11-08T22:41:15.000Z"
 }
