@@ -3,16 +3,16 @@
   "appid": "43110",
   "steamAppid": 43110,
   "name": "Metro 2033",
-  "players": 65,
+  "players": 66,
   "allTimePeak": 14743,
   "peak24h": 87,
   "peak24hAt": "2026-11-09T18:56:14.000Z",
-  "updatedAt": "2026-11-10T18:51:16.003Z",
+  "updatedAt": "2026-11-10T18:56:04.449Z",
   "img_url": "2024/12/mixcollage-07-dec-2024-11-47-pm-7454.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-10T18:51:16.003Z",
-    "updatedAtTs": 1794336676,
+    "updatedAt": "2026-11-10T18:56:04.449Z",
+    "updatedAtTs": 1794336964,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794336676,
-        65
+        1794336964,
+        66
       ],
       "peak24h": [
         1794250574,
         87
       ],
       "peak48h": [
-        1794164161,
-        104
+        1794164767,
+        93
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794164161,
-          104
-        ],
         [
           1794164480,
           92
@@ -2304,6 +2300,10 @@
         [
           1794336676,
           65
+        ],
+        [
+          1794336964,
+          66
         ]
       ],
       "hourlyPeak": [
@@ -5906,6 +5906,6 @@
       ]
     }
   },
-  "peak48h": 104,
-  "peak48hAt": "2026-11-08T18:56:01.000Z"
+  "peak48h": 93,
+  "peak48hAt": "2026-11-08T19:06:07.000Z"
 }
