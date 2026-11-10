@@ -3,16 +3,16 @@
   "appid": "1273400",
   "steamAppid": 1273400,
   "name": "Construction Simulator",
-  "players": 891,
+  "players": 839,
   "allTimePeak": 17365,
   "peak24h": 993,
   "peak24hAt": "2026-11-10T19:16:19.000Z",
-  "updatedAt": "2026-11-10T21:01:30.187Z",
+  "updatedAt": "2026-11-10T21:06:08.916Z",
   "img_url": "2025/02/mixcollage-08-feb-2025-09-20-am-6411.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-10T21:01:30.187Z",
-    "updatedAtTs": 1794344490,
+    "updatedAt": "2026-11-10T21:06:08.916Z",
+    "updatedAtTs": 1794344768,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1794344490,
-        891
+        1794344768,
+        839
       ],
       "peak24h": [
         1794338179,
         993
       ],
       "peak48h": [
-        1794171966,
+        1794172268,
         1041
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794171966,
-          1041
-        ],
         [
           1794172268,
           1041
@@ -2308,6 +2304,10 @@
         [
           1794344490,
           891
+        ],
+        [
+          1794344768,
+          839
         ]
       ],
       "hourlyPeak": [
@@ -5423,5 +5423,5 @@
     }
   },
   "peak48h": 1041,
-  "peak48hAt": "2026-11-08T21:06:06.000Z"
+  "peak48hAt": "2026-11-08T21:11:08.000Z"
 }

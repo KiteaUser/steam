@@ -3,16 +3,16 @@
   "appid": "1374490",
   "steamAppid": 1374490,
   "name": "RuneScape: Dragonwilds",
-  "players": 6520,
+  "players": 6515,
   "allTimePeak": 52641,
   "peak24h": 7567,
   "peak24hAt": "2026-11-10T02:21:07.000Z",
-  "updatedAt": "2026-11-10T21:01:30.187Z",
+  "updatedAt": "2026-11-10T21:06:08.916Z",
   "img_url": "2025/04/runescape-dragonwilds.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-10T21:01:30.187Z",
-    "updatedAtTs": 1794344490,
+    "updatedAt": "2026-11-10T21:06:08.916Z",
+    "updatedAtTs": 1794344768,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794344490,
-        6520
+        1794344768,
+        6515
       ],
       "peak24h": [
         1794277267,
         7567
       ],
       "peak48h": [
-        1794171966,
-        11363
+        1794172268,
+        11295
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794171966,
-          11363
-        ],
         [
           1794172268,
           11295
@@ -2316,6 +2312,10 @@
         [
           1794344490,
           6520
+        ],
+        [
+          1794344768,
+          6515
         ]
       ],
       "hourlyPeak": [
@@ -4945,7 +4945,7 @@
         ],
         [
           1794171600,
-          11335
+          11363
         ]
       ],
       "dailyPeak": [
@@ -5306,6 +5306,6 @@
       ]
     }
   },
-  "peak48h": 11363,
-  "peak48hAt": "2026-11-08T21:06:06.000Z"
+  "peak48h": 11295,
+  "peak48hAt": "2026-11-08T21:11:08.000Z"
 }
