@@ -3,16 +3,16 @@
   "appid": "1342490",
   "steamAppid": 1342490,
   "name": "Daemon X Machina: Titanic Scion",
-  "players": 42,
+  "players": 39,
   "allTimePeak": 10185,
   "peak24h": 46,
   "peak24hAt": "2026-11-09T16:21:23.000Z",
-  "updatedAt": "2026-11-10T15:31:34.545Z",
+  "updatedAt": "2026-11-10T15:36:15.344Z",
   "img_url": "2025/04/daemon-x-machina-titanic-scion-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-10T15:31:34.545Z",
-    "updatedAtTs": 1794324694,
+    "updatedAt": "2026-11-10T15:36:15.344Z",
+    "updatedAtTs": 1794324975,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794324694,
-        42
+        1794324975,
+        39
       ],
       "peak24h": [
         1794241283,
         46
       ],
       "peak48h": [
-        1794152164,
-        60
+        1794152464,
+        58
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794152164,
-          60
-        ],
         [
           1794152464,
           58
@@ -2308,6 +2304,10 @@
         [
           1794324694,
           42
+        ],
+        [
+          1794324975,
+          39
         ]
       ],
       "hourlyPeak": [
@@ -4937,7 +4937,7 @@
         ],
         [
           1794150000,
-          59
+          60
         ]
       ],
       "dailyPeak": [
@@ -5278,6 +5278,6 @@
       ]
     }
   },
-  "peak48h": 60,
-  "peak48hAt": "2026-11-08T15:36:04.000Z"
+  "peak48h": 58,
+  "peak48hAt": "2026-11-08T15:41:04.000Z"
 }

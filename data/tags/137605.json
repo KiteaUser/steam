@@ -3,16 +3,16 @@
   "appid": "2369390",
   "steamAppid": 2369390,
   "name": "Far Cry 6",
-  "players": 3038,
+  "players": 2955,
   "allTimePeak": 20080,
   "peak24h": 3221,
   "peak24hAt": "2026-11-10T14:31:26.000Z",
-  "updatedAt": "2026-11-10T15:31:34.545Z",
+  "updatedAt": "2026-11-10T15:36:15.344Z",
   "img_url": "2024/12/far-cry-6-cover.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-10T15:31:34.545Z",
-    "updatedAtTs": 1794324694,
+    "updatedAt": "2026-11-10T15:36:15.344Z",
+    "updatedAtTs": 1794324975,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1794324694,
-        3038
+        1794324975,
+        2955
       ],
       "peak24h": [
         1794321086,
         3221
       ],
       "peak48h": [
-        1794152164,
+        1794152464,
         4489
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794152164,
-          4489
-        ],
         [
           1794152464,
           4489
@@ -2316,6 +2312,10 @@
         [
           1794324694,
           3038
+        ],
+        [
+          1794324975,
+          2955
         ]
       ],
       "hourlyPeak": [
@@ -5399,5 +5399,5 @@
     }
   },
   "peak48h": 4489,
-  "peak48hAt": "2026-11-08T15:36:04.000Z"
+  "peak48hAt": "2026-11-08T15:41:04.000Z"
 }

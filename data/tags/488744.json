@@ -3,16 +3,16 @@
   "appid": "2161700",
   "steamAppid": 2161700,
   "name": "Persona 3 Reload",
-  "players": 3270,
+  "players": 3177,
   "allTimePeak": 45002,
   "peak24h": 3541,
   "peak24hAt": "2026-11-10T14:31:26.000Z",
-  "updatedAt": "2026-11-10T15:31:34.545Z",
+  "updatedAt": "2026-11-10T15:36:15.344Z",
   "img_url": "2024/12/mixcollage-07-dec-2024-08-13-am-4683.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-10T15:31:34.545Z",
-    "updatedAtTs": 1794324694,
+    "updatedAt": "2026-11-10T15:36:15.344Z",
+    "updatedAtTs": 1794324975,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794324694,
-        3270
+        1794324975,
+        3177
       ],
       "peak24h": [
         1794321086,
         3541
       ],
       "peak48h": [
-        1794152164,
-        4224
+        1794152464,
+        4131
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794152164,
-          4224
-        ],
         [
           1794152464,
           4131
@@ -2308,6 +2304,10 @@
         [
           1794324694,
           3270
+        ],
+        [
+          1794324975,
+          3177
         ]
       ],
       "hourlyPeak": [
@@ -5354,6 +5354,6 @@
       ]
     }
   },
-  "peak48h": 4224,
-  "peak48hAt": "2026-11-08T15:36:04.000Z"
+  "peak48h": 4131,
+  "peak48hAt": "2026-11-08T15:41:04.000Z"
 }

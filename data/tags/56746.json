@@ -3,16 +3,16 @@
   "appid": "105600",
   "steamAppid": 105600,
   "name": "Terraria",
-  "players": 29153,
+  "players": 28266,
   "allTimePeak": 489886,
   "peak24h": 32421,
   "peak24hAt": "2026-11-10T14:31:26.000Z",
-  "updatedAt": "2026-11-10T15:31:34.545Z",
+  "updatedAt": "2026-11-10T15:36:15.344Z",
   "img_url": "2024/12/mixcollage-06-dec-2024-03-32-pm-8971.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-10T15:31:34.545Z",
-    "updatedAtTs": 1794324694,
+    "updatedAt": "2026-11-10T15:36:15.344Z",
+    "updatedAtTs": 1794324975,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794324694,
-        29153
+        1794324975,
+        28266
       ],
       "peak24h": [
         1794321086,
         32421
       ],
       "peak48h": [
-        1794152164,
-        36941
+        1794152464,
+        35860
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794152164,
-          36941
-        ],
         [
           1794152464,
           35860
@@ -2304,6 +2300,10 @@
         [
           1794324694,
           29153
+        ],
+        [
+          1794324975,
+          28266
         ]
       ],
       "hourlyPeak": [
@@ -5906,6 +5906,6 @@
       ]
     }
   },
-  "peak48h": 36941,
-  "peak48hAt": "2026-11-08T15:36:04.000Z"
+  "peak48h": 35860,
+  "peak48hAt": "2026-11-08T15:41:04.000Z"
 }
