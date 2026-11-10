@@ -3,16 +3,16 @@
   "appid": "291550",
   "steamAppid": 291550,
   "name": "Brawlhalla",
-  "players": 11301,
+  "players": 11266,
   "allTimePeak": 34816,
   "peak24h": 11301,
   "peak24hAt": "2026-11-10T21:26:16.000Z",
-  "updatedAt": "2026-11-10T21:26:16.113Z",
+  "updatedAt": "2026-11-10T21:31:16.287Z",
   "img_url": "2024/12/mixcollage-09-dec-2024-01-24-am-7463.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-10T21:26:16.113Z",
-    "updatedAtTs": 1794345976,
+    "updatedAt": "2026-11-10T21:31:16.287Z",
+    "updatedAtTs": 1794346276,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794345976,
-        11301
+        1794346276,
+        11266
       ],
       "peak24h": [
         1794345976,
         11301
       ],
       "peak48h": [
-        1794173476,
-        12623
+        1794173761,
+        12394
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794173476,
-          12623
-        ],
         [
           1794173761,
           12394
@@ -2320,6 +2316,10 @@
         [
           1794345976,
           11301
+        ],
+        [
+          1794346276,
+          11266
         ]
       ],
       "hourlyPeak": [
@@ -5838,6 +5838,6 @@
       ]
     }
   },
-  "peak48h": 12623,
-  "peak48hAt": "2026-11-08T21:31:16.000Z"
+  "peak48h": 12394,
+  "peak48hAt": "2026-11-08T21:36:01.000Z"
 }
