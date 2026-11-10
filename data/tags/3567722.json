@@ -3,16 +3,16 @@
   "appid": "3419520",
   "steamAppid": 3419520,
   "name": "Quarantine Zone: The Last Check",
-  "players": 641,
+  "players": 625,
   "allTimePeak": 31653,
   "peak24h": 715,
-  "peak24hAt": "2026-11-09T20:51:15.000Z",
-  "updatedAt": "2026-11-10T20:51:13.681Z",
+  "peak24hAt": "2026-11-09T21:01:29.000Z",
+  "updatedAt": "2026-11-10T20:56:08.459Z",
   "img_url": "2025/11/quarantine-zone-the-last-check-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-10T20:51:13.681Z",
-    "updatedAtTs": 1794343873,
+    "updatedAt": "2026-11-10T20:56:08.459Z",
+    "updatedAtTs": 1794344168,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794343873,
-        641
+        1794344168,
+        625
       ],
       "peak24h": [
-        1794257475,
+        1794258089,
         715
       ],
       "peak48h": [
-        1794171076,
-        915
+        1794171686,
+        901
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794171076,
-          915
-        ],
-        [
-          1794171367,
-          901
-        ],
         [
           1794171686,
           901
@@ -2304,6 +2296,10 @@
         [
           1794343873,
           641
+        ],
+        [
+          1794344168,
+          625
         ]
       ],
       "hourlyPeak": [
@@ -5258,6 +5254,6 @@
       ]
     }
   },
-  "peak48h": 915,
-  "peak48hAt": "2026-11-08T20:51:16.000Z"
+  "peak48h": 901,
+  "peak48hAt": "2026-11-08T21:01:26.000Z"
 }
