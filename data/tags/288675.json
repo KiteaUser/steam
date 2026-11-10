@@ -3,16 +3,16 @@
   "appid": "1222140",
   "steamAppid": 1222140,
   "name": "Detroit: Become Human",
-  "players": 2457,
+  "players": 2464,
   "allTimePeak": 25615,
   "peak24h": 3175,
   "peak24hAt": "2026-11-10T14:51:22.000Z",
-  "updatedAt": "2026-11-10T17:01:27.980Z",
+  "updatedAt": "2026-11-10T17:06:06.167Z",
   "img_url": "2024/12/mixcollage-14-dec-2024-05-53-am-3692.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-10T17:01:27.980Z",
-    "updatedAtTs": 1794330087,
+    "updatedAt": "2026-11-10T17:06:06.167Z",
+    "updatedAtTs": 1794330366,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794330087,
-        2457
+        1794330366,
+        2464
       ],
       "peak24h": [
         1794322282,
         3175
       ],
       "peak48h": [
-        1794157290,
-        3554
+        1794157568,
+        3522
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794157290,
-          3554
-        ],
         [
           1794157568,
           3522
@@ -2320,6 +2316,10 @@
         [
           1794330087,
           2457
+        ],
+        [
+          1794330366,
+          2464
         ]
       ],
       "hourlyPeak": [
@@ -4946,6 +4946,10 @@
         [
           1794153600,
           3839
+        ],
+        [
+          1794157200,
+          3554
         ]
       ],
       "dailyPeak": [
@@ -5538,6 +5542,6 @@
       ]
     }
   },
-  "peak48h": 3554,
-  "peak48hAt": "2026-11-08T17:01:30.000Z"
+  "peak48h": 3522,
+  "peak48hAt": "2026-11-08T17:06:08.000Z"
 }
