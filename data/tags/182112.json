@@ -3,16 +3,16 @@
   "appid": "750920",
   "steamAppid": 750920,
   "name": "Shadow of the Tomb Raider",
-  "players": 1702,
+  "players": 1644,
   "allTimePeak": 38268,
   "peak24h": 2198,
   "peak24hAt": "2026-11-10T14:25:59.000Z",
-  "updatedAt": "2026-11-10T16:21:31.179Z",
+  "updatedAt": "2026-11-10T16:26:11.057Z",
   "img_url": "2024/12/mixcollage-08-dec-2024-12-47-am-3486.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-10T16:21:31.179Z",
-    "updatedAtTs": 1794327691,
+    "updatedAt": "2026-11-10T16:26:11.057Z",
+    "updatedAtTs": 1794327971,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794327691,
-        1702
+        1794327971,
+        1644
       ],
       "peak24h": [
         1794320759,
         2198
       ],
       "peak48h": [
-        1794155153,
-        2436
+        1794155482,
+        2420
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794155153,
-          2436
-        ],
         [
           1794155482,
           2420
@@ -2316,6 +2312,10 @@
         [
           1794327691,
           1702
+        ],
+        [
+          1794327971,
+          1644
         ]
       ],
       "hourlyPeak": [
@@ -5626,6 +5626,6 @@
       ]
     }
   },
-  "peak48h": 2436,
-  "peak48hAt": "2026-11-08T16:25:53.000Z"
+  "peak48h": 2420,
+  "peak48hAt": "2026-11-08T16:31:22.000Z"
 }
