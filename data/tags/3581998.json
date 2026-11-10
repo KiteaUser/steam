@@ -3,16 +3,16 @@
   "appid": "2532480",
   "steamAppid": 2532480,
   "name": "Warhammer 40000: Mechanicus II",
-  "players": 36,
+  "players": 37,
   "allTimePeak": 3777,
-  "peak24h": 39,
-  "peak24hAt": "2026-11-09T20:46:17.000Z",
-  "updatedAt": "2026-11-10T20:41:08.040Z",
+  "peak24h": 37,
+  "peak24hAt": "2026-11-10T20:46:23.000Z",
+  "updatedAt": "2026-11-10T20:46:23.679Z",
   "img_url": "2025/12/warhammer-40-000-mechanicus-ii-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-10T20:41:08.040Z",
-    "updatedAtTs": 1794343268,
+    "updatedAt": "2026-11-10T20:46:23.679Z",
+    "updatedAtTs": 1794343583,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794343268,
-        36
+        1794343583,
+        37
       ],
       "peak24h": [
-        1794257177,
-        39
+        1794343583,
+        37
       ],
       "peak48h": [
-        1794170471,
-        51
+        1794171367,
+        50
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794170471,
-          51
-        ],
-        [
-          1794170781,
-          50
-        ],
         [
           1794171076,
           49
@@ -2316,6 +2308,10 @@
         [
           1794343268,
           36
+        ],
+        [
+          1794343583,
+          37
         ]
       ],
       "hourlyPeak": [
@@ -5254,6 +5250,6 @@
       ]
     }
   },
-  "peak48h": 51,
-  "peak48hAt": "2026-11-08T20:41:11.000Z"
+  "peak48h": 50,
+  "peak48hAt": "2026-11-08T20:56:07.000Z"
 }

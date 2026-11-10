@@ -3,16 +3,16 @@
   "appid": "1297900",
   "steamAppid": 1297900,
   "name": "Gothic 1 Remake",
-  "players": 3040,
+  "players": 2941,
   "allTimePeak": 77731,
-  "peak24h": 3276,
-  "peak24hAt": "2026-11-09T20:41:15.000Z",
-  "updatedAt": "2026-11-10T20:41:08.040Z",
+  "peak24h": 3211,
+  "peak24hAt": "2026-11-09T20:51:15.000Z",
+  "updatedAt": "2026-11-10T20:46:23.679Z",
   "img_url": "2026/05/gothic-1-remake-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-10T20:41:08.040Z",
-    "updatedAtTs": 1794343268,
+    "updatedAt": "2026-11-10T20:46:23.679Z",
+    "updatedAtTs": 1794343583,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794343268,
-        3040
+        1794343583,
+        2941
       ],
       "peak24h": [
-        1794256875,
-        3276
+        1794257475,
+        3211
       ],
       "peak48h": [
-        1794170781,
-        3753
+        1794171076,
+        3675
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794170471,
-          3675
-        ],
-        [
-          1794170781,
-          3753
-        ],
         [
           1794171076,
           3675
@@ -2324,6 +2316,10 @@
         [
           1794343268,
           3040
+        ],
+        [
+          1794343583,
+          2941
         ]
       ],
       "hourlyPeak": [
@@ -5258,6 +5254,6 @@
       ]
     }
   },
-  "peak48h": 3753,
-  "peak48hAt": "2026-11-08T20:46:21.000Z"
+  "peak48h": 3675,
+  "peak48hAt": "2026-11-08T20:51:16.000Z"
 }
