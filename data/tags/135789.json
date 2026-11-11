@@ -7,12 +7,12 @@
   "allTimePeak": 32012,
   "peak24h": 1788,
   "peak24hAt": "2026-11-10T14:41:18.000Z",
-  "updatedAt": "2026-11-11T04:01:58.107Z",
+  "updatedAt": "2026-11-11T04:06:12.738Z",
   "img_url": "2022/09/GROUNDED.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-11T04:01:58.107Z",
-    "updatedAtTs": 1794369718,
+    "updatedAt": "2026-11-11T04:06:12.738Z",
+    "updatedAtTs": 1794369972,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,7 +23,7 @@
     },
     "summary": {
       "current": [
-        1794369718,
+        1794369972,
         1200
       ],
       "peak24h": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794197167,
-          1255
-        ],
         [
           1794197477,
           1233
@@ -2303,6 +2299,10 @@
         ],
         [
           1794369718,
+          1200
+        ],
+        [
+          1794369972,
           1200
         ]
       ],
@@ -4933,7 +4933,7 @@
         ],
         [
           1794196800,
-          1242
+          1255
         ]
       ],
       "dailyPeak": [
