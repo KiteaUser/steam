@@ -3,16 +3,16 @@
   "appid": "878670",
   "steamAppid": 878670,
   "name": "Shenmue 3",
-  "players": 5,
+  "players": 4,
   "allTimePeak": 335,
   "peak24h": 7,
   "peak24hAt": "2026-11-10T15:46:22.000Z",
-  "updatedAt": "2026-11-11T15:41:11.093Z",
+  "updatedAt": "2026-11-11T15:46:07.986Z",
   "img_url": "2024/12/mixcollage-13-dec-2024-12-15-am-1339.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-11T15:41:11.093Z",
-    "updatedAtTs": 1794411671,
+    "updatedAt": "2026-11-11T15:46:07.986Z",
+    "updatedAtTs": 1794411967,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1794411671,
-        5
+        1794411967,
+        4
       ],
       "peak24h": [
         1794325582,
         7
       ],
       "peak48h": [
-        1794238879,
+        1794239177,
         8
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794238879,
-          8
-        ],
         [
           1794239177,
           8
@@ -2160,6 +2156,10 @@
         [
           1794411671,
           5
+        ],
+        [
+          1794411967,
+          4
         ]
       ],
       "hourlyPeak": [
@@ -5363,5 +5363,5 @@
     }
   },
   "peak48h": 8,
-  "peak48hAt": "2026-11-09T15:41:19.000Z"
+  "peak48hAt": "2026-11-09T15:46:17.000Z"
 }
