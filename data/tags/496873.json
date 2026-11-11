@@ -3,16 +3,16 @@
   "appid": "2218750",
   "steamAppid": 2218750,
   "name": "Halls of Torment",
-  "players": 532,
+  "players": 506,
   "allTimePeak": 26061,
   "peak24h": 619,
   "peak24hAt": "2026-11-11T21:46:12.000Z",
-  "updatedAt": "2026-11-11T22:51:06.441Z",
+  "updatedAt": "2026-11-11T22:56:05.553Z",
   "img_url": "2024/11/mixcollage-27-nov-2024-12-47-am-5606.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-11T22:51:06.441Z",
-    "updatedAtTs": 1794437466,
+    "updatedAt": "2026-11-11T22:56:05.553Z",
+    "updatedAtTs": 1794437765,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794437466,
-        532
+        1794437765,
+        506
       ],
       "peak24h": [
         1794433572,
         619
       ],
       "peak48h": [
-        1794264686,
-        675
+        1794265567,
+        643
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794264686,
-          675
-        ],
-        [
-          1794264965,
-          675
-        ],
         [
           1794265289,
           622
@@ -2252,6 +2244,10 @@
         [
           1794437466,
           532
+        ],
+        [
+          1794437765,
+          506
         ]
       ],
       "hourlyPeak": [
@@ -5338,6 +5334,6 @@
       ]
     }
   },
-  "peak48h": 675,
-  "peak48hAt": "2026-11-09T22:51:26.000Z"
+  "peak48h": 643,
+  "peak48hAt": "2026-11-09T23:06:07.000Z"
 }
