@@ -3,16 +3,16 @@
   "appid": "427290",
   "steamAppid": 427290,
   "name": "Vampyr",
-  "players": 265,
+  "players": 253,
   "allTimePeak": 16120,
   "peak24h": 295,
   "peak24hAt": "2026-11-10T20:41:08.000Z",
-  "updatedAt": "2026-11-11T20:11:14.111Z",
+  "updatedAt": "2026-11-11T20:16:10.856Z",
   "img_url": "2024/12/mixcollage-12-dec-2024-12-03-pm-7422.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-11T20:11:14.111Z",
-    "updatedAtTs": 1794427874,
+    "updatedAt": "2026-11-11T20:16:10.856Z",
+    "updatedAtTs": 1794428170,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1794427874,
-        265
+        1794428170,
+        253
       ],
       "peak24h": [
         1794343268,
         295
       ],
       "peak48h": [
-        1794255370,
+        1794255684,
         342
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794255370,
-          342
-        ],
         [
           1794255684,
           342
@@ -2288,6 +2284,10 @@
         [
           1794427874,
           265
+        ],
+        [
+          1794428170,
+          253
         ]
       ],
       "hourlyPeak": [
@@ -5651,5 +5651,5 @@
     }
   },
   "peak48h": 342,
-  "peak48hAt": "2026-11-09T20:16:10.000Z"
+  "peak48hAt": "2026-11-09T20:21:24.000Z"
 }
