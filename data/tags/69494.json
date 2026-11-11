@@ -3,16 +3,16 @@
   "appid": "1617400",
   "steamAppid": 1617400,
   "name": "The Bazaar",
-  "players": 5697,
+  "players": 5712,
   "allTimePeak": 17136,
   "peak24h": 5800,
   "peak24hAt": "2026-11-10T14:31:26.000Z",
-  "updatedAt": "2026-11-11T14:16:20.949Z",
+  "updatedAt": "2026-11-11T14:21:13.621Z",
   "img_url": "2025/01/mixcollage-24-jan-2025-02-44-pm-9851.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-11T14:16:20.949Z",
-    "updatedAtTs": 1794406580,
+    "updatedAt": "2026-11-11T14:21:13.621Z",
+    "updatedAtTs": 1794406873,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794406580,
-        5697
+        1794406873,
+        5712
       ],
       "peak24h": [
         1794321086,
         5800
       ],
       "peak48h": [
-        1794233792,
-        5919
+        1794234363,
+        5902
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794233792,
-          5919
-        ],
         [
           1794234078,
           5900
@@ -2300,6 +2296,10 @@
         [
           1794406580,
           5697
+        ],
+        [
+          1794406873,
+          5712
         ]
       ],
       "hourlyPeak": [
@@ -4929,7 +4929,7 @@
         ],
         [
           1794232800,
-          5900
+          5919
         ]
       ],
       "dailyPeak": [
@@ -5278,6 +5278,6 @@
       ]
     }
   },
-  "peak48h": 5919,
-  "peak48hAt": "2026-11-09T14:16:32.000Z"
+  "peak48h": 5902,
+  "peak48hAt": "2026-11-09T14:26:03.000Z"
 }
