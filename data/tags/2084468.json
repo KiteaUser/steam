@@ -3,16 +3,16 @@
   "appid": "207610",
   "steamAppid": 207610,
   "name": "The Walking Dead",
-  "players": 222,
+  "players": 215,
   "allTimePeak": 12114,
   "peak24h": 233,
-  "peak24hAt": "2026-11-10T21:31:16.000Z",
-  "updatedAt": "2026-11-11T21:26:02.096Z",
+  "peak24hAt": "2026-11-10T21:36:00.000Z",
+  "updatedAt": "2026-11-11T21:31:30.567Z",
   "img_url": "2024/12/the-walking-dead-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-11T21:26:02.096Z",
-    "updatedAtTs": 1794432362,
+    "updatedAt": "2026-11-11T21:31:30.567Z",
+    "updatedAtTs": 1794432690,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794432362,
-        222
+        1794432690,
+        215
       ],
       "peak24h": [
-        1794346276,
+        1794346560,
         233
       ],
       "peak48h": [
-        1794259883,
-        239
+        1794346276,
+        233
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794259587,
-          231
-        ],
-        [
-          1794259883,
-          239
-        ],
         [
           1794260162,
           231
@@ -2256,6 +2248,10 @@
         [
           1794431776,
           222
+        ],
+        [
+          1794432690,
+          215
         ]
       ],
       "hourlyPeak": [
@@ -5862,6 +5858,6 @@
       ]
     }
   },
-  "peak48h": 239,
-  "peak48hAt": "2026-11-09T21:31:23.000Z"
+  "peak48h": 233,
+  "peak48hAt": "2026-11-10T21:31:16.000Z"
 }
