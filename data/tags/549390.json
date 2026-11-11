@@ -3,16 +3,16 @@
   "appid": "1478500",
   "steamAppid": 1478500,
   "name": "Big Walk",
-  "players": 3198,
+  "players": 3220,
   "allTimePeak": 46409,
   "peak24h": 3256,
-  "peak24hAt": "2026-11-10T14:16:08.000Z",
-  "updatedAt": "2026-11-11T14:11:11.151Z",
+  "peak24hAt": "2026-11-10T14:21:13.000Z",
+  "updatedAt": "2026-11-11T14:16:20.949Z",
   "img_url": "2025/07/big-walk-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-11T14:11:11.151Z",
-    "updatedAtTs": 1794406271,
+    "updatedAt": "2026-11-11T14:16:20.949Z",
+    "updatedAtTs": 1794406580,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794406271,
-        3198
+        1794406580,
+        3220
       ],
       "peak24h": [
-        1794320168,
+        1794320473,
         3256
       ],
       "peak48h": [
-        1794233477,
-        3563
+        1794233792,
+        3549
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794233477,
-          3563
-        ],
         [
           1794233792,
           3549
@@ -2320,6 +2316,10 @@
         [
           1794406271,
           3198
+        ],
+        [
+          1794406580,
+          3220
         ]
       ],
       "hourlyPeak": [
@@ -5233,6 +5233,6 @@
       "monthlyPeak": []
     }
   },
-  "peak48h": 3563,
-  "peak48hAt": "2026-11-09T14:11:17.000Z"
+  "peak48h": 3549,
+  "peak48hAt": "2026-11-09T14:16:32.000Z"
 }
