@@ -3,16 +3,16 @@
   "appid": "1636440",
   "steamAppid": 1636440,
   "name": "SILENT HILL: Townfall",
-  "players": 360,
+  "players": 355,
   "allTimePeak": 8360,
   "peak24h": 366,
   "peak24hAt": "2026-11-10T21:41:10.000Z",
-  "updatedAt": "2026-11-11T21:11:09.709Z",
+  "updatedAt": "2026-11-11T21:16:16.183Z",
   "img_url": "2026/06/silent-hill-townfall-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-11T21:11:09.709Z",
-    "updatedAtTs": 1794431469,
+    "updatedAt": "2026-11-11T21:16:16.183Z",
+    "updatedAtTs": 1794431776,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1794431469,
-        360
+        1794431776,
+        355
       ],
       "peak24h": [
         1794346870,
         366
       ],
       "peak48h": [
-        1794258673,
+        1794260475,
         398
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794258673,
-          398
-        ],
         [
           1794258978,
           392
@@ -2264,6 +2260,10 @@
         [
           1794431469,
           360
+        ],
+        [
+          1794431776,
+          355
         ]
       ],
       "hourlyPeak": [
@@ -4893,7 +4893,7 @@
         ],
         [
           1794258000,
-          383
+          398
         ]
       ],
       "dailyPeak": [
@@ -4983,5 +4983,5 @@
     }
   },
   "peak48h": 398,
-  "peak48hAt": "2026-11-09T21:11:13.000Z"
+  "peak48hAt": "2026-11-09T21:41:15.000Z"
 }
