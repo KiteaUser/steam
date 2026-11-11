@@ -3,16 +3,16 @@
   "appid": "285800",
   "steamAppid": 285800,
   "name": "Braveland",
-  "players": 4,
+  "players": 2,
   "allTimePeak": 218169,
   "peak24h": 5,
   "peak24hAt": "2026-11-11T03:51:15.000Z",
-  "updatedAt": "2026-11-11T07:21:05.804Z",
+  "updatedAt": "2026-11-11T07:26:02.774Z",
   "img_url": "2024/12/mixcollage-29-dec-2024-11-10-am-2749.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-11T07:21:05.804Z",
-    "updatedAtTs": 1794381665,
+    "updatedAt": "2026-11-11T07:26:02.774Z",
+    "updatedAtTs": 1794381962,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1794381665,
-        4
+        1794381962,
+        2
       ],
       "peak24h": [
         1794369075,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794208868,
-          1
-        ],
-        [
-          1794209155,
-          1
-        ],
         [
           1794219373,
           1
@@ -1460,6 +1452,10 @@
         [
           1794381665,
           4
+        ],
+        [
+          1794381962,
+          2
         ]
       ],
       "hourlyPeak": [
