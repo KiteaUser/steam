@@ -3,16 +3,16 @@
   "appid": "22380",
   "steamAppid": 22380,
   "name": "Fallout: New Vegas",
-  "players": 4025,
+  "players": 3988,
   "allTimePeak": 51038,
-  "peak24h": 4114,
-  "peak24hAt": "2026-11-10T01:55:54.000Z",
-  "updatedAt": "2026-11-11T01:51:17.258Z",
+  "peak24h": 4102,
+  "peak24hAt": "2026-11-10T02:06:17.000Z",
+  "updatedAt": "2026-11-11T01:56:08.490Z",
   "img_url": "2024/12/mixcollage-12-dec-2024-09-49-am-1499.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-11T01:51:17.258Z",
-    "updatedAtTs": 1794361877,
+    "updatedAt": "2026-11-11T01:56:08.490Z",
+    "updatedAtTs": 1794362168,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794361877,
-        4025
+        1794362168,
+        3988
       ],
       "peak24h": [
-        1794275754,
-        4114
+        1794276377,
+        4102
       ],
       "peak48h": [
-        1794189367,
-        4561
+        1794189695,
+        4518
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794189367,
-          4561
-        ],
         [
           1794189695,
           4518
@@ -2308,6 +2304,10 @@
         [
           1794361877,
           4025
+        ],
+        [
+          1794362168,
+          3988
         ]
       ],
       "hourlyPeak": [
@@ -5914,6 +5914,6 @@
       ]
     }
   },
-  "peak48h": 4561,
-  "peak48hAt": "2026-11-09T01:56:07.000Z"
+  "peak48h": 4518,
+  "peak48hAt": "2026-11-09T02:01:35.000Z"
 }
