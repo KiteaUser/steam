@@ -7,12 +7,12 @@
   "allTimePeak": 45101,
   "peak24h": 10791,
   "peak24hAt": "2026-11-11T20:10:03.000Z",
-  "updatedAt": "2026-11-11T20:10:03.066Z",
+  "updatedAt": "2026-11-11T20:11:14.111Z",
   "img_url": "2026/06/planet-zoo-2-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-11T20:10:03.066Z",
-    "updatedAtTs": 1794427803,
+    "updatedAt": "2026-11-11T20:11:14.111Z",
+    "updatedAtTs": 1794427874,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,7 +23,7 @@
     },
     "summary": {
       "current": [
-        1794427803,
+        1794427874,
         10791
       ],
       "peak24h": [
@@ -31,8 +31,8 @@
         10791
       ],
       "peak48h": [
-        1794255074,
-        11152
+        1794255370,
+        11145
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794255074,
-          11152
-        ],
         [
           1794255370,
           11145
@@ -2291,6 +2287,10 @@
         ],
         [
           1794427803,
+          10791
+        ],
+        [
+          1794427874,
           10791
         ]
       ],
@@ -4860,6 +4860,6 @@
       "monthlyPeak": []
     }
   },
-  "peak48h": 11152,
-  "peak48hAt": "2026-11-09T20:11:14.000Z"
+  "peak48h": 11145,
+  "peak48hAt": "2026-11-09T20:16:10.000Z"
 }
