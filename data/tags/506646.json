@@ -3,16 +3,16 @@
   "appid": "1430190",
   "steamAppid": 1430190,
   "name": "Killing Floor 3",
-  "players": 360,
+  "players": 366,
   "allTimePeak": 30112,
   "peak24h": 376,
   "peak24hAt": "2026-11-10T19:21:22.000Z",
-  "updatedAt": "2026-11-11T18:46:15.243Z",
+  "updatedAt": "2026-11-11T18:51:22.241Z",
   "img_url": "2024/12/mixcollage-03-dec-2024-09-02-pm-8775.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-11T18:46:15.243Z",
-    "updatedAtTs": 1794422775,
+    "updatedAt": "2026-11-11T18:51:22.241Z",
+    "updatedAtTs": 1794423082,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794422775,
-        360
+        1794423082,
+        366
       ],
       "peak24h": [
         1794338482,
         376
       ],
       "peak48h": [
-        1794250270,
-        384
+        1794338482,
+        376
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794249982,
-          371
-        ],
-        [
-          1794250270,
-          384
-        ],
         [
           1794250574,
           367
@@ -2328,6 +2320,10 @@
         [
           1794422775,
           360
+        ],
+        [
+          1794423082,
+          366
         ]
       ],
       "hourlyPeak": [
@@ -4957,7 +4953,7 @@
         ],
         [
           1794247200,
-          372
+          384
         ]
       ],
       "dailyPeak": [
@@ -5310,6 +5306,6 @@
       ]
     }
   },
-  "peak48h": 384,
-  "peak48hAt": "2026-11-09T18:51:10.000Z"
+  "peak48h": 376,
+  "peak48hAt": "2026-11-10T19:21:22.000Z"
 }
