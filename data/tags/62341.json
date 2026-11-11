@@ -7,12 +7,12 @@
   "allTimePeak": 27246,
   "peak24h": 85,
   "peak24hAt": "2026-11-11T14:51:13.000Z",
-  "updatedAt": "2026-11-11T15:26:07.906Z",
+  "updatedAt": "2026-11-11T15:31:25.765Z",
   "img_url": "2025/03/craftopia-cover.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-11T15:26:07.906Z",
-    "updatedAtTs": 1794410767,
+    "updatedAt": "2026-11-11T15:31:25.765Z",
+    "updatedAtTs": 1794411085,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,7 +23,7 @@
     },
     "summary": {
       "current": [
-        1794410767,
+        1794411085,
         83
       ],
       "peak24h": [
@@ -31,8 +31,8 @@
         85
       ],
       "peak48h": [
-        1794237981,
-        87
+        1794408673,
+        85
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794237981,
-          87
-        ],
         [
           1794238302,
           80
@@ -2295,6 +2291,10 @@
         ],
         [
           1794410767,
+          83
+        ],
+        [
+          1794411085,
           83
         ]
       ],
@@ -5510,6 +5510,6 @@
       ]
     }
   },
-  "peak48h": 87,
-  "peak48hAt": "2026-11-09T15:26:21.000Z"
+  "peak48h": 85,
+  "peak48hAt": "2026-11-11T14:51:13.000Z"
 }
