@@ -3,16 +3,16 @@
   "appid": "1286680",
   "steamAppid": 1286680,
   "name": "Tiny Tina's Wonderlands",
-  "players": 352,
+  "players": 342,
   "allTimePeak": 15021,
   "peak24h": 477,
   "peak24hAt": "2026-11-10T20:31:40.000Z",
-  "updatedAt": "2026-11-11T00:01:29.723Z",
+  "updatedAt": "2026-11-11T00:06:03.023Z",
   "img_url": "2024/12/mixcollage-07-dec-2024-08-15-am-8823.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-11T00:01:29.723Z",
-    "updatedAtTs": 1794355289,
+    "updatedAt": "2026-11-11T00:06:03.023Z",
+    "updatedAtTs": 1794355563,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794355289,
-        352
+        1794355563,
+        342
       ],
       "peak24h": [
         1794342700,
         477
       ],
       "peak48h": [
-        1794182762,
-        496
+        1794183073,
+        488
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794182494,
-          479
-        ],
-        [
-          1794182762,
-          496
-        ],
         [
           1794183073,
           488
@@ -2312,6 +2304,10 @@
         [
           1794355289,
           352
+        ],
+        [
+          1794355563,
+          342
         ]
       ],
       "hourlyPeak": [
@@ -4938,6 +4934,10 @@
         [
           1794178800,
           541
+        ],
+        [
+          1794182400,
+          496
         ]
       ],
       "dailyPeak": [
@@ -5438,6 +5438,6 @@
       ]
     }
   },
-  "peak48h": 496,
-  "peak48hAt": "2026-11-09T00:06:02.000Z"
+  "peak48h": 488,
+  "peak48hAt": "2026-11-09T00:11:13.000Z"
 }
