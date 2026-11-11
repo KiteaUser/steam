@@ -3,16 +3,16 @@
   "appid": "204450",
   "steamAppid": 204450,
   "name": "Call of Juarez Gunslinger",
-  "players": 60,
+  "players": 56,
   "allTimePeak": 11902,
   "peak24h": 89,
   "peak24hAt": "2026-11-10T19:36:13.000Z",
-  "updatedAt": "2026-11-11T02:16:15.276Z",
+  "updatedAt": "2026-11-11T02:21:22.297Z",
   "img_url": "2024/12/mixcollage-09-dec-2024-09-33-am-8093.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-11T02:16:15.276Z",
-    "updatedAtTs": 1794363375,
+    "updatedAt": "2026-11-11T02:21:22.297Z",
+    "updatedAtTs": 1794363682,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1794363375,
-        60
+        1794363682,
+        56
       ],
       "peak24h": [
         1794339373,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794190867,
-          48
-        ],
         [
           1794191164,
           48
@@ -2296,6 +2292,10 @@
         [
           1794363375,
           60
+        ],
+        [
+          1794363682,
+          56
         ]
       ],
       "hourlyPeak": [
