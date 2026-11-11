@@ -3,16 +3,16 @@
   "appid": "49520",
   "steamAppid": 49520,
   "name": "Borderlands 2",
-  "players": 3147,
+  "players": 3144,
   "allTimePeak": 124678,
   "peak24h": 3362,
   "peak24hAt": "2026-11-10T21:01:30.000Z",
-  "updatedAt": "2026-11-11T00:16:18.149Z",
+  "updatedAt": "2026-11-11T00:21:14.089Z",
   "img_url": "2024/12/mixcollage-06-dec-2024-10-25-pm-5157.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-11T00:16:18.149Z",
-    "updatedAtTs": 1794356178,
+    "updatedAt": "2026-11-11T00:21:14.089Z",
+    "updatedAtTs": 1794356474,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794356178,
-        3147
+        1794356474,
+        3144
       ],
       "peak24h": [
         1794344490,
         3362
       ],
       "peak48h": [
-        1794183674,
-        3953
+        1794183965,
+        3865
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794183674,
-          3953
-        ],
         [
           1794183965,
           3865
@@ -2304,6 +2300,10 @@
         [
           1794356178,
           3147
+        ],
+        [
+          1794356474,
+          3144
         ]
       ],
       "hourlyPeak": [
@@ -5902,6 +5902,6 @@
       ]
     }
   },
-  "peak48h": 3953,
-  "peak48hAt": "2026-11-09T00:21:14.000Z"
+  "peak48h": 3865,
+  "peak48hAt": "2026-11-09T00:26:05.000Z"
 }

@@ -5,14 +5,14 @@
   "name": "RoBoRumble",
   "players": 1,
   "allTimePeak": 13029,
-  "peak24h": 10,
-  "peak24hAt": "2026-11-10T00:21:04.000Z",
-  "updatedAt": "2026-11-11T00:16:18.149Z",
+  "peak24h": 6,
+  "peak24hAt": "2026-11-10T00:31:19.000Z",
+  "updatedAt": "2026-11-11T00:21:14.089Z",
   "img_url": "",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-11T00:16:18.149Z",
-    "updatedAtTs": 1794356178,
+    "updatedAt": "2026-11-11T00:21:14.089Z",
+    "updatedAtTs": 1794356474,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,12 +23,12 @@
     },
     "summary": {
       "current": [
-        1794356178,
+        1794356474,
         1
       ],
       "peak24h": [
-        1794270064,
-        10
+        1794270679,
+        6
       ],
       "peak48h": [
         1794242480,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794183674,
-          101
-        ],
         [
           1794183965,
           99
@@ -1515,6 +1511,10 @@
         ],
         [
           1794356178,
+          1
+        ],
+        [
+          1794356474,
           1
         ]
       ],
