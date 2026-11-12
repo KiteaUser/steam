@@ -6,13 +6,13 @@
   "players": 82,
   "allTimePeak": 27110,
   "peak24h": 89,
-  "peak24hAt": "2026-11-11T14:31:30.000Z",
-  "updatedAt": "2026-11-12T14:26:12.005Z",
+  "peak24hAt": "2026-11-11T15:16:07.000Z",
+  "updatedAt": "2026-11-12T14:31:37.989Z",
   "img_url": "2025/02/gundam-breaker-4-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-12T14:26:12.005Z",
-    "updatedAtTs": 1794493572,
+    "updatedAt": "2026-11-12T14:31:37.989Z",
+    "updatedAtTs": 1794493897,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794493572,
+        1794493897,
         82
       ],
       "peak24h": [
-        1794407490,
+        1794410167,
         89
       ],
       "peak48h": [
-        1794321086,
-        124
+        1794321393,
+        121
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794321086,
-          124
-        ],
         [
           1794321393,
           121
@@ -2271,6 +2267,10 @@
         ],
         [
           1794493572,
+          82
+        ],
+        [
+          1794493897,
           82
         ]
       ],
@@ -5302,6 +5302,6 @@
       ]
     }
   },
-  "peak48h": 124,
-  "peak48hAt": "2026-11-10T14:31:26.000Z"
+  "peak48h": 121,
+  "peak48hAt": "2026-11-10T14:36:33.000Z"
 }
