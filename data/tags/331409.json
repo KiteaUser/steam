@@ -3,16 +3,16 @@
   "appid": "508440",
   "steamAppid": 508440,
   "name": "Totally Accurate Battle Simulator",
-  "players": 1007,
+  "players": 999,
   "allTimePeak": 13674,
   "peak24h": 1460,
   "peak24hAt": "2026-11-11T14:51:13.000Z",
-  "updatedAt": "2026-11-12T04:35:56.258Z",
+  "updatedAt": "2026-11-12T04:41:00.119Z",
   "img_url": "2024/11/mixcollage-21-nov-2024-10-38-pm-6029.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-12T04:35:56.258Z",
-    "updatedAtTs": 1794458156,
+    "updatedAt": "2026-11-12T04:41:00.119Z",
+    "updatedAtTs": 1794458460,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1794458156,
-        1007
+        1794458460,
+        999
       ],
       "peak24h": [
         1794408673,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794285365,
-          845
-        ],
         [
           1794285668,
           848
@@ -2272,6 +2268,10 @@
         [
           1794458156,
           1007
+        ],
+        [
+          1794458460,
+          999
         ]
       ],
       "hourlyPeak": [
