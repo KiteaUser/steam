@@ -3,16 +3,16 @@
   "appid": "740130",
   "steamAppid": 740130,
   "name": "Tales of ARISE",
-  "players": 200,
+  "players": 190,
   "allTimePeak": 60274,
   "peak24h": 223,
   "peak24hAt": "2026-11-11T15:41:11.000Z",
-  "updatedAt": "2026-11-12T15:01:26.430Z",
+  "updatedAt": "2026-11-12T15:06:00.599Z",
   "img_url": "2024/12/mixcollage-06-dec-2024-07-51-am-315.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-12T15:01:26.430Z",
-    "updatedAtTs": 1794495686,
+    "updatedAt": "2026-11-12T15:06:00.599Z",
+    "updatedAtTs": 1794495960,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794495686,
-        200
+        1794495960,
+        190
       ],
       "peak24h": [
         1794411671,
         223
       ],
       "peak48h": [
-        1794322899,
-        249
+        1794323172,
+        248
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794322899,
-          249
-        ],
         [
           1794323172,
           248
@@ -2272,6 +2268,10 @@
         [
           1794495686,
           200
+        ],
+        [
+          1794495960,
+          190
         ]
       ],
       "hourlyPeak": [
@@ -4898,6 +4898,10 @@
         [
           1794319200,
           253
+        ],
+        [
+          1794322800,
+          249
         ]
       ],
       "dailyPeak": [
@@ -5438,6 +5442,6 @@
       ]
     }
   },
-  "peak48h": 249,
-  "peak48hAt": "2026-11-10T15:01:39.000Z"
+  "peak48h": 248,
+  "peak48hAt": "2026-11-10T15:06:12.000Z"
 }
