@@ -3,16 +3,16 @@
   "appid": "2828860",
   "steamAppid": 2828860,
   "name": "The Forever Winter",
-  "players": 269,
+  "players": 279,
   "allTimePeak": 12611,
   "peak24h": 324,
   "peak24hAt": "2026-11-12T19:36:11.000Z",
-  "updatedAt": "2026-11-12T20:51:14.091Z",
+  "updatedAt": "2026-11-12T20:56:10.273Z",
   "img_url": "2024/12/mixcollage-15-dec-2024-12-19-pm-6143.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-12T20:51:14.091Z",
-    "updatedAtTs": 1794516674,
+    "updatedAt": "2026-11-12T20:56:10.273Z",
+    "updatedAtTs": 1794516970,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794516674,
-        269
+        1794516970,
+        279
       ],
       "peak24h": [
         1794512171,
         324
       ],
       "peak48h": [
-        1794344168,
-        328
+        1794512171,
+        324
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794344168,
-          328
-        ],
         [
           1794344490,
           323
@@ -2268,6 +2264,10 @@
         [
           1794516674,
           269
+        ],
+        [
+          1794516970,
+          279
         ]
       ],
       "hourlyPeak": [
@@ -5294,6 +5294,6 @@
       ]
     }
   },
-  "peak48h": 328,
-  "peak48hAt": "2026-11-10T20:56:08.000Z"
+  "peak48h": 324,
+  "peak48hAt": "2026-11-12T19:36:11.000Z"
 }
