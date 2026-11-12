@@ -5,14 +5,14 @@
   "name": "F1 2021",
   "players": 111,
   "allTimePeak": 25575,
-  "peak24h": 133,
-  "peak24hAt": "2026-11-11T18:36:01.000Z",
-  "updatedAt": "2026-11-12T18:31:46.854Z",
+  "peak24h": 126,
+  "peak24hAt": "2026-11-11T18:41:16.000Z",
+  "updatedAt": "2026-11-12T18:36:10.358Z",
   "img_url": "",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-12T18:31:46.854Z",
-    "updatedAtTs": 1794508306,
+    "updatedAt": "2026-11-12T18:36:10.358Z",
+    "updatedAtTs": 1794508570,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,12 +23,12 @@
     },
     "summary": {
       "current": [
-        1794508306,
+        1794508570,
         111
       ],
       "peak24h": [
-        1794422161,
-        133
+        1794422476,
+        126
       ],
       "peak48h": [
         1794335773,
@@ -2263,6 +2263,10 @@
         ],
         [
           1794508306,
+          111
+        ],
+        [
+          1794508570,
           111
         ]
       ],
