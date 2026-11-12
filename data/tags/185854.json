@@ -3,16 +3,16 @@
   "appid": "815370",
   "steamAppid": 815370,
   "name": "Green Hell",
-  "players": 3117,
+  "players": 3084,
   "allTimePeak": 20259,
   "peak24h": 7353,
   "peak24hAt": "2026-11-11T14:06:04.000Z",
-  "updatedAt": "2026-11-12T09:11:06.289Z",
+  "updatedAt": "2026-11-12T09:16:00.840Z",
   "img_url": "2024/12/mixcollage-05-dec-2024-01-30-am-69.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-12T09:11:06.289Z",
-    "updatedAtTs": 1794474666,
+    "updatedAt": "2026-11-12T09:16:00.840Z",
+    "updatedAtTs": 1794474960,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1794474666,
-        3117
+        1794474960,
+        3084
       ],
       "peak24h": [
         1794405964,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794301870,
-          3396
-        ],
         [
           1794302175,
           3421
@@ -2272,6 +2268,10 @@
         [
           1794474666,
           3117
+        ],
+        [
+          1794474960,
+          3084
         ]
       ],
       "hourlyPeak": [
@@ -4901,7 +4901,7 @@
         ],
         [
           1794301200,
-          3364
+          3396
         ]
       ],
       "dailyPeak": [
