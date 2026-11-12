@@ -3,16 +3,16 @@
   "appid": "227940",
   "steamAppid": 227940,
   "name": "Heroes & Generals",
-  "players": 8,
+  "players": 6,
   "allTimePeak": 21026,
   "peak24h": 10,
   "peak24hAt": "2026-11-11T20:10:03.000Z",
-  "updatedAt": "2026-11-12T18:56:10.537Z",
+  "updatedAt": "2026-11-12T19:01:50.182Z",
   "img_url": "2024/12/mixcollage-29-dec-2024-08-44-am-349.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-12T18:56:10.537Z",
-    "updatedAtTs": 1794509770,
+    "updatedAt": "2026-11-12T19:01:50.182Z",
+    "updatedAtTs": 1794510110,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1794509770,
-        8
+        1794510110,
+        6
       ],
       "peak24h": [
         1794427803,
         10
       ],
       "peak48h": [
-        1794337295,
+        1794337563,
         12
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794337295,
-          12
-        ],
         [
           1794337563,
           12
@@ -2252,13 +2248,13 @@
         [
           1794509770,
           8
+        ],
+        [
+          1794510110,
+          6
         ]
       ],
       "hourlyPeak": [
-        [
-          1791918000,
-          8
-        ],
         [
           1791921600,
           6
@@ -4882,6 +4878,10 @@
         [
           1794333600,
           13
+        ],
+        [
+          1794337200,
+          12
         ]
       ],
       "dailyPeak": [
@@ -5843,5 +5843,5 @@
     }
   },
   "peak48h": 12,
-  "peak48hAt": "2026-11-10T19:01:35.000Z"
+  "peak48hAt": "2026-11-10T19:06:03.000Z"
 }
