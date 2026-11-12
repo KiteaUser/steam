@@ -7,12 +7,12 @@
   "allTimePeak": 42864,
   "peak24h": 815,
   "peak24hAt": "2026-11-11T20:59:01.000Z",
-  "updatedAt": "2026-11-12T13:36:01.945Z",
+  "updatedAt": "2026-11-12T13:41:16.961Z",
   "img_url": "2025/01/starrupture-cover.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-12T13:36:01.945Z",
-    "updatedAtTs": 1794490561,
+    "updatedAt": "2026-11-12T13:41:16.961Z",
+    "updatedAtTs": 1794490876,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,7 +23,7 @@
     },
     "summary": {
       "current": [
-        1794490561,
+        1794490876,
         450
       ],
       "peak24h": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794318075,
-          470
-        ],
         [
           1794318377,
           475
@@ -2259,6 +2255,10 @@
         ],
         [
           1794490561,
+          450
+        ],
+        [
+          1794490876,
           450
         ]
       ],
