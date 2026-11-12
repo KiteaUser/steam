@@ -3,16 +3,16 @@
   "appid": "227300",
   "steamAppid": 227300,
   "name": "Euro Truck Simulator 2",
-  "players": 72297,
-  "allTimePeak": 73887,
-  "peak24h": 72297,
-  "peak24hAt": "2026-11-12T17:35:55.000Z",
-  "updatedAt": "2026-11-12T17:41:09.068Z",
+  "players": 76771,
+  "allTimePeak": 76771,
+  "peak24h": 76771,
+  "peak24hAt": "2026-11-12T17:46:29.000Z",
+  "updatedAt": "2026-11-12T17:46:29.918Z",
   "img_url": "2024/12/mixcollage-14-dec-2024-08-54-am-7458.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-12T17:41:09.068Z",
-    "updatedAtTs": 1794505269,
+    "updatedAt": "2026-11-12T17:46:29.918Z",
+    "updatedAtTs": 1794505589,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,28 +23,24 @@
     },
     "summary": {
       "current": [
-        1794505269,
-        72297
+        1794505589,
+        76771
       ],
       "peak24h": [
-        1794504955,
-        72297
+        1794505589,
+        76771
       ],
       "peak48h": [
-        1794504955,
-        72297
+        1794505589,
+        76771
       ],
       "allTimePeak": [
         null,
-        73887
+        76771
       ]
     },
     "series": {
       "raw5m": [
-        [
-          1794332489,
-          44425
-        ],
         [
           1794332790,
           45483
@@ -2284,6 +2280,10 @@
         [
           1794505269,
           72297
+        ],
+        [
+          1794505589,
+          76771
         ]
       ],
       "hourlyPeak": [
@@ -5870,6 +5870,6 @@
       ]
     }
   },
-  "peak48h": 72297,
-  "peak48hAt": "2026-11-12T17:35:55.000Z"
+  "peak48h": 76771,
+  "peak48hAt": "2026-11-12T17:46:29.000Z"
 }
