@@ -6,13 +6,13 @@
   "players": 48,
   "allTimePeak": 13113,
   "peak24h": 51,
-  "peak24hAt": "2026-11-11T21:41:14.000Z",
-  "updatedAt": "2026-11-12T21:41:07.880Z",
+  "peak24hAt": "2026-11-12T21:31:30.000Z",
+  "updatedAt": "2026-11-12T21:46:16.887Z",
   "img_url": "2025/02/dirty-bomb-tag-cover.png",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-12T21:41:07.880Z",
-    "updatedAtTs": 1794519667,
+    "updatedAt": "2026-11-12T21:46:16.887Z",
+    "updatedAtTs": 1794519976,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,11 +23,11 @@
     },
     "summary": {
       "current": [
-        1794519667,
+        1794519976,
         48
       ],
       "peak24h": [
-        1794433274,
+        1794519090,
         51
       ],
       "peak48h": [
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794346870,
-          42
-        ],
-        [
-          1794347173,
-          42
-        ],
         [
           1794348105,
           42
@@ -2267,6 +2259,10 @@
         ],
         [
           1794519667,
+          48
+        ],
+        [
+          1794519976,
           48
         ]
       ],
