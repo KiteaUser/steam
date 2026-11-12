@@ -3,16 +3,16 @@
   "appid": "1432860",
   "steamAppid": 1432860,
   "name": "Sun Haven",
-  "players": 605,
+  "players": 597,
   "allTimePeak": 12706,
   "peak24h": 688,
   "peak24hAt": "2026-11-11T20:10:03.000Z",
-  "updatedAt": "2026-11-12T02:26:06.455Z",
+  "updatedAt": "2026-11-12T02:31:26.186Z",
   "img_url": "2024/11/mixcollage-19-nov-2024-02-30-pm-2950.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-12T02:26:06.455Z",
-    "updatedAtTs": 1794450366,
+    "updatedAt": "2026-11-12T02:31:26.186Z",
+    "updatedAtTs": 1794450686,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794450366,
-        605
+        1794450686,
+        597
       ],
       "peak24h": [
         1794427803,
         688
       ],
       "peak48h": [
-        1794277584,
-        698
+        1794278166,
+        696
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794277584,
-          698
-        ],
-        [
-          1794277875,
-          696
-        ],
         [
           1794278166,
           696
@@ -2280,6 +2272,10 @@
         [
           1794450366,
           605
+        ],
+        [
+          1794450686,
+          597
         ]
       ],
       "hourlyPeak": [
@@ -5462,6 +5458,6 @@
       ]
     }
   },
-  "peak48h": 698,
-  "peak48hAt": "2026-11-10T02:26:24.000Z"
+  "peak48h": 696,
+  "peak48hAt": "2026-11-10T02:36:06.000Z"
 }
