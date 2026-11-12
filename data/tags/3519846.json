@@ -3,16 +3,16 @@
   "appid": "2397300",
   "steamAppid": 2397300,
   "name": "Half Sword",
-  "players": 2905,
+  "players": 2903,
   "allTimePeak": 21604,
   "peak24h": 2905,
   "peak24hAt": "2026-11-12T20:46:09.000Z",
-  "updatedAt": "2026-11-12T20:46:09.295Z",
+  "updatedAt": "2026-11-12T20:51:14.091Z",
   "img_url": "2026/01/half-sword-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-12T20:46:09.295Z",
-    "updatedAtTs": 1794516369,
+    "updatedAt": "2026-11-12T20:51:14.091Z",
+    "updatedAtTs": 1794516674,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1794516369,
-        2905
+        1794516674,
+        2903
       ],
       "peak24h": [
         1794516369,
         2905
       ],
       "peak48h": [
-        1794343583,
+        1794344490,
         3588
       ],
       "allTimePeak": [
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794343583,
-          3588
-        ],
-        [
-          1794343873,
-          3562
-        ],
         [
           1794344168,
           3562
@@ -2280,6 +2272,10 @@
         [
           1794516369,
           2905
+        ],
+        [
+          1794516674,
+          2903
         ]
       ],
       "hourlyPeak": [
@@ -5239,5 +5235,5 @@
     }
   },
   "peak48h": 3588,
-  "peak48hAt": "2026-11-10T20:46:23.000Z"
+  "peak48hAt": "2026-11-10T21:01:30.000Z"
 }
