@@ -3,16 +3,16 @@
   "appid": "2828710",
   "steamAppid": 2828710,
   "name": "Valor Mortis",
-  "players": 294,
+  "players": 300,
   "allTimePeak": 5216,
   "peak24h": 552,
   "peak24hAt": "2026-11-11T18:51:22.000Z",
-  "updatedAt": "2026-11-12T12:56:03.028Z",
+  "updatedAt": "2026-11-12T13:01:28.480Z",
   "img_url": "2025/08/valor-mortis-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-12T12:56:03.028Z",
-    "updatedAtTs": 1794488163,
+    "updatedAt": "2026-11-12T13:01:28.480Z",
+    "updatedAtTs": 1794488488,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1794488163,
-        294
+        1794488488,
+        300
       ],
       "peak24h": [
         1794423082,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794315368,
-          340
-        ],
-        [
-          1794315682,
-          340
-        ],
         [
           1794315978,
           348
@@ -2280,6 +2272,10 @@
         [
           1794488163,
           294
+        ],
+        [
+          1794488488,
+          300
         ]
       ],
       "hourlyPeak": [
@@ -4897,7 +4893,11 @@
         ],
         [
           1794312000,
-          336
+          340
+        ],
+        [
+          1794315600,
+          340
         ]
       ],
       "dailyPeak": [],
