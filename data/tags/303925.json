@@ -3,16 +3,16 @@
   "appid": "239160",
   "steamAppid": 239160,
   "name": "Thief",
-  "players": 51,
+  "players": 57,
   "allTimePeak": 18352,
   "peak24h": 99,
   "peak24hAt": "2026-11-11T17:11:09.000Z",
-  "updatedAt": "2026-11-12T10:01:14.872Z",
+  "updatedAt": "2026-11-12T10:05:53.234Z",
   "img_url": "2024/12/mixcollage-07-dec-2024-08-14-pm-6135-1.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-12T10:01:14.872Z",
-    "updatedAtTs": 1794477674,
+    "updatedAt": "2026-11-12T10:05:53.234Z",
+    "updatedAtTs": 1794477953,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1794477674,
-        51
+        1794477953,
+        57
       ],
       "peak24h": [
         1794417069,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794304906,
-          39
-        ],
         [
           1794305167,
           39
@@ -2264,6 +2260,10 @@
         [
           1794477674,
           51
+        ],
+        [
+          1794477953,
+          57
         ]
       ],
       "hourlyPeak": [
@@ -4889,6 +4889,10 @@
         ],
         [
           1794301200,
+          39
+        ],
+        [
+          1794304800,
           39
         ]
       ],
