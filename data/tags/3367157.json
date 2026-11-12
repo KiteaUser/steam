@@ -3,16 +3,16 @@
   "appid": "2527500",
   "steamAppid": 2527500,
   "name": "MiSide",
-  "players": 647,
+  "players": 619,
   "allTimePeak": 23741,
   "peak24h": 677,
   "peak24hAt": "2026-11-12T14:26:12.000Z",
-  "updatedAt": "2026-11-12T14:51:02.193Z",
+  "updatedAt": "2026-11-12T14:55:58.208Z",
   "img_url": "2025/02/mixcollage-18-feb-2025-05-36-am-4149.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-12T14:51:02.193Z",
-    "updatedAtTs": 1794495062,
+    "updatedAt": "2026-11-12T14:55:58.208Z",
+    "updatedAtTs": 1794495358,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1794495062,
-        647
+        1794495358,
+        619
       ],
       "peak24h": [
         1794493572,
         677
       ],
       "peak48h": [
-        1794322282,
+        1794322573,
         705
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794322282,
-          705
-        ],
         [
           1794322573,
           705
@@ -2268,6 +2264,10 @@
         [
           1794495062,
           647
+        ],
+        [
+          1794495358,
+          619
         ]
       ],
       "hourlyPeak": [
@@ -5283,5 +5283,5 @@
     }
   },
   "peak48h": 705,
-  "peak48hAt": "2026-11-10T14:51:22.000Z"
+  "peak48hAt": "2026-11-10T14:56:13.000Z"
 }
