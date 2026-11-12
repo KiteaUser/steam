@@ -3,16 +3,16 @@
   "appid": "1307550",
   "steamAppid": 1307550,
   "name": "Craftopia",
-  "players": 52,
+  "players": 51,
   "allTimePeak": 27246,
   "peak24h": 79,
   "peak24hAt": "2026-11-12T13:31:24.000Z",
-  "updatedAt": "2026-11-12T20:31:27.031Z",
+  "updatedAt": "2026-11-12T20:36:04.882Z",
   "img_url": "2025/03/craftopia-cover.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-12T20:31:27.031Z",
-    "updatedAtTs": 1794515487,
+    "updatedAt": "2026-11-12T20:36:04.882Z",
+    "updatedAtTs": 1794515764,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1794515487,
-        52
+        1794515764,
+        51
       ],
       "peak24h": [
         1794490284,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794342700,
-          57
-        ],
         [
           1794342971,
           57
@@ -2268,6 +2264,10 @@
         [
           1794515487,
           52
+        ],
+        [
+          1794515764,
+          51
         ]
       ],
       "hourlyPeak": [
