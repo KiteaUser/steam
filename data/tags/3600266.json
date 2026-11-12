@@ -7,12 +7,12 @@
   "allTimePeak": 12674,
   "peak24h": 1521,
   "peak24hAt": "2026-11-11T14:41:08.000Z",
-  "updatedAt": "2026-11-12T00:11:22.265Z",
+  "updatedAt": "2026-11-12T00:16:00.668Z",
   "img_url": "2026/02/humanitz-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-12T00:11:22.265Z",
-    "updatedAtTs": 1794442282,
+    "updatedAt": "2026-11-12T00:16:00.668Z",
+    "updatedAtTs": 1794442560,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,7 +23,7 @@
     },
     "summary": {
       "current": [
-        1794442282,
+        1794442560,
         939
       ],
       "peak24h": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794269483,
-          1013
-        ],
         [
           1794269771,
           1024
@@ -2259,6 +2255,10 @@
         ],
         [
           1794442282,
+          939
+        ],
+        [
+          1794442560,
           939
         ]
       ],
@@ -4889,7 +4889,7 @@
         ],
         [
           1794268800,
-          1005
+          1013
         ]
       ],
       "dailyPeak": [
