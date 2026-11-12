@@ -3,16 +3,16 @@
   "appid": "65800",
   "steamAppid": 65800,
   "name": "Dungeon Defenders",
-  "players": 225,
+  "players": 216,
   "allTimePeak": 21862,
   "peak24h": 349,
   "peak24hAt": "2026-11-11T22:35:59.000Z",
-  "updatedAt": "2026-11-12T05:51:00.828Z",
+  "updatedAt": "2026-11-12T05:56:04.333Z",
   "img_url": "2025/06/dungeon-defenders.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-12T05:51:00.828Z",
-    "updatedAtTs": 1794462660,
+    "updatedAt": "2026-11-12T05:56:04.333Z",
+    "updatedAtTs": 1794462964,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1794462660,
-        225
+        1794462964,
+        216
       ],
       "peak24h": [
         1794436559,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794289871,
-          190
-        ],
         [
           1794290166,
           199
@@ -2260,6 +2256,10 @@
         [
           1794462660,
           225
+        ],
+        [
+          1794462964,
+          216
         ]
       ],
       "hourlyPeak": [
