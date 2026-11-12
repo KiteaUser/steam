@@ -3,16 +3,16 @@
   "appid": "3564740",
   "steamAppid": 3564740,
   "name": "Where Winds Meet",
-  "players": 14099,
+  "players": 13995,
   "allTimePeak": 251008,
-  "peak24h": 14866,
-  "peak24hAt": "2026-11-11T14:21:13.000Z",
-  "updatedAt": "2026-11-12T14:21:10.721Z",
+  "peak24h": 14744,
+  "peak24hAt": "2026-11-11T14:31:30.000Z",
+  "updatedAt": "2026-11-12T14:26:12.005Z",
   "img_url": "2025/11/where-winds-meet-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-12T14:21:10.721Z",
-    "updatedAtTs": 1794493270,
+    "updatedAt": "2026-11-12T14:26:12.005Z",
+    "updatedAtTs": 1794493572,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794493270,
-        14099
+        1794493572,
+        13995
       ],
       "peak24h": [
-        1794406873,
-        14866
+        1794407490,
+        14744
       ],
       "peak48h": [
-        1794320473,
-        15178
+        1794406873,
+        14866
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794320473,
-          15178
-        ],
-        [
-          1794320759,
-          15178
-        ],
         [
           1794321086,
           14822
@@ -2268,6 +2260,10 @@
         [
           1794493270,
           14099
+        ],
+        [
+          1794493572,
+          13995
         ]
       ],
       "hourlyPeak": [
@@ -5238,6 +5234,6 @@
       ]
     }
   },
-  "peak48h": 15178,
-  "peak48hAt": "2026-11-10T14:21:13.000Z"
+  "peak48h": 14866,
+  "peak48hAt": "2026-11-11T14:21:13.000Z"
 }
