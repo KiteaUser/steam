@@ -3,16 +3,16 @@
   "appid": "1049590",
   "steamAppid": 1049590,
   "name": "Eternal Return",
-  "players": 6728,
+  "players": 5165,
   "allTimePeak": 52853,
   "peak24h": 19790,
   "peak24hAt": "2026-11-11T13:51:08.000Z",
-  "updatedAt": "2026-11-12T08:16:08.964Z",
+  "updatedAt": "2026-11-12T08:21:03.426Z",
   "img_url": "2024/11/mixcollage-26-nov-2024-04-50-pm-2978.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-12T08:16:08.964Z",
-    "updatedAtTs": 1794471368,
+    "updatedAt": "2026-11-12T08:21:03.426Z",
+    "updatedAtTs": 1794471663,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1794471368,
-        6728
+        1794471663,
+        5165
       ],
       "peak24h": [
         1794405068,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794298572,
-          8522
-        ],
         [
           1794298875,
           8522
@@ -2280,6 +2276,10 @@
         [
           1794471368,
           6728
+        ],
+        [
+          1794471663,
+          5165
         ]
       ],
       "hourlyPeak": [
@@ -4909,7 +4909,7 @@
         ],
         [
           1794297600,
-          8418
+          8522
         ]
       ],
       "dailyPeak": [
