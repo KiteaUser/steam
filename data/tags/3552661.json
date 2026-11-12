@@ -7,12 +7,12 @@
   "allTimePeak": 301322,
   "peak24h": 4334,
   "peak24hAt": "2026-11-12T13:56:01.000Z",
-  "updatedAt": "2026-11-12T19:05:59.699Z",
+  "updatedAt": "2026-11-12T19:11:11.037Z",
   "img_url": "2025/10/escape-from-duckov-tag-image.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-12T19:05:59.699Z",
-    "updatedAtTs": 1794510359,
+    "updatedAt": "2026-11-12T19:11:11.037Z",
+    "updatedAtTs": 1794510671,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,7 +23,7 @@
     },
     "summary": {
       "current": [
-        1794510359,
+        1794510671,
         1202
       ],
       "peak24h": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794337563,
-          1103
-        ],
         [
           1794337878,
           1052
@@ -2279,6 +2275,10 @@
         ],
         [
           1794510359,
+          1202
+        ],
+        [
+          1794510671,
           1202
         ]
       ],
@@ -4909,7 +4909,7 @@
         ],
         [
           1794337200,
-          1078
+          1103
         ]
       ],
       "dailyPeak": [
