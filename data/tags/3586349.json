@@ -7,12 +7,12 @@
   "allTimePeak": 24107,
   "peak24h": 991,
   "peak24hAt": "2026-11-13T18:51:12.000Z",
-  "updatedAt": "2026-11-13T19:01:22.797Z",
+  "updatedAt": "2026-11-13T19:06:20.156Z",
   "img_url": "2025/12/my-winter-car-custom-tag-page-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-13T19:01:22.797Z",
-    "updatedAtTs": 1794596482,
+    "updatedAt": "2026-11-13T19:06:20.156Z",
+    "updatedAtTs": 1794596780,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,7 +23,7 @@
     },
     "summary": {
       "current": [
-        1794596482,
+        1794596780,
         959
       ],
       "peak24h": [
@@ -31,8 +31,8 @@
         991
       ],
       "peak48h": [
-        1794423971,
-        999
+        1794595872,
+        991
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794423971,
-          999
-        ],
         [
           1794424277,
           950
@@ -2271,6 +2267,10 @@
         ],
         [
           1794596482,
+          959
+        ],
+        [
+          1794596780,
           959
         ]
       ],
@@ -5238,6 +5238,6 @@
       ]
     }
   },
-  "peak48h": 999,
-  "peak48hAt": "2026-11-11T19:06:11.000Z"
+  "peak48h": 991,
+  "peak48hAt": "2026-11-13T18:51:12.000Z"
 }
