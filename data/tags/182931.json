@@ -3,16 +3,16 @@
   "appid": "774861",
   "steamAppid": 774861,
   "name": "Project Winter",
-  "players": 83,
+  "players": 75,
   "allTimePeak": 38794,
   "peak24h": 323,
   "peak24hAt": "2026-11-12T14:16:04.000Z",
-  "updatedAt": "2026-11-13T02:51:06.888Z",
+  "updatedAt": "2026-11-13T02:56:01.820Z",
   "img_url": "2025/02/mixcollage-05-feb-2025-07-14-am-101.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-13T02:51:06.888Z",
-    "updatedAtTs": 1794538266,
+    "updatedAt": "2026-11-13T02:56:01.820Z",
+    "updatedAtTs": 1794538561,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1794538266,
-        83
+        1794538561,
+        75
       ],
       "peak24h": [
         1794492964,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794365476,
-          110
-        ],
         [
           1794365771,
           110
@@ -2280,6 +2276,10 @@
         [
           1794538266,
           83
+        ],
+        [
+          1794538561,
+          75
         ]
       ],
       "hourlyPeak": [
