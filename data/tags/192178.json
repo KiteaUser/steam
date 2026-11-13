@@ -3,16 +3,16 @@
   "appid": "1522820",
   "steamAppid": 1522820,
   "name": "Orcs Must Die 3",
-  "players": 210,
+  "players": 212,
   "allTimePeak": 13210,
   "peak24h": 246,
   "peak24hAt": "2026-11-13T15:11:28.000Z",
-  "updatedAt": "2026-11-13T16:11:19.766Z",
+  "updatedAt": "2026-11-13T16:16:09.399Z",
   "img_url": "2024/12/mixcollage-16-dec-2024-08-58-pm-9024.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-13T16:11:19.766Z",
-    "updatedAtTs": 1794586279,
+    "updatedAt": "2026-11-13T16:16:09.399Z",
+    "updatedAtTs": 1794586569,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794586279,
-        210
+        1794586569,
+        212
       ],
       "peak24h": [
         1794582688,
         246
       ],
       "peak48h": [
-        1794413482,
-        251
+        1794582688,
+        246
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794413482,
-          251
-        ],
-        [
-          1794413769,
-          242
-        ],
         [
           1794414070,
           244
@@ -2280,6 +2272,10 @@
         [
           1794586279,
           210
+        ],
+        [
+          1794586569,
+          212
         ]
       ],
       "hourlyPeak": [
@@ -4909,7 +4905,7 @@
         ],
         [
           1794412800,
-          250
+          251
         ]
       ],
       "dailyPeak": [
@@ -5462,6 +5458,6 @@
       ]
     }
   },
-  "peak48h": 251,
-  "peak48hAt": "2026-11-11T16:11:22.000Z"
+  "peak48h": 246,
+  "peak48hAt": "2026-11-13T15:11:28.000Z"
 }
