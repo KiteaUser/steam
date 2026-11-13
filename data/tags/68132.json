@@ -3,16 +3,16 @@
   "appid": "408900",
   "steamAppid": 408900,
   "name": "Unfortunate Spacemen",
-  "players": 14,
+  "players": 13,
   "allTimePeak": 11823,
   "peak24h": 16,
   "peak24hAt": "2026-11-13T02:06:11.000Z",
-  "updatedAt": "2026-11-13T20:06:09.510Z",
+  "updatedAt": "2026-11-13T20:11:00.325Z",
   "img_url": "2025/02/unfortunate-spacemen-tag-cover.png",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-13T20:06:09.510Z",
-    "updatedAtTs": 1794600369,
+    "updatedAt": "2026-11-13T20:11:00.325Z",
+    "updatedAtTs": 1794600660,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1794600369,
-        14
+        1794600660,
+        13
       ],
       "peak24h": [
         1794535571,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794427803,
-          2
-        ],
         [
           1794427874,
           2
@@ -1956,6 +1952,10 @@
         [
           1794600369,
           14
+        ],
+        [
+          1794600660,
+          13
         ]
       ],
       "hourlyPeak": [
@@ -4554,6 +4554,10 @@
         [
           1794423600,
           10
+        ],
+        [
+          1794427200,
+          2
         ]
       ],
       "dailyPeak": [
