@@ -3,16 +3,16 @@
   "appid": "9200",
   "steamAppid": 9200,
   "name": "RAGE",
-  "players": 22,
+  "players": 24,
   "allTimePeak": 18059,
   "peak24h": 61,
   "peak24hAt": "2026-11-12T19:16:15.000Z",
-  "updatedAt": "2026-11-13T00:46:10.131Z",
+  "updatedAt": "2026-11-13T00:51:22.713Z",
   "img_url": "2024/12/mixcollage-13-dec-2024-07-05-am-5906.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-13T00:46:10.131Z",
-    "updatedAtTs": 1794530770,
+    "updatedAt": "2026-11-13T00:51:22.713Z",
+    "updatedAtTs": 1794531082,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1794530770,
-        22
+        1794531082,
+        24
       ],
       "peak24h": [
         1794510975,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794358266,
-          26
-        ],
         [
           1794358559,
           26
@@ -2280,6 +2276,10 @@
         [
           1794530770,
           22
+        ],
+        [
+          1794531082,
+          24
         ]
       ],
       "hourlyPeak": [
