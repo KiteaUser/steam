@@ -3,16 +3,16 @@
   "appid": "383870",
   "steamAppid": 383870,
   "name": "Firewatch",
-  "players": 48,
+  "players": 52,
   "allTimePeak": 17568,
   "peak24h": 101,
   "peak24hAt": "2026-11-12T20:36:04.000Z",
-  "updatedAt": "2026-11-13T12:31:13.852Z",
+  "updatedAt": "2026-11-13T12:35:59.809Z",
   "img_url": "2024/12/mixcollage-12-dec-2024-04-03-pm-1054.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-13T12:31:13.852Z",
-    "updatedAtTs": 1794573073,
+    "updatedAt": "2026-11-13T12:35:59.809Z",
+    "updatedAtTs": 1794573359,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1794573073,
-        48
+        1794573359,
+        52
       ],
       "peak24h": [
         1794515764,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794400281,
-          62
-        ],
         [
           1794400560,
           62
@@ -2276,6 +2272,10 @@
         [
           1794573073,
           48
+        ],
+        [
+          1794573359,
+          52
         ]
       ],
       "hourlyPeak": [
