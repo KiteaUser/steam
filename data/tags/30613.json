@@ -3,16 +3,16 @@
   "appid": "216150",
   "steamAppid": 216150,
   "name": "MapleStory",
-  "players": 21815,
+  "players": 21843,
   "allTimePeak": 27434,
   "peak24h": 26530,
   "peak24hAt": "2026-11-12T03:31:15.000Z",
-  "updatedAt": "2026-11-13T00:01:24.768Z",
+  "updatedAt": "2026-11-13T00:06:00.152Z",
   "img_url": "2024/12/mixcollage-21-dec-2024-11-38-am-7578.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-13T00:01:24.768Z",
-    "updatedAtTs": 1794528084,
+    "updatedAt": "2026-11-13T00:06:00.152Z",
+    "updatedAtTs": 1794528360,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1794528084,
-        21815
+        1794528360,
+        21843
       ],
       "peak24h": [
         1794454275,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794355289,
-          17191
-        ],
         [
           1794355563,
           17120
@@ -2284,6 +2280,10 @@
         [
           1794528084,
           21815
+        ],
+        [
+          1794528360,
+          21843
         ]
       ],
       "hourlyPeak": [
@@ -4909,6 +4909,10 @@
         ],
         [
           1794351600,
+          17191
+        ],
+        [
+          1794355200,
           17191
         ]
       ],
