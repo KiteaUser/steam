@@ -3,16 +3,16 @@
   "appid": "233130",
   "steamAppid": 233130,
   "name": "Shadow Warrior",
-  "players": 8,
+  "players": 6,
   "allTimePeak": 25890,
   "peak24h": 24,
   "peak24hAt": "2026-11-12T17:06:08.000Z",
-  "updatedAt": "2026-11-13T09:46:06.496Z",
+  "updatedAt": "2026-11-13T09:51:04.976Z",
   "img_url": "2024/11/mixcollage-26-nov-2024-09-57-pm-7654-1.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-13T09:46:06.496Z",
-    "updatedAtTs": 1794563166,
+    "updatedAt": "2026-11-13T09:51:04.976Z",
+    "updatedAtTs": 1794563464,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1794563166,
-        8
+        1794563464,
+        6
       ],
       "peak24h": [
         1794503168,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794390374,
-          14
-        ],
         [
           1794390667,
           16
@@ -2280,6 +2276,10 @@
         [
           1794563166,
           8
+        ],
+        [
+          1794563464,
+          6
         ]
       ],
       "hourlyPeak": [
