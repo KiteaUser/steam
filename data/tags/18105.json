@@ -3,16 +3,16 @@
   "appid": "438740",
   "steamAppid": 438740,
   "name": "Friday the 13th: The Game",
-  "players": 45,
+  "players": 54,
   "allTimePeak": 16096,
-  "peak24h": 47,
-  "peak24hAt": "2026-11-13T17:46:19.000Z",
-  "updatedAt": "2026-11-13T18:01:43.157Z",
+  "peak24h": 54,
+  "peak24hAt": "2026-11-13T18:06:09.000Z",
+  "updatedAt": "2026-11-13T18:06:09.861Z",
   "img_url": "",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-13T18:01:43.157Z",
-    "updatedAtTs": 1794592903,
+    "updatedAt": "2026-11-13T18:06:09.861Z",
+    "updatedAtTs": 1794593169,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794592903,
-        45
+        1794593169,
+        54
       ],
       "peak24h": [
-        1794591979,
-        47
+        1794593169,
+        54
       ],
       "peak48h": [
-        1794591979,
-        47
+        1794593169,
+        54
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794420369,
-          6
-        ],
         [
           1794420674,
           6
@@ -2276,6 +2272,10 @@
         [
           1794592903,
           45
+        ],
+        [
+          1794593169,
+          54
         ]
       ],
       "hourlyPeak": [
@@ -5706,6 +5706,6 @@
       ]
     }
   },
-  "peak48h": 47,
-  "peak48hAt": "2026-11-13T17:46:19.000Z"
+  "peak48h": 54,
+  "peak48hAt": "2026-11-13T18:06:09.000Z"
 }

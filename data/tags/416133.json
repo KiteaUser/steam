@@ -3,16 +3,16 @@
   "appid": "2429640",
   "steamAppid": 2429640,
   "name": "THRONE AND LIBERTY",
-  "players": 3552,
+  "players": 3382,
   "allTimePeak": 336300,
   "peak24h": 3896,
   "peak24hAt": "2026-11-12T18:21:05.000Z",
-  "updatedAt": "2026-11-13T18:01:43.157Z",
+  "updatedAt": "2026-11-13T18:06:09.861Z",
   "img_url": "2024/12/mixcollage-02-dec-2024-02-57-am-7034.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-13T18:01:43.157Z",
-    "updatedAtTs": 1794592903,
+    "updatedAt": "2026-11-13T18:06:09.861Z",
+    "updatedAtTs": 1794593169,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1794592903,
-        3552
+        1794593169,
+        3382
       ],
       "peak24h": [
         1794507665,
         3896
       ],
       "peak48h": [
-        1794420369,
+        1794420966,
         4241
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794420369,
-          4241
-        ],
         [
           1794420674,
           4085
@@ -2280,6 +2276,10 @@
         [
           1794592903,
           3552
+        ],
+        [
+          1794593169,
+          3382
         ]
       ],
       "hourlyPeak": [
@@ -4909,7 +4909,7 @@
         ],
         [
           1794420000,
-          4085
+          4241
         ]
       ],
       "dailyPeak": [
@@ -5307,5 +5307,5 @@
     }
   },
   "peak48h": 4241,
-  "peak48hAt": "2026-11-11T18:06:09.000Z"
+  "peak48hAt": "2026-11-11T18:16:06.000Z"
 }

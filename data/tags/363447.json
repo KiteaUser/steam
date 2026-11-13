@@ -3,16 +3,16 @@
   "appid": "1172710",
   "steamAppid": 1172710,
   "name": "Dune: Awakening",
-  "players": 7134,
+  "players": 7126,
   "allTimePeak": 189333,
   "peak24h": 7724,
   "peak24hAt": "2026-11-12T19:56:05.000Z",
-  "updatedAt": "2026-11-13T18:01:43.157Z",
+  "updatedAt": "2026-11-13T18:06:09.861Z",
   "img_url": "2024/12/mixcollage-10-dec-2024-01-11-am-7470.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-13T18:01:43.157Z",
-    "updatedAtTs": 1794592903,
+    "updatedAt": "2026-11-13T18:06:09.861Z",
+    "updatedAtTs": 1794593169,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1794592903,
-        7134
+        1794593169,
+        7126
       ],
       "peak24h": [
         1794513365,
         7724
       ],
       "peak48h": [
-        1794420369,
+        1794420966,
         8030
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794420369,
-          8030
-        ],
         [
           1794420674,
           8002
@@ -2276,6 +2272,10 @@
         [
           1794592903,
           7134
+        ],
+        [
+          1794593169,
+          7126
         ]
       ],
       "hourlyPeak": [
@@ -4905,7 +4905,7 @@
         ],
         [
           1794420000,
-          8002
+          8030
         ]
       ],
       "dailyPeak": [
@@ -5271,5 +5271,5 @@
     }
   },
   "peak48h": 8030,
-  "peak48hAt": "2026-11-11T18:06:09.000Z"
+  "peak48hAt": "2026-11-11T18:16:06.000Z"
 }
