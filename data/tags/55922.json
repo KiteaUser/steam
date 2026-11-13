@@ -3,16 +3,16 @@
   "appid": "12210",
   "steamAppid": 12210,
   "name": "Grand Theft Auto 4",
-  "players": 6412,
+  "players": 6403,
   "allTimePeak": 11696,
   "peak24h": 6412,
   "peak24hAt": "2026-11-13T18:26:06.000Z",
-  "updatedAt": "2026-11-13T18:26:06.387Z",
+  "updatedAt": "2026-11-13T18:31:26.818Z",
   "img_url": "2023/12/gta4-cover-1.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-13T18:26:06.387Z",
-    "updatedAtTs": 1794594366,
+    "updatedAt": "2026-11-13T18:31:26.818Z",
+    "updatedAtTs": 1794594686,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1794594366,
-        6412
+        1794594686,
+        6403
       ],
       "peak24h": [
         1794594366,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794421884,
-          6162
-        ],
         [
           1794422161,
           6199
@@ -2276,6 +2272,10 @@
         [
           1794594366,
           6412
+        ],
+        [
+          1794594686,
+          6403
         ]
       ],
       "hourlyPeak": [
