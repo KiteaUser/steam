@@ -3,16 +3,16 @@
   "appid": "3557620",
   "steamAppid": 3557620,
   "name": "Blue Archive",
-  "players": 7290,
+  "players": 7351,
   "allTimePeak": 27077,
-  "peak24h": 7730,
-  "peak24hAt": "2026-11-12T14:26:12.000Z",
-  "updatedAt": "2026-11-13T14:26:07.183Z",
+  "peak24h": 7598,
+  "peak24hAt": "2026-11-12T14:31:37.000Z",
+  "updatedAt": "2026-11-13T14:31:34.861Z",
   "img_url": "2024/12/mixcollage-18-dec-2024-02-00-am-6585.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-13T14:26:07.183Z",
-    "updatedAtTs": 1794579967,
+    "updatedAt": "2026-11-13T14:31:34.861Z",
+    "updatedAtTs": 1794580294,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794579967,
-        7290
+        1794580294,
+        7351
       ],
       "peak24h": [
-        1794493572,
-        7730
+        1794493897,
+        7598
       ],
       "peak48h": [
-        1794407490,
-        9273
+        1794407766,
+        9225
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794407490,
-          9273
-        ],
         [
           1794407766,
           9225
@@ -2264,6 +2260,10 @@
         [
           1794579967,
           7290
+        ],
+        [
+          1794580294,
+          7351
         ]
       ],
       "hourlyPeak": [
@@ -5254,6 +5254,6 @@
       ]
     }
   },
-  "peak48h": 9273,
-  "peak48hAt": "2026-11-11T14:31:30.000Z"
+  "peak48h": 9225,
+  "peak48hAt": "2026-11-11T14:36:06.000Z"
 }
