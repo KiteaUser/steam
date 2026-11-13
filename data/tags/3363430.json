@@ -3,16 +3,16 @@
   "appid": "20900",
   "steamAppid": 20900,
   "name": "The Witcher: Enhanced Edition",
-  "players": 672,
+  "players": 663,
   "allTimePeak": 12685,
   "peak24h": 679,
   "peak24hAt": "2026-11-13T19:41:09.000Z",
-  "updatedAt": "2026-11-13T20:16:09.902Z",
+  "updatedAt": "2026-11-13T20:21:30.185Z",
   "img_url": "2025/01/mixcollage-06-jan-2025-11-57-am-4312.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-13T20:16:09.902Z",
-    "updatedAtTs": 1794600969,
+    "updatedAt": "2026-11-13T20:21:30.185Z",
+    "updatedAtTs": 1794601290,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794600969,
-        672
+        1794601290,
+        663
       ],
       "peak24h": [
         1794598869,
         679
       ],
       "peak48h": [
-        1794428170,
-        711
+        1794512491,
+        680
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794428170,
-          711
-        ],
         [
           1794430741,
           676
@@ -2312,6 +2308,10 @@
         [
           1794600969,
           672
+        ],
+        [
+          1794601290,
+          663
         ]
       ],
       "hourlyPeak": [
@@ -5926,6 +5926,6 @@
       ]
     }
   },
-  "peak48h": 711,
-  "peak48hAt": "2026-11-11T20:16:10.000Z"
+  "peak48h": 680,
+  "peak48hAt": "2026-11-12T19:41:31.000Z"
 }
