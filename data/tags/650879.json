@@ -3,16 +3,16 @@
   "appid": "200210",
   "steamAppid": 200210,
   "name": "Realm of the Mad God Exalt",
-  "players": 929,
+  "players": 936,
   "allTimePeak": 10051,
   "peak24h": 976,
   "peak24hAt": "2026-11-13T21:11:03.000Z",
-  "updatedAt": "2026-11-13T23:11:13.095Z",
+  "updatedAt": "2026-11-13T23:16:09.733Z",
   "img_url": "2024/11/mixcollage-25-nov-2024-05-40-pm-1782.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-13T23:11:13.095Z",
-    "updatedAtTs": 1794611473,
+    "updatedAt": "2026-11-13T23:16:09.733Z",
+    "updatedAtTs": 1794611769,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794611473,
-        929
+        1794611769,
+        936
       ],
       "peak24h": [
         1794604263,
         976
       ],
       "peak48h": [
-        1794438961,
-        987
+        1794447369,
+        980
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794438961,
-          987
-        ],
         [
           1794439272,
           947
@@ -2336,6 +2332,10 @@
         [
           1794611473,
           929
+        ],
+        [
+          1794611769,
+          936
         ]
       ],
       "hourlyPeak": [
@@ -5950,6 +5950,6 @@
       ]
     }
   },
-  "peak48h": 987,
-  "peak48hAt": "2026-11-11T23:16:01.000Z"
+  "peak48h": 980,
+  "peak48hAt": "2026-11-12T01:36:09.000Z"
 }
