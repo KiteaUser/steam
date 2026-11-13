@@ -3,16 +3,16 @@
   "appid": "427410",
   "steamAppid": 427410,
   "name": "Abiotic Factor",
-  "players": 2992,
+  "players": 3013,
   "allTimePeak": 29278,
   "peak24h": 3015,
   "peak24hAt": "2026-11-13T20:51:36.000Z",
-  "updatedAt": "2026-11-13T21:06:00.390Z",
+  "updatedAt": "2026-11-13T21:11:03.975Z",
   "img_url": "2025/03/abiotic-factor-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-13T21:06:00.390Z",
-    "updatedAtTs": 1794603960,
+    "updatedAt": "2026-11-13T21:11:03.975Z",
+    "updatedAtTs": 1794604263,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1794603960,
-        2992
+        1794604263,
+        3013
       ],
       "peak24h": [
         1794603096,
         3015
       ],
       "peak48h": [
-        1794431169,
+        1794431469,
         3040
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794431169,
-          3040
-        ],
         [
           1794431469,
           3040
@@ -2348,6 +2344,10 @@
         [
           1794603960,
           2992
+        ],
+        [
+          1794604263,
+          3013
         ]
       ],
       "hourlyPeak": [
@@ -5395,5 +5395,5 @@
     }
   },
   "peak48h": 3040,
-  "peak48hAt": "2026-11-11T21:06:09.000Z"
+  "peak48hAt": "2026-11-11T21:11:09.000Z"
 }
