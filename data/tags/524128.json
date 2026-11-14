@@ -3,16 +3,16 @@
   "appid": "2080690",
   "steamAppid": 2080690,
   "name": "Sunkenland",
-  "players": 960,
+  "players": 1002,
   "allTimePeak": 26154,
-  "peak24h": 960,
-  "peak24hAt": "2026-11-14T13:16:06.000Z",
-  "updatedAt": "2026-11-14T13:16:06.569Z",
+  "peak24h": 1002,
+  "peak24hAt": "2026-11-14T13:21:00.000Z",
+  "updatedAt": "2026-11-14T13:21:00.160Z",
   "img_url": "2024/11/mixcollage-27-nov-2024-09-28-pm-3558-1.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-14T13:16:06.569Z",
-    "updatedAtTs": 1794662166,
+    "updatedAt": "2026-11-14T13:21:00.160Z",
+    "updatedAtTs": 1794662460,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794662166,
-        960
+        1794662460,
+        1002
       ],
       "peak24h": [
-        1794662166,
-        960
+        1794662460,
+        1002
       ],
       "peak48h": [
-        1794662166,
-        960
+        1794662460,
+        1002
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794489394,
-          635
-        ],
         [
           1794489679,
           664
@@ -2340,6 +2336,10 @@
         [
           1794662166,
           960
+        ],
+        [
+          1794662460,
+          1002
         ]
       ],
       "hourlyPeak": [
@@ -5426,6 +5426,6 @@
       ]
     }
   },
-  "peak48h": 960,
-  "peak48hAt": "2026-11-14T13:16:06.000Z"
+  "peak48h": 1002,
+  "peak48hAt": "2026-11-14T13:21:00.000Z"
 }

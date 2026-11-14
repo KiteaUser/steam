@@ -3,16 +3,16 @@
   "appid": "2667970",
   "steamAppid": 2667970,
   "name": "100 Asian Cats",
-  "players": 2,
+  "players": 5,
   "allTimePeak": 13382,
   "peak24h": 8,
   "peak24hAt": "2026-11-13T17:06:12.000Z",
-  "updatedAt": "2026-11-14T13:16:06.569Z",
+  "updatedAt": "2026-11-14T13:21:00.160Z",
   "img_url": "2024/12/mixcollage-03-dec-2024-11-35-pm-1321.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-14T13:16:06.569Z",
-    "updatedAtTs": 1794662166,
+    "updatedAt": "2026-11-14T13:21:00.160Z",
+    "updatedAtTs": 1794662460,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1794662166,
-        2
+        1794662460,
+        5
       ],
       "peak24h": [
         1794589572,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794489394,
-          1
-        ],
         [
           1794489679,
           3
@@ -2232,6 +2228,10 @@
         [
           1794662166,
           2
+        ],
+        [
+          1794662460,
+          5
         ]
       ],
       "hourlyPeak": [

@@ -3,16 +3,16 @@
   "appid": "1432860",
   "steamAppid": 1432860,
   "name": "Sun Haven",
-  "players": 603,
+  "players": 600,
   "allTimePeak": 12706,
   "peak24h": 647,
   "peak24hAt": "2026-11-13T20:16:09.000Z",
-  "updatedAt": "2026-11-14T13:16:06.569Z",
+  "updatedAt": "2026-11-14T13:21:00.160Z",
   "img_url": "2024/11/mixcollage-19-nov-2024-02-30-pm-2950.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-14T13:16:06.569Z",
-    "updatedAtTs": 1794662166,
+    "updatedAt": "2026-11-14T13:21:00.160Z",
+    "updatedAtTs": 1794662460,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1794662166,
-        603
+        1794662460,
+        600
       ],
       "peak24h": [
         1794600969,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794489394,
-          458
-        ],
         [
           1794489679,
           484
@@ -2332,6 +2328,10 @@
         [
           1794662166,
           603
+        ],
+        [
+          1794662460,
+          600
         ]
       ],
       "hourlyPeak": [
