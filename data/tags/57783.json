@@ -3,16 +3,16 @@
   "appid": "327030",
   "steamAppid": 327030,
   "name": "Worms WMD",
-  "players": 90,
+  "players": 86,
   "allTimePeak": 5122,
   "peak24h": 386,
   "peak24hAt": "2026-11-13T21:26:02.000Z",
-  "updatedAt": "2026-11-14T09:46:09.441Z",
+  "updatedAt": "2026-11-14T09:51:14.210Z",
   "img_url": "2025/02/worms-w-m-d.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-14T09:46:09.441Z",
-    "updatedAtTs": 1794649569,
+    "updatedAt": "2026-11-14T09:51:14.210Z",
+    "updatedAtTs": 1794649874,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1794649569,
-        90
+        1794649874,
+        86
       ],
       "peak24h": [
         1794605162,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794477069,
-          71
-        ],
         [
           1794477360,
           71
@@ -2336,6 +2332,10 @@
         [
           1794649569,
           90
+        ],
+        [
+          1794649874,
+          86
         ]
       ],
       "hourlyPeak": [
