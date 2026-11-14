@@ -3,16 +3,16 @@
   "appid": "1294660",
   "steamAppid": 1294660,
   "name": "Divine Knockout DKO",
-  "players": 1,
+  "players": 2,
   "allTimePeak": 12491,
   "peak24h": 2,
   "peak24hAt": "2026-11-13T20:31:21.000Z",
-  "updatedAt": "2026-11-14T19:31:18.623Z",
+  "updatedAt": "2026-11-14T19:36:03.124Z",
   "img_url": "2024/12/mixcollage-05-dec-2024-12-46-am-9676.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-14T19:31:18.623Z",
-    "updatedAtTs": 1794684678,
+    "updatedAt": "2026-11-14T19:36:03.124Z",
+    "updatedAtTs": 1794684963,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1794684678,
-        1
+        1794684963,
+        2
       ],
       "peak24h": [
         1794601881,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794511879,
-          1
-        ],
         [
           1794512171,
           1
@@ -532,6 +528,10 @@
         [
           1794637561,
           1
+        ],
+        [
+          1794684963,
+          2
         ]
       ],
       "hourlyPeak": [
@@ -1501,6 +1501,10 @@
         ],
         [
           1794492000,
+          1
+        ],
+        [
+          1794510000,
           1
         ]
       ],
