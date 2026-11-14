@@ -3,16 +3,16 @@
   "appid": "8870",
   "steamAppid": 8870,
   "name": "BioShock Infinite",
-  "players": 244,
+  "players": 245,
   "allTimePeak": 65332,
   "peak24h": 329,
   "peak24hAt": "2026-11-13T21:11:03.000Z",
-  "updatedAt": "2026-11-14T05:11:18.071Z",
+  "updatedAt": "2026-11-14T05:16:10.737Z",
   "img_url": "2022/09/bioshock-infinite.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-14T05:11:18.071Z",
-    "updatedAtTs": 1794633078,
+    "updatedAt": "2026-11-14T05:16:10.737Z",
+    "updatedAtTs": 1794633370,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1794633078,
-        244
+        1794633370,
+        245
       ],
       "peak24h": [
         1794604263,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794460568,
-          201
-        ],
         [
           1794460875,
           192
@@ -2336,6 +2332,10 @@
         [
           1794633078,
           244
+        ],
+        [
+          1794633370,
+          245
         ]
       ],
       "hourlyPeak": [
