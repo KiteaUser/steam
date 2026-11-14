@@ -3,16 +3,16 @@
   "appid": "928600",
   "steamAppid": 928600,
   "name": "F1 2019",
-  "players": 64,
+  "players": 55,
   "allTimePeak": 12736,
   "peak24h": 75,
   "peak24hAt": "2026-11-13T16:36:03.000Z",
-  "updatedAt": "2026-11-14T13:31:20.783Z",
+  "updatedAt": "2026-11-14T13:36:04.415Z",
   "img_url": "2024/12/mixcollage-22-dec-2024-11-22-am-3388.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-14T13:31:20.783Z",
-    "updatedAtTs": 1794663080,
+    "updatedAt": "2026-11-14T13:36:04.415Z",
+    "updatedAtTs": 1794663364,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1794663080,
-        64
+        1794663364,
+        55
       ],
       "peak24h": [
         1794587763,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794490284,
-          36
-        ],
-        [
-          1794490561,
-          36
-        ],
         [
           1794490876,
           38
@@ -2336,6 +2328,10 @@
         [
           1794663080,
           64
+        ],
+        [
+          1794663364,
+          55
         ]
       ],
       "hourlyPeak": [
