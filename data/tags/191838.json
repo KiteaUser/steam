@@ -3,16 +3,16 @@
   "appid": "704270",
   "steamAppid": 704270,
   "name": "Generation Zero",
-  "players": 249,
+  "players": 240,
   "allTimePeak": 11416,
   "peak24h": 361,
   "peak24hAt": "2026-11-13T21:01:26.000Z",
-  "updatedAt": "2026-11-14T01:21:02.886Z",
+  "updatedAt": "2026-11-14T01:26:00.494Z",
   "img_url": "2024/12/mixcollage-10-dec-2024-07-36-pm-8136.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-14T01:21:02.886Z",
-    "updatedAtTs": 1794619262,
+    "updatedAt": "2026-11-14T01:26:00.494Z",
+    "updatedAtTs": 1794619560,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1794619262,
-        249
+        1794619560,
+        240
       ],
       "peak24h": [
         1794603686,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794446468,
-          230
-        ],
         [
           1794446769,
           234
@@ -2340,6 +2336,10 @@
         [
           1794619262,
           249
+        ],
+        [
+          1794619560,
+          240
         ]
       ],
       "hourlyPeak": [

@@ -3,16 +3,16 @@
   "appid": "323470",
   "steamAppid": 323470,
   "name": "DRAGON BALL XENOVERSE",
-  "players": 100,
+  "players": 101,
   "allTimePeak": 22850,
   "peak24h": 130,
   "peak24hAt": "2026-11-13T01:26:04.000Z",
-  "updatedAt": "2026-11-14T01:21:02.886Z",
+  "updatedAt": "2026-11-14T01:26:00.494Z",
   "img_url": "2024/12/mixcollage-04-dec-2024-02-34-am-8906.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-14T01:21:02.886Z",
-    "updatedAtTs": 1794619262,
+    "updatedAt": "2026-11-14T01:26:00.494Z",
+    "updatedAtTs": 1794619560,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794619262,
-        100
+        1794619560,
+        101
       ],
       "peak24h": [
         1794533164,
         130
       ],
       "peak48h": [
-        1794446468,
-        135
+        1794533164,
+        130
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794446468,
-          135
-        ],
         [
           1794446769,
           128
@@ -2344,6 +2340,10 @@
         [
           1794619262,
           100
+        ],
+        [
+          1794619560,
+          101
         ]
       ],
       "hourlyPeak": [
@@ -5854,6 +5854,6 @@
       ]
     }
   },
-  "peak48h": 135,
-  "peak48hAt": "2026-11-12T01:21:08.000Z"
+  "peak48h": 130,
+  "peak48hAt": "2026-11-13T01:26:04.000Z"
 }
