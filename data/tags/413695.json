@@ -3,16 +3,16 @@
   "appid": "1113120",
   "steamAppid": 1113120,
   "name": "IXION",
-  "players": 255,
+  "players": 269,
   "allTimePeak": 17189,
   "peak24h": 279,
   "peak24hAt": "2026-11-14T15:46:11.000Z",
-  "updatedAt": "2026-11-14T17:46:01.693Z",
+  "updatedAt": "2026-11-14T17:51:09.172Z",
   "img_url": "2024/12/mixcollage-08-dec-2024-07-39-am-5233.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-14T17:46:01.693Z",
-    "updatedAtTs": 1794678361,
+    "updatedAt": "2026-11-14T17:51:09.172Z",
+    "updatedAtTs": 1794678669,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1794678361,
-        255
+        1794678669,
+        269
       ],
       "peak24h": [
         1794671171,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794505589,
-          193
-        ],
-        [
-          1794505867,
-          193
-        ],
         [
           1794506168,
           190
@@ -2336,6 +2328,10 @@
         [
           1794678361,
           255
+        ],
+        [
+          1794678669,
+          269
         ]
       ],
       "hourlyPeak": [
