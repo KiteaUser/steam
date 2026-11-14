@@ -7,12 +7,12 @@
   "allTimePeak": 12081,
   "peak24h": 2296,
   "peak24hAt": "2026-11-13T01:46:07.000Z",
-  "updatedAt": "2026-11-14T01:35:59.024Z",
+  "updatedAt": "2026-11-14T01:41:08.152Z",
   "img_url": "2026/03/retro-rewind-video-store-simulator-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-14T01:35:59.024Z",
-    "updatedAtTs": 1794620159,
+    "updatedAt": "2026-11-14T01:41:08.152Z",
+    "updatedAtTs": 1794620468,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,7 +23,7 @@
     },
     "summary": {
       "current": [
-        1794620159,
+        1794620468,
         2085
       ],
       "peak24h": [
@@ -31,8 +31,8 @@
         2296
       ],
       "peak48h": [
-        1794447369,
-        2601
+        1794447672,
+        2573
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794447369,
-          2601
-        ],
         [
           1794447672,
           2573
@@ -2339,6 +2335,10 @@
         ],
         [
           1794620159,
+          2085
+        ],
+        [
+          1794620468,
           2085
         ]
       ],
@@ -5302,6 +5302,6 @@
       ]
     }
   },
-  "peak48h": 2601,
-  "peak48hAt": "2026-11-12T01:36:09.000Z"
+  "peak48h": 2573,
+  "peak48hAt": "2026-11-12T01:41:12.000Z"
 }
