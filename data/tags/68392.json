@@ -3,16 +3,16 @@
   "appid": "677620",
   "steamAppid": 677620,
   "name": "Splitgate",
-  "players": 15,
+  "players": 18,
   "allTimePeak": 67724,
   "peak24h": 28,
   "peak24hAt": "2026-11-13T16:56:16.000Z",
-  "updatedAt": "2026-11-14T01:01:28.664Z",
+  "updatedAt": "2026-11-14T01:05:56.668Z",
   "img_url": "2024/12/mixcollage-09-dec-2024-11-08-am-7611.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-14T01:01:28.664Z",
-    "updatedAtTs": 1794618088,
+    "updatedAt": "2026-11-14T01:05:56.668Z",
+    "updatedAtTs": 1794618356,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1794618088,
-        15
+        1794618356,
+        18
       ],
       "peak24h": [
         1794588976,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794445292,
-          10
-        ],
         [
           1794445566,
           13
@@ -2340,6 +2336,10 @@
         [
           1794618088,
           15
+        ],
+        [
+          1794618356,
+          18
         ]
       ],
       "hourlyPeak": [
@@ -4965,6 +4965,10 @@
         ],
         [
           1794441600,
+          10
+        ],
+        [
+          1794445200,
           10
         ]
       ],
