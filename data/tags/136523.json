@@ -3,16 +3,16 @@
   "appid": "2357570",
   "steamAppid": 2357570,
   "name": "Overwatch",
-  "players": 51921,
+  "players": 51532,
   "allTimePeak": 165651,
   "peak24h": 55207,
   "peak24hAt": "2026-11-14T15:31:09.000Z",
-  "updatedAt": "2026-11-14T18:01:19.062Z",
+  "updatedAt": "2026-11-14T18:06:01.366Z",
   "img_url": "2024/12/mixcollage-24-dec-2024-11-08-am-494.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-14T18:01:19.062Z",
-    "updatedAtTs": 1794679279,
+    "updatedAt": "2026-11-14T18:06:01.366Z",
+    "updatedAtTs": 1794679561,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1794679279,
-        51921
+        1794679561,
+        51532
       ],
       "peak24h": [
         1794670269,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794506490,
-          39439
-        ],
         [
           1794506766,
           39439
@@ -2336,6 +2332,10 @@
         [
           1794679279,
           51921
+        ],
+        [
+          1794679561,
+          51532
         ]
       ],
       "hourlyPeak": [
@@ -4961,6 +4961,10 @@
         ],
         [
           1794502800,
+          39439
+        ],
+        [
+          1794506400,
           39439
         ]
       ],
