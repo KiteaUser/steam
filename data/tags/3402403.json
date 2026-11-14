@@ -3,16 +3,16 @@
   "appid": "2543180",
   "steamAppid": 2543180,
   "name": "POPUCOM",
-  "players": 102,
+  "players": 100,
   "allTimePeak": 20919,
   "peak24h": 102,
   "peak24hAt": "2026-11-14T13:21:00.000Z",
-  "updatedAt": "2026-11-14T13:26:02.006Z",
+  "updatedAt": "2026-11-14T13:31:20.783Z",
   "img_url": "2025/02/mixcollage-02-feb-2025-07-22-am-7308.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-14T13:26:02.006Z",
-    "updatedAtTs": 1794662762,
+    "updatedAt": "2026-11-14T13:31:20.783Z",
+    "updatedAtTs": 1794663080,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1794662762,
-        102
+        1794663080,
+        100
       ],
       "peak24h": [
         1794662460,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794489965,
-          40
-        ],
         [
           1794490284,
           48
@@ -2344,6 +2340,10 @@
         [
           1794662762,
           102
+        ],
+        [
+          1794663080,
+          100
         ]
       ],
       "hourlyPeak": [
