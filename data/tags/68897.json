@@ -3,16 +3,16 @@
   "appid": "212680",
   "steamAppid": 212680,
   "name": "FTL: Faster Than Light",
-  "players": 1048,
+  "players": 1044,
   "allTimePeak": 19301,
   "peak24h": 1048,
   "peak24hAt": "2026-11-14T20:01:25.000Z",
-  "updatedAt": "2026-11-14T20:01:25.521Z",
+  "updatedAt": "2026-11-14T20:05:54.453Z",
   "img_url": "2024/12/mixcollage-03-dec-2024-01-35-pm-6481.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-14T20:01:25.521Z",
-    "updatedAtTs": 1794686485,
+    "updatedAt": "2026-11-14T20:05:54.453Z",
+    "updatedAtTs": 1794686754,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1794686485,
-        1048
+        1794686754,
+        1044
       ],
       "peak24h": [
         1794686485,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794513688,
-          918
-        ],
         [
           1794513977,
           930
@@ -2336,6 +2332,10 @@
         [
           1794686485,
           1048
+        ],
+        [
+          1794686754,
+          1044
         ]
       ],
       "hourlyPeak": [
@@ -4961,6 +4961,10 @@
         ],
         [
           1794510000,
+          918
+        ],
+        [
+          1794513600,
           918
         ]
       ],
