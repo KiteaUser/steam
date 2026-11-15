@@ -3,16 +3,16 @@
   "appid": "927350",
   "steamAppid": 927350,
   "name": "Hood: Outlaws & Legends",
-  "players": 5,
+  "players": 7,
   "allTimePeak": 11536,
-  "peak24h": 6,
-  "peak24hAt": "2026-11-14T22:41:07.000Z",
-  "updatedAt": "2026-11-15T00:16:12.727Z",
+  "peak24h": 7,
+  "peak24hAt": "2026-11-15T00:21:18.000Z",
+  "updatedAt": "2026-11-15T00:21:18.375Z",
   "img_url": "2022/10/HoodOutlawsLegendsTagPage.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-15T00:16:12.727Z",
-    "updatedAtTs": 1794701772,
+    "updatedAt": "2026-11-15T00:21:18.375Z",
+    "updatedAtTs": 1794702078,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794701772,
-        5
+        1794702078,
+        7
       ],
       "peak24h": [
-        1794696067,
-        6
+        1794702078,
+        7
       ],
       "peak48h": [
-        1794696067,
-        6
+        1794702078,
+        7
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794528974,
-          1
-        ],
-        [
-          1794529270,
-          1
-        ],
         [
           1794555970,
           1
@@ -680,6 +672,10 @@
         [
           1794701772,
           5
+        ],
+        [
+          1794702078,
+          7
         ]
       ],
       "hourlyPeak": [
@@ -2618,6 +2614,6 @@
       ]
     }
   },
-  "peak48h": 6,
-  "peak48hAt": "2026-11-14T22:41:07.000Z"
+  "peak48h": 7,
+  "peak48hAt": "2026-11-15T00:21:18.000Z"
 }
