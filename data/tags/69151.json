@@ -3,16 +3,16 @@
   "appid": "4000",
   "steamAppid": 4000,
   "name": "Garry's Mod",
-  "players": 32064,
+  "players": 32279,
   "allTimePeak": 73863,
-  "peak24h": 35578,
-  "peak24hAt": "2026-11-14T20:21:19.000Z",
-  "updatedAt": "2026-11-15T20:21:09.410Z",
+  "peak24h": 35318,
+  "peak24hAt": "2026-11-14T20:31:13.000Z",
+  "updatedAt": "2026-11-15T20:26:01.283Z",
   "img_url": "2024/12/mixcollage-11-dec-2024-10-20-am-916.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-15T20:21:09.410Z",
-    "updatedAtTs": 1794774069,
+    "updatedAt": "2026-11-15T20:26:01.283Z",
+    "updatedAtTs": 1794774361,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,12 +23,12 @@
     },
     "summary": {
       "current": [
-        1794774069,
-        32064
+        1794774361,
+        32279
       ],
       "peak24h": [
-        1794687679,
-        35578
+        1794688273,
+        35318
       ],
       "peak48h": [
         1794682273,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794601290,
-          30233
-        ],
-        [
-          1794601557,
-          30014
-        ],
         [
           1794601881,
           30014
@@ -2340,6 +2332,10 @@
         [
           1794774069,
           32064
+        ],
+        [
+          1794774361,
+          32279
         ]
       ],
       "hourlyPeak": [
