@@ -3,16 +3,16 @@
   "appid": "1211020",
   "steamAppid": 1211020,
   "name": "Wobbly Life",
-  "players": 1010,
+  "players": 1037,
   "allTimePeak": 10421,
   "peak24h": 1375,
   "peak24hAt": "2026-11-14T17:56:02.000Z",
-  "updatedAt": "2026-11-15T12:06:00.055Z",
+  "updatedAt": "2026-11-15T12:11:02.595Z",
   "img_url": "2024/11/mixcollage-26-nov-2024-12-40-pm-9182.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-15T12:06:00.055Z",
-    "updatedAtTs": 1794744360,
+    "updatedAt": "2026-11-15T12:11:02.595Z",
+    "updatedAtTs": 1794744662,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1794744360,
-        1010
+        1794744662,
+        1037
       ],
       "peak24h": [
         1794678962,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794571565,
-          485
-        ],
         [
           1794571871,
           485
@@ -2340,6 +2336,10 @@
         [
           1794744360,
           1010
+        ],
+        [
+          1794744662,
+          1037
         ]
       ],
       "hourlyPeak": [
