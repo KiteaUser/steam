@@ -7,12 +7,12 @@
   "allTimePeak": 40335,
   "peak24h": 29,
   "peak24hAt": "2026-11-14T17:46:01.000Z",
-  "updatedAt": "2026-11-15T00:41:04.510Z",
+  "updatedAt": "2026-11-15T00:46:01.695Z",
   "img_url": "2025/06/just-survive.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-15T00:41:04.510Z",
-    "updatedAtTs": 1794703264,
+    "updatedAt": "2026-11-15T00:46:01.695Z",
+    "updatedAtTs": 1794703561,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,7 +23,7 @@
     },
     "summary": {
       "current": [
-        1794703264,
+        1794703561,
         19
       ],
       "peak24h": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794530465,
-          5
-        ],
         [
           1794530770,
           5
@@ -2335,6 +2331,10 @@
         ],
         [
           1794703264,
+          19
+        ],
+        [
+          1794703561,
           19
         ]
       ],
