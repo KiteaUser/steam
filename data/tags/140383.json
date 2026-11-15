@@ -7,12 +7,12 @@
   "allTimePeak": 62963,
   "peak24h": 658,
   "peak24hAt": "2026-11-14T17:41:04.000Z",
-  "updatedAt": "2026-11-15T06:35:50.542Z",
+  "updatedAt": "2026-11-15T06:41:06.173Z",
   "img_url": "2022/09/stray-game.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-15T06:35:50.542Z",
-    "updatedAtTs": 1794724550,
+    "updatedAt": "2026-11-15T06:41:06.173Z",
+    "updatedAtTs": 1794724866,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,7 +23,7 @@
     },
     "summary": {
       "current": [
-        1794724550,
+        1794724866,
         302
       ],
       "peak24h": [
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794551757,
-          189
-        ],
-        [
-          1794552065,
-          182
-        ],
         [
           1794552369,
           175
@@ -2331,6 +2323,10 @@
         ],
         [
           1794724550,
+          302
+        ],
+        [
+          1794724866,
           302
         ]
       ],
