@@ -3,16 +3,16 @@
   "appid": "4435490",
   "steamAppid": 4435490,
   "name": "Call of Duty: Modern Warfare 4",
-  "players": 1,
+  "players": 2,
   "allTimePeak": 2,
-  "peak24h": 1,
-  "peak24hAt": "2026-11-14T04:06:12.000Z",
-  "updatedAt": "2026-11-15T02:01:20.933Z",
+  "peak24h": 2,
+  "peak24hAt": "2026-11-15T02:06:00.000Z",
+  "updatedAt": "2026-11-15T02:06:00.759Z",
   "img_url": "2026/05/call-of-duty-modern-warfare-4-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-15T02:01:20.933Z",
-    "updatedAtTs": 1794708080,
+    "updatedAt": "2026-11-15T02:06:00.759Z",
+    "updatedAtTs": 1794708360,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794708080,
-        1
+        1794708360,
+        2
       ],
       "peak24h": [
-        1794629172,
-        1
+        1794708360,
+        2
       ],
       "peak48h": [
-        1794629172,
-        1
+        1794708360,
+        2
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794535281,
-          0
-        ],
         [
           1794535571,
           0
@@ -2348,6 +2344,10 @@
         [
           1794708080,
           1
+        ],
+        [
+          1794708360,
+          2
         ]
       ],
       "hourlyPeak": [
@@ -4298,12 +4298,16 @@
         [
           1794531600,
           0
+        ],
+        [
+          1794535200,
+          0
         ]
       ],
       "dailyPeak": [],
       "monthlyPeak": []
     }
   },
-  "peak48h": 1,
-  "peak48hAt": "2026-11-14T04:06:12.000Z"
+  "peak48h": 2,
+  "peak48hAt": "2026-11-15T02:06:00.000Z"
 }

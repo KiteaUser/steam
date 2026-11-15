@@ -7,12 +7,12 @@
   "allTimePeak": 14996,
   "peak24h": 906,
   "peak24hAt": "2026-11-14T15:26:01.000Z",
-  "updatedAt": "2026-11-15T02:01:20.933Z",
+  "updatedAt": "2026-11-15T02:06:00.759Z",
   "img_url": "2025/02/cairn-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-15T02:01:20.933Z",
-    "updatedAtTs": 1794708080,
+    "updatedAt": "2026-11-15T02:06:00.759Z",
+    "updatedAtTs": 1794708360,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,7 +23,7 @@
     },
     "summary": {
       "current": [
-        1794708080,
+        1794708360,
         447
       ],
       "peak24h": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794535281,
-          408
-        ],
         [
           1794535571,
           402
@@ -2339,6 +2335,10 @@
         ],
         [
           1794708080,
+          447
+        ],
+        [
+          1794708360,
           447
         ]
       ],
@@ -4966,6 +4966,10 @@
         [
           1794531600,
           421
+        ],
+        [
+          1794535200,
+          408
         ]
       ],
       "dailyPeak": [
