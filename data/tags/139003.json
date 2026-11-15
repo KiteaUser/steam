@@ -3,16 +3,16 @@
   "appid": "1167630",
   "steamAppid": 1167630,
   "name": "Teardown",
-  "players": 2125,
+  "players": 2100,
   "allTimePeak": 15172,
   "peak24h": 4533,
   "peak24hAt": "2026-11-14T17:56:02.000Z",
-  "updatedAt": "2026-11-15T02:41:06.629Z",
+  "updatedAt": "2026-11-15T02:46:10.185Z",
   "img_url": "2024/12/mixcollage-04-dec-2024-02-22-am-8016.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-15T02:41:06.629Z",
-    "updatedAtTs": 1794710466,
+    "updatedAt": "2026-11-15T02:46:10.185Z",
+    "updatedAtTs": 1794710770,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1794710466,
-        2125
+        1794710770,
+        2100
       ],
       "peak24h": [
         1794678962,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794537671,
-          1586
-        ],
         [
           1794537975,
           1586
@@ -2344,6 +2340,10 @@
         [
           1794710466,
           2125
+        ],
+        [
+          1794710770,
+          2100
         ]
       ],
       "hourlyPeak": [
