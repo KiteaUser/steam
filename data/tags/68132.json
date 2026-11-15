@@ -5,14 +5,14 @@
   "name": "Unfortunate Spacemen",
   "players": 10,
   "allTimePeak": 11823,
-  "peak24h": 29,
-  "peak24hAt": "2026-11-14T04:41:07.000Z",
-  "updatedAt": "2026-11-15T04:41:05.480Z",
+  "peak24h": 25,
+  "peak24hAt": "2026-11-14T04:46:18.000Z",
+  "updatedAt": "2026-11-15T04:46:13.946Z",
   "img_url": "2025/02/unfortunate-spacemen-tag-cover.png",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-15T04:41:05.480Z",
-    "updatedAtTs": 1794717665,
+    "updatedAt": "2026-11-15T04:46:13.946Z",
+    "updatedAtTs": 1794717973,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,12 +23,12 @@
     },
     "summary": {
       "current": [
-        1794717665,
+        1794717973,
         10
       ],
       "peak24h": [
-        1794631267,
-        29
+        1794631578,
+        25
       ],
       "peak48h": [
         1794628887,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794544875,
-          2
-        ],
         [
           1794545766,
           1
@@ -2019,6 +2015,10 @@
         ],
         [
           1794717665,
+          10
+        ],
+        [
+          1794717973,
           10
         ]
       ],
