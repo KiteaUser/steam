@@ -3,16 +3,16 @@
   "appid": "3659280",
   "steamAppid": 3659280,
   "name": "Off The Grid",
-  "players": 6979,
+  "players": 6889,
   "allTimePeak": 15247,
   "peak24h": 12488,
   "peak24hAt": "2026-11-14T20:25:52.000Z",
-  "updatedAt": "2026-11-15T14:31:23.218Z",
+  "updatedAt": "2026-11-15T14:35:53.286Z",
   "img_url": "2024/12/mixcollage-03-dec-2024-11-30-am-2899.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-15T14:31:23.218Z",
-    "updatedAtTs": 1794753083,
+    "updatedAt": "2026-11-15T14:35:53.286Z",
+    "updatedAtTs": 1794753353,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1794753083,
-        6979
+        1794753353,
+        6889
       ],
       "peak24h": [
         1794687952,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794580294,
-          6841
-        ],
         [
           1794580566,
           6982
@@ -2332,6 +2328,10 @@
         [
           1794753083,
           6979
+        ],
+        [
+          1794753353,
+          6889
         ]
       ],
       "hourlyPeak": [
