@@ -6,13 +6,13 @@
   "players": 1,
   "allTimePeak": 13027,
   "peak24h": 1,
-  "peak24hAt": "2026-11-13T15:06:15.000Z",
-  "updatedAt": "2026-11-15T00:21:18.375Z",
+  "peak24hAt": "2026-11-15T00:26:10.000Z",
+  "updatedAt": "2026-11-15T00:26:10.986Z",
   "img_url": "2025/10/journey-to-the-center-of-the-earth-tag-page-cover-art_upscayl_2x_ultramix_balanced.png",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-15T00:21:18.375Z",
-    "updatedAtTs": 1794702078,
+    "updatedAt": "2026-11-15T00:26:10.986Z",
+    "updatedAtTs": 1794702370,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,10 +23,13 @@
     },
     "summary": {
       "current": [
-        1794702078,
+        1794702370,
         1
       ],
-      "peak24h": null,
+      "peak24h": [
+        1794702370,
+        1
+      ],
       "peak48h": [
         1794557476,
         23
@@ -600,6 +603,10 @@
         ],
         [
           1794582375,
+          1
+        ],
+        [
+          1794702370,
           1
         ]
       ],
