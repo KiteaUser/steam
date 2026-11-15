@@ -7,12 +7,12 @@
   "allTimePeak": 46106,
   "peak24h": 2017,
   "peak24hAt": "2026-11-14T14:16:11.000Z",
-  "updatedAt": "2026-11-15T10:06:08.194Z",
+  "updatedAt": "2026-11-15T10:11:03.600Z",
   "img_url": "2025/03/sultan-s-game-tag-image.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-15T10:06:08.194Z",
-    "updatedAtTs": 1794737168,
+    "updatedAt": "2026-11-15T10:11:03.600Z",
+    "updatedAtTs": 1794737463,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,7 +23,7 @@
     },
     "summary": {
       "current": [
-        1794737168,
+        1794737463,
         1495
       ],
       "peak24h": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794564369,
-          1149
-        ],
         [
           1794564681,
           1182
@@ -2335,6 +2331,10 @@
         ],
         [
           1794737168,
+          1495
+        ],
+        [
+          1794737463,
           1495
         ]
       ],
@@ -4965,7 +4965,7 @@
         ],
         [
           1794564000,
-          1136
+          1149
         ]
       ],
       "dailyPeak": [
