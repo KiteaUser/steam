@@ -3,16 +3,16 @@
   "appid": "593600",
   "steamAppid": 593600,
   "name": "PixARK",
-  "players": 304,
+  "players": 282,
   "allTimePeak": 14144,
   "peak24h": 318,
-  "peak24hAt": "2026-11-15T15:06:04.000Z",
-  "updatedAt": "2026-11-16T15:01:34.595Z",
+  "peak24hAt": "2026-11-15T15:11:22.000Z",
+  "updatedAt": "2026-11-16T15:06:06.364Z",
   "img_url": "2025/08/pixark-tag-page-cover-art_upscayl_2x_ultramix_balanced.png",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-16T15:01:34.595Z",
-    "updatedAtTs": 1794841294,
+    "updatedAt": "2026-11-16T15:06:06.364Z",
+    "updatedAtTs": 1794841566,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1794841294,
-        304
+        1794841566,
+        282
       ],
       "peak24h": [
-        1794755164,
+        1794755482,
         318
       ],
       "peak48h": [
-        1794668761,
+        1794669382,
         367
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794668761,
-          367
-        ],
         [
           1794669077,
           358
@@ -2332,6 +2328,10 @@
         [
           1794841294,
           304
+        ],
+        [
+          1794841566,
+          282
         ]
       ],
       "hourlyPeak": [
@@ -5695,5 +5695,5 @@
     }
   },
   "peak48h": 367,
-  "peak48hAt": "2026-11-14T15:06:01.000Z"
+  "peak48hAt": "2026-11-14T15:16:22.000Z"
 }
