@@ -3,16 +3,16 @@
   "appid": "2646460",
   "steamAppid": 2646460,
   "name": "Soulmask",
-  "players": 1048,
+  "players": 1020,
   "allTimePeak": 46833,
   "peak24h": 1536,
   "peak24hAt": "2026-11-16T14:36:23.000Z",
-  "updatedAt": "2026-11-16T22:01:25.317Z",
+  "updatedAt": "2026-11-16T22:06:23.513Z",
   "img_url": "2024/12/mixcollage-07-dec-2024-02-13-am-4424.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-16T22:01:25.317Z",
-    "updatedAtTs": 1794866485,
+    "updatedAt": "2026-11-16T22:06:23.513Z",
+    "updatedAtTs": 1794866783,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1794866485,
-        1048
+        1794866783,
+        1020
       ],
       "peak24h": [
         1794839783,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794693961,
-          1331
-        ],
         [
           1794694277,
           1331
@@ -2328,6 +2324,10 @@
         [
           1794866485,
           1048
+        ],
+        [
+          1794866783,
+          1020
         ]
       ],
       "hourlyPeak": [
