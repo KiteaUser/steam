@@ -3,16 +3,16 @@
   "appid": "42700",
   "steamAppid": 42700,
   "name": "Call of Duty: Black Ops",
-  "players": 322,
+  "players": 319,
   "allTimePeak": 63343,
-  "peak24h": 419,
-  "peak24hAt": "2026-11-15T23:06:03.000Z",
-  "updatedAt": "2026-11-16T23:05:59.309Z",
+  "peak24h": 400,
+  "peak24hAt": "2026-11-15T23:16:03.000Z",
+  "updatedAt": "2026-11-16T23:11:25.777Z",
   "img_url": "2024/12/mixcollage-11-dec-2024-03-11-am-2415.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-16T23:05:59.309Z",
-    "updatedAtTs": 1794870359,
+    "updatedAt": "2026-11-16T23:11:25.777Z",
+    "updatedAtTs": 1794870685,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,12 +23,12 @@
     },
     "summary": {
       "current": [
-        1794870359,
-        322
+        1794870685,
+        319
       ],
       "peak24h": [
-        1794783963,
-        419
+        1794784563,
+        400
       ],
       "peak48h": [
         1794767482,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794697562,
-          426
-        ],
-        [
-          1794697864,
-          415
-        ],
         [
           1794698165,
           415
@@ -2332,6 +2324,10 @@
         [
           1794870359,
           322
+        ],
+        [
+          1794870685,
+          319
         ]
       ],
       "hourlyPeak": [
