@@ -5,14 +5,14 @@
   "name": "Broken Arrow",
   "players": 3872,
   "allTimePeak": 38753,
-  "peak24h": 4859,
-  "peak24hAt": "2026-11-15T15:26:06.000Z",
-  "updatedAt": "2026-11-16T15:21:27.040Z",
+  "peak24h": 4791,
+  "peak24hAt": "2026-11-15T15:31:13.000Z",
+  "updatedAt": "2026-11-16T15:26:33.609Z",
   "img_url": "2024/12/mixcollage-15-dec-2024-03-33-pm-3818.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-16T15:21:27.040Z",
-    "updatedAtTs": 1794842487,
+    "updatedAt": "2026-11-16T15:26:33.609Z",
+    "updatedAtTs": 1794842793,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,12 +23,12 @@
     },
     "summary": {
       "current": [
-        1794842487,
+        1794842793,
         3872
       ],
       "peak24h": [
-        1794756366,
-        4859
+        1794756673,
+        4791
       ],
       "peak48h": [
         1794751295,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794669961,
-          5296
-        ],
         [
           1794670269,
           5351
@@ -2331,6 +2327,10 @@
         ],
         [
           1794842487,
+          3872
+        ],
+        [
+          1794842793,
           3872
         ]
       ],
