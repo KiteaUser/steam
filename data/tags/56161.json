@@ -3,16 +3,16 @@
   "appid": "1250",
   "steamAppid": 1250,
   "name": "Killing Floor",
-  "players": 256,
+  "players": 255,
   "allTimePeak": 24107,
   "peak24h": 319,
   "peak24hAt": "2026-11-15T20:46:06.000Z",
-  "updatedAt": "2026-11-16T17:41:17.706Z",
+  "updatedAt": "2026-11-16T17:46:13.196Z",
   "img_url": "2025/08/killing-floor-tag-page-cover-art_upscayl_2x_ultramix_balanced.png",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-16T17:41:17.706Z",
-    "updatedAtTs": 1794850877,
+    "updatedAt": "2026-11-16T17:46:13.196Z",
+    "updatedAtTs": 1794851173,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1794850877,
-        256
+        1794851173,
+        255
       ],
       "peak24h": [
         1794775566,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794678361,
-          277
-        ],
         [
           1794678669,
           277
@@ -2328,6 +2324,10 @@
         [
           1794850877,
           256
+        ],
+        [
+          1794851173,
+          255
         ]
       ],
       "hourlyPeak": [
