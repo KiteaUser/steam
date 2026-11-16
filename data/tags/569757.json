@@ -3,16 +3,16 @@
   "appid": "880940",
   "steamAppid": 880940,
   "name": "Pummel Party",
-  "players": 2796,
+  "players": 2599,
   "allTimePeak": 20957,
-  "peak24h": 3389,
-  "peak24hAt": "2026-11-15T15:31:13.000Z",
-  "updatedAt": "2026-11-16T15:26:33.609Z",
+  "peak24h": 3380,
+  "peak24hAt": "2026-11-16T14:25:59.000Z",
+  "updatedAt": "2026-11-16T15:31:32.164Z",
   "img_url": "2024/11/mixcollage-25-nov-2024-09-39-am-6131.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-16T15:26:33.609Z",
-    "updatedAtTs": 1794842793,
+    "updatedAt": "2026-11-16T15:31:32.164Z",
+    "updatedAtTs": 1794843092,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1794842793,
-        2796
+        1794843092,
+        2599
       ],
       "peak24h": [
-        1794756673,
-        3389
+        1794839159,
+        3380
       ],
       "peak48h": [
-        1794670269,
+        1794670560,
         4522
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794670269,
-          4522
-        ],
         [
           1794670560,
           4522
@@ -2332,6 +2328,10 @@
         [
           1794842793,
           2796
+        ],
+        [
+          1794843092,
+          2599
         ]
       ],
       "hourlyPeak": [
@@ -5663,5 +5663,5 @@
     }
   },
   "peak48h": 4522,
-  "peak48hAt": "2026-11-14T15:31:09.000Z"
+  "peak48hAt": "2026-11-14T15:36:00.000Z"
 }
