@@ -3,16 +3,16 @@
   "appid": "219640",
   "steamAppid": 219640,
   "name": "Chivalry: Medieval Warfare",
-  "players": 48,
+  "players": 42,
   "allTimePeak": 25145,
   "peak24h": 48,
   "peak24hAt": "2026-11-16T21:26:07.000Z",
-  "updatedAt": "2026-11-16T21:56:03.643Z",
+  "updatedAt": "2026-11-16T22:01:25.317Z",
   "img_url": "2025/08/chivalry-medieval-warfare-tag-page-cover-art_upscayl_2x_ultramix_balanced.png",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-16T21:56:03.643Z",
-    "updatedAtTs": 1794866163,
+    "updatedAt": "2026-11-16T22:01:25.317Z",
+    "updatedAtTs": 1794866485,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1794866163,
-        48
+        1794866485,
+        42
       ],
       "peak24h": [
         1794864367,
         48
       ],
       "peak48h": [
-        1794693678,
+        1794693961,
         54
       ],
       "allTimePeak": [
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794693367,
-          52
-        ],
-        [
-          1794693678,
-          54
-        ],
         [
           1794693961,
           54
@@ -2332,13 +2324,13 @@
         [
           1794866163,
           48
+        ],
+        [
+          1794866485,
+          42
         ]
       ],
       "hourlyPeak": [
-        [
-          1792274400,
-          58
-        ],
         [
           1792278000,
           49
@@ -4962,6 +4954,10 @@
         [
           1794690000,
           54
+        ],
+        [
+          1794693600,
+          54
         ]
       ],
       "dailyPeak": [
@@ -5275,7 +5271,7 @@
         ],
         [
           1792195200,
-          57
+          58
         ]
       ],
       "monthlyPeak": [
@@ -5955,5 +5951,5 @@
     }
   },
   "peak48h": 54,
-  "peak48hAt": "2026-11-14T22:01:18.000Z"
+  "peak48hAt": "2026-11-14T22:06:01.000Z"
 }
