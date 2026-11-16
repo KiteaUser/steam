@@ -3,16 +3,16 @@
   "appid": "224540",
   "steamAppid": 224540,
   "name": "Ace of Spades",
-  "players": 2,
+  "players": 1,
   "allTimePeak": 16309,
   "peak24h": 2,
   "peak24hAt": "2026-11-15T17:11:03.000Z",
-  "updatedAt": "2026-11-16T11:06:03.681Z",
+  "updatedAt": "2026-11-16T11:11:25.970Z",
   "img_url": "2026/01/ace-of-spades-tag-page-cover-art_upscayl_2x_ultramix_balanced.png",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-16T11:06:03.681Z",
-    "updatedAtTs": 1794827163,
+    "updatedAt": "2026-11-16T11:11:25.970Z",
+    "updatedAtTs": 1794827485,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1794827163,
-        2
+        1794827485,
+        1
       ],
       "peak24h": [
         1794762663,
         2
       ],
       "peak48h": [
-        1794654366,
+        1794655260,
         2
       ],
       "allTimePeak": [
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794654366,
-          2
-        ],
-        [
-          1794654670,
-          2
-        ],
         [
           1794654970,
           1
@@ -816,6 +808,10 @@
         [
           1794827163,
           2
+        ],
+        [
+          1794827485,
+          1
         ]
       ],
       "hourlyPeak": [
@@ -2885,7 +2881,7 @@
         ],
         [
           1794654000,
-          1
+          2
         ]
       ],
       "dailyPeak": [
@@ -3871,5 +3867,5 @@
     }
   },
   "peak48h": 2,
-  "peak48hAt": "2026-11-14T11:06:06.000Z"
+  "peak48hAt": "2026-11-14T11:21:00.000Z"
 }
