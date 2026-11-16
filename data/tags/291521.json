@@ -3,16 +3,16 @@
   "appid": "367520",
   "steamAppid": 367520,
   "name": "Hollow Knight",
-  "players": 5962,
+  "players": 5906,
   "allTimePeak": 95655,
-  "peak24h": 7953,
-  "peak24hAt": "2026-11-15T15:41:07.000Z",
-  "updatedAt": "2026-11-16T15:41:05.813Z",
+  "peak24h": 7790,
+  "peak24hAt": "2026-11-15T15:51:13.000Z",
+  "updatedAt": "2026-11-16T15:46:15.940Z",
   "img_url": "2024/12/mixcollage-07-dec-2024-08-04-am-836.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-16T15:41:05.813Z",
-    "updatedAtTs": 1794843665,
+    "updatedAt": "2026-11-16T15:46:15.940Z",
+    "updatedAtTs": 1794843975,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1794843665,
-        5962
+        1794843975,
+        5906
       ],
       "peak24h": [
-        1794757267,
-        7953
+        1794757873,
+        7790
       ],
       "peak48h": [
-        1794671171,
+        1794671470,
         8376
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794671171,
-          8376
-        ],
         [
           1794671470,
           8376
@@ -2332,6 +2328,10 @@
         [
           1794843665,
           5962
+        ],
+        [
+          1794843975,
+          5906
         ]
       ],
       "hourlyPeak": [
@@ -5747,5 +5747,5 @@
     }
   },
   "peak48h": 8376,
-  "peak48hAt": "2026-11-14T15:46:11.000Z"
+  "peak48hAt": "2026-11-14T15:51:10.000Z"
 }

@@ -3,16 +3,16 @@
   "appid": "1621690",
   "steamAppid": 1621690,
   "name": "Core Keeper",
-  "players": 3912,
+  "players": 3879,
   "allTimePeak": 46465,
-  "peak24h": 5246,
-  "peak24hAt": "2026-11-15T15:41:07.000Z",
-  "updatedAt": "2026-11-16T15:41:05.813Z",
+  "peak24h": 5125,
+  "peak24hAt": "2026-11-15T15:51:13.000Z",
+  "updatedAt": "2026-11-16T15:46:15.940Z",
   "img_url": "2024/12/mixcollage-08-dec-2024-08-04-pm-5829.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-16T15:41:05.813Z",
-    "updatedAtTs": 1794843665,
+    "updatedAt": "2026-11-16T15:46:15.940Z",
+    "updatedAtTs": 1794843975,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,12 +23,12 @@
     },
     "summary": {
       "current": [
-        1794843665,
-        3912
+        1794843975,
+        3879
       ],
       "peak24h": [
-        1794757267,
-        5246
+        1794757873,
+        5125
       ],
       "peak48h": [
         1794751295,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794671171,
-          5726
-        ],
         [
           1794671470,
           5695
@@ -2332,6 +2328,10 @@
         [
           1794843665,
           3912
+        ],
+        [
+          1794843975,
+          3879
         ]
       ],
       "hourlyPeak": [
