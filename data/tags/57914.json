@@ -5,14 +5,14 @@
   "name": "VRChat",
   "players": 42312,
   "allTimePeak": 79593,
-  "peak24h": 65232,
-  "peak24hAt": "2026-11-15T07:01:27.000Z",
-  "updatedAt": "2026-11-16T07:01:26.712Z",
+  "peak24h": 64601,
+  "peak24hAt": "2026-11-15T07:10:58.000Z",
+  "updatedAt": "2026-11-16T07:06:49.656Z",
   "img_url": "2025/02/vr-chat-tag-cover.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-16T07:01:26.712Z",
-    "updatedAtTs": 1794812486,
+    "updatedAt": "2026-11-16T07:06:49.656Z",
+    "updatedAtTs": 1794812809,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,12 +23,12 @@
     },
     "summary": {
       "current": [
-        1794812486,
+        1794812809,
         42312
       ],
       "peak24h": [
-        1794726087,
-        65232
+        1794726658,
+        64601
       ],
       "peak48h": [
         1794722759,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794639961,
-          58195
-        ],
         [
           1794640269,
           58195
@@ -2339,6 +2335,10 @@
         ],
         [
           1794812486,
+          42312
+        ],
+        [
+          1794812809,
           42312
         ]
       ],
