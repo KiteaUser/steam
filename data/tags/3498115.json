@@ -3,16 +3,16 @@
   "appid": "2062430",
   "steamAppid": 2062430,
   "name": "BALL x PIT",
-  "players": 4101,
+  "players": 4125,
   "allTimePeak": 35402,
   "peak24h": 4689,
   "peak24hAt": "2026-11-16T20:21:25.000Z",
-  "updatedAt": "2026-11-17T16:52:22.648Z",
+  "updatedAt": "2026-11-17T16:56:07.774Z",
   "img_url": "2025/07/ball-x-pit-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-17T16:52:22.648Z",
-    "updatedAtTs": 1794934342,
+    "updatedAt": "2026-11-17T16:56:07.774Z",
+    "updatedAtTs": 1794934567,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794934342,
-        4101
+        1794934567,
+        4125
       ],
       "peak24h": [
         1794860485,
         4689
       ],
       "peak48h": [
-        1794761767,
-        5731
+        1794762085,
+        5680
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794761767,
-          5731
-        ],
         [
           1794762085,
           5680
@@ -2328,6 +2324,10 @@
         [
           1794934342,
           4101
+        ],
+        [
+          1794934567,
+          4125
         ]
       ],
       "hourlyPeak": [
@@ -5322,6 +5322,6 @@
       ]
     }
   },
-  "peak48h": 5731,
-  "peak48hAt": "2026-11-15T16:56:07.000Z"
+  "peak48h": 5680,
+  "peak48hAt": "2026-11-15T17:01:25.000Z"
 }
