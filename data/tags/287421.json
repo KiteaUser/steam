@@ -3,16 +3,16 @@
   "appid": "306130",
   "steamAppid": 306130,
   "name": "The Elder Scrolls Online",
-  "players": 10192,
+  "players": 9959,
   "allTimePeak": 49234,
-  "peak24h": 10348,
-  "peak24hAt": "2026-11-16T20:11:16.000Z",
-  "updatedAt": "2026-11-17T20:11:13.559Z",
+  "peak24h": 10300,
+  "peak24hAt": "2026-11-16T20:16:24.000Z",
+  "updatedAt": "2026-11-17T20:16:06.818Z",
   "img_url": "2024/12/mixcollage-07-dec-2024-07-43-am-2490-1.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-17T20:11:13.559Z",
-    "updatedAtTs": 1794946273,
+    "updatedAt": "2026-11-17T20:16:06.818Z",
+    "updatedAtTs": 1794946566,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794946273,
-        10192
+        1794946566,
+        9959
       ],
       "peak24h": [
-        1794859876,
-        10348
+        1794860184,
+        10300
       ],
       "peak48h": [
-        1794773475,
-        12174
+        1794773772,
+        12115
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794773475,
-          12174
-        ],
         [
           1794773772,
           12115
@@ -2332,6 +2328,10 @@
         [
           1794946273,
           10192
+        ],
+        [
+          1794946566,
+          9959
         ]
       ],
       "hourlyPeak": [
@@ -5866,6 +5866,6 @@
       ]
     }
   },
-  "peak48h": 12174,
-  "peak48hAt": "2026-11-15T20:11:15.000Z"
+  "peak48h": 12115,
+  "peak48hAt": "2026-11-15T20:16:12.000Z"
 }
