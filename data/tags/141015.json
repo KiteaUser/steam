@@ -3,16 +3,16 @@
   "appid": "1080110",
   "steamAppid": 1080110,
   "name": "F1 2020",
-  "players": 125,
+  "players": 118,
   "allTimePeak": 24010,
   "peak24h": 167,
   "peak24hAt": "2026-11-17T18:02:38.000Z",
-  "updatedAt": "2026-11-17T19:36:14.799Z",
+  "updatedAt": "2026-11-17T19:41:15.737Z",
   "img_url": "2024/12/mixcollage-06-dec-2024-01-27-am-2621.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-17T19:36:14.799Z",
-    "updatedAtTs": 1794944174,
+    "updatedAt": "2026-11-17T19:41:15.737Z",
+    "updatedAtTs": 1794944475,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1794944174,
-        125
+        1794944475,
+        118
       ],
       "peak24h": [
         1794938558,
         167
       ],
       "peak48h": [
-        1794771665,
+        1794773772,
         217
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794771665,
-          217
-        ],
         [
           1794771968,
           205
@@ -2328,6 +2324,10 @@
         [
           1794944174,
           125
+        ],
+        [
+          1794944475,
+          118
         ]
       ],
       "hourlyPeak": [
@@ -5575,5 +5575,5 @@
     }
   },
   "peak48h": 217,
-  "peak48hAt": "2026-11-15T19:41:05.000Z"
+  "peak48hAt": "2026-11-15T20:16:12.000Z"
 }
