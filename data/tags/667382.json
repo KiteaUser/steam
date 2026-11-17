@@ -3,16 +3,16 @@
   "appid": "1601570",
   "steamAppid": 1601570,
   "name": "The Alters",
-  "players": 485,
+  "players": 453,
   "allTimePeak": 18120,
   "peak24h": 572,
   "peak24hAt": "2026-11-17T20:51:26.000Z",
-  "updatedAt": "2026-11-17T22:31:11.754Z",
+  "updatedAt": "2026-11-17T22:36:06.606Z",
   "img_url": "2024/12/mixcollage-13-dec-2024-10-02-am-8332.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-17T22:31:11.754Z",
-    "updatedAtTs": 1794954671,
+    "updatedAt": "2026-11-17T22:36:06.606Z",
+    "updatedAtTs": 1794954966,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794954671,
-        485
+        1794954966,
+        453
       ],
       "peak24h": [
         1794948686,
         572
       ],
       "peak48h": [
-        1794781876,
-        711
+        1794782768,
+        687
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794781876,
-          711
-        ],
-        [
-          1794782158,
-          687
-        ],
         [
           1794782474,
           678
@@ -2332,6 +2324,10 @@
         [
           1794954671,
           485
+        ],
+        [
+          1794954966,
+          453
         ]
       ],
       "hourlyPeak": [
@@ -5342,6 +5338,6 @@
       ]
     }
   },
-  "peak48h": 711,
-  "peak48hAt": "2026-11-15T22:31:16.000Z"
+  "peak48h": 687,
+  "peak48hAt": "2026-11-15T22:46:08.000Z"
 }
