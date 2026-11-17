@@ -3,16 +3,16 @@
   "appid": "9900",
   "steamAppid": 9900,
   "name": "Star Trek Online",
-  "players": 1280,
+  "players": 1246,
   "allTimePeak": 7910,
   "peak24h": 1414,
   "peak24hAt": "2026-11-17T20:16:06.000Z",
-  "updatedAt": "2026-11-17T21:46:06.919Z",
+  "updatedAt": "2026-11-17T21:51:14.946Z",
   "img_url": "2024/12/mixcollage-04-dec-2024-02-56-pm-5813.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-17T21:46:06.919Z",
-    "updatedAtTs": 1794951966,
+    "updatedAt": "2026-11-17T21:51:14.946Z",
+    "updatedAtTs": 1794952274,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1794951966,
-        1280
+        1794952274,
+        1246
       ],
       "peak24h": [
         1794946566,
         1414
       ],
       "peak48h": [
-        1794779176,
+        1794779754,
         1463
       ],
       "allTimePeak": [
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794779176,
-          1463
-        ],
-        [
-          1794779466,
-          1463
-        ],
         [
           1794779754,
           1463
@@ -2332,6 +2324,10 @@
         [
           1794951966,
           1280
+        ],
+        [
+          1794952274,
+          1246
         ]
       ],
       "hourlyPeak": [
@@ -5963,5 +5959,5 @@
     }
   },
   "peak48h": 1463,
-  "peak48hAt": "2026-11-15T21:46:16.000Z"
+  "peak48hAt": "2026-11-15T21:55:54.000Z"
 }
