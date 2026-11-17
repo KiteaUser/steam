@@ -3,16 +3,16 @@
   "appid": "2432860",
   "steamAppid": 2432860,
   "name": "MENACE",
-  "players": 741,
+  "players": 731,
   "allTimePeak": 20623,
   "peak24h": 928,
   "peak24hAt": "2026-11-17T19:01:42.000Z",
-  "updatedAt": "2026-11-17T22:36:06.606Z",
+  "updatedAt": "2026-11-17T22:41:16.010Z",
   "img_url": "2025/12/menace-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-17T22:36:06.606Z",
-    "updatedAtTs": 1794954966,
+    "updatedAt": "2026-11-17T22:41:16.010Z",
+    "updatedAtTs": 1794955276,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794954966,
-        741
+        1794955276,
+        731
       ],
       "peak24h": [
         1794942102,
         928
       ],
       "peak48h": [
-        1794782474,
-        1048
+        1794782768,
+        1032
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794782474,
-          1048
-        ],
         [
           1794782768,
           1032
@@ -2328,6 +2324,10 @@
         [
           1794954966,
           741
+        ],
+        [
+          1794955276,
+          731
         ]
       ],
       "hourlyPeak": [
@@ -5306,6 +5306,6 @@
       ]
     }
   },
-  "peak48h": 1048,
-  "peak48hAt": "2026-11-15T22:41:14.000Z"
+  "peak48h": 1032,
+  "peak48hAt": "2026-11-15T22:46:08.000Z"
 }
