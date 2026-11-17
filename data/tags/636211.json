@@ -3,16 +3,16 @@
   "appid": "3513350",
   "steamAppid": 3513350,
   "name": "Wuthering Waves",
-  "players": 8728,
+  "players": 8642,
   "allTimePeak": 49497,
-  "peak24h": 9553,
-  "peak24hAt": "2026-11-16T16:31:20.000Z",
-  "updatedAt": "2026-11-17T16:26:12.768Z",
+  "peak24h": 9538,
+  "peak24hAt": "2026-11-17T14:31:24.000Z",
+  "updatedAt": "2026-11-17T16:31:38.241Z",
   "img_url": "2024/12/mixcollage-25-dec-2024-03-54-am-8390.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-17T16:26:12.768Z",
-    "updatedAtTs": 1794932772,
+    "updatedAt": "2026-11-17T16:31:38.241Z",
+    "updatedAtTs": 1794933098,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794932772,
-        8728
+        1794933098,
+        8642
       ],
       "peak24h": [
-        1794846680,
-        9553
+        1794925884,
+        9538
       ],
       "peak48h": [
-        1794760282,
-        12096
+        1794760572,
+        11856
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794760282,
-          12096
-        ],
         [
           1794760572,
           11856
@@ -2328,6 +2324,10 @@
         [
           1794932772,
           8728
+        ],
+        [
+          1794933098,
+          8642
         ]
       ],
       "hourlyPeak": [
@@ -5342,6 +5342,6 @@
       ]
     }
   },
-  "peak48h": 12096,
-  "peak48hAt": "2026-11-15T16:31:22.000Z"
+  "peak48h": 11856,
+  "peak48hAt": "2026-11-15T16:36:12.000Z"
 }
