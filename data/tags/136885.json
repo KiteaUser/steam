@@ -3,16 +3,16 @@
   "appid": "70",
   "steamAppid": 70,
   "name": "Half-Life",
-  "players": 955,
+  "players": 951,
   "allTimePeak": 33471,
   "peak24h": 955,
   "peak24hAt": "2026-11-17T19:26:03.000Z",
-  "updatedAt": "2026-11-17T19:26:03.971Z",
+  "updatedAt": "2026-11-17T19:31:16.033Z",
   "img_url": "2024/12/mixcollage-25-dec-2024-03-04-am-925.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-17T19:26:03.971Z",
-    "updatedAtTs": 1794943563,
+    "updatedAt": "2026-11-17T19:31:16.033Z",
+    "updatedAtTs": 1794943876,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1794943563,
-        955
+        1794943876,
+        951
       ],
       "peak24h": [
         1794943563,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794771074,
-          1100
-        ],
         [
           1794771364,
           1100
@@ -2328,6 +2324,10 @@
         [
           1794943563,
           955
+        ],
+        [
+          1794943876,
+          951
         ]
       ],
       "hourlyPeak": [
