@@ -3,16 +3,16 @@
   "appid": "493340",
   "steamAppid": 493340,
   "name": "Planet Coaster",
-  "players": 489,
+  "players": 475,
   "allTimePeak": 21971,
   "peak24h": 516,
   "peak24hAt": "2026-11-17T14:21:10.000Z",
-  "updatedAt": "2026-11-17T15:31:20.862Z",
+  "updatedAt": "2026-11-17T15:36:11.099Z",
   "img_url": "2024/12/mixcollage-08-dec-2024-05-51-pm-4476.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-17T15:31:20.862Z",
-    "updatedAtTs": 1794929480,
+    "updatedAt": "2026-11-17T15:36:11.099Z",
+    "updatedAtTs": 1794929771,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794929480,
-        489
+        1794929771,
+        475
       ],
       "peak24h": [
         1794925270,
         516
       ],
       "peak48h": [
-        1794756962,
-        642
+        1794760572,
+        640
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794756962,
-          642
-        ],
         [
           1794757267,
           635
@@ -2328,6 +2324,10 @@
         [
           1794929480,
           489
+        ],
+        [
+          1794929771,
+          475
         ]
       ],
       "hourlyPeak": [
@@ -5762,6 +5762,6 @@
       ]
     }
   },
-  "peak48h": 642,
-  "peak48hAt": "2026-11-15T15:36:02.000Z"
+  "peak48h": 640,
+  "peak48hAt": "2026-11-15T16:36:12.000Z"
 }
