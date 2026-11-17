@@ -3,16 +3,16 @@
   "appid": "212680",
   "steamAppid": 212680,
   "name": "FTL: Faster Than Light",
-  "players": 886,
+  "players": 868,
   "allTimePeak": 19301,
-  "peak24h": 938,
-  "peak24hAt": "2026-11-16T22:16:19.000Z",
-  "updatedAt": "2026-11-17T22:16:09.456Z",
+  "peak24h": 936,
+  "peak24hAt": "2026-11-16T22:26:08.000Z",
+  "updatedAt": "2026-11-17T22:21:20.263Z",
   "img_url": "2024/12/mixcollage-03-dec-2024-01-35-pm-6481.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-17T22:16:09.456Z",
-    "updatedAtTs": 1794953769,
+    "updatedAt": "2026-11-17T22:21:20.263Z",
+    "updatedAtTs": 1794954080,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794953769,
-        886
+        1794954080,
+        868
       ],
       "peak24h": [
-        1794867379,
-        938
+        1794867968,
+        936
       ],
       "peak48h": [
-        1794780971,
-        1033
+        1794863165,
+        995
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794780971,
-          1033
-        ],
-        [
-          1794781267,
-          987
-        ],
         [
           1794781560,
           987
@@ -2332,6 +2324,10 @@
         [
           1794953769,
           886
+        ],
+        [
+          1794954080,
+          868
         ]
       ],
       "hourlyPeak": [
@@ -5954,6 +5950,6 @@
       ]
     }
   },
-  "peak48h": 1033,
-  "peak48hAt": "2026-11-15T22:16:11.000Z"
+  "peak48h": 995,
+  "peak48hAt": "2026-11-16T21:06:05.000Z"
 }
