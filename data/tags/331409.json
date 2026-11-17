@@ -3,16 +3,16 @@
   "appid": "508440",
   "steamAppid": 508440,
   "name": "Totally Accurate Battle Simulator",
-  "players": 1068,
+  "players": 1092,
   "allTimePeak": 13674,
   "peak24h": 1452,
   "peak24hAt": "2026-11-17T14:26:03.000Z",
-  "updatedAt": "2026-11-17T20:26:00.404Z",
+  "updatedAt": "2026-11-17T20:31:23.575Z",
   "img_url": "2024/11/mixcollage-21-nov-2024-10-38-pm-6029.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-17T20:26:00.404Z",
-    "updatedAtTs": 1794947160,
+    "updatedAt": "2026-11-17T20:31:23.575Z",
+    "updatedAtTs": 1794947483,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794947160,
-        1068
+        1794947483,
+        1092
       ],
       "peak24h": [
         1794925563,
         1452
       ],
       "peak48h": [
-        1794774361,
-        1609
+        1794774958,
+        1591
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794774361,
-          1609
-        ],
-        [
-          1794774682,
-          1591
-        ],
         [
           1794774958,
           1591
@@ -2332,6 +2324,10 @@
         [
           1794947160,
           1068
+        ],
+        [
+          1794947483,
+          1092
         ]
       ],
       "hourlyPeak": [
@@ -5718,6 +5714,6 @@
       ]
     }
   },
-  "peak48h": 1609,
-  "peak48hAt": "2026-11-15T20:26:01.000Z"
+  "peak48h": 1591,
+  "peak48hAt": "2026-11-15T20:35:58.000Z"
 }

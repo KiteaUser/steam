@@ -3,16 +3,16 @@
   "appid": "612880",
   "steamAppid": 612880,
   "name": "Wolfenstein II: The New Colossus",
-  "players": 423,
+  "players": 429,
   "allTimePeak": 16141,
-  "peak24h": 462,
-  "peak24hAt": "2026-11-16T20:26:00.000Z",
-  "updatedAt": "2026-11-17T20:26:00.404Z",
+  "peak24h": 460,
+  "peak24hAt": "2026-11-17T19:31:16.000Z",
+  "updatedAt": "2026-11-17T20:31:23.575Z",
   "img_url": "2024/12/mixcollage-06-dec-2024-07-08-pm-8443.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-17T20:26:00.404Z",
-    "updatedAtTs": 1794947160,
+    "updatedAt": "2026-11-17T20:31:23.575Z",
+    "updatedAtTs": 1794947483,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794947160,
-        423
+        1794947483,
+        429
       ],
       "peak24h": [
-        1794860760,
-        462
+        1794943876,
+        460
       ],
       "peak48h": [
-        1794774361,
-        509
+        1794774958,
+        502
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794774361,
-          509
-        ],
-        [
-          1794774682,
-          502
-        ],
         [
           1794774958,
           502
@@ -2332,6 +2324,10 @@
         [
           1794947160,
           423
+        ],
+        [
+          1794947483,
+          429
         ]
       ],
       "hourlyPeak": [
@@ -5710,6 +5706,6 @@
       ]
     }
   },
-  "peak48h": 509,
-  "peak48hAt": "2026-11-15T20:26:01.000Z"
+  "peak48h": 502,
+  "peak48hAt": "2026-11-15T20:35:58.000Z"
 }

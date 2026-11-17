@@ -3,16 +3,16 @@
   "appid": "1677740",
   "steamAppid": 1677740,
   "name": "Stumble Guys",
-  "players": 1918,
+  "players": 1886,
   "allTimePeak": 43705,
   "peak24h": 2255,
   "peak24hAt": "2026-11-17T18:02:38.000Z",
-  "updatedAt": "2026-11-17T20:26:00.404Z",
+  "updatedAt": "2026-11-17T20:31:23.575Z",
   "img_url": "2024/12/mixcollage-02-dec-2024-02-38-am-8522-1.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-17T20:26:00.404Z",
-    "updatedAtTs": 1794947160,
+    "updatedAt": "2026-11-17T20:31:23.575Z",
+    "updatedAtTs": 1794947483,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794947160,
-        1918
+        1794947483,
+        1886
       ],
       "peak24h": [
         1794938558,
         2255
       ],
       "peak48h": [
-        1794774361,
-        2525
+        1794774958,
+        2435
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794774361,
-          2525
-        ],
-        [
-          1794774682,
-          2435
-        ],
         [
           1794774958,
           2435
@@ -2332,6 +2324,10 @@
         [
           1794947160,
           1918
+        ],
+        [
+          1794947483,
+          1886
         ]
       ],
       "hourlyPeak": [
@@ -5518,6 +5514,6 @@
       ]
     }
   },
-  "peak48h": 2525,
-  "peak48hAt": "2026-11-15T20:26:01.000Z"
+  "peak48h": 2435,
+  "peak48hAt": "2026-11-15T20:35:58.000Z"
 }

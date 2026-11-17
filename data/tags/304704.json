@@ -3,16 +3,16 @@
   "appid": "803330",
   "steamAppid": 803330,
   "name": "Destroy All Humans",
-  "players": 24,
+  "players": 30,
   "allTimePeak": 12423,
   "peak24h": 40,
   "peak24hAt": "2026-11-16T20:51:13.000Z",
-  "updatedAt": "2026-11-17T20:26:00.404Z",
+  "updatedAt": "2026-11-17T20:31:23.575Z",
   "img_url": "2024/11/mixcollage-28-nov-2024-05-58-pm-3653.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-17T20:26:00.404Z",
-    "updatedAtTs": 1794947160,
+    "updatedAt": "2026-11-17T20:31:23.575Z",
+    "updatedAtTs": 1794947483,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1794947160,
-        24
+        1794947483,
+        30
       ],
       "peak24h": [
         1794862273,
         40
       ],
       "peak48h": [
-        1794774682,
+        1794774958,
         56
       ],
       "allTimePeak": [
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794774361,
-          49
-        ],
-        [
-          1794774682,
-          56
-        ],
         [
           1794774958,
           56
@@ -2332,6 +2324,10 @@
         [
           1794947160,
           24
+        ],
+        [
+          1794947483,
+          30
         ]
       ],
       "hourlyPeak": [
@@ -4961,7 +4957,7 @@
         ],
         [
           1794772800,
-          50
+          56
         ]
       ],
       "dailyPeak": [
@@ -5579,5 +5575,5 @@
     }
   },
   "peak48h": 56,
-  "peak48hAt": "2026-11-15T20:31:22.000Z"
+  "peak48hAt": "2026-11-15T20:35:58.000Z"
 }
