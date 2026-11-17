@@ -3,16 +3,16 @@
   "appid": "794260",
   "steamAppid": 794260,
   "name": "Outward",
-  "players": 49,
+  "players": 312,
   "allTimePeak": 11296,
   "peak24h": 434,
   "peak24hAt": "2026-11-17T19:56:19.000Z",
-  "updatedAt": "2026-11-17T23:35:56.801Z",
+  "updatedAt": "2026-11-17T23:41:08.321Z",
   "img_url": "2024/12/mixcollage-14-dec-2024-08-17-pm-5506.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-17T23:35:56.801Z",
-    "updatedAtTs": 1794958556,
+    "updatedAt": "2026-11-17T23:41:08.321Z",
+    "updatedAtTs": 1794958868,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1794958556,
-        49
+        1794958868,
+        312
       ],
       "peak24h": [
         1794945379,
         434
       ],
       "peak48h": [
-        1794785757,
+        1794786376,
         451
       ],
       "allTimePeak": [
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794785757,
-          451
-        ],
-        [
-          1794786065,
-          443
-        ],
         [
           1794786376,
           451
@@ -2328,6 +2320,10 @@
         [
           1794958556,
           49
+        ],
+        [
+          1794958868,
+          312
         ]
       ],
       "hourlyPeak": [
@@ -5639,5 +5635,5 @@
     }
   },
   "peak48h": 451,
-  "peak48hAt": "2026-11-15T23:35:57.000Z"
+  "peak48hAt": "2026-11-15T23:46:16.000Z"
 }
