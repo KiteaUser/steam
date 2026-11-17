@@ -3,16 +3,16 @@
   "appid": "824550",
   "steamAppid": 824550,
   "name": "SD GUNDAM BATTLE ALLIANCE",
-  "players": 35,
+  "players": 36,
   "allTimePeak": 21909,
   "peak24h": 42,
   "peak24hAt": "2026-11-16T13:56:20.000Z",
-  "updatedAt": "2026-11-17T13:31:15.904Z",
+  "updatedAt": "2026-11-17T13:36:06.871Z",
   "img_url": "2025/03/mixcollage-05-mar-2025-08-26-am-3885.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-17T13:31:15.904Z",
-    "updatedAtTs": 1794922275,
+    "updatedAt": "2026-11-17T13:36:06.871Z",
+    "updatedAtTs": 1794922566,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1794922275,
-        35
+        1794922566,
+        36
       ],
       "peak24h": [
         1794837380,
         42
       ],
       "peak48h": [
-        1794749480,
+        1794750671,
         58
       ],
       "allTimePeak": [
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794749480,
-          58
-        ],
-        [
-          1794749757,
-          58
-        ],
         [
           1794750076,
           52
@@ -2332,6 +2324,10 @@
         [
           1794922275,
           35
+        ],
+        [
+          1794922566,
+          36
         ]
       ],
       "hourlyPeak": [
@@ -4961,7 +4957,7 @@
         ],
         [
           1794747600,
-          52
+          58
         ]
       ],
       "dailyPeak": [
@@ -5479,5 +5475,5 @@
     }
   },
   "peak48h": 58,
-  "peak48hAt": "2026-11-15T13:31:20.000Z"
+  "peak48hAt": "2026-11-15T13:51:11.000Z"
 }
