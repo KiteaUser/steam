@@ -3,16 +3,16 @@
   "appid": "1272080",
   "steamAppid": 1272080,
   "name": "PAYDAY 3",
-  "players": 2601,
+  "players": 2573,
   "allTimePeak": 77938,
   "peak24h": 3505,
   "peak24hAt": "2026-11-17T19:26:03.000Z",
-  "updatedAt": "2026-11-17T22:41:16.010Z",
+  "updatedAt": "2026-11-17T22:46:12.445Z",
   "img_url": "2024/12/mixcollage-25-dec-2024-02-30-pm-3737.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-17T22:41:16.010Z",
-    "updatedAtTs": 1794955276,
+    "updatedAt": "2026-11-17T22:46:12.445Z",
+    "updatedAtTs": 1794955572,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794955276,
-        2601
+        1794955572,
+        2573
       ],
       "peak24h": [
         1794943563,
         3505
       ],
       "peak48h": [
-        1794782768,
-        4159
+        1794860184,
+        4035
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794782768,
-          4159
-        ],
         [
           1794783078,
           4025
@@ -2328,6 +2324,10 @@
         [
           1794955276,
           2601
+        ],
+        [
+          1794955572,
+          2573
         ]
       ],
       "hourlyPeak": [
@@ -5422,6 +5422,6 @@
       ]
     }
   },
-  "peak48h": 4159,
-  "peak48hAt": "2026-11-15T22:46:08.000Z"
+  "peak48h": 4035,
+  "peak48hAt": "2026-11-16T20:16:24.000Z"
 }
