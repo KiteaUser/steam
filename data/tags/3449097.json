@@ -3,16 +3,16 @@
   "appid": "3164500",
   "steamAppid": 3164500,
   "name": "Schedule I",
-  "players": 3800,
+  "players": 3846,
   "allTimePeak": 459075,
   "peak24h": 9962,
   "peak24hAt": "2026-11-16T20:51:13.000Z",
-  "updatedAt": "2026-11-17T10:51:14.254Z",
+  "updatedAt": "2026-11-17T10:56:18.429Z",
   "img_url": "2025/03/schedule-i-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-17T10:51:14.254Z",
-    "updatedAtTs": 1794912674,
+    "updatedAt": "2026-11-17T10:56:18.429Z",
+    "updatedAtTs": 1794912978,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1794912674,
-        3800
+        1794912978,
+        3846
       ],
       "peak24h": [
         1794862273,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794740163,
-          6084
-        ],
         [
           1794740491,
           6153
@@ -2328,6 +2324,10 @@
         [
           1794912674,
           3800
+        ],
+        [
+          1794912978,
+          3846
         ]
       ],
       "hourlyPeak": [
