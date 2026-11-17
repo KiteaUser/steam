@@ -3,16 +3,16 @@
   "appid": "1527950",
   "steamAppid": 1527950,
   "name": "Wartales",
-  "players": 1567,
+  "players": 1558,
   "allTimePeak": 35879,
   "peak24h": 1756,
   "peak24hAt": "2026-11-16T18:41:15.000Z",
-  "updatedAt": "2026-11-17T16:36:01.637Z",
+  "updatedAt": "2026-11-17T16:41:33.086Z",
   "img_url": "2024/12/mixcollage-06-dec-2024-04-04-pm-6095.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-17T16:36:01.637Z",
-    "updatedAtTs": 1794933361,
+    "updatedAt": "2026-11-17T16:41:33.086Z",
+    "updatedAtTs": 1794933693,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794933361,
-        1567
+        1794933693,
+        1558
       ],
       "peak24h": [
         1794854475,
         1756
       ],
       "peak48h": [
-        1794760572,
-        2290
+        1794761767,
+        2266
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794760572,
-          2290
-        ],
-        [
-          1794760876,
-          2290
-        ],
         [
           1794761164,
           2260
@@ -2332,6 +2324,10 @@
         [
           1794933361,
           1567
+        ],
+        [
+          1794933693,
+          1558
         ]
       ],
       "hourlyPeak": [
@@ -5510,6 +5506,6 @@
       ]
     }
   },
-  "peak48h": 2290,
-  "peak48hAt": "2026-11-15T16:36:12.000Z"
+  "peak48h": 2266,
+  "peak48hAt": "2026-11-15T16:56:07.000Z"
 }
