@@ -3,16 +3,16 @@
   "appid": "3932890",
   "steamAppid": 3932890,
   "name": "Escape from Tarkov",
-  "players": 30641,
+  "players": 30992,
   "allTimePeak": 47800,
   "peak24h": 32597,
   "peak24hAt": "2026-11-17T14:06:05.000Z",
-  "updatedAt": "2026-11-17T15:02:21.765Z",
+  "updatedAt": "2026-11-17T15:06:12.779Z",
   "img_url": "2024/12/mixcollage-04-dec-2024-07-18-pm-4147.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-17T15:02:21.765Z",
-    "updatedAtTs": 1794927741,
+    "updatedAt": "2026-11-17T15:06:12.779Z",
+    "updatedAtTs": 1794927972,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794927741,
-        30641
+        1794927972,
+        30992
       ],
       "peak24h": [
         1794924365,
         32597
       ],
       "peak48h": [
-        1794755164,
-        32671
+        1794924365,
+        32597
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794755164,
-          32671
-        ],
         [
           1794755482,
           31497
@@ -2328,6 +2324,10 @@
         [
           1794927741,
           30641
+        ],
+        [
+          1794927972,
+          30992
         ]
       ],
       "hourlyPeak": [
@@ -4957,7 +4957,7 @@
         ],
         [
           1794754800,
-          32360
+          32671
         ]
       ],
       "dailyPeak": [
@@ -5318,6 +5318,6 @@
       ]
     }
   },
-  "peak48h": 32671,
-  "peak48hAt": "2026-11-15T15:06:04.000Z"
+  "peak48h": 32597,
+  "peak48hAt": "2026-11-17T14:06:05.000Z"
 }
