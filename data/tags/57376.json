@@ -3,16 +3,16 @@
   "appid": "238320",
   "steamAppid": 238320,
   "name": "Outlast",
-  "players": 576,
+  "players": 561,
   "allTimePeak": 11827,
   "peak24h": 595,
   "peak24hAt": "2026-11-16T19:46:17.000Z",
-  "updatedAt": "2026-11-17T19:41:15.737Z",
+  "updatedAt": "2026-11-17T19:46:14.316Z",
   "img_url": "2024/12/mixcollage-04-dec-2024-08-05-pm-8837.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-17T19:41:15.737Z",
-    "updatedAtTs": 1794944475,
+    "updatedAt": "2026-11-17T19:46:14.316Z",
+    "updatedAtTs": 1794944774,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1794944475,
-        576
+        1794944774,
+        561
       ],
       "peak24h": [
         1794858377,
         595
       ],
       "peak48h": [
-        1794771968,
+        1794772272,
         787
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794771968,
-          787
-        ],
         [
           1794772272,
           787
@@ -2328,6 +2324,10 @@
         [
           1794944475,
           576
+        ],
+        [
+          1794944774,
+          561
         ]
       ],
       "hourlyPeak": [
@@ -5907,5 +5907,5 @@
     }
   },
   "peak48h": 787,
-  "peak48hAt": "2026-11-15T19:46:08.000Z"
+  "peak48hAt": "2026-11-15T19:51:12.000Z"
 }

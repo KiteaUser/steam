@@ -3,16 +3,16 @@
   "appid": "284160",
   "steamAppid": 284160,
   "name": "BeamNGdrive",
-  "players": 28322,
+  "players": 28178,
   "allTimePeak": 47424,
   "peak24h": 29386,
   "peak24hAt": "2026-11-17T18:36:09.000Z",
-  "updatedAt": "2026-11-17T19:41:15.737Z",
+  "updatedAt": "2026-11-17T19:46:14.316Z",
   "img_url": "2024/11/mixcollage-21-nov-2024-10-52-pm-7165.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-17T19:41:15.737Z",
-    "updatedAtTs": 1794944475,
+    "updatedAt": "2026-11-17T19:46:14.316Z",
+    "updatedAtTs": 1794944774,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1794944475,
-        28322
+        1794944774,
+        28178
       ],
       "peak24h": [
         1794940569,
         29386
       ],
       "peak48h": [
-        1794771968,
+        1794772558,
         35904
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794771968,
-          35904
-        ],
         [
           1794772272,
           35644
@@ -2328,6 +2324,10 @@
         [
           1794944475,
           28322
+        ],
+        [
+          1794944774,
+          28178
         ]
       ],
       "hourlyPeak": [
@@ -5859,5 +5859,5 @@
     }
   },
   "peak48h": 35904,
-  "peak48hAt": "2026-11-15T19:46:08.000Z"
+  "peak48hAt": "2026-11-15T19:55:58.000Z"
 }
