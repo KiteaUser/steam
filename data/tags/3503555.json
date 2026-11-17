@@ -3,16 +3,16 @@
   "appid": "480",
   "steamAppid": 480,
   "name": "Spacewar",
-  "players": 44426,
+  "players": 44291,
   "allTimePeak": 138416,
   "peak24h": 46116,
   "peak24hAt": "2026-11-17T15:02:21.000Z",
-  "updatedAt": "2026-11-17T17:26:09.979Z",
+  "updatedAt": "2026-11-17T17:31:18.792Z",
   "img_url": "2025/06/spacewar-video-game-cover-art-tag.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-17T17:26:09.979Z",
-    "updatedAtTs": 1794936369,
+    "updatedAt": "2026-11-17T17:31:18.792Z",
+    "updatedAtTs": 1794936678,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1794936369,
-        44426
+        1794936678,
+        44291
       ],
       "peak24h": [
         1794927741,
         46116
       ],
       "peak48h": [
-        1794763876,
+        1794764161,
         55992
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794763876,
-          55992
-        ],
         [
           1794764161,
           55992
@@ -2328,6 +2324,10 @@
         [
           1794936369,
           44426
+        ],
+        [
+          1794936678,
+          44291
         ]
       ],
       "hourlyPeak": [
@@ -5959,5 +5959,5 @@
     }
   },
   "peak48h": 55992,
-  "peak48hAt": "2026-11-15T17:31:16.000Z"
+  "peak48hAt": "2026-11-15T17:36:01.000Z"
 }

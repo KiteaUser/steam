@@ -3,16 +3,16 @@
   "appid": "899770",
   "steamAppid": 899770,
   "name": "Last Epoch",
-  "players": 1901,
+  "players": 1900,
   "allTimePeak": 264708,
   "peak24h": 2313,
   "peak24hAt": "2026-11-17T13:51:08.000Z",
-  "updatedAt": "2026-11-17T17:26:09.979Z",
+  "updatedAt": "2026-11-17T17:31:18.792Z",
   "img_url": "2025/09/last-epoch-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-17T17:26:09.979Z",
-    "updatedAtTs": 1794936369,
+    "updatedAt": "2026-11-17T17:31:18.792Z",
+    "updatedAtTs": 1794936678,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1794936369,
-        1901
+        1794936678,
+        1900
       ],
       "peak24h": [
         1794923468,
         2313
       ],
       "peak48h": [
-        1794763876,
+        1794764161,
         2445
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794763876,
-          2445
-        ],
         [
           1794764161,
           2445
@@ -2328,6 +2324,10 @@
         [
           1794936369,
           1901
+        ],
+        [
+          1794936678,
+          1900
         ]
       ],
       "hourlyPeak": [
@@ -5631,5 +5631,5 @@
     }
   },
   "peak48h": 2445,
-  "peak48hAt": "2026-11-15T17:31:16.000Z"
+  "peak48hAt": "2026-11-15T17:36:01.000Z"
 }
