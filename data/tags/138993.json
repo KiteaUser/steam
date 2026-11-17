@@ -3,16 +3,16 @@
   "appid": "775500",
   "steamAppid": 775500,
   "name": "SCARLET NEXUS",
-  "players": 49,
+  "players": 44,
   "allTimePeak": 14516,
   "peak24h": 75,
   "peak24hAt": "2026-11-17T13:36:06.000Z",
-  "updatedAt": "2026-11-17T16:46:20.862Z",
+  "updatedAt": "2026-11-17T16:52:22.648Z",
   "img_url": "2024/12/mixcollage-04-dec-2024-07-47-am-2055.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-17T16:46:20.862Z",
-    "updatedAtTs": 1794933980,
+    "updatedAt": "2026-11-17T16:52:22.648Z",
+    "updatedAtTs": 1794934342,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794933980,
-        49
+        1794934342,
+        44
       ],
       "peak24h": [
         1794922566,
         75
       ],
       "peak48h": [
-        1794761473,
-        80
+        1794772880,
+        79
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794761473,
-          80
-        ],
         [
           1794761767,
           78
@@ -2328,6 +2324,10 @@
         [
           1794933980,
           49
+        ],
+        [
+          1794934342,
+          44
         ]
       ],
       "hourlyPeak": [
@@ -5530,6 +5530,6 @@
       ]
     }
   },
-  "peak48h": 80,
-  "peak48hAt": "2026-11-15T16:51:13.000Z"
+  "peak48h": 79,
+  "peak48hAt": "2026-11-15T20:01:20.000Z"
 }
