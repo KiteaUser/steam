@@ -3,16 +3,16 @@
   "appid": "972660",
   "steamAppid": 972660,
   "name": "Spiritfarer",
-  "players": 853,
+  "players": 785,
   "allTimePeak": 11726,
   "peak24h": 932,
   "peak24hAt": "2026-11-17T14:02:16.000Z",
-  "updatedAt": "2026-11-17T15:11:10.301Z",
+  "updatedAt": "2026-11-17T15:16:16.052Z",
   "img_url": "2024/12/mixcollage-11-dec-2024-03-21-am-8419.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-17T15:11:10.301Z",
-    "updatedAtTs": 1794928270,
+    "updatedAt": "2026-11-17T15:16:16.052Z",
+    "updatedAtTs": 1794928576,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1794928270,
-        853
+        1794928576,
+        785
       ],
       "peak24h": [
         1794924136,
         932
       ],
       "peak48h": [
-        1794755482,
+        1794755779,
         1105
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794755482,
-          1105
-        ],
         [
           1794755779,
           1105
@@ -2332,6 +2328,10 @@
         [
           1794928270,
           853
+        ],
+        [
+          1794928576,
+          785
         ]
       ],
       "hourlyPeak": [
@@ -5575,5 +5575,5 @@
     }
   },
   "peak48h": 1105,
-  "peak48hAt": "2026-11-15T15:11:22.000Z"
+  "peak48hAt": "2026-11-15T15:16:19.000Z"
 }
