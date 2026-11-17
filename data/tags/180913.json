@@ -3,16 +3,16 @@
   "appid": "718850",
   "steamAppid": 718850,
   "name": "Age of Wonders: Planetfall",
-  "players": 96,
+  "players": 97,
   "allTimePeak": 10462,
   "peak24h": 109,
   "peak24hAt": "2026-11-17T20:11:13.000Z",
-  "updatedAt": "2026-11-17T22:56:05.423Z",
+  "updatedAt": "2026-11-17T23:01:32.942Z",
   "img_url": "2023/09/age-of-wonders-planetfall.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-17T22:56:05.423Z",
-    "updatedAtTs": 1794956165,
+    "updatedAt": "2026-11-17T23:01:32.942Z",
+    "updatedAtTs": 1794956492,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1794956165,
-        96
+        1794956492,
+        97
       ],
       "peak24h": [
         1794946273,
         109
       ],
       "peak48h": [
-        1794783681,
+        1794783963,
         129
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794783681,
-          129
-        ],
         [
           1794783963,
           129
@@ -2328,13 +2324,13 @@
         [
           1794956165,
           96
+        ],
+        [
+          1794956492,
+          97
         ]
       ],
       "hourlyPeak": [
-        [
-          1792364400,
-          102
-        ],
         [
           1792368000,
           99
@@ -4958,6 +4954,10 @@
         [
           1794780000,
           138
+        ],
+        [
+          1794783600,
+          129
         ]
       ],
       "dailyPeak": [
@@ -5619,5 +5619,5 @@
     }
   },
   "peak48h": 129,
-  "peak48hAt": "2026-11-15T23:01:21.000Z"
+  "peak48hAt": "2026-11-15T23:06:03.000Z"
 }
