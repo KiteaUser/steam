@@ -3,16 +3,16 @@
   "appid": "544750",
   "steamAppid": 544750,
   "name": "SOULCALIBUR VI",
-  "players": 111,
+  "players": 117,
   "allTimePeak": 14684,
   "peak24h": 162,
   "peak24hAt": "2026-11-17T02:21:13.000Z",
-  "updatedAt": "2026-11-17T04:41:16.398Z",
+  "updatedAt": "2026-11-17T04:46:20.197Z",
   "img_url": "2022/11/SoulCalibur6TagPage.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-17T04:41:16.398Z",
-    "updatedAtTs": 1794890476,
+    "updatedAt": "2026-11-17T04:46:20.197Z",
+    "updatedAtTs": 1794890780,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794890476,
-        111
+        1794890780,
+        117
       ],
       "peak24h": [
         1794882073,
         162
       ],
       "peak48h": [
-        1794717973,
-        200
+        1794779466,
+        194
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794717973,
-          200
-        ],
         [
           1794718281,
           178
@@ -2328,6 +2324,10 @@
         [
           1794890476,
           111
+        ],
+        [
+          1794890780,
+          117
         ]
       ],
       "hourlyPeak": [
@@ -5658,6 +5658,6 @@
       ]
     }
   },
-  "peak48h": 200,
-  "peak48hAt": "2026-11-15T04:46:13.000Z"
+  "peak48h": 194,
+  "peak48hAt": "2026-11-15T21:51:06.000Z"
 }
