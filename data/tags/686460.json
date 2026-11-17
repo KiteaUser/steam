@@ -3,16 +3,16 @@
   "appid": "2567870",
   "steamAppid": 2567870,
   "name": "Chained Together",
-  "players": 1697,
+  "players": 1623,
   "allTimePeak": 94480,
   "peak24h": 6466,
   "peak24hAt": "2026-11-17T14:21:10.000Z",
-  "updatedAt": "2026-11-17T17:31:18.792Z",
+  "updatedAt": "2026-11-17T17:36:10.480Z",
   "img_url": "2024/12/mixcollage-03-dec-2024-11-53-am-7469.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-17T17:31:18.792Z",
-    "updatedAtTs": 1794936678,
+    "updatedAt": "2026-11-17T17:36:10.480Z",
+    "updatedAtTs": 1794936970,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1794936678,
-        1697
+        1794936970,
+        1623
       ],
       "peak24h": [
         1794925270,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794764161,
-          2006
-        ],
         [
           1794764473,
           2006
@@ -2328,6 +2324,10 @@
         [
           1794936678,
           1697
+        ],
+        [
+          1794936970,
+          1623
         ]
       ],
       "hourlyPeak": [

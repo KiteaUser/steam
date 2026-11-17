@@ -3,16 +3,16 @@
   "appid": "1766060",
   "steamAppid": 1766060,
   "name": "HumanitZ",
-  "players": 1216,
+  "players": 1191,
   "allTimePeak": 12674,
   "peak24h": 1319,
   "peak24hAt": "2026-11-17T14:36:44.000Z",
-  "updatedAt": "2026-11-17T17:31:18.792Z",
+  "updatedAt": "2026-11-17T17:36:10.480Z",
   "img_url": "2026/02/humanitz-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-17T17:31:18.792Z",
-    "updatedAtTs": 1794936678,
+    "updatedAt": "2026-11-17T17:36:10.480Z",
+    "updatedAtTs": 1794936970,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794936678,
-        1216
+        1794936970,
+        1191
       ],
       "peak24h": [
         1794926204,
         1319
       ],
       "peak48h": [
-        1794764161,
-        1838
+        1794764473,
+        1828
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794764161,
-          1838
-        ],
         [
           1794764473,
           1828
@@ -2328,6 +2324,10 @@
         [
           1794936678,
           1216
+        ],
+        [
+          1794936970,
+          1191
         ]
       ],
       "hourlyPeak": [
@@ -5422,6 +5422,6 @@
       ]
     }
   },
-  "peak48h": 1838,
-  "peak48hAt": "2026-11-15T17:36:01.000Z"
+  "peak48h": 1828,
+  "peak48hAt": "2026-11-15T17:41:13.000Z"
 }

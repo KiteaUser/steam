@@ -3,16 +3,16 @@
   "appid": "916440",
   "steamAppid": 916440,
   "name": "Anno 1800",
-  "players": 2171,
+  "players": 2180,
   "allTimePeak": 25302,
   "peak24h": 2301,
   "peak24hAt": "2026-11-16T19:21:36.000Z",
-  "updatedAt": "2026-11-17T17:31:18.792Z",
+  "updatedAt": "2026-11-17T17:36:10.480Z",
   "img_url": "2024/12/mixcollage-08-dec-2024-05-42-pm-4615.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-17T17:31:18.792Z",
-    "updatedAtTs": 1794936678,
+    "updatedAt": "2026-11-17T17:36:10.480Z",
+    "updatedAtTs": 1794936970,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794936678,
-        2171
+        1794936970,
+        2180
       ],
       "peak24h": [
         1794856896,
         2301
       ],
       "peak48h": [
-        1794764161,
-        3194
+        1794764473,
+        3163
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794764161,
-          3194
-        ],
         [
           1794764473,
           3163
@@ -2328,6 +2324,10 @@
         [
           1794936678,
           2171
+        ],
+        [
+          1794936970,
+          2180
         ]
       ],
       "hourlyPeak": [
@@ -5634,6 +5634,6 @@
       ]
     }
   },
-  "peak48h": 3194,
-  "peak48hAt": "2026-11-15T17:36:01.000Z"
+  "peak48h": 3163,
+  "peak48hAt": "2026-11-15T17:41:13.000Z"
 }
