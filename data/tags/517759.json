@@ -3,16 +3,16 @@
   "appid": "1599600",
   "steamAppid": 1599600,
   "name": "PlateUp",
-  "players": 1318,
+  "players": 1281,
   "allTimePeak": 12460,
   "peak24h": 1539,
   "peak24hAt": "2026-11-17T14:36:44.000Z",
-  "updatedAt": "2026-11-17T20:16:06.818Z",
+  "updatedAt": "2026-11-17T20:21:22.763Z",
   "img_url": "2024/11/mixcollage-30-nov-2024-08-36-am-6090.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-17T20:16:06.818Z",
-    "updatedAtTs": 1794946566,
+    "updatedAt": "2026-11-17T20:21:22.763Z",
+    "updatedAtTs": 1794946882,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1794946566,
-        1318
+        1794946882,
+        1281
       ],
       "peak24h": [
         1794926204,
         1539
       ],
       "peak48h": [
-        1794773772,
-        2086
+        1794774361,
+        2084
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794773772,
-          2086
-        ],
-        [
-          1794774069,
-          2084
-        ],
         [
           1794774361,
           2084
@@ -2332,6 +2324,10 @@
         [
           1794946566,
           1318
+        ],
+        [
+          1794946882,
+          1281
         ]
       ],
       "hourlyPeak": [
@@ -5478,6 +5474,6 @@
       ]
     }
   },
-  "peak48h": 2086,
-  "peak48hAt": "2026-11-15T20:16:12.000Z"
+  "peak48h": 2084,
+  "peak48hAt": "2026-11-15T20:26:01.000Z"
 }
