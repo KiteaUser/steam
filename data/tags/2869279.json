@@ -3,16 +3,16 @@
   "appid": "3751260",
   "steamAppid": 3751260,
   "name": "The Blood of Dawnwalker",
-  "players": 2637,
+  "players": 2560,
   "allTimePeak": 78188,
   "peak24h": 2905,
   "peak24hAt": "2026-11-17T20:46:08.000Z",
-  "updatedAt": "2026-11-17T21:56:08.222Z",
+  "updatedAt": "2026-11-17T22:01:33.482Z",
   "img_url": "2026/06/the-blood-of-dawnwalker-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-17T21:56:08.222Z",
-    "updatedAtTs": 1794952568,
+    "updatedAt": "2026-11-17T22:01:33.482Z",
+    "updatedAtTs": 1794952893,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1794952568,
-        2637
+        1794952893,
+        2560
       ],
       "peak24h": [
         1794948368,
         2905
       ],
       "peak48h": [
-        1794780087,
+        1794780364,
         3193
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794780087,
-          3193
-        ],
         [
           1794780364,
           3193
@@ -2328,13 +2324,13 @@
         [
           1794952568,
           2637
+        ],
+        [
+          1794952893,
+          2560
         ]
       ],
       "hourlyPeak": [
-        [
-          1792360800,
-          5276
-        ],
         [
           1792364400,
           4048
@@ -4958,6 +4954,10 @@
         [
           1794776400,
           3545
+        ],
+        [
+          1794780000,
+          3193
         ]
       ],
       "dailyPeak": [
@@ -5159,5 +5159,5 @@
     }
   },
   "peak48h": 3193,
-  "peak48hAt": "2026-11-15T22:01:27.000Z"
+  "peak48hAt": "2026-11-15T22:06:04.000Z"
 }
