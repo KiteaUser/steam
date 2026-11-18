@@ -3,16 +3,16 @@
   "appid": "858820",
   "steamAppid": 858820,
   "name": "Tribes of Midgard",
-  "players": 35,
+  "players": 30,
   "allTimePeak": 30930,
   "peak24h": 103,
   "peak24hAt": "2026-11-17T13:56:06.000Z",
-  "updatedAt": "2026-11-18T04:15:59.053Z",
+  "updatedAt": "2026-11-18T04:21:23.496Z",
   "img_url": "2024/12/mixcollage-07-dec-2024-03-20-am-6647.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-18T04:15:59.053Z",
-    "updatedAtTs": 1794975359,
+    "updatedAt": "2026-11-18T04:21:23.496Z",
+    "updatedAtTs": 1794975683,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1794975359,
-        35
+        1794975683,
+        30
       ],
       "peak24h": [
         1794923766,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794802565,
-          57
-        ],
-        [
-          1794802875,
-          52
-        ],
         [
           1794803172,
           52
@@ -2328,6 +2320,10 @@
         [
           1794975359,
           35
+        ],
+        [
+          1794975683,
+          30
         ]
       ],
       "hourlyPeak": [
