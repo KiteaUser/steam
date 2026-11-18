@@ -3,16 +3,16 @@
   "appid": "3059520",
   "steamAppid": 3059520,
   "name": "F1 25",
-  "players": 6289,
+  "players": 6220,
   "allTimePeak": 22595,
   "peak24h": 6598,
-  "peak24hAt": "2026-11-17T20:11:13.000Z",
-  "updatedAt": "2026-11-18T20:06:07.647Z",
+  "peak24hAt": "2026-11-17T20:16:06.000Z",
+  "updatedAt": "2026-11-18T20:11:22.297Z",
   "img_url": "2025/03/f1-25-video-game-cover-art-tag.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-18T20:06:07.647Z",
-    "updatedAtTs": 1795032367,
+    "updatedAt": "2026-11-18T20:11:22.297Z",
+    "updatedAtTs": 1795032682,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1795032367,
-        6289
+        1795032682,
+        6220
       ],
       "peak24h": [
-        1794946273,
+        1794946566,
         6598
       ],
       "peak48h": [
-        1794859876,
-        7023
+        1794860184,
+        6957
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794859876,
-          7023
-        ],
         [
           1794860184,
           6957
@@ -2344,6 +2340,10 @@
         [
           1795032367,
           6289
+        ],
+        [
+          1795032682,
+          6220
         ]
       ],
       "hourlyPeak": [
@@ -5362,6 +5362,6 @@
       ]
     }
   },
-  "peak48h": 7023,
-  "peak48hAt": "2026-11-16T20:11:16.000Z"
+  "peak48h": 6957,
+  "peak48hAt": "2026-11-16T20:16:24.000Z"
 }
