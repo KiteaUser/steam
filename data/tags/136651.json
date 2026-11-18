@@ -7,12 +7,12 @@
   "allTimePeak": 88894,
   "peak24h": 1326,
   "peak24hAt": "2026-11-17T14:02:16.000Z",
-  "updatedAt": "2026-11-18T07:01:20.117Z",
+  "updatedAt": "2026-11-18T07:06:02.039Z",
   "img_url": "2025/02/devil-may-cry-5-cover.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-18T07:01:20.117Z",
-    "updatedAtTs": 1794985280,
+    "updatedAt": "2026-11-18T07:06:02.039Z",
+    "updatedAtTs": 1794985562,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,7 +23,7 @@
     },
     "summary": {
       "current": [
-        1794985280,
+        1794985562,
         676
       ],
       "peak24h": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794812486,
-          606
-        ],
         [
           1794812809,
           622
@@ -2323,6 +2319,10 @@
         ],
         [
           1794985280,
+          676
+        ],
+        [
+          1794985562,
           676
         ]
       ],
@@ -4950,6 +4950,10 @@
         [
           1794808800,
           627
+        ],
+        [
+          1794812400,
+          606
         ]
       ],
       "dailyPeak": [
