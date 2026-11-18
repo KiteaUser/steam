@@ -3,16 +3,16 @@
   "appid": "2543180",
   "steamAppid": 2543180,
   "name": "POPUCOM",
-  "players": 70,
+  "players": 67,
   "allTimePeak": 20919,
-  "peak24h": 90,
-  "peak24hAt": "2026-11-17T14:41:10.000Z",
-  "updatedAt": "2026-11-18T14:36:04.431Z",
+  "peak24h": 88,
+  "peak24hAt": "2026-11-17T14:46:32.000Z",
+  "updatedAt": "2026-11-18T14:41:28.496Z",
   "img_url": "2025/02/mixcollage-02-feb-2025-07-22-am-7308.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-18T14:36:04.431Z",
-    "updatedAtTs": 1795012564,
+    "updatedAt": "2026-11-18T14:41:28.496Z",
+    "updatedAtTs": 1795012888,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1795012564,
-        70
+        1795012888,
+        67
       ],
       "peak24h": [
-        1794926470,
-        90
+        1794926792,
+        88
       ],
       "peak48h": [
-        1794839783,
-        105
+        1794840366,
+        101
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794839783,
-          105
-        ],
-        [
-          1794840078,
-          99
-        ],
         [
           1794840366,
           101
@@ -2344,6 +2336,10 @@
         [
           1795012564,
           70
+        ],
+        [
+          1795012888,
+          67
         ]
       ],
       "hourlyPeak": [
@@ -5358,6 +5354,6 @@
       ]
     }
   },
-  "peak48h": 105,
-  "peak48hAt": "2026-11-16T14:36:23.000Z"
+  "peak48h": 101,
+  "peak48hAt": "2026-11-16T14:46:06.000Z"
 }
