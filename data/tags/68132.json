@@ -7,12 +7,12 @@
   "allTimePeak": 11823,
   "peak24h": 11,
   "peak24hAt": "2026-11-17T18:31:22.000Z",
-  "updatedAt": "2026-11-18T03:56:01.155Z",
+  "updatedAt": "2026-11-18T04:01:17.322Z",
   "img_url": "2025/02/unfortunate-spacemen-tag-cover.png",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-18T03:56:01.155Z",
-    "updatedAtTs": 1794974161,
+    "updatedAt": "2026-11-18T04:01:17.322Z",
+    "updatedAtTs": 1794974477,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,7 +23,7 @@
     },
     "summary": {
       "current": [
-        1794974161,
+        1794974477,
         1
       ],
       "peak24h": [
@@ -31,7 +31,7 @@
         11
       ],
       "peak48h": [
-        1794801372,
+        1794801965,
         16
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794801372,
-          16
-        ],
         [
           1794801690,
           8
@@ -2084,13 +2080,13 @@
         [
           1794974161,
           1
+        ],
+        [
+          1794974477,
+          1
         ]
       ],
       "hourlyPeak": [
-        [
-          1792382400,
-          17
-        ],
         [
           1792386000,
           6
@@ -5511,5 +5507,5 @@
     }
   },
   "peak48h": 16,
-  "peak48hAt": "2026-11-16T03:56:12.000Z"
+  "peak48hAt": "2026-11-16T04:06:05.000Z"
 }
