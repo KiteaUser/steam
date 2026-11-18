@@ -3,16 +3,16 @@
   "appid": "1593500",
   "steamAppid": 1593500,
   "name": "God of War",
-  "players": 2196,
+  "players": 2186,
   "allTimePeak": 73529,
   "peak24h": 2249,
   "peak24hAt": "2026-11-17T20:11:13.000Z",
-  "updatedAt": "2026-11-18T19:11:09.484Z",
+  "updatedAt": "2026-11-18T19:16:09.797Z",
   "img_url": "2025/02/god-of-war-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-18T19:11:09.484Z",
-    "updatedAtTs": 1795029069,
+    "updatedAt": "2026-11-18T19:16:09.797Z",
+    "updatedAtTs": 1795029369,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1795029069,
-        2196
+        1795029369,
+        2186
       ],
       "peak24h": [
         1794946273,
         2249
       ],
       "peak48h": [
-        1794856294,
+        1794856582,
         2327
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794856294,
-          2327
-        ],
         [
           1794856582,
           2327
@@ -2348,6 +2344,10 @@
         [
           1795029069,
           2196
+        ],
+        [
+          1795029369,
+          2186
         ]
       ],
       "hourlyPeak": [
@@ -4977,7 +4977,7 @@
         ],
         [
           1794855600,
-          2315
+          2327
         ]
       ],
       "dailyPeak": [
@@ -5527,5 +5527,5 @@
     }
   },
   "peak48h": 2327,
-  "peak48hAt": "2026-11-16T19:11:34.000Z"
+  "peak48hAt": "2026-11-16T19:16:22.000Z"
 }
