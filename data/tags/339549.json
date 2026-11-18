@@ -3,16 +3,16 @@
   "appid": "518790",
   "steamAppid": 518790,
   "name": "theHunter: Call of the Wild",
-  "players": 3442,
+  "players": 3600,
   "allTimePeak": 25235,
   "peak24h": 4801,
   "peak24hAt": "2026-11-17T14:26:03.000Z",
-  "updatedAt": "2026-11-18T11:51:15.095Z",
+  "updatedAt": "2026-11-18T11:56:03.341Z",
   "img_url": "2024/12/mixcollage-07-dec-2024-01-01-am-1278.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-18T11:51:15.095Z",
-    "updatedAtTs": 1795002675,
+    "updatedAt": "2026-11-18T11:56:03.341Z",
+    "updatedAtTs": 1795002963,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1795002675,
-        3442
+        1795002963,
+        3600
       ],
       "peak24h": [
         1794925563,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794830161,
-          3480
-        ],
         [
           1794830480,
           3480
@@ -2328,6 +2324,10 @@
         [
           1795002675,
           3442
+        ],
+        [
+          1795002963,
+          3600
         ]
       ],
       "hourlyPeak": [
