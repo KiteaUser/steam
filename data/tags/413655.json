@@ -3,16 +3,16 @@
   "appid": "1171690",
   "steamAppid": 1171690,
   "name": "Wayfinder",
-  "players": 48,
+  "players": 52,
   "allTimePeak": 24712,
   "peak24h": 63,
   "peak24hAt": "2026-11-19T15:56:01.000Z",
-  "updatedAt": "2026-11-19T19:16:15.102Z",
+  "updatedAt": "2026-11-19T19:21:15.132Z",
   "img_url": "2025/02/mixcollage-08-feb-2025-11-34-am-1393.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-19T19:16:15.102Z",
-    "updatedAtTs": 1795115775,
+    "updatedAt": "2026-11-19T19:21:15.132Z",
+    "updatedAtTs": 1795116075,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1795115775,
-        48
+        1795116075,
+        52
       ],
       "peak24h": [
         1795103761,
         63
       ],
       "peak48h": [
-        1794942976,
-        72
+        1794946273,
+        67
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794942976,
-          72
-        ],
         [
           1794943337,
           63
@@ -2340,6 +2336,10 @@
         [
           1795115775,
           48
+        ],
+        [
+          1795116075,
+          52
         ]
       ],
       "hourlyPeak": [
@@ -5446,6 +5446,6 @@
       ]
     }
   },
-  "peak48h": 72,
-  "peak48hAt": "2026-11-17T19:16:16.000Z"
+  "peak48h": 67,
+  "peak48hAt": "2026-11-17T20:11:13.000Z"
 }
