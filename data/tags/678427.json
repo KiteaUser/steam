@@ -3,16 +3,16 @@
   "appid": "2285150",
   "steamAppid": 2285150,
   "name": "The Front",
-  "players": 74,
+  "players": 72,
   "allTimePeak": 19585,
   "peak24h": 74,
   "peak24hAt": "2026-11-19T13:21:07.000Z",
-  "updatedAt": "2026-11-19T13:21:07.563Z",
+  "updatedAt": "2026-11-19T13:25:59.557Z",
   "img_url": "2024/11/mixcollage-28-nov-2024-09-13-pm-3792.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-19T13:21:07.563Z",
-    "updatedAtTs": 1795094467,
+    "updatedAt": "2026-11-19T13:25:59.557Z",
+    "updatedAtTs": 1795094759,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1795094467,
-        74
+        1795094759,
+        72
       ],
       "peak24h": [
         1795094467,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794921673,
-          61
-        ],
         [
           1794921964,
           60
@@ -2336,6 +2332,10 @@
         [
           1795094467,
           74
+        ],
+        [
+          1795094759,
+          72
         ]
       ],
       "hourlyPeak": [
