@@ -3,16 +3,16 @@
   "appid": "1817190",
   "steamAppid": 1817190,
   "name": "Marvel's Spider-Man: Miles Morales",
-  "players": 564,
+  "players": 552,
   "allTimePeak": 13539,
   "peak24h": 564,
   "peak24hAt": "2026-11-18T19:56:09.000Z",
-  "updatedAt": "2026-11-19T19:06:10.347Z",
+  "updatedAt": "2026-11-19T19:11:21.365Z",
   "img_url": "2025/02/miles-morales-cover.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-19T19:06:10.347Z",
-    "updatedAtTs": 1795115170,
+    "updatedAt": "2026-11-19T19:11:21.365Z",
+    "updatedAtTs": 1795115481,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1795115170,
-        564
+        1795115481,
+        552
       ],
       "peak24h": [
         1795031769,
         564
       ],
       "peak48h": [
-        1794942372,
+        1795031769,
         564
       ],
       "allTimePeak": [
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794942372,
-          564
-        ],
-        [
-          1794942671,
-          552
-        ],
         [
           1794942976,
           552
@@ -2332,6 +2324,10 @@
         [
           1795115170,
           564
+        ],
+        [
+          1795115481,
+          552
         ]
       ],
       "hourlyPeak": [
@@ -4961,7 +4957,7 @@
         ],
         [
           1794942000,
-          562
+          564
         ]
       ],
       "dailyPeak": [
@@ -5475,5 +5471,5 @@
     }
   },
   "peak48h": 564,
-  "peak48hAt": "2026-11-17T19:06:12.000Z"
+  "peak48hAt": "2026-11-18T19:56:09.000Z"
 }

@@ -3,16 +3,16 @@
   "appid": "3183280",
   "steamAppid": 3183280,
   "name": "Game of Thrones: Kingsroad",
-  "players": 97,
+  "players": 107,
   "allTimePeak": 10727,
   "peak24h": 108,
   "peak24hAt": "2026-11-19T18:21:15.000Z",
-  "updatedAt": "2026-11-19T19:06:10.347Z",
+  "updatedAt": "2026-11-19T19:11:21.365Z",
   "img_url": "2025/01/mixcollage-21-jan-2025-08-49-am-3212.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-19T19:06:10.347Z",
-    "updatedAtTs": 1795115170,
+    "updatedAt": "2026-11-19T19:11:21.365Z",
+    "updatedAtTs": 1795115481,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1795115170,
-        97
+        1795115481,
+        107
       ],
       "peak24h": [
         1795112475,
         108
       ],
       "peak48h": [
-        1794942372,
-        126
+        1794942976,
+        115
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794942372,
-          126
-        ],
-        [
-          1794942671,
-          115
-        ],
         [
           1794942976,
           115
@@ -2336,6 +2328,10 @@
         [
           1795115170,
           97
+        ],
+        [
+          1795115481,
+          107
         ]
       ],
       "hourlyPeak": [
@@ -4965,7 +4961,7 @@
         ],
         [
           1794942000,
-          114
+          126
         ]
       ],
       "dailyPeak": [
@@ -5366,6 +5362,6 @@
       ]
     }
   },
-  "peak48h": 126,
-  "peak48hAt": "2026-11-17T19:06:12.000Z"
+  "peak48h": 115,
+  "peak48hAt": "2026-11-17T19:16:16.000Z"
 }
