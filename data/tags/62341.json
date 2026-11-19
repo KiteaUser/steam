@@ -3,16 +3,16 @@
   "appid": "1307550",
   "steamAppid": 1307550,
   "name": "Craftopia",
-  "players": 78,
+  "players": 83,
   "allTimePeak": 27246,
-  "peak24h": 84,
-  "peak24hAt": "2026-11-18T13:46:11.000Z",
-  "updatedAt": "2026-11-19T13:46:05.076Z",
+  "peak24h": 83,
+  "peak24hAt": "2026-11-19T13:51:35.000Z",
+  "updatedAt": "2026-11-19T13:51:35.067Z",
   "img_url": "2025/03/craftopia-cover.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-19T13:46:05.076Z",
-    "updatedAtTs": 1795095965,
+    "updatedAt": "2026-11-19T13:51:35.067Z",
+    "updatedAtTs": 1795096295,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1795095965,
-        78
+        1795096295,
+        83
       ],
       "peak24h": [
-        1795009571,
-        84
+        1795096295,
+        83
       ],
       "peak48h": [
-        1794923173,
+        1795008378,
         89
       ],
       "allTimePeak": [
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794923173,
-          89
-        ],
-        [
-          1794923468,
-          89
-        ],
         [
           1794923766,
           87
@@ -2332,6 +2324,10 @@
         [
           1795095965,
           78
+        ],
+        [
+          1795096295,
+          83
         ]
       ],
       "hourlyPeak": [
@@ -4961,7 +4957,7 @@
         ],
         [
           1794920400,
-          87
+          89
         ]
       ],
       "dailyPeak": [
@@ -5579,5 +5575,5 @@
     }
   },
   "peak48h": 89,
-  "peak48hAt": "2026-11-17T13:46:13.000Z"
+  "peak48hAt": "2026-11-18T13:26:18.000Z"
 }
