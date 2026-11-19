@@ -3,16 +3,16 @@
   "appid": "489520",
   "steamAppid": 489520,
   "name": "Minion Masters",
-  "players": 259,
+  "players": 264,
   "allTimePeak": 10329,
   "peak24h": 281,
   "peak24hAt": "2026-11-18T18:36:00.000Z",
-  "updatedAt": "2026-11-19T17:46:12.009Z",
+  "updatedAt": "2026-11-19T17:51:24.339Z",
   "img_url": "2024/11/mixcollage-21-nov-2024-09-00-am-2774.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-19T17:46:12.009Z",
-    "updatedAtTs": 1795110372,
+    "updatedAt": "2026-11-19T17:51:24.339Z",
+    "updatedAtTs": 1795110684,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1795110372,
-        259
+        1795110684,
+        264
       ],
       "peak24h": [
         1795026960,
         281
       ],
       "peak48h": [
-        1794937872,
-        292
+        1794939968,
+        289
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794937872,
-          292
-        ],
         [
           1794938187,
           278
@@ -2332,6 +2328,10 @@
         [
           1795110372,
           259
+        ],
+        [
+          1795110684,
+          264
         ]
       ],
       "hourlyPeak": [
@@ -5766,6 +5766,6 @@
       ]
     }
   },
-  "peak48h": 292,
-  "peak48hAt": "2026-11-17T17:51:12.000Z"
+  "peak48h": 289,
+  "peak48hAt": "2026-11-17T18:26:08.000Z"
 }
