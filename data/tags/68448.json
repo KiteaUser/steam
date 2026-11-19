@@ -3,16 +3,16 @@
   "appid": "761890",
   "steamAppid": 761890,
   "name": "Albion Online",
-  "players": 5419,
+  "players": 5536,
   "allTimePeak": 27227,
   "peak24h": 6561,
   "peak24hAt": "2026-11-19T19:16:15.000Z",
-  "updatedAt": "2026-11-19T21:41:22.459Z",
+  "updatedAt": "2026-11-19T21:46:10.849Z",
   "img_url": "2024/12/mixcollage-08-dec-2024-03-16-pm-3632.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-19T21:41:22.459Z",
-    "updatedAtTs": 1795124482,
+    "updatedAt": "2026-11-19T21:46:10.849Z",
+    "updatedAtTs": 1795124770,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1795124482,
-        5419
+        1795124770,
+        5536
       ],
       "peak24h": [
         1795115775,
         6561
       ],
       "peak48h": [
-        1794951966,
-        6878
+        1794952274,
+        6835
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794951966,
-          6878
-        ],
         [
           1794952274,
           6835
@@ -2328,6 +2324,10 @@
         [
           1795124482,
           5419
+        ],
+        [
+          1795124770,
+          5536
         ]
       ],
       "hourlyPeak": [
@@ -5690,6 +5690,6 @@
       ]
     }
   },
-  "peak48h": 6878,
-  "peak48hAt": "2026-11-17T21:46:06.000Z"
+  "peak48h": 6835,
+  "peak48hAt": "2026-11-17T21:51:14.000Z"
 }
