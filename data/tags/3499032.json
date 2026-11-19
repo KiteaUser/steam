@@ -3,16 +3,16 @@
   "appid": "2174380",
   "steamAppid": 2174380,
   "name": "Call of the Elder Gods",
-  "players": 8,
+  "players": 9,
   "allTimePeak": 220,
   "peak24h": 13,
   "peak24hAt": "2026-11-19T20:26:03.000Z",
-  "updatedAt": "2026-11-19T21:56:04.648Z",
+  "updatedAt": "2026-11-19T22:01:45.891Z",
   "img_url": "2026/04/call-of-the-elder-gods-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-19T21:56:04.648Z",
-    "updatedAtTs": 1795125364,
+    "updatedAt": "2026-11-19T22:01:45.891Z",
+    "updatedAtTs": 1795125705,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1795125364,
-        8
+        1795125705,
+        9
       ],
       "peak24h": [
         1795119963,
         13
       ],
       "peak48h": [
-        1794952568,
+        1794953168,
         17
       ],
       "allTimePeak": [
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794952568,
-          17
-        ],
-        [
-          1794952893,
-          17
-        ],
         [
           1794953168,
           17
@@ -2328,13 +2320,13 @@
         [
           1795125364,
           8
+        ],
+        [
+          1795125705,
+          9
         ]
       ],
       "hourlyPeak": [
-        [
-          1792533600,
-          5
-        ],
         [
           1792537200,
           5
@@ -4934,6 +4926,10 @@
         [
           1794949200,
           17
+        ],
+        [
+          1794952800,
+          17
         ]
       ],
       "dailyPeak": [
@@ -5279,5 +5275,5 @@
     }
   },
   "peak48h": 17,
-  "peak48hAt": "2026-11-17T21:56:08.000Z"
+  "peak48hAt": "2026-11-17T22:06:08.000Z"
 }
