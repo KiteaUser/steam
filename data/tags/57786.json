@@ -3,16 +3,16 @@
   "appid": "439190",
   "steamAppid": 439190,
   "name": "Stories: The Path of Destinies",
-  "players": 1,
+  "players": 3,
   "allTimePeak": 81664,
   "peak24h": 6,
-  "peak24hAt": "2026-11-18T19:56:09.000Z",
-  "updatedAt": "2026-11-19T19:55:58.328Z",
+  "peak24hAt": "2026-11-18T20:01:38.000Z",
+  "updatedAt": "2026-11-19T20:01:32.560Z",
   "img_url": "2025/02/stories-the-path-of-destinies-tag-cover.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-19T19:55:58.328Z",
-    "updatedAtTs": 1795118158,
+    "updatedAt": "2026-11-19T20:01:32.560Z",
+    "updatedAtTs": 1795118492,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1795118158,
-        1
+        1795118492,
+        3
       ],
       "peak24h": [
-        1795031769,
+        1795032098,
         6
       ],
       "peak48h": [
-        1794945691,
+        1794945966,
         7
       ],
       "allTimePeak": [
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794945379,
-          6
-        ],
-        [
-          1794945691,
-          7
-        ],
         [
           1794945966,
           7
@@ -2180,13 +2172,13 @@
         [
           1795118158,
           1
+        ],
+        [
+          1795118492,
+          3
         ]
       ],
       "hourlyPeak": [
-        [
-          1792526400,
-          4
-        ],
         [
           1792530000,
           4
@@ -4730,6 +4722,10 @@
         [
           1794942000,
           7
+        ],
+        [
+          1794945600,
+          7
         ]
       ],
       "dailyPeak": [
@@ -5563,5 +5559,5 @@
     }
   },
   "peak48h": 7,
-  "peak48hAt": "2026-11-17T20:01:31.000Z"
+  "peak48hAt": "2026-11-17T20:06:06.000Z"
 }
