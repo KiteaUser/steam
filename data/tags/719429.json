@@ -3,16 +3,16 @@
   "appid": "2622000",
   "steamAppid": 2622000,
   "name": "Astral Party",
-  "players": 6120,
+  "players": 6115,
   "allTimePeak": 34387,
   "peak24h": 6181,
   "peak24hAt": "2026-11-20T14:31:32.000Z",
-  "updatedAt": "2026-11-20T14:41:23.979Z",
+  "updatedAt": "2026-11-20T14:46:35.083Z",
   "img_url": "2024/11/mixcollage-20-nov-2024-04-20-am-6842.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-20T14:41:23.979Z",
-    "updatedAtTs": 1795185683,
+    "updatedAt": "2026-11-20T14:46:35.083Z",
+    "updatedAtTs": 1795185995,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1795185683,
-        6120
+        1795185995,
+        6115
       ],
       "peak24h": [
         1795185092,
         6181
       ],
       "peak48h": [
-        1795012888,
-        6479
+        1795013483,
+        6402
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795012888,
-          6479
-        ],
-        [
-          1795013163,
-          6479
-        ],
         [
           1795013483,
           6402
@@ -2344,6 +2336,10 @@
         [
           1795185683,
           6120
+        ],
+        [
+          1795185995,
+          6115
         ]
       ],
       "hourlyPeak": [
@@ -5430,6 +5426,6 @@
       ]
     }
   },
-  "peak48h": 6479,
-  "peak48hAt": "2026-11-18T14:41:28.000Z"
+  "peak48h": 6402,
+  "peak48hAt": "2026-11-18T14:51:23.000Z"
 }
