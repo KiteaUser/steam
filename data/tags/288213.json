@@ -3,16 +3,16 @@
   "appid": "3240220",
   "steamAppid": 3240220,
   "name": "Grand Theft Auto V",
-  "players": 101127,
+  "players": 99583,
   "allTimePeak": 187059,
   "peak24h": 101127,
   "peak24hAt": "2026-11-20T13:46:08.000Z",
-  "updatedAt": "2026-11-20T13:46:08.678Z",
+  "updatedAt": "2026-11-20T13:51:08.595Z",
   "img_url": "2024/12/mixcollage-08-dec-2024-01-51-pm-5640.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-20T13:46:08.678Z",
-    "updatedAtTs": 1795182368,
+    "updatedAt": "2026-11-20T13:51:08.595Z",
+    "updatedAtTs": 1795182668,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1795182368,
-        101127
+        1795182668,
+        99583
       ],
       "peak24h": [
         1795182368,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795009571,
-          72982
-        ],
         [
           1795009875,
           74380
@@ -2344,6 +2340,10 @@
         [
           1795182368,
           101127
+        ],
+        [
+          1795182668,
+          99583
         ]
       ],
       "hourlyPeak": [
