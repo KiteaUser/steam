@@ -3,16 +3,16 @@
   "appid": "758330b",
   "steamAppid": 758330,
   "name": "Shenmue 2",
-  "players": 37,
+  "players": 36,
   "allTimePeak": 1554,
   "peak24h": 37,
   "peak24hAt": "2026-11-20T20:56:04.000Z",
-  "updatedAt": "2026-11-20T20:56:04.376Z",
+  "updatedAt": "2026-11-20T21:01:49.278Z",
   "img_url": "2024/12/shenmue-2-cover.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-20T20:56:04.376Z",
-    "updatedAtTs": 1795208164,
+    "updatedAt": "2026-11-20T21:01:49.278Z",
+    "updatedAtTs": 1795208509,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1795208164,
-        37
+        1795208509,
+        36
       ],
       "peak24h": [
         1795208164,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795035368,
-          33
-        ],
-        [
-          1795035687,
-          34
-        ],
         [
           1795035960,
           35
@@ -2344,13 +2336,13 @@
         [
           1795208164,
           37
+        ],
+        [
+          1795208509,
+          36
         ]
       ],
       "hourlyPeak": [
-        [
-          1792616400,
-          29
-        ],
         [
           1792620000,
           25
@@ -4973,7 +4965,11 @@
         ],
         [
           1795032000,
-          30
+          33
+        ],
+        [
+          1795035600,
+          34
         ]
       ],
       "dailyPeak": [
