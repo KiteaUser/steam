@@ -5,14 +5,14 @@
   "name": "State of Decay",
   "players": 5,
   "allTimePeak": 10079,
-  "peak24h": 12,
-  "peak24hAt": "2026-11-19T03:21:24.000Z",
-  "updatedAt": "2026-11-20T03:21:10.903Z",
+  "peak24h": 8,
+  "peak24hAt": "2026-11-19T03:31:20.000Z",
+  "updatedAt": "2026-11-20T03:26:13.382Z",
   "img_url": "2024/12/mixcollage-12-dec-2024-11-57-pm-1263.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-20T03:21:10.903Z",
-    "updatedAtTs": 1795144870,
+    "updatedAt": "2026-11-20T03:26:13.382Z",
+    "updatedAtTs": 1795145173,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,12 +23,12 @@
     },
     "summary": {
       "current": [
-        1795144870,
+        1795145173,
         5
       ],
       "peak24h": [
-        1795058484,
-        12
+        1795059080,
+        8
       ],
       "peak48h": [
         1795058484,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794972075,
-          4
-        ],
-        [
-          1794972373,
-          4
-        ],
         [
           1794972677,
           4
@@ -2343,6 +2335,10 @@
         ],
         [
           1795144870,
+          5
+        ],
+        [
+          1795145173,
           5
         ]
       ],
