@@ -3,16 +3,16 @@
   "appid": "1385380",
   "steamAppid": 1385380,
   "name": "Across the Obelisk",
-  "players": 302,
+  "players": 298,
   "allTimePeak": 14037,
   "peak24h": 302,
   "peak24hAt": "2026-11-20T20:46:12.000Z",
-  "updatedAt": "2026-11-20T20:46:12.150Z",
+  "updatedAt": "2026-11-20T20:51:15.130Z",
   "img_url": "2024/11/mixcollage-28-nov-2024-09-32-am-9407.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-20T20:46:12.150Z",
-    "updatedAtTs": 1795207572,
+    "updatedAt": "2026-11-20T20:51:15.130Z",
+    "updatedAtTs": 1795207875,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1795207572,
-        302
+        1795207875,
+        298
       ],
       "peak24h": [
         1795207572,
         302
       ],
       "peak48h": [
-        1795034776,
-        307
+        1795207572,
+        302
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795034776,
-          307
-        ],
-        [
-          1795035069,
-          296
-        ],
         [
           1795035368,
           292
@@ -2344,6 +2336,10 @@
         [
           1795207572,
           302
+        ],
+        [
+          1795207875,
+          298
         ]
       ],
       "hourlyPeak": [
@@ -4973,7 +4969,7 @@
         ],
         [
           1795032000,
-          303
+          307
         ]
       ],
       "dailyPeak": [
@@ -5566,6 +5562,6 @@
       ]
     }
   },
-  "peak48h": 307,
-  "peak48hAt": "2026-11-18T20:46:16.000Z"
+  "peak48h": 302,
+  "peak48hAt": "2026-11-20T20:46:12.000Z"
 }
