@@ -3,16 +3,16 @@
   "appid": "1046930",
   "steamAppid": 1046930,
   "name": "Dota Underlords",
-  "players": 945,
+  "players": 933,
   "allTimePeak": 202334,
   "peak24h": 945,
   "peak24hAt": "2026-11-20T15:56:08.000Z",
-  "updatedAt": "2026-11-20T15:56:08.492Z",
+  "updatedAt": "2026-11-20T16:01:37.725Z",
   "img_url": "2025/08/dota-underlords-tag-page-cover-art_upscayl_2x_ultramix_balanced.png",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-20T15:56:08.492Z",
-    "updatedAtTs": 1795190168,
+    "updatedAt": "2026-11-20T16:01:37.725Z",
+    "updatedAtTs": 1795190497,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1795190168,
-        945
+        1795190497,
+        933
       ],
       "peak24h": [
         1795190168,
         945
       ],
       "peak48h": [
-        1795017694,
+        1795017966,
         954
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795017694,
-          954
-        ],
         [
           1795017966,
           954
@@ -2340,13 +2336,13 @@
         [
           1795190168,
           945
+        ],
+        [
+          1795190497,
+          933
         ]
       ],
       "hourlyPeak": [
-        [
-          1792598400,
-          1010
-        ],
         [
           1792602000,
           1040
@@ -4970,6 +4966,10 @@
         [
           1795014000,
           1004
+        ],
+        [
+          1795017600,
+          954
         ]
       ],
       "dailyPeak": [
@@ -5651,5 +5651,5 @@
     }
   },
   "peak48h": 954,
-  "peak48hAt": "2026-11-18T16:01:34.000Z"
+  "peak48hAt": "2026-11-18T16:06:06.000Z"
 }
