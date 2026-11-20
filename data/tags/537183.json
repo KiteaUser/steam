@@ -3,16 +3,16 @@
   "appid": "961200",
   "steamAppid": 961200,
   "name": "Predecessor",
-  "players": 1496,
+  "players": 1485,
   "allTimePeak": 7339,
-  "peak24h": 1629,
-  "peak24hAt": "2026-11-19T04:16:03.000Z",
-  "updatedAt": "2026-11-20T04:11:13.450Z",
+  "peak24h": 1583,
+  "peak24hAt": "2026-11-20T02:56:03.000Z",
+  "updatedAt": "2026-11-20T04:16:14.409Z",
   "img_url": "2024/11/mixcollage-24-nov-2024-06-54-pm-9956.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-20T04:11:13.450Z",
-    "updatedAtTs": 1795147873,
+    "updatedAt": "2026-11-20T04:16:14.409Z",
+    "updatedAtTs": 1795148174,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,12 +23,12 @@
     },
     "summary": {
       "current": [
-        1795147873,
-        1496
+        1795148174,
+        1485
       ],
       "peak24h": [
-        1795061763,
-        1629
+        1795143363,
+        1583
       ],
       "peak48h": [
         1795038681,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794975359,
-          1623
-        ],
         [
           1794975683,
           1592
@@ -2340,6 +2336,10 @@
         [
           1795147873,
           1496
+        ],
+        [
+          1795148174,
+          1485
         ]
       ],
       "hourlyPeak": [
