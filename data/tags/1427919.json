@@ -7,12 +7,12 @@
   "allTimePeak": 35098,
   "peak24h": 535,
   "peak24hAt": "2026-11-20T14:26:17.000Z",
-  "updatedAt": "2026-11-20T14:26:17.211Z",
+  "updatedAt": "2026-11-20T14:31:32.533Z",
   "img_url": "2024/11/luma-island-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-20T14:26:17.211Z",
-    "updatedAtTs": 1795184777,
+    "updatedAt": "2026-11-20T14:31:32.533Z",
+    "updatedAtTs": 1795185092,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,7 +23,7 @@
     },
     "summary": {
       "current": [
-        1795184777,
+        1795185092,
         535
       ],
       "peak24h": [
@@ -31,8 +31,8 @@
         535
       ],
       "peak48h": [
-        1795012289,
-        547
+        1795012564,
+        541
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795012289,
-          547
-        ],
         [
           1795012564,
           541
@@ -2339,6 +2335,10 @@
         ],
         [
           1795184777,
+          535
+        ],
+        [
+          1795185092,
           535
         ]
       ],
@@ -5390,6 +5390,6 @@
       ]
     }
   },
-  "peak48h": 547,
-  "peak48hAt": "2026-11-18T14:31:29.000Z"
+  "peak48h": 541,
+  "peak48hAt": "2026-11-18T14:36:04.000Z"
 }
