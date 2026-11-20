@@ -3,16 +3,16 @@
   "appid": "4069520",
   "steamAppid": 4069520,
   "name": "Super Battle Golf",
-  "players": 832,
+  "players": 858,
   "allTimePeak": 20421,
   "peak24h": 918,
   "peak24hAt": "2026-11-19T03:56:16.000Z",
-  "updatedAt": "2026-11-20T03:46:20.227Z",
+  "updatedAt": "2026-11-20T03:51:14.254Z",
   "img_url": "2026/02/super-battle-golf-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-20T03:46:20.227Z",
-    "updatedAtTs": 1795146380,
+    "updatedAt": "2026-11-20T03:51:14.254Z",
+    "updatedAtTs": 1795146674,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1795146380,
-        832
+        1795146674,
+        858
       ],
       "peak24h": [
         1795060576,
         918
       ],
       "peak48h": [
-        1794973874,
-        1022
+        1795058484,
+        983
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794973874,
-          1022
-        ],
         [
           1794974161,
           919
@@ -2340,6 +2336,10 @@
         [
           1795146380,
           832
+        ],
+        [
+          1795146674,
+          858
         ]
       ],
       "hourlyPeak": [
@@ -5330,6 +5330,6 @@
       ]
     }
   },
-  "peak48h": 1022,
-  "peak48hAt": "2026-11-18T03:51:14.000Z"
+  "peak48h": 983,
+  "peak48hAt": "2026-11-19T03:21:24.000Z"
 }
