@@ -3,16 +3,16 @@
   "appid": "803330",
   "steamAppid": 803330,
   "name": "Destroy All Humans",
-  "players": 25,
+  "players": 23,
   "allTimePeak": 12423,
   "peak24h": 45,
   "peak24hAt": "2026-11-20T01:41:12.000Z",
-  "updatedAt": "2026-11-20T18:51:25.570Z",
+  "updatedAt": "2026-11-20T18:56:14.612Z",
   "img_url": "2024/11/mixcollage-28-nov-2024-05-58-pm-3653.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-20T18:51:25.570Z",
-    "updatedAtTs": 1795200685,
+    "updatedAt": "2026-11-20T18:56:14.612Z",
+    "updatedAtTs": 1795200974,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1795200685,
-        25
+        1795200974,
+        23
       ],
       "peak24h": [
         1795138872,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795028172,
-          27
-        ],
         [
           1795028498,
           29
@@ -2340,6 +2336,10 @@
         [
           1795200685,
           25
+        ],
+        [
+          1795200974,
+          23
         ]
       ],
       "hourlyPeak": [
