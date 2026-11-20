@@ -3,16 +3,16 @@
   "appid": "3219030",
   "steamAppid": 3219030,
   "name": "Planet Zoo 2",
-  "players": 7178,
+  "players": 7111,
   "allTimePeak": 45101,
   "peak24h": 7178,
   "peak24hAt": "2026-11-20T19:51:10.000Z",
-  "updatedAt": "2026-11-20T19:51:10.882Z",
+  "updatedAt": "2026-11-20T19:56:17.328Z",
   "img_url": "2026/06/planet-zoo-2-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-20T19:51:10.882Z",
-    "updatedAtTs": 1795204270,
+    "updatedAt": "2026-11-20T19:56:17.328Z",
+    "updatedAtTs": 1795204577,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1795204270,
-        7178
+        1795204577,
+        7111
       ],
       "peak24h": [
         1795204270,
         7178
       ],
       "peak48h": [
-        1795031769,
-        7680
+        1795032367,
+        7645
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795031479,
-          7659
-        ],
-        [
-          1795031769,
-          7680
-        ],
         [
           1795032098,
           7644
@@ -2344,6 +2336,10 @@
         [
           1795204270,
           7178
+        ],
+        [
+          1795204577,
+          7111
         ]
       ],
       "hourlyPeak": [
@@ -5017,6 +5013,6 @@
       "monthlyPeak": []
     }
   },
-  "peak48h": 7680,
-  "peak48hAt": "2026-11-18T19:56:09.000Z"
+  "peak48h": 7645,
+  "peak48hAt": "2026-11-18T20:06:07.000Z"
 }
