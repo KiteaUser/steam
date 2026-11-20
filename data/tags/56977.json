@@ -3,16 +3,16 @@
   "appid": "113200",
   "steamAppid": 113200,
   "name": "The Binding of Isaac",
-  "players": 190,
+  "players": 187,
   "allTimePeak": 12575,
   "peak24h": 199,
   "peak24hAt": "2026-11-20T15:56:08.000Z",
-  "updatedAt": "2026-11-20T18:21:12.987Z",
+  "updatedAt": "2026-11-20T18:26:06.194Z",
   "img_url": "2024/12/mixcollage-11-dec-2024-04-03-pm-5313.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-20T18:21:12.987Z",
-    "updatedAtTs": 1795198872,
+    "updatedAt": "2026-11-20T18:26:06.194Z",
+    "updatedAtTs": 1795199166,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1795198872,
-        190
+        1795199166,
+        187
       ],
       "peak24h": [
         1795190168,
         199
       ],
       "peak48h": [
-        1795026361,
+        1795190168,
         199
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795026361,
-          199
-        ],
         [
           1795026677,
           193
@@ -2340,6 +2336,10 @@
         [
           1795198872,
           190
+        ],
+        [
+          1795199166,
+          187
         ]
       ],
       "hourlyPeak": [
@@ -5983,5 +5983,5 @@
     }
   },
   "peak48h": 199,
-  "peak48hAt": "2026-11-18T18:26:01.000Z"
+  "peak48hAt": "2026-11-20T15:56:08.000Z"
 }
