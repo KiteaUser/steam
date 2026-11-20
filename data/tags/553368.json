@@ -3,16 +3,16 @@
   "appid": "2551020",
   "steamAppid": 2551020,
   "name": "One-armed robber",
-  "players": 1000,
+  "players": 963,
   "allTimePeak": 13663,
   "peak24h": 1000,
   "peak24hAt": "2026-11-20T17:11:05.000Z",
-  "updatedAt": "2026-11-20T17:11:05.676Z",
+  "updatedAt": "2026-11-20T17:16:53.185Z",
   "img_url": "2024/11/mixcollage-24-nov-2024-10-50-am-3449.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-20T17:11:05.676Z",
-    "updatedAtTs": 1795194665,
+    "updatedAt": "2026-11-20T17:16:53.185Z",
+    "updatedAtTs": 1795195013,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1795194665,
-        1000
+        1795195013,
+        963
       ],
       "peak24h": [
         1795194665,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795021875,
-          747
-        ],
-        [
-          1795022178,
-          763
-        ],
         [
           1795022473,
           763
@@ -2344,6 +2336,10 @@
         [
           1795194665,
           1000
+        ],
+        [
+          1795195013,
+          963
         ]
       ],
       "hourlyPeak": [
@@ -4973,7 +4969,7 @@
         ],
         [
           1795021200,
-          758
+          763
         ]
       ],
       "dailyPeak": [
