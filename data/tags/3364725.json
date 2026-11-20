@@ -7,12 +7,12 @@
   "allTimePeak": 11060,
   "peak24h": 2,
   "peak24hAt": "2026-11-19T13:01:33.000Z",
-  "updatedAt": "2026-11-20T11:51:12.250Z",
+  "updatedAt": "2026-11-20T11:56:00.615Z",
   "img_url": "2026/02/dream-pinball-3d-tag-page-cover-art_upscayl_2x_ultramix_balanced.png",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-20T11:51:12.250Z",
-    "updatedAtTs": 1795175472,
+    "updatedAt": "2026-11-20T11:56:00.615Z",
+    "updatedAtTs": 1795175760,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,7 +23,7 @@
     },
     "summary": {
       "current": [
-        1795175472,
+        1795175760,
         1
       ],
       "peak24h": [
@@ -31,8 +31,8 @@
         2
       ],
       "peak48h": [
-        1795002675,
-        94
+        1795003295,
+        93
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795002675,
-          94
-        ],
         [
           1795002963,
           91
@@ -2343,6 +2339,10 @@
         ],
         [
           1795175472,
+          1
+        ],
+        [
+          1795175760,
           1
         ]
       ],
@@ -5390,6 +5390,6 @@
       ]
     }
   },
-  "peak48h": 94,
-  "peak48hAt": "2026-11-18T11:51:15.000Z"
+  "peak48h": 93,
+  "peak48hAt": "2026-11-18T12:01:35.000Z"
 }
