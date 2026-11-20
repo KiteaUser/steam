@@ -3,16 +3,16 @@
   "appid": "2989180",
   "steamAppid": 2989180,
   "name": "Darwin's Paradox",
-  "players": 5,
+  "players": 1,
   "allTimePeak": 221,
   "peak24h": 9,
   "peak24hAt": "2026-11-19T18:25:58.000Z",
-  "updatedAt": "2026-11-20T04:21:14.462Z",
+  "updatedAt": "2026-11-20T04:25:58.505Z",
   "img_url": "2025/02/darwin-s-paradox-cover-1.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-20T04:21:14.462Z",
-    "updatedAtTs": 1795148474,
+    "updatedAt": "2026-11-20T04:25:58.505Z",
+    "updatedAtTs": 1795148758,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1795148474,
-        5
+        1795148758,
+        1
       ],
       "peak24h": [
         1795112758,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1794975683,
-          4
-        ],
-        [
-          1794975956,
-          4
-        ],
         [
           1794976334,
           4
@@ -2312,6 +2304,10 @@
         [
           1795148474,
           5
+        ],
+        [
+          1795148758,
+          1
         ]
       ],
       "hourlyPeak": [
