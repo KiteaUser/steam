@@ -3,16 +3,16 @@
   "appid": "2666510",
   "steamAppid": 2666510,
   "name": "Rusty's Retirement",
-  "players": 240,
+  "players": 233,
   "allTimePeak": 20876,
   "peak24h": 254,
   "peak24hAt": "2026-11-21T14:16:02.000Z",
-  "updatedAt": "2026-11-21T14:41:11.170Z",
+  "updatedAt": "2026-11-21T14:46:12.612Z",
   "img_url": "2024/12/mixcollage-03-dec-2024-12-35-pm-8771.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-21T14:41:11.170Z",
-    "updatedAtTs": 1795272071,
+    "updatedAt": "2026-11-21T14:46:12.612Z",
+    "updatedAtTs": 1795272372,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1795272071,
-        240
+        1795272372,
+        233
       ],
       "peak24h": [
         1795270562,
         254
       ],
       "peak48h": [
-        1795099278,
-        266
+        1795100175,
+        264
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795099278,
-          266
-        ],
-        [
-          1795099570,
-          265
-        ],
         [
           1795099872,
           263
@@ -2340,6 +2332,10 @@
         [
           1795272071,
           240
+        ],
+        [
+          1795272372,
+          233
         ]
       ],
       "hourlyPeak": [
@@ -5422,6 +5418,6 @@
       ]
     }
   },
-  "peak48h": 266,
-  "peak48hAt": "2026-11-19T14:41:18.000Z"
+  "peak48h": 264,
+  "peak48hAt": "2026-11-19T14:56:15.000Z"
 }
