@@ -3,16 +3,16 @@
   "appid": "511470",
   "steamAppid": 511470,
   "name": "Glass Masquerade",
-  "players": 4,
+  "players": 3,
   "allTimePeak": 29689,
   "peak24h": 13,
   "peak24hAt": "2026-11-20T13:46:08.000Z",
-  "updatedAt": "2026-11-21T01:21:07.352Z",
+  "updatedAt": "2026-11-21T01:25:59.678Z",
   "img_url": "2025/04/mixcollage-08-apr-2025-07-40-am-86.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-21T01:21:07.352Z",
-    "updatedAtTs": 1795224067,
+    "updatedAt": "2026-11-21T01:25:59.678Z",
+    "updatedAtTs": 1795224359,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1795224067,
-        4
+        1795224359,
+        3
       ],
       "peak24h": [
         1795182368,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795051271,
-          2
-        ],
-        [
-          1795051552,
-          2
-        ],
         [
           1795051889,
           2
@@ -2308,6 +2300,10 @@
         [
           1795224067,
           4
+        ],
+        [
+          1795224359,
+          3
         ]
       ],
       "hourlyPeak": [
