@@ -3,16 +3,16 @@
   "appid": "3314790",
   "steamAppid": 3314790,
   "name": "CloverPit",
-  "players": 1081,
+  "players": 1050,
   "allTimePeak": 25190,
   "peak24h": 1081,
   "peak24hAt": "2026-11-21T14:26:03.000Z",
-  "updatedAt": "2026-11-21T14:26:03.326Z",
+  "updatedAt": "2026-11-21T14:31:24.856Z",
   "img_url": "2025/04/clover-pit-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-21T14:26:03.326Z",
-    "updatedAtTs": 1795271163,
+    "updatedAt": "2026-11-21T14:31:24.856Z",
+    "updatedAtTs": 1795271484,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1795271163,
-        1081
+        1795271484,
+        1050
       ],
       "peak24h": [
         1795271163,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795098364,
-          790
-        ],
-        [
-          1795098681,
-          797
-        ],
         [
           1795098964,
           822
@@ -2340,6 +2332,10 @@
         [
           1795271163,
           1081
+        ],
+        [
+          1795271484,
+          1050
         ]
       ],
       "hourlyPeak": [
