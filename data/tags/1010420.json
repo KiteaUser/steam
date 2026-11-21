@@ -3,16 +3,16 @@
   "appid": "2791440",
   "steamAppid": 2791440,
   "name": "Brighter Shores",
-  "players": 99,
+  "players": 97,
   "allTimePeak": 21272,
   "peak24h": 126,
   "peak24hAt": "2026-11-20T01:01:23.000Z",
-  "updatedAt": "2026-11-20T23:56:08.352Z",
+  "updatedAt": "2026-11-21T00:01:23.988Z",
   "img_url": "2024/10/brighter-shores-tag-image.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-20T23:56:08.352Z",
-    "updatedAtTs": 1795218968,
+    "updatedAt": "2026-11-21T00:01:23.988Z",
+    "updatedAtTs": 1795219283,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1795218968,
-        99
+        1795219283,
+        97
       ],
       "peak24h": [
         1795136483,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795046175,
-          97
-        ],
         [
           1795046493,
           95
@@ -2344,13 +2340,13 @@
         [
           1795218968,
           99
+        ],
+        [
+          1795219283,
+          97
         ]
       ],
       "hourlyPeak": [
-        [
-          1792627200,
-          152
-        ],
         [
           1792630800,
           168
@@ -5303,6 +5299,10 @@
         ],
         [
           1792540800,
+          152
+        ],
+        [
+          1792627200,
           152
         ]
       ],
