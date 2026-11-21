@@ -3,16 +3,16 @@
   "appid": "1789480",
   "steamAppid": 1789480,
   "name": "Marauders",
-  "players": 24,
+  "players": 26,
   "allTimePeak": 14332,
-  "peak24h": 24,
-  "peak24hAt": "2026-11-21T02:06:02.000Z",
-  "updatedAt": "2026-11-21T02:11:06.277Z",
+  "peak24h": 26,
+  "peak24hAt": "2026-11-21T02:16:27.000Z",
+  "updatedAt": "2026-11-21T02:16:27.381Z",
   "img_url": "2024/12/mixcollage-12-dec-2024-05-36-pm-7216.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-21T02:11:06.277Z",
-    "updatedAtTs": 1795227066,
+    "updatedAt": "2026-11-21T02:16:27.381Z",
+    "updatedAtTs": 1795227387,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1795227066,
-        24
+        1795227387,
+        26
       ],
       "peak24h": [
-        1795226762,
-        24
+        1795227387,
+        26
       ],
       "peak48h": [
-        1795226762,
-        24
+        1795227387,
+        26
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795054277,
-          16
-        ],
-        [
-          1795054573,
-          16
-        ],
         [
           1795054863,
           16
@@ -2344,6 +2336,10 @@
         [
           1795227066,
           24
+        ],
+        [
+          1795227387,
+          26
         ]
       ],
       "hourlyPeak": [
@@ -5498,6 +5494,6 @@
       ]
     }
   },
-  "peak48h": 24,
-  "peak48hAt": "2026-11-21T02:06:02.000Z"
+  "peak48h": 26,
+  "peak48hAt": "2026-11-21T02:16:27.000Z"
 }
