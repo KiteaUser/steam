@@ -3,16 +3,16 @@
   "appid": "638070",
   "steamAppid": 638070,
   "name": "Murderous Pursuits",
-  "players": 10,
+  "players": 12,
   "allTimePeak": 149224,
-  "peak24h": 10,
-  "peak24hAt": "2026-11-21T19:16:20.000Z",
-  "updatedAt": "2026-11-21T19:41:08.062Z",
+  "peak24h": 12,
+  "peak24hAt": "2026-11-21T19:46:26.000Z",
+  "updatedAt": "2026-11-21T19:46:26.837Z",
   "img_url": "2025/08/murderous-pursuits-tag-page-cover-art_upscayl_2x_ultramix_balanced.png",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-21T19:41:08.062Z",
-    "updatedAtTs": 1795290068,
+    "updatedAt": "2026-11-21T19:46:26.837Z",
+    "updatedAtTs": 1795290386,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1795290068,
-        10
+        1795290386,
+        12
       ],
       "peak24h": [
-        1795288580,
-        10
+        1795290386,
+        12
       ],
       "peak48h": [
-        1795288580,
-        10
+        1795290386,
+        12
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795117285,
-          1
-        ],
-        [
-          1795117577,
-          1
-        ],
         [
           1795117875,
           1
@@ -1828,6 +1820,10 @@
         [
           1795290068,
           10
+        ],
+        [
+          1795290386,
+          12
         ]
       ],
       "hourlyPeak": [
@@ -4694,6 +4690,6 @@
       ]
     }
   },
-  "peak48h": 10,
-  "peak48hAt": "2026-11-21T19:16:20.000Z"
+  "peak48h": 12,
+  "peak48hAt": "2026-11-21T19:46:26.000Z"
 }

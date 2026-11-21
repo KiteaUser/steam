@@ -3,16 +3,16 @@
   "appid": "298900",
   "steamAppid": 298900,
   "name": "Space Hulk: Deathwing",
-  "players": 3,
+  "players": 6,
   "allTimePeak": 11499,
-  "peak24h": 5,
-  "peak24hAt": "2026-11-21T10:25:59.000Z",
-  "updatedAt": "2026-11-21T19:41:08.062Z",
+  "peak24h": 6,
+  "peak24hAt": "2026-11-21T19:46:26.000Z",
+  "updatedAt": "2026-11-21T19:46:26.837Z",
   "img_url": "2025/09/space-hulk-deathwing-enhanced-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-21T19:41:08.062Z",
-    "updatedAtTs": 1795290068,
+    "updatedAt": "2026-11-21T19:46:26.837Z",
+    "updatedAtTs": 1795290386,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1795290068,
-        3
+        1795290386,
+        6
       ],
       "peak24h": [
-        1795256759,
-        5
+        1795290386,
+        6
       ],
       "peak48h": [
-        1795256759,
-        5
+        1795290386,
+        6
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795117285,
-          1
-        ],
-        [
-          1795117577,
-          1
-        ],
         [
           1795118492,
           1
@@ -2228,6 +2220,10 @@
         [
           1795290068,
           3
+        ],
+        [
+          1795290386,
+          6
         ]
       ],
       "hourlyPeak": [
@@ -5522,6 +5518,6 @@
       ]
     }
   },
-  "peak48h": 5,
-  "peak48hAt": "2026-11-21T10:25:59.000Z"
+  "peak48h": 6,
+  "peak48hAt": "2026-11-21T19:46:26.000Z"
 }
