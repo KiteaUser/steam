@@ -7,12 +7,12 @@
   "allTimePeak": 24085,
   "peak24h": 272,
   "peak24hAt": "2026-11-21T02:36:12.000Z",
-  "updatedAt": "2026-11-21T19:01:25.663Z",
+  "updatedAt": "2026-11-21T19:06:03.129Z",
   "img_url": "2024/10/webfishing-tag-image.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-21T19:01:25.663Z",
-    "updatedAtTs": 1795287685,
+    "updatedAt": "2026-11-21T19:06:03.129Z",
+    "updatedAtTs": 1795287963,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,7 +23,7 @@
     },
     "summary": {
       "current": [
-        1795287685,
+        1795287963,
         207
       ],
       "peak24h": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795114889,
-          168
-        ],
         [
           1795115170,
           172
@@ -2339,6 +2335,10 @@
         ],
         [
           1795287685,
+          207
+        ],
+        [
+          1795287963,
           207
         ]
       ],
@@ -4966,6 +4966,10 @@
         [
           1795111200,
           173
+        ],
+        [
+          1795114800,
+          168
         ]
       ],
       "dailyPeak": [
