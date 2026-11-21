@@ -3,16 +3,16 @@
   "appid": "243470",
   "steamAppid": 243470,
   "name": "WatchDogs",
-  "players": 701,
+  "players": 669,
   "allTimePeak": 47887,
   "peak24h": 1115,
   "peak24hAt": "2026-11-20T15:01:35.000Z",
-  "updatedAt": "2026-11-21T00:51:12.149Z",
+  "updatedAt": "2026-11-21T00:56:00.879Z",
   "img_url": "2024/12/mixcollage-16-dec-2024-12-31-pm-7077.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-21T00:51:12.149Z",
-    "updatedAtTs": 1795222272,
+    "updatedAt": "2026-11-21T00:56:00.879Z",
+    "updatedAtTs": 1795222560,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1795222272,
-        701
+        1795222560,
+        669
       ],
       "peak24h": [
         1795186895,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795049477,
-          454
-        ],
         [
           1795049773,
           424
@@ -2344,6 +2340,10 @@
         [
           1795222272,
           701
+        ],
+        [
+          1795222560,
+          669
         ]
       ],
       "hourlyPeak": [
