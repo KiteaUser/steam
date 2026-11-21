@@ -3,16 +3,16 @@
   "appid": "619820",
   "steamAppid": 619820,
   "name": "Heroes of Hammerwatch II",
-  "players": 166,
+  "players": 183,
   "allTimePeak": 21237,
-  "peak24h": 181,
-  "peak24hAt": "2026-11-20T14:16:03.000Z",
-  "updatedAt": "2026-11-21T13:06:03.846Z",
+  "peak24h": 183,
+  "peak24hAt": "2026-11-21T13:10:59.000Z",
+  "updatedAt": "2026-11-21T13:10:59.284Z",
   "img_url": "2025/01/mixcollage-22-jan-2025-02-13-am-72.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-21T13:06:03.846Z",
-    "updatedAtTs": 1795266363,
+    "updatedAt": "2026-11-21T13:10:59.284Z",
+    "updatedAtTs": 1795266659,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1795266363,
-        166
+        1795266659,
+        183
       ],
       "peak24h": [
-        1795184163,
-        181
+        1795266659,
+        183
       ],
       "peak48h": [
-        1795184163,
-        181
+        1795266659,
+        183
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795093620,
-          135
-        ],
         [
           1795093873,
           135
@@ -2344,6 +2340,10 @@
         [
           1795266363,
           166
+        ],
+        [
+          1795266659,
+          183
         ]
       ],
       "hourlyPeak": [
@@ -5390,6 +5390,6 @@
       ]
     }
   },
-  "peak48h": 181,
-  "peak48hAt": "2026-11-20T14:16:03.000Z"
+  "peak48h": 183,
+  "peak48hAt": "2026-11-21T13:10:59.000Z"
 }
