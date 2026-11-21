@@ -3,16 +3,16 @@
   "appid": "1449850",
   "steamAppid": 1449850,
   "name": "Yu-Gi-Oh Master Duel",
-  "players": 17050,
+  "players": 16875,
   "allTimePeak": 262689,
   "peak24h": 17558,
   "peak24hAt": "2026-11-20T14:41:23.000Z",
-  "updatedAt": "2026-11-21T14:36:00.740Z",
+  "updatedAt": "2026-11-21T14:41:11.170Z",
   "img_url": "2024/12/mixcollage-14-dec-2024-11-29-pm-8286.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-21T14:36:00.740Z",
-    "updatedAtTs": 1795271760,
+    "updatedAt": "2026-11-21T14:41:11.170Z",
+    "updatedAtTs": 1795272071,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1795271760,
-        17050
+        1795272071,
+        16875
       ],
       "peak24h": [
         1795185683,
         17558
       ],
       "peak48h": [
-        1795098964,
-        17848
+        1795099278,
+        17717
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795098964,
-          17848
-        ],
         [
           1795099278,
           17717
@@ -2344,6 +2340,10 @@
         [
           1795271760,
           17050
+        ],
+        [
+          1795272071,
+          16875
         ]
       ],
       "hourlyPeak": [
@@ -5534,6 +5534,6 @@
       ]
     }
   },
-  "peak48h": 17848,
-  "peak48hAt": "2026-11-19T14:36:04.000Z"
+  "peak48h": 17717,
+  "peak48hAt": "2026-11-19T14:41:18.000Z"
 }
