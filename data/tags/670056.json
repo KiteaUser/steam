@@ -3,16 +3,16 @@
   "appid": "39120",
   "steamAppid": 39120,
   "name": "RIFT",
-  "players": 100,
+  "players": 101,
   "allTimePeak": 15546,
   "peak24h": 181,
   "peak24hAt": "2026-11-20T19:26:12.000Z",
-  "updatedAt": "2026-11-21T07:31:09.569Z",
+  "updatedAt": "2026-11-21T07:35:57.209Z",
   "img_url": "2024/11/mixcollage-25-nov-2024-09-29-pm-4534.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-21T07:31:09.569Z",
-    "updatedAtTs": 1795246269,
+    "updatedAt": "2026-11-21T07:35:57.209Z",
+    "updatedAtTs": 1795246557,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1795246269,
-        100
+        1795246557,
+        101
       ],
       "peak24h": [
         1795202772,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795073485,
-          109
-        ],
-        [
-          1795073754,
-          108
-        ],
         [
           1795074060,
           108
@@ -2348,6 +2340,10 @@
         [
           1795246269,
           100
+        ],
+        [
+          1795246557,
+          101
         ]
       ],
       "hourlyPeak": [
