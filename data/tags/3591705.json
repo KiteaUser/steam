@@ -3,16 +3,16 @@
   "appid": "3834090",
   "steamAppid": 3834090,
   "name": "YAPYAP",
-  "players": 180,
+  "players": 168,
   "allTimePeak": 14775,
   "peak24h": 259,
   "peak24hAt": "2026-11-20T20:11:01.000Z",
-  "updatedAt": "2026-11-21T03:51:10.686Z",
+  "updatedAt": "2026-11-21T03:55:59.865Z",
   "img_url": "2026/01/yapyap-custom-cover-art-image.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-21T03:51:10.686Z",
-    "updatedAtTs": 1795233070,
+    "updatedAt": "2026-11-21T03:55:59.865Z",
+    "updatedAtTs": 1795233359,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1795233070,
-        180
+        1795233359,
+        168
       ],
       "peak24h": [
         1795205461,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795060288,
-          145
-        ],
         [
           1795060576,
           141
@@ -2344,6 +2340,10 @@
         [
           1795233070,
           180
+        ],
+        [
+          1795233359,
+          168
         ]
       ],
       "hourlyPeak": [
