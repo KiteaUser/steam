@@ -7,12 +7,12 @@
   "allTimePeak": 15912,
   "peak24h": 105,
   "peak24hAt": "2026-11-21T17:36:09.000Z",
-  "updatedAt": "2026-11-21T18:01:25.771Z",
+  "updatedAt": "2026-11-21T18:06:02.582Z",
   "img_url": "2025/06/len-s-island-tag-image.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-21T18:01:25.771Z",
-    "updatedAtTs": 1795284085,
+    "updatedAt": "2026-11-21T18:06:02.582Z",
+    "updatedAtTs": 1795284362,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,7 +23,7 @@
     },
     "summary": {
       "current": [
-        1795284085,
+        1795284362,
         103
       ],
       "peak24h": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795111287,
-          44
-        ],
         [
           1795111572,
           44
@@ -2339,6 +2335,10 @@
         ],
         [
           1795284085,
+          103
+        ],
+        [
+          1795284362,
           103
         ]
       ],
@@ -4966,6 +4966,10 @@
         [
           1795107600,
           41
+        ],
+        [
+          1795111200,
+          44
         ]
       ],
       "dailyPeak": [
