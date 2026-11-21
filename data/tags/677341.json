@@ -3,16 +3,16 @@
   "appid": "292000",
   "steamAppid": 292000,
   "name": "No More Room in Hell 2",
-  "players": 1024,
+  "players": 1048,
   "allTimePeak": 16326,
   "peak24h": 1264,
   "peak24hAt": "2026-11-21T04:51:12.000Z",
-  "updatedAt": "2026-11-21T23:05:59.839Z",
+  "updatedAt": "2026-11-21T23:11:12.122Z",
   "img_url": "2024/12/mixcollage-05-dec-2024-01-24-am-5588.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-21T23:05:59.839Z",
-    "updatedAtTs": 1795302359,
+    "updatedAt": "2026-11-21T23:11:12.122Z",
+    "updatedAtTs": 1795302672,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1795302359,
-        1024
+        1795302672,
+        1048
       ],
       "peak24h": [
         1795236672,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795129562,
-          670
-        ],
-        [
-          1795129866,
-          684
-        ],
         [
           1795130169,
           676
@@ -2340,6 +2332,10 @@
         [
           1795302359,
           1024
+        ],
+        [
+          1795302672,
+          1048
         ]
       ],
       "hourlyPeak": [
