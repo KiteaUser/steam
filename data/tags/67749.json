@@ -3,16 +3,16 @@
   "appid": "882100",
   "steamAppid": 882100,
   "name": "XCOM: Chimera Squad",
-  "players": 60,
+  "players": 65,
   "allTimePeak": 35955,
   "peak24h": 82,
   "peak24hAt": "2026-11-21T17:56:06.000Z",
-  "updatedAt": "2026-11-22T00:01:27.732Z",
+  "updatedAt": "2026-11-22T00:06:02.723Z",
   "img_url": "2024/12/mixcollage-09-dec-2024-11-32-pm-9687.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-22T00:01:27.732Z",
-    "updatedAtTs": 1795305687,
+    "updatedAt": "2026-11-22T00:06:02.723Z",
+    "updatedAtTs": 1795305962,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1795305687,
-        60
+        1795305962,
+        65
       ],
       "peak24h": [
         1795283766,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795132893,
-          48
-        ],
         [
           1795133167,
           48
@@ -2348,6 +2344,10 @@
         [
           1795305687,
           60
+        ],
+        [
+          1795305962,
+          65
         ]
       ],
       "hourlyPeak": [
@@ -4974,6 +4974,10 @@
         [
           1795129200,
           52
+        ],
+        [
+          1795132800,
+          48
         ]
       ],
       "dailyPeak": [
