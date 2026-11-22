@@ -3,16 +3,16 @@
   "appid": "1105670",
   "steamAppid": 1105670,
   "name": "The Last Spell",
-  "players": 224,
+  "players": 240,
   "allTimePeak": 6755,
   "peak24h": 261,
   "peak24hAt": "2026-11-21T16:11:06.000Z",
-  "updatedAt": "2026-11-22T10:01:21.421Z",
+  "updatedAt": "2026-11-22T10:06:04.215Z",
   "img_url": "2024/11/mixcollage-19-nov-2024-02-11-pm-7738.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-22T10:01:21.421Z",
-    "updatedAtTs": 1795341681,
+    "updatedAt": "2026-11-22T10:06:04.215Z",
+    "updatedAtTs": 1795341964,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1795341681,
-        224
+        1795341964,
+        240
       ],
       "peak24h": [
         1795277466,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795168895,
-          130
-        ],
         [
           1795169172,
           135
@@ -2340,6 +2336,10 @@
         [
           1795341681,
           224
+        ],
+        [
+          1795341964,
+          240
         ]
       ],
       "hourlyPeak": [
@@ -4965,6 +4965,10 @@
         ],
         [
           1795165200,
+          130
+        ],
+        [
+          1795168800,
           130
         ]
       ],
