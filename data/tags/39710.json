@@ -3,16 +3,16 @@
   "appid": "952060",
   "steamAppid": 952060,
   "name": "Resident Evil 3",
-  "players": 1652,
+  "players": 1623,
   "allTimePeak": 60293,
   "peak24h": 1652,
   "peak24hAt": "2026-11-22T14:01:22.000Z",
-  "updatedAt": "2026-11-22T14:01:22.659Z",
+  "updatedAt": "2026-11-22T14:05:55.410Z",
   "img_url": "2024/12/mixcollage-07-dec-2024-07-53-am-2083.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-22T14:01:22.659Z",
-    "updatedAtTs": 1795356082,
+    "updatedAt": "2026-11-22T14:05:55.410Z",
+    "updatedAtTs": 1795356355,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1795356082,
-        1652
+        1795356355,
+        1623
       ],
       "peak24h": [
         1795356082,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795183289,
-          1147
-        ],
         [
           1795183565,
           1181
@@ -2348,6 +2344,10 @@
         [
           1795356082,
           1652
+        ],
+        [
+          1795356355,
+          1623
         ]
       ],
       "hourlyPeak": [
@@ -4973,6 +4973,10 @@
         ],
         [
           1795179600,
+          1147
+        ],
+        [
+          1795183200,
           1147
         ]
       ],
