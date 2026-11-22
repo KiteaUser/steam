@@ -3,16 +3,16 @@
   "appid": "2343650",
   "steamAppid": 2343650,
   "name": "Waven",
-  "players": 36,
+  "players": 33,
   "allTimePeak": 16084,
   "peak24h": 52,
   "peak24hAt": "2026-11-21T21:25:55.000Z",
-  "updatedAt": "2026-11-21T23:56:00.664Z",
+  "updatedAt": "2026-11-22T00:01:27.732Z",
   "img_url": "2025/02/mixcollage-23-feb-2025-11-28-pm-3312.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-21T23:56:00.664Z",
-    "updatedAtTs": 1795305360,
+    "updatedAt": "2026-11-22T00:01:27.732Z",
+    "updatedAtTs": 1795305687,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1795305360,
-        36
+        1795305687,
+        33
       ],
       "peak24h": [
         1795296355,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795132566,
-          28
-        ],
         [
           1795132893,
           23
@@ -2348,13 +2344,13 @@
         [
           1795305360,
           36
+        ],
+        [
+          1795305687,
+          33
         ]
       ],
       "hourlyPeak": [
-        [
-          1792713600,
-          31
-        ],
         [
           1792717200,
           28
@@ -5312,6 +5308,10 @@
         [
           1792627200,
           59
+        ],
+        [
+          1792713600,
+          31
         ]
       ],
       "monthlyPeak": [
