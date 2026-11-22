@@ -3,16 +3,16 @@
   "appid": "2406770",
   "steamAppid": 2406770,
   "name": "Bodycam",
-  "players": 6379,
+  "players": 6349,
   "allTimePeak": 38912,
   "peak24h": 12735,
   "peak24hAt": "2026-11-21T21:25:55.000Z",
-  "updatedAt": "2026-11-22T10:41:00.955Z",
+  "updatedAt": "2026-11-22T10:46:11.071Z",
   "img_url": "2025/02/mixcollage-13-feb-2025-05-51-am-4114.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-22T10:41:00.955Z",
-    "updatedAtTs": 1795344060,
+    "updatedAt": "2026-11-22T10:46:11.071Z",
+    "updatedAtTs": 1795344371,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1795344060,
-        6379
+        1795344371,
+        6349
       ],
       "peak24h": [
         1795296355,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795171274,
-          5472
-        ],
-        [
-          1795171565,
-          5462
-        ],
         [
           1795171872,
           5563
@@ -2340,6 +2332,10 @@
         [
           1795344060,
           6379
+        ],
+        [
+          1795344371,
+          6349
         ]
       ],
       "hourlyPeak": [
@@ -4969,7 +4965,7 @@
         ],
         [
           1795168800,
-          5462
+          5472
         ]
       ],
       "dailyPeak": [
