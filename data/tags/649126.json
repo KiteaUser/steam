@@ -3,16 +3,16 @@
   "appid": "2881650",
   "steamAppid": 2881650,
   "name": "Content Warning",
-  "players": 1025,
+  "players": 905,
   "allTimePeak": 204439,
   "peak24h": 1168,
   "peak24hAt": "2026-11-21T22:01:18.000Z",
-  "updatedAt": "2026-11-22T21:05:52.454Z",
+  "updatedAt": "2026-11-22T21:10:58.879Z",
   "img_url": "2024/12/mixcollage-06-dec-2024-11-48-pm-7296.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-22T21:05:52.454Z",
-    "updatedAtTs": 1795381552,
+    "updatedAt": "2026-11-22T21:10:58.879Z",
+    "updatedAtTs": 1795381858,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1795381552,
-        1025
+        1795381858,
+        905
       ],
       "peak24h": [
         1795298478,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795208773,
-          738
-        ],
         [
           1795209070,
           731
@@ -2340,6 +2336,10 @@
         [
           1795381552,
           1025
+        ],
+        [
+          1795381858,
+          905
         ]
       ],
       "hourlyPeak": [
