@@ -6,13 +6,13 @@
   "players": 409,
   "allTimePeak": 14996,
   "peak24h": 658,
-  "peak24hAt": "2026-11-22T17:05:59.000Z",
-  "updatedAt": "2026-11-23T17:01:38.484Z",
+  "peak24hAt": "2026-11-22T17:11:05.000Z",
+  "updatedAt": "2026-11-23T17:06:08.980Z",
   "img_url": "2025/02/cairn-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-23T17:01:38.484Z",
-    "updatedAtTs": 1795453298,
+    "updatedAt": "2026-11-23T17:06:08.980Z",
+    "updatedAtTs": 1795453568,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,11 +23,11 @@
     },
     "summary": {
       "current": [
-        1795453298,
+        1795453568,
         409
       ],
       "peak24h": [
-        1795367159,
+        1795367465,
         658
       ],
       "peak48h": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795280762,
-          623
-        ],
         [
           1795281065,
           619
@@ -2343,6 +2339,10 @@
         ],
         [
           1795453298,
+          409
+        ],
+        [
+          1795453568,
           409
         ]
       ],
