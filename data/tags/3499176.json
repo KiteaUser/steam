@@ -3,16 +3,16 @@
   "appid": "2001760",
   "steamAppid": 2001760,
   "name": "Beast of Reincarnation",
-  "players": 64,
+  "players": 60,
   "allTimePeak": 14991,
   "peak24h": 82,
   "peak24hAt": "2026-11-23T13:31:27.000Z",
-  "updatedAt": "2026-11-23T21:46:07.678Z",
+  "updatedAt": "2026-11-23T21:51:13.000Z",
   "img_url": "2026/02/beast-of-reincarnation-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-23T21:46:07.678Z",
-    "updatedAtTs": 1795470367,
+    "updatedAt": "2026-11-23T21:51:13.000Z",
+    "updatedAtTs": 1795470673,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1795470367,
-        64
+        1795470673,
+        60
       ],
       "peak24h": [
         1795440687,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795297867,
-          75
-        ],
         [
           1795298166,
           82
@@ -2344,6 +2340,10 @@
         [
           1795470367,
           64
+        ],
+        [
+          1795470673,
+          60
         ]
       ],
       "hourlyPeak": [
