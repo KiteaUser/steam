@@ -5,14 +5,14 @@
   "name": "Against the Storm",
   "players": 1253,
   "allTimePeak": 12832,
-  "peak24h": 1646,
-  "peak24hAt": "2026-11-22T18:31:10.000Z",
-  "updatedAt": "2026-11-23T18:26:21.862Z",
+  "peak24h": 1642,
+  "peak24hAt": "2026-11-22T18:41:20.000Z",
+  "updatedAt": "2026-11-23T18:31:40.393Z",
   "img_url": "2024/12/mixcollage-07-dec-2024-08-47-am-9612.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-23T18:26:21.862Z",
-    "updatedAtTs": 1795458381,
+    "updatedAt": "2026-11-23T18:31:40.393Z",
+    "updatedAtTs": 1795458700,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,12 +23,12 @@
     },
     "summary": {
       "current": [
-        1795458381,
+        1795458700,
         1253
       ],
       "peak24h": [
-        1795372270,
-        1646
+        1795372880,
+        1642
       ],
       "peak48h": [
         1795358467,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795285892,
-          1303
-        ],
         [
           1795286177,
           1309
@@ -2343,6 +2339,10 @@
         ],
         [
           1795458381,
+          1253
+        ],
+        [
+          1795458700,
           1253
         ]
       ],
