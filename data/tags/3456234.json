@@ -7,12 +7,12 @@
   "allTimePeak": 67959,
   "peak24h": 9,
   "peak24hAt": "2026-11-23T20:55:59.000Z",
-  "updatedAt": "2026-11-23T22:06:05.192Z",
+  "updatedAt": "2026-11-23T22:11:25.086Z",
   "img_url": "2025/07/yet-another-zombie-defense-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-23T22:06:05.192Z",
-    "updatedAtTs": 1795471565,
+    "updatedAt": "2026-11-23T22:11:25.086Z",
+    "updatedAtTs": 1795471885,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,7 +23,7 @@
     },
     "summary": {
       "current": [
-        1795471565,
+        1795471885,
         1
       ],
       "peak24h": [
@@ -31,8 +31,8 @@
         9
       ],
       "peak48h": [
-        1795299070,
-        17
+        1795299665,
+        15
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795299070,
-          17
-        ],
         [
           1795299373,
           14
@@ -2251,6 +2247,10 @@
         ],
         [
           1795471565,
+          1
+        ],
+        [
+          1795471885,
           1
         ]
       ],
@@ -5786,6 +5786,6 @@
       ]
     }
   },
-  "peak48h": 17,
-  "peak48hAt": "2026-11-21T22:11:10.000Z"
+  "peak48h": 15,
+  "peak48hAt": "2026-11-21T22:21:05.000Z"
 }

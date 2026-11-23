@@ -3,16 +3,16 @@
   "appid": "323190",
   "steamAppid": 323190,
   "name": "Frostpunk",
-  "players": 1400,
+  "players": 1369,
   "allTimePeak": 29361,
   "peak24h": 2511,
   "peak24hAt": "2026-11-23T14:21:06.000Z",
-  "updatedAt": "2026-11-23T22:06:05.192Z",
+  "updatedAt": "2026-11-23T22:11:25.086Z",
   "img_url": "2024/12/mixcollage-09-dec-2024-10-17-am-2463-1.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-23T22:06:05.192Z",
-    "updatedAtTs": 1795471565,
+    "updatedAt": "2026-11-23T22:11:25.086Z",
+    "updatedAtTs": 1795471885,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1795471565,
-        1400
+        1795471885,
+        1369
       ],
       "peak24h": [
         1795443666,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795299070,
-          1856
-        ],
         [
           1795299373,
           1856
@@ -2344,6 +2340,10 @@
         [
           1795471565,
           1400
+        ],
+        [
+          1795471885,
+          1369
         ]
       ],
       "hourlyPeak": [
