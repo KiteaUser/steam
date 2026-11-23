@@ -3,16 +3,16 @@
   "appid": "1599600",
   "steamAppid": 1599600,
   "name": "PlateUp",
-  "players": 1273,
+  "players": 1297,
   "allTimePeak": 12460,
-  "peak24h": 2066,
-  "peak24hAt": "2026-11-22T15:51:26.000Z",
-  "updatedAt": "2026-11-23T15:51:05.675Z",
+  "peak24h": 2054,
+  "peak24hAt": "2026-11-22T16:01:30.000Z",
+  "updatedAt": "2026-11-23T15:56:07.963Z",
   "img_url": "2024/11/mixcollage-30-nov-2024-08-36-am-6090.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-23T15:51:05.675Z",
-    "updatedAtTs": 1795449065,
+    "updatedAt": "2026-11-23T15:56:07.963Z",
+    "updatedAtTs": 1795449367,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,12 +23,12 @@
     },
     "summary": {
       "current": [
-        1795449065,
-        1273
+        1795449367,
+        1297
       ],
       "peak24h": [
-        1795362686,
-        2066
+        1795363290,
+        2054
       ],
       "peak48h": [
         1795358157,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795276271,
-          1901
-        ],
         [
           1795276568,
           1927
@@ -2348,6 +2344,10 @@
         [
           1795449065,
           1273
+        ],
+        [
+          1795449367,
+          1297
         ]
       ],
       "hourlyPeak": [
