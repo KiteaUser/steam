@@ -3,16 +3,16 @@
   "appid": "107410",
   "steamAppid": 107410,
   "name": "Arma 3",
-  "players": 5708,
+  "players": 5523,
   "allTimePeak": 56679,
   "peak24h": 8425,
   "peak24hAt": "2026-11-22T21:16:19.000Z",
-  "updatedAt": "2026-11-23T21:11:12.332Z",
+  "updatedAt": "2026-11-23T21:16:07.983Z",
   "img_url": "2024/12/mixcollage-07-dec-2024-03-54-am-1712.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-23T21:11:12.332Z",
-    "updatedAtTs": 1795468272,
+    "updatedAt": "2026-11-23T21:16:07.983Z",
+    "updatedAtTs": 1795468567,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1795468272,
-        5708
+        1795468567,
+        5523
       ],
       "peak24h": [
         1795382179,
         8425
       ],
       "peak48h": [
-        1795295761,
-        10511
+        1795296075,
+        10229
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795295761,
-          10511
-        ],
         [
           1795296075,
           10229
@@ -2344,6 +2340,10 @@
         [
           1795468272,
           5708
+        ],
+        [
+          1795468567,
+          5523
         ]
       ],
       "hourlyPeak": [
@@ -5966,6 +5966,6 @@
       ]
     }
   },
-  "peak48h": 10511,
-  "peak48hAt": "2026-11-21T21:16:01.000Z"
+  "peak48h": 10229,
+  "peak48hAt": "2026-11-21T21:21:15.000Z"
 }
