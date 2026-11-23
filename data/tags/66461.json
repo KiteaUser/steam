@@ -3,16 +3,16 @@
   "appid": "552990",
   "steamAppid": 552990,
   "name": "World of Warships",
-  "players": 6616,
+  "players": 6553,
   "allTimePeak": 411338,
   "peak24h": 11689,
   "peak24hAt": "2026-11-22T13:46:01.000Z",
-  "updatedAt": "2026-11-23T09:31:15.195Z",
+  "updatedAt": "2026-11-23T09:36:14.905Z",
   "img_url": "2024/08/world-of-warships.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-23T09:31:15.195Z",
-    "updatedAtTs": 1795426275,
+    "updatedAt": "2026-11-23T09:36:14.905Z",
+    "updatedAtTs": 1795426574,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1795426275,
-        6616
+        1795426574,
+        6553
       ],
       "peak24h": [
         1795355161,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795253764,
-          8044
-        ],
         [
           1795254061,
           8044
@@ -2340,6 +2336,10 @@
         [
           1795426275,
           6616
+        ],
+        [
+          1795426574,
+          6553
         ]
       ],
       "hourlyPeak": [
@@ -4969,7 +4969,7 @@
         ],
         [
           1795251600,
-          7988
+          8044
         ]
       ],
       "dailyPeak": [
