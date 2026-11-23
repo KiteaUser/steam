@@ -3,16 +3,16 @@
   "appid": "431240",
   "steamAppid": 431240,
   "name": "Golf With Your Friends",
-  "players": 1236,
+  "players": 1152,
   "allTimePeak": 20750,
   "peak24h": 1542,
   "peak24hAt": "2026-11-23T20:55:59.000Z",
-  "updatedAt": "2026-11-23T22:26:14.538Z",
+  "updatedAt": "2026-11-23T22:31:23.511Z",
   "img_url": "2024/12/mixcollage-07-dec-2024-12-37-am-3706.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-23T22:26:14.538Z",
-    "updatedAtTs": 1795472774,
+    "updatedAt": "2026-11-23T22:31:23.511Z",
+    "updatedAtTs": 1795473083,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1795472774,
-        1236
+        1795473083,
+        1152
       ],
       "peak24h": [
         1795467359,
         1542
       ],
       "peak48h": [
-        1795300283,
+        1795300564,
         1991
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795300283,
-          1991
-        ],
         [
           1795300564,
           1991
@@ -2344,6 +2340,10 @@
         [
           1795472774,
           1236
+        ],
+        [
+          1795473083,
+          1152
         ]
       ],
       "hourlyPeak": [
@@ -4973,7 +4973,7 @@
         ],
         [
           1795298400,
-          1985
+          1991
         ]
       ],
       "dailyPeak": [
@@ -5831,5 +5831,5 @@
     }
   },
   "peak48h": 1991,
-  "peak48hAt": "2026-11-21T22:31:23.000Z"
+  "peak48hAt": "2026-11-21T22:36:04.000Z"
 }
