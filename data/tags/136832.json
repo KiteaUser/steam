@@ -3,16 +3,16 @@
   "appid": "24200",
   "steamAppid": 24200,
   "name": "DC Universe Online",
-  "players": 510,
+  "players": 495,
   "allTimePeak": 17701,
   "peak24h": 811,
   "peak24hAt": "2026-11-22T23:11:06.000Z",
-  "updatedAt": "2026-11-23T06:16:08.204Z",
+  "updatedAt": "2026-11-23T06:21:09.333Z",
   "img_url": "2022/10/DCUniverseOnlineTagPage.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-23T06:16:08.204Z",
-    "updatedAtTs": 1795414568,
+    "updatedAt": "2026-11-23T06:21:09.333Z",
+    "updatedAtTs": 1795414869,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1795414568,
-        510
+        1795414869,
+        495
       ],
       "peak24h": [
         1795389066,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795242058,
-          562
-        ],
         [
           1795242355,
           559
@@ -2340,6 +2336,10 @@
         [
           1795414568,
           510
+        ],
+        [
+          1795414869,
+          495
         ]
       ],
       "hourlyPeak": [
