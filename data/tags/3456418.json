@@ -3,16 +3,16 @@
   "appid": "310560",
   "steamAppid": 310560,
   "name": "DiRT Rally",
-  "players": 95,
+  "players": 99,
   "allTimePeak": 20343,
-  "peak24h": 112,
-  "peak24hAt": "2026-11-22T21:05:52.000Z",
-  "updatedAt": "2026-11-23T21:01:35.470Z",
+  "peak24h": 111,
+  "peak24hAt": "2026-11-23T18:41:20.000Z",
+  "updatedAt": "2026-11-23T21:06:06.268Z",
   "img_url": "2025/10/dirt-rally-tag-page-cover-art_upscayl_2x_ultramix_balanced.png",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-23T21:01:35.470Z",
-    "updatedAtTs": 1795467695,
+    "updatedAt": "2026-11-23T21:06:06.268Z",
+    "updatedAtTs": 1795467966,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1795467695,
-        95
+        1795467966,
+        99
       ],
       "peak24h": [
-        1795381552,
-        112
+        1795459280,
+        111
       ],
       "peak48h": [
-        1795295159,
+        1795295459,
         161
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795295159,
-          161
-        ],
         [
           1795295459,
           161
@@ -2344,6 +2340,10 @@
         [
           1795467695,
           95
+        ],
+        [
+          1795467966,
+          99
         ]
       ],
       "hourlyPeak": [
@@ -5867,5 +5867,5 @@
     }
   },
   "peak48h": 161,
-  "peak48hAt": "2026-11-21T21:05:59.000Z"
+  "peak48hAt": "2026-11-21T21:10:59.000Z"
 }
