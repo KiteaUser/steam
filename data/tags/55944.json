@@ -3,16 +3,16 @@
   "appid": "730",
   "steamAppid": 730,
   "name": "Counter-Strike 2",
-  "players": 1014342,
+  "players": 992372,
   "allTimePeak": 1862531,
-  "peak24h": 1120944,
-  "peak24hAt": "2026-11-22T15:21:16.000Z",
-  "updatedAt": "2026-11-23T15:21:16.468Z",
+  "peak24h": 1109197,
+  "peak24hAt": "2026-11-22T15:31:24.000Z",
+  "updatedAt": "2026-11-23T15:26:08.133Z",
   "img_url": "2024/12/mixcollage-12-dec-2024-05-24-pm-5634.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-23T15:21:16.468Z",
-    "updatedAtTs": 1795447276,
+    "updatedAt": "2026-11-23T15:26:08.133Z",
+    "updatedAtTs": 1795447568,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,12 +23,12 @@
     },
     "summary": {
       "current": [
-        1795447276,
-        1014342
+        1795447568,
+        992372
       ],
       "peak24h": [
-        1795360876,
-        1120944
+        1795361484,
+        1109197
       ],
       "peak48h": [
         1795356953,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795274758,
-          1200331
-        ],
         [
           1795275075,
           1200331
@@ -2344,6 +2340,10 @@
         [
           1795447276,
           1014342
+        ],
+        [
+          1795447568,
+          992372
         ]
       ],
       "hourlyPeak": [
