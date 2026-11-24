@@ -7,12 +7,12 @@
   "allTimePeak": 20515,
   "peak24h": 11175,
   "peak24hAt": "2026-11-24T14:52:04.000Z",
-  "updatedAt": "2026-11-24T15:41:09.501Z",
+  "updatedAt": "2026-11-24T15:46:15.287Z",
   "img_url": "2025/05/revolution-idle-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-24T15:41:09.501Z",
-    "updatedAtTs": 1795534869,
+    "updatedAt": "2026-11-24T15:46:15.287Z",
+    "updatedAtTs": 1795535175,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,7 +23,7 @@
     },
     "summary": {
       "current": [
-        1795534869,
+        1795535175,
         11025
       ],
       "peak24h": [
@@ -31,8 +31,8 @@
         11175
       ],
       "peak48h": [
-        1795362364,
-        11723
+        1795362686,
+        11721
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795362364,
-          11723
-        ],
         [
           1795362686,
           11721
@@ -2343,6 +2339,10 @@
         ],
         [
           1795534869,
+          11025
+        ],
+        [
+          1795535175,
           11025
         ]
       ],
@@ -5414,6 +5414,6 @@
       ]
     }
   },
-  "peak48h": 11723,
-  "peak48hAt": "2026-11-22T15:46:04.000Z"
+  "peak48h": 11721,
+  "peak48hAt": "2026-11-22T15:51:26.000Z"
 }
