@@ -7,12 +7,12 @@
   "allTimePeak": 33111,
   "peak24h": 1464,
   "peak24hAt": "2026-11-23T18:46:13.000Z",
-  "updatedAt": "2026-11-24T18:31:23.117Z",
+  "updatedAt": "2026-11-24T18:36:16.357Z",
   "img_url": "2026/08/mortal-shell-ii-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-24T18:31:23.117Z",
-    "updatedAtTs": 1795545083,
+    "updatedAt": "2026-11-24T18:36:16.357Z",
+    "updatedAtTs": 1795545376,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,7 +23,7 @@
     },
     "summary": {
       "current": [
-        1795545083,
+        1795545376,
         1280
       ],
       "peak24h": [
@@ -31,8 +31,8 @@
         1464
       ],
       "peak48h": [
-        1795372562,
-        1988
+        1795376167,
+        1974
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795372562,
-          1988
-        ],
         [
           1795372880,
           1950
@@ -2343,6 +2339,10 @@
         ],
         [
           1795545083,
+          1280
+        ],
+        [
+          1795545376,
           1280
         ]
       ],
@@ -5233,6 +5233,6 @@
       "monthlyPeak": []
     }
   },
-  "peak48h": 1988,
-  "peak48hAt": "2026-11-22T18:36:02.000Z"
+  "peak48h": 1974,
+  "peak48hAt": "2026-11-22T19:36:07.000Z"
 }

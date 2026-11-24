@@ -3,16 +3,16 @@
   "appid": "234650",
   "steamAppid": 234650,
   "name": "Shadowrun Returns",
-  "players": 18,
+  "players": 21,
   "allTimePeak": 24329,
   "peak24h": 28,
   "peak24hAt": "2026-11-24T00:11:25.000Z",
-  "updatedAt": "2026-11-24T18:31:23.117Z",
+  "updatedAt": "2026-11-24T18:36:16.357Z",
   "img_url": "2024/12/mixcollage-12-dec-2024-05-38-pm-3003.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-24T18:31:23.117Z",
-    "updatedAtTs": 1795545083,
+    "updatedAt": "2026-11-24T18:36:16.357Z",
+    "updatedAtTs": 1795545376,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1795545083,
-        18
+        1795545376,
+        21
       ],
       "peak24h": [
         1795479085,
         28
       ],
       "peak48h": [
-        1795372562,
+        1795372880,
         33
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795372562,
-          33
-        ],
         [
           1795372880,
           33
@@ -2336,6 +2332,10 @@
         [
           1795545083,
           18
+        ],
+        [
+          1795545376,
+          21
         ]
       ],
       "hourlyPeak": [
@@ -5963,5 +5963,5 @@
     }
   },
   "peak48h": 33,
-  "peak48hAt": "2026-11-22T18:36:02.000Z"
+  "peak48hAt": "2026-11-22T18:41:20.000Z"
 }

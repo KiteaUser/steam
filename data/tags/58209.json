@@ -3,16 +3,16 @@
   "appid": "668580",
   "steamAppid": 668580,
   "name": "Atomic Heart",
-  "players": 2085,
+  "players": 2086,
   "allTimePeak": 38469,
-  "peak24h": 2207,
-  "peak24hAt": "2026-11-23T18:31:40.000Z",
-  "updatedAt": "2026-11-24T18:31:23.117Z",
+  "peak24h": 2201,
+  "peak24hAt": "2026-11-23T18:41:20.000Z",
+  "updatedAt": "2026-11-24T18:36:16.357Z",
   "img_url": "2024/12/mixcollage-05-dec-2024-06-47-am-2812.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-24T18:31:23.117Z",
-    "updatedAtTs": 1795545083,
+    "updatedAt": "2026-11-24T18:36:16.357Z",
+    "updatedAtTs": 1795545376,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1795545083,
-        2085
+        1795545376,
+        2086
       ],
       "peak24h": [
-        1795458700,
-        2207
+        1795459280,
+        2201
       ],
       "peak48h": [
-        1795372562,
+        1795372880,
         2686
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795372562,
-          2686
-        ],
         [
           1795372880,
           2686
@@ -2336,6 +2332,10 @@
         [
           1795545083,
           2085
+        ],
+        [
+          1795545376,
+          2086
         ]
       ],
       "hourlyPeak": [
@@ -5503,5 +5503,5 @@
     }
   },
   "peak48h": 2686,
-  "peak48hAt": "2026-11-22T18:36:02.000Z"
+  "peak48hAt": "2026-11-22T18:41:20.000Z"
 }

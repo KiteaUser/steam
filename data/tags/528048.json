@@ -3,16 +3,16 @@
   "appid": "1331550",
   "steamAppid": 1331550,
   "name": "Big Ambitions",
-  "players": 814,
+  "players": 803,
   "allTimePeak": 12220,
   "peak24h": 814,
   "peak24hAt": "2026-11-24T18:31:23.000Z",
-  "updatedAt": "2026-11-24T18:31:23.117Z",
+  "updatedAt": "2026-11-24T18:36:16.357Z",
   "img_url": "2024/12/mixcollage-07-dec-2024-06-41-pm-1736.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-24T18:31:23.117Z",
-    "updatedAtTs": 1795545083,
+    "updatedAt": "2026-11-24T18:36:16.357Z",
+    "updatedAtTs": 1795545376,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1795545083,
-        814
+        1795545376,
+        803
       ],
       "peak24h": [
         1795545083,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795372562,
-          1019
-        ],
         [
           1795372880,
           1019
@@ -2336,6 +2332,10 @@
         [
           1795545083,
           814
+        ],
+        [
+          1795545376,
+          803
         ]
       ],
       "hourlyPeak": [
