@@ -3,16 +3,16 @@
   "appid": "1549970",
   "steamAppid": 1549970,
   "name": "Aliens: Fireteam Elite",
-  "players": 69,
+  "players": 68,
   "allTimePeak": 15568,
   "peak24h": 141,
   "peak24hAt": "2026-11-23T20:46:15.000Z",
-  "updatedAt": "2026-11-24T17:56:09.239Z",
+  "updatedAt": "2026-11-24T18:01:37.499Z",
   "img_url": "2022/10/AliensFireteamTagPage.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-24T17:56:09.239Z",
-    "updatedAtTs": 1795542969,
+    "updatedAt": "2026-11-24T18:01:37.499Z",
+    "updatedAtTs": 1795543297,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1795542969,
-        69
+        1795543297,
+        68
       ],
       "peak24h": [
         1795466775,
         141
       ],
       "peak48h": [
-        1795370477,
-        145
+        1795370772,
+        144
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795370477,
-          145
-        ],
         [
           1795370772,
           144
@@ -2340,13 +2336,13 @@
         [
           1795542969,
           69
+        ],
+        [
+          1795543297,
+          68
         ]
       ],
       "hourlyPeak": [
-        [
-          1792951200,
-          176
-        ],
         [
           1792954800,
           194
@@ -4970,6 +4966,10 @@
         [
           1795366800,
           146
+        ],
+        [
+          1795370400,
+          145
         ]
       ],
       "dailyPeak": [
@@ -5562,6 +5562,6 @@
       ]
     }
   },
-  "peak48h": 145,
-  "peak48hAt": "2026-11-22T18:01:17.000Z"
+  "peak48h": 144,
+  "peak48hAt": "2026-11-22T18:06:12.000Z"
 }
