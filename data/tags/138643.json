@@ -3,16 +3,16 @@
   "appid": "945360",
   "steamAppid": 945360,
   "name": "Among Us",
-  "players": 5750,
+  "players": 5728,
   "allTimePeak": 447476,
   "peak24h": 6656,
   "peak24hAt": "2026-11-24T20:26:11.000Z",
-  "updatedAt": "2026-11-24T21:41:07.891Z",
+  "updatedAt": "2026-11-24T21:46:03.641Z",
   "img_url": "2024/12/mixcollage-07-dec-2024-07-57-am-5073.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-24T21:41:07.891Z",
-    "updatedAtTs": 1795556467,
+    "updatedAt": "2026-11-24T21:46:03.641Z",
+    "updatedAtTs": 1795556763,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1795556467,
-        5750
+        1795556763,
+        5728
       ],
       "peak24h": [
         1795551971,
         6656
       ],
       "peak48h": [
-        1795383670,
+        1795383967,
         7572
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795383670,
-          7572
-        ],
         [
           1795383967,
           7572
@@ -2340,6 +2336,10 @@
         [
           1795556467,
           5750
+        ],
+        [
+          1795556763,
+          5728
         ]
       ],
       "hourlyPeak": [
@@ -5695,5 +5695,5 @@
     }
   },
   "peak48h": 7572,
-  "peak48hAt": "2026-11-22T21:41:10.000Z"
+  "peak48hAt": "2026-11-22T21:46:07.000Z"
 }

@@ -3,16 +3,16 @@
   "appid": "427520",
   "steamAppid": 427520,
   "name": "Factorio",
-  "players": 16414,
+  "players": 16247,
   "allTimePeak": 118674,
   "peak24h": 18060,
   "peak24hAt": "2026-11-24T20:06:07.000Z",
-  "updatedAt": "2026-11-24T21:41:07.891Z",
+  "updatedAt": "2026-11-24T21:46:03.641Z",
   "img_url": "2024/12/mixcollage-14-dec-2024-02-42-am-2765.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-24T21:41:07.891Z",
-    "updatedAtTs": 1795556467,
+    "updatedAt": "2026-11-24T21:46:03.641Z",
+    "updatedAtTs": 1795556763,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1795556467,
-        16414
+        1795556763,
+        16247
       ],
       "peak24h": [
         1795550767,
         18060
       ],
       "peak48h": [
-        1795383670,
-        20292
+        1795384561,
+        19968
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795383670,
-          20292
-        ],
         [
           1795383967,
           19822
@@ -2344,6 +2340,10 @@
         [
           1795556467,
           16414
+        ],
+        [
+          1795556763,
+          16247
         ]
       ],
       "hourlyPeak": [
@@ -5830,6 +5830,6 @@
       ]
     }
   },
-  "peak48h": 20292,
-  "peak48hAt": "2026-11-22T21:41:10.000Z"
+  "peak48h": 19968,
+  "peak48hAt": "2026-11-22T21:56:01.000Z"
 }

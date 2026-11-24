@@ -3,16 +3,16 @@
   "appid": "1172620",
   "steamAppid": 1172620,
   "name": "Sea of Thieves",
-  "players": 4450,
+  "players": 4362,
   "allTimePeak": 66906,
   "peak24h": 5177,
   "peak24hAt": "2026-11-24T19:26:12.000Z",
-  "updatedAt": "2026-11-24T21:41:07.891Z",
+  "updatedAt": "2026-11-24T21:46:03.641Z",
   "img_url": "2025/02/sea-of-thieves-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-24T21:41:07.891Z",
-    "updatedAtTs": 1795556467,
+    "updatedAt": "2026-11-24T21:46:03.641Z",
+    "updatedAtTs": 1795556763,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1795556467,
-        4450
+        1795556763,
+        4362
       ],
       "peak24h": [
         1795548372,
         5177
       ],
       "peak48h": [
-        1795383670,
-        5348
+        1795383967,
+        5275
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795383670,
-          5348
-        ],
         [
           1795383967,
           5275
@@ -2344,6 +2340,10 @@
         [
           1795556467,
           4450
+        ],
+        [
+          1795556763,
+          4362
         ]
       ],
       "hourlyPeak": [
@@ -5622,6 +5622,6 @@
       ]
     }
   },
-  "peak48h": 5348,
-  "peak48hAt": "2026-11-22T21:41:10.000Z"
+  "peak48h": 5275,
+  "peak48hAt": "2026-11-22T21:46:07.000Z"
 }
