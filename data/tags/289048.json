@@ -3,16 +3,16 @@
   "appid": "1222680",
   "steamAppid": 1222680,
   "name": "Need for Speed Heat",
-  "players": 4749,
+  "players": 4790,
   "allTimePeak": 86196,
   "peak24h": 4985,
   "peak24hAt": "2026-11-24T14:52:04.000Z",
-  "updatedAt": "2026-11-24T17:41:01.608Z",
+  "updatedAt": "2026-11-24T17:46:02.493Z",
   "img_url": "2024/12/mixcollage-14-dec-2024-01-21-am-2789.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-24T17:41:01.608Z",
-    "updatedAtTs": 1795542061,
+    "updatedAt": "2026-11-24T17:46:02.493Z",
+    "updatedAtTs": 1795542362,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1795542061,
-        4749
+        1795542362,
+        4790
       ],
       "peak24h": [
         1795531924,
         4985
       ],
       "peak48h": [
-        1795369262,
-        5568
+        1795369565,
+        5546
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795369262,
-          5568
-        ],
         [
           1795369565,
           5546
@@ -2348,6 +2344,10 @@
         [
           1795542061,
           4749
+        ],
+        [
+          1795542362,
+          4790
         ]
       ],
       "hourlyPeak": [
@@ -5626,6 +5626,6 @@
       ]
     }
   },
-  "peak48h": 5568,
-  "peak48hAt": "2026-11-22T17:41:02.000Z"
+  "peak48h": 5546,
+  "peak48hAt": "2026-11-22T17:46:05.000Z"
 }

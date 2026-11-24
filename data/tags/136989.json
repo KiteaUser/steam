@@ -3,16 +3,16 @@
   "appid": "252490",
   "steamAppid": 252490,
   "name": "Rust",
-  "players": 85168,
+  "players": 85311,
   "allTimePeak": 262284,
   "peak24h": 91980,
   "peak24hAt": "2026-11-23T18:01:40.000Z",
-  "updatedAt": "2026-11-24T17:41:01.608Z",
+  "updatedAt": "2026-11-24T17:46:02.493Z",
   "img_url": "2024/12/mixcollage-05-dec-2024-06-31-am-4613.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-24T17:41:01.608Z",
-    "updatedAtTs": 1795542061,
+    "updatedAt": "2026-11-24T17:46:02.493Z",
+    "updatedAtTs": 1795542362,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1795542061,
-        85168
+        1795542362,
+        85311
       ],
       "peak24h": [
         1795456900,
         91980
       ],
       "peak48h": [
-        1795369262,
+        1795369868,
         105811
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795369262,
-          105811
-        ],
         [
           1795369565,
           105634
@@ -2348,6 +2344,10 @@
         [
           1795542061,
           85168
+        ],
+        [
+          1795542362,
+          85311
         ]
       ],
       "hourlyPeak": [
@@ -5939,5 +5939,5 @@
     }
   },
   "peak48h": 105811,
-  "peak48hAt": "2026-11-22T17:41:02.000Z"
+  "peak48hAt": "2026-11-22T17:51:08.000Z"
 }
