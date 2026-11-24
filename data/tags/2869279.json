@@ -7,12 +7,12 @@
   "allTimePeak": 78188,
   "peak24h": 3044,
   "peak24hAt": "2026-11-24T20:46:10.000Z",
-  "updatedAt": "2026-11-24T21:21:14.799Z",
+  "updatedAt": "2026-11-24T21:26:06.618Z",
   "img_url": "2026/06/the-blood-of-dawnwalker-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-24T21:21:14.799Z",
-    "updatedAtTs": 1795555274,
+    "updatedAt": "2026-11-24T21:26:06.618Z",
+    "updatedAtTs": 1795555566,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,7 +23,7 @@
     },
     "summary": {
       "current": [
-        1795555274,
+        1795555566,
         2975
       ],
       "peak24h": [
@@ -31,8 +31,8 @@
         3044
       ],
       "peak48h": [
-        1795382765,
-        3531
+        1795383670,
+        3445
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795382765,
-          3531
-        ],
         [
           1795383070,
           3397
@@ -2339,6 +2335,10 @@
         ],
         [
           1795555274,
+          2975
+        ],
+        [
+          1795555566,
           2975
         ]
       ],
@@ -5198,6 +5198,6 @@
       ]
     }
   },
-  "peak48h": 3531,
-  "peak48hAt": "2026-11-22T21:26:05.000Z"
+  "peak48h": 3445,
+  "peak48hAt": "2026-11-22T21:41:10.000Z"
 }

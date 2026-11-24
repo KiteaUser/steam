@@ -3,16 +3,16 @@
   "appid": "480490",
   "steamAppid": 480490,
   "name": "Prey",
-  "players": 305,
+  "players": 295,
   "allTimePeak": 24594,
   "peak24h": 323,
   "peak24hAt": "2026-11-24T20:11:14.000Z",
-  "updatedAt": "2026-11-24T21:21:14.799Z",
+  "updatedAt": "2026-11-24T21:26:06.618Z",
   "img_url": "2025/01/mixcollage-07-jan-2025-08-48-am-2419.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-24T21:21:14.799Z",
-    "updatedAtTs": 1795555274,
+    "updatedAt": "2026-11-24T21:26:06.618Z",
+    "updatedAtTs": 1795555566,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1795555274,
-        305
+        1795555566,
+        295
       ],
       "peak24h": [
         1795551074,
         323
       ],
       "peak48h": [
-        1795382765,
+        1795383070,
         341
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795382765,
-          341
-        ],
         [
           1795383070,
           341
@@ -2336,6 +2332,10 @@
         [
           1795555274,
           305
+        ],
+        [
+          1795555566,
+          295
         ]
       ],
       "hourlyPeak": [
@@ -5763,5 +5763,5 @@
     }
   },
   "peak48h": 341,
-  "peak48hAt": "2026-11-22T21:26:05.000Z"
+  "peak48hAt": "2026-11-22T21:31:10.000Z"
 }
