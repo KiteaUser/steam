@@ -3,16 +3,16 @@
   "appid": "392110",
   "steamAppid": 392110,
   "name": "ENDLESS Space 2",
-  "players": 382,
+  "players": 385,
   "allTimePeak": 53435,
   "peak24h": 498,
   "peak24hAt": "2026-11-23T20:46:15.000Z",
-  "updatedAt": "2026-11-24T16:21:21.051Z",
+  "updatedAt": "2026-11-24T16:26:00.966Z",
   "img_url": "2024/11/mixcollage-20-nov-2024-11-13-am-8437.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-24T16:21:21.051Z",
-    "updatedAtTs": 1795537281,
+    "updatedAt": "2026-11-24T16:26:00.966Z",
+    "updatedAtTs": 1795537560,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1795537281,
-        382
+        1795537560,
+        385
       ],
       "peak24h": [
         1795466775,
         498
       ],
       "peak48h": [
-        1795364754,
+        1795365359,
         619
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795364754,
-          619
-        ],
         [
           1795365077,
           609
@@ -2344,6 +2340,10 @@
         [
           1795537281,
           382
+        ],
+        [
+          1795537560,
+          385
         ]
       ],
       "hourlyPeak": [
@@ -4973,7 +4973,7 @@
         ],
         [
           1795363200,
-          613
+          619
         ]
       ],
       "dailyPeak": [
@@ -5799,5 +5799,5 @@
     }
   },
   "peak48h": 619,
-  "peak48hAt": "2026-11-22T16:25:54.000Z"
+  "peak48hAt": "2026-11-22T16:35:59.000Z"
 }

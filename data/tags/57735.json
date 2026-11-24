@@ -3,16 +3,16 @@
   "appid": "391720",
   "steamAppid": 391720,
   "name": "Layers of Fear 2016",
-  "players": 27,
+  "players": 24,
   "allTimePeak": 145384,
   "peak24h": 40,
   "peak24hAt": "2026-11-24T15:26:03.000Z",
-  "updatedAt": "2026-11-24T16:21:21.051Z",
+  "updatedAt": "2026-11-24T16:26:00.966Z",
   "img_url": "2022/10/LayersOfFearTagPage.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-24T16:21:21.051Z",
-    "updatedAtTs": 1795537281,
+    "updatedAt": "2026-11-24T16:26:00.966Z",
+    "updatedAtTs": 1795537560,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1795537281,
-        27
+        1795537560,
+        24
       ],
       "peak24h": [
         1795533963,
         40
       ],
       "peak48h": [
-        1795364754,
-        48
+        1795365077,
+        47
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795364754,
-          48
-        ],
         [
           1795365077,
           47
@@ -2344,6 +2340,10 @@
         [
           1795537281,
           27
+        ],
+        [
+          1795537560,
+          24
         ]
       ],
       "hourlyPeak": [
@@ -5854,6 +5854,6 @@
       ]
     }
   },
-  "peak48h": 48,
-  "peak48hAt": "2026-11-22T16:25:54.000Z"
+  "peak48h": 47,
+  "peak48hAt": "2026-11-22T16:31:17.000Z"
 }
