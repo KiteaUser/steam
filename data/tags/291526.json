@@ -3,16 +3,16 @@
   "appid": "588650",
   "steamAppid": 588650,
   "name": "Dead Cells",
-  "players": 3127,
+  "players": 3142,
   "allTimePeak": 14910,
-  "peak24h": 3208,
-  "peak24hAt": "2026-11-23T14:35:57.000Z",
-  "updatedAt": "2026-11-24T14:31:21.747Z",
+  "peak24h": 3194,
+  "peak24hAt": "2026-11-23T14:51:19.000Z",
+  "updatedAt": "2026-11-24T14:36:03.422Z",
   "img_url": "2024/12/mixcollage-03-dec-2024-09-11-pm-2645.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-24T14:31:21.747Z",
-    "updatedAtTs": 1795530681,
+    "updatedAt": "2026-11-24T14:36:03.422Z",
+    "updatedAtTs": 1795530963,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1795530681,
-        3127
+        1795530963,
+        3142
       ],
       "peak24h": [
-        1795444557,
-        3208
+        1795445479,
+        3194
       ],
       "peak48h": [
-        1795358157,
-        3613
+        1795358467,
+        3562
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795358157,
-          3613
-        ],
         [
           1795358467,
           3562
@@ -2344,6 +2340,10 @@
         [
           1795530681,
           3127
+        ],
+        [
+          1795530963,
+          3142
         ]
       ],
       "hourlyPeak": [
@@ -5782,6 +5782,6 @@
       ]
     }
   },
-  "peak48h": 3613,
-  "peak48hAt": "2026-11-22T14:35:57.000Z"
+  "peak48h": 3562,
+  "peak48hAt": "2026-11-22T14:41:07.000Z"
 }
