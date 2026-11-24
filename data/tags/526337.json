@@ -3,16 +3,16 @@
   "appid": "1206560",
   "steamAppid": 1206560,
   "name": "WorldBox - God Simulator",
-  "players": 1458,
+  "players": 1493,
   "allTimePeak": 11034,
-  "peak24h": 1480,
-  "peak24hAt": "2026-11-23T14:31:43.000Z",
-  "updatedAt": "2026-11-24T14:26:33.772Z",
+  "peak24h": 1493,
+  "peak24hAt": "2026-11-24T14:31:21.000Z",
+  "updatedAt": "2026-11-24T14:31:21.747Z",
   "img_url": "2024/12/mixcollage-01-dec-2024-11-49-am-3589.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-24T14:26:33.772Z",
-    "updatedAtTs": 1795530393,
+    "updatedAt": "2026-11-24T14:31:21.747Z",
+    "updatedAtTs": 1795530681,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1795530393,
-        1458
+        1795530681,
+        1493
       ],
       "peak24h": [
-        1795444303,
-        1480
+        1795530681,
+        1493
       ],
       "peak48h": [
-        1795357875,
-        1904
+        1795358157,
+        1881
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795357875,
-          1904
-        ],
         [
           1795358157,
           1881
@@ -2344,6 +2340,10 @@
         [
           1795530393,
           1458
+        ],
+        [
+          1795530681,
+          1493
         ]
       ],
       "hourlyPeak": [
@@ -5550,6 +5550,6 @@
       ]
     }
   },
-  "peak48h": 1904,
-  "peak48hAt": "2026-11-22T14:31:15.000Z"
+  "peak48h": 1881,
+  "peak48hAt": "2026-11-22T14:35:57.000Z"
 }
