@@ -3,16 +3,16 @@
   "appid": "242760",
   "steamAppid": 242760,
   "name": "The Forest",
-  "players": 4009,
+  "players": 3966,
   "allTimePeak": 109397,
   "peak24h": 4253,
   "peak24hAt": "2026-11-24T19:41:15.000Z",
-  "updatedAt": "2026-11-24T20:41:07.536Z",
+  "updatedAt": "2026-11-24T20:46:10.509Z",
   "img_url": "2024/12/mixcollage-25-dec-2024-02-27-pm-111.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-24T20:41:07.536Z",
-    "updatedAtTs": 1795552867,
+    "updatedAt": "2026-11-24T20:46:10.509Z",
+    "updatedAtTs": 1795553170,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1795552867,
-        4009
+        1795553170,
+        3966
       ],
       "peak24h": [
         1795549275,
         4253
       ],
       "peak48h": [
-        1795380068,
-        5568
+        1795380673,
+        5459
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795380068,
-          5568
-        ],
-        [
-          1795380369,
-          5459
-        ],
         [
           1795380673,
           5459
@@ -2344,6 +2336,10 @@
         [
           1795552867,
           4009
+        ],
+        [
+          1795553170,
+          3966
         ]
       ],
       "hourlyPeak": [
@@ -5914,6 +5910,6 @@
       ]
     }
   },
-  "peak48h": 5568,
-  "peak48hAt": "2026-11-22T20:41:08.000Z"
+  "peak48h": 5459,
+  "peak48hAt": "2026-11-22T20:51:13.000Z"
 }

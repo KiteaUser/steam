@@ -3,16 +3,16 @@
   "appid": "1824220",
   "steamAppid": 1824220,
   "name": "Chivalry 2",
-  "players": 1904,
+  "players": 1841,
   "allTimePeak": 16959,
   "peak24h": 1904,
   "peak24hAt": "2026-11-24T20:41:07.000Z",
-  "updatedAt": "2026-11-24T20:41:07.536Z",
+  "updatedAt": "2026-11-24T20:46:10.509Z",
   "img_url": "2024/12/mixcollage-13-dec-2024-12-09-am-7828.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-24T20:41:07.536Z",
-    "updatedAtTs": 1795552867,
+    "updatedAt": "2026-11-24T20:46:10.509Z",
+    "updatedAtTs": 1795553170,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1795552867,
-        1904
+        1795553170,
+        1841
       ],
       "peak24h": [
         1795552867,
         1904
       ],
       "peak48h": [
-        1795380068,
-        2389
+        1795380673,
+        2290
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795380068,
-          2389
-        ],
-        [
-          1795380369,
-          2374
-        ],
         [
           1795380673,
           2290
@@ -2348,6 +2340,10 @@
         [
           1795552867,
           1904
+        ],
+        [
+          1795553170,
+          1841
         ]
       ],
       "hourlyPeak": [
@@ -5530,6 +5526,6 @@
       ]
     }
   },
-  "peak48h": 2389,
-  "peak48hAt": "2026-11-22T20:41:08.000Z"
+  "peak48h": 2290,
+  "peak48hAt": "2026-11-22T20:51:13.000Z"
 }
