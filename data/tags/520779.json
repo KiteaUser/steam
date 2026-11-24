@@ -3,16 +3,16 @@
   "appid": "1659040",
   "steamAppid": 1659040,
   "name": "HITMAN World of Assassination",
-  "players": 2748,
+  "players": 2675,
   "allTimePeak": 10925,
   "peak24h": 3250,
   "peak24hAt": "2026-11-24T14:52:04.000Z",
-  "updatedAt": "2026-11-24T21:26:06.618Z",
+  "updatedAt": "2026-11-24T21:31:25.770Z",
   "img_url": "2024/11/mixcollage-27-nov-2024-12-35-pm-2014.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-24T21:26:06.618Z",
-    "updatedAtTs": 1795555566,
+    "updatedAt": "2026-11-24T21:31:25.770Z",
+    "updatedAtTs": 1795555885,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1795555566,
-        2748
+        1795555885,
+        2675
       ],
       "peak24h": [
         1795531924,
         3250
       ],
       "peak48h": [
-        1795383070,
-        3407
+        1795383365,
+        3383
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795383070,
-          3407
-        ],
         [
           1795383365,
           3383
@@ -2344,6 +2340,10 @@
         [
           1795555566,
           2748
+        ],
+        [
+          1795555885,
+          2675
         ]
       ],
       "hourlyPeak": [
@@ -5546,6 +5546,6 @@
       ]
     }
   },
-  "peak48h": 3407,
-  "peak48hAt": "2026-11-22T21:31:10.000Z"
+  "peak48h": 3383,
+  "peak48hAt": "2026-11-22T21:36:05.000Z"
 }

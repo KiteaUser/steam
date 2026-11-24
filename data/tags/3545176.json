@@ -3,16 +3,16 @@
   "appid": "3405340",
   "steamAppid": 3405340,
   "name": "Megabonk",
-  "players": 2293,
+  "players": 2210,
   "allTimePeak": 117336,
   "peak24h": 2372,
   "peak24hAt": "2026-11-24T20:06:07.000Z",
-  "updatedAt": "2026-11-24T21:26:06.618Z",
+  "updatedAt": "2026-11-24T21:31:25.770Z",
   "img_url": "2025/09/megabonk-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-24T21:26:06.618Z",
-    "updatedAtTs": 1795555566,
+    "updatedAt": "2026-11-24T21:31:25.770Z",
+    "updatedAtTs": 1795555885,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1795555566,
-        2293
+        1795555885,
+        2210
       ],
       "peak24h": [
         1795550767,
         2372
       ],
       "peak48h": [
-        1795383070,
+        1795383365,
         2722
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795383070,
-          2722
-        ],
         [
           1795383365,
           2722
@@ -2336,6 +2332,10 @@
         [
           1795555566,
           2293
+        ],
+        [
+          1795555885,
+          2210
         ]
       ],
       "hourlyPeak": [
@@ -5363,5 +5363,5 @@
     }
   },
   "peak48h": 2722,
-  "peak48hAt": "2026-11-22T21:31:10.000Z"
+  "peak48hAt": "2026-11-22T21:36:05.000Z"
 }
