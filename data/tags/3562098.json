@@ -3,16 +3,16 @@
   "appid": "2305790",
   "steamAppid": 2305790,
   "name": "1v1LOL",
-  "players": 4,
+  "players": 3,
   "allTimePeak": 11042,
   "peak24h": 8,
   "peak24hAt": "2026-11-23T20:51:16.000Z",
-  "updatedAt": "2026-11-24T00:55:58.568Z",
+  "updatedAt": "2026-11-24T01:01:24.531Z",
   "img_url": "2025/10/1v1-lol-custom-art-tag-page.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-24T00:55:58.568Z",
-    "updatedAtTs": 1795481758,
+    "updatedAt": "2026-11-24T01:01:24.531Z",
+    "updatedAtTs": 1795482084,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1795481758,
-        4
+        1795482084,
+        3
       ],
       "peak24h": [
         1795467076,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795308963,
-          4
-        ],
-        [
-          1795309274,
-          4
-        ],
         [
           1795309567,
           5
@@ -2348,13 +2340,13 @@
         [
           1795481758,
           4
+        ],
+        [
+          1795482084,
+          3
         ]
       ],
       "hourlyPeak": [
-        [
-          1792890000,
-          7
-        ],
         [
           1792893600,
           7
@@ -4978,6 +4970,10 @@
         [
           1795305600,
           6
+        ],
+        [
+          1795309200,
+          4
         ]
       ],
       "dailyPeak": [
