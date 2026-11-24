@@ -3,16 +3,16 @@
   "appid": "4358690",
   "steamAppid": 4358690,
   "name": "Graveyard Keeper 2",
-  "players": 2059,
+  "players": 2080,
   "allTimePeak": 60538,
   "peak24h": 2326,
   "peak24hAt": "2026-11-23T19:56:12.000Z",
-  "updatedAt": "2026-11-24T18:56:16.508Z",
+  "updatedAt": "2026-11-24T19:01:26.317Z",
   "img_url": "2026/04/graveyard-keeper-2-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-24T18:56:16.508Z",
-    "updatedAtTs": 1795546576,
+    "updatedAt": "2026-11-24T19:01:26.317Z",
+    "updatedAtTs": 1795546886,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1795546576,
-        2059
+        1795546886,
+        2080
       ],
       "peak24h": [
         1795463772,
         2326
       ],
       "peak48h": [
-        1795374085,
+        1795374352,
         3289
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795374085,
-          3289
-        ],
         [
           1795374352,
           3289
@@ -2340,13 +2336,13 @@
         [
           1795546576,
           2059
+        ],
+        [
+          1795546886,
+          2080
         ]
       ],
       "hourlyPeak": [
-        [
-          1792954800,
-          8132
-        ],
         [
           1792958400,
           8100
@@ -4970,6 +4966,10 @@
         [
           1795370400,
           3282
+        ],
+        [
+          1795374000,
+          3289
         ]
       ],
       "dailyPeak": [
@@ -5102,5 +5102,5 @@
     }
   },
   "peak48h": 3289,
-  "peak48hAt": "2026-11-22T19:01:25.000Z"
+  "peak48hAt": "2026-11-22T19:05:52.000Z"
 }

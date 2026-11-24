@@ -3,16 +3,16 @@
   "appid": "286570",
   "steamAppid": 286570,
   "name": "F1 2015",
-  "players": 24,
+  "players": 21,
   "allTimePeak": 88029,
   "peak24h": 31,
   "peak24hAt": "2026-11-24T16:21:21.000Z",
-  "updatedAt": "2026-11-24T18:56:16.508Z",
+  "updatedAt": "2026-11-24T19:01:26.317Z",
   "img_url": "2025/04/mixcollage-04-apr-2025-12-36-pm-2940.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-24T18:56:16.508Z",
-    "updatedAtTs": 1795546576,
+    "updatedAt": "2026-11-24T19:01:26.317Z",
+    "updatedAtTs": 1795546886,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1795546576,
-        24
+        1795546886,
+        21
       ],
       "peak24h": [
         1795537281,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795374085,
-          26
-        ],
         [
           1795374352,
           21
@@ -2336,13 +2332,13 @@
         [
           1795546576,
           24
+        ],
+        [
+          1795546886,
+          21
         ]
       ],
       "hourlyPeak": [
-        [
-          1792954800,
-          29
-        ],
         [
           1792958400,
           21
@@ -4966,6 +4962,10 @@
         [
           1795370400,
           34
+        ],
+        [
+          1795374000,
+          26
         ]
       ],
       "dailyPeak": [
