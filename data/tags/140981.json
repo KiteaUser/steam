@@ -3,16 +3,16 @@
   "appid": "979690",
   "steamAppid": 979690,
   "name": "The Ascent",
-  "players": 180,
+  "players": 187,
   "allTimePeak": 14013,
-  "peak24h": 209,
-  "peak24hAt": "2026-11-23T20:25:59.000Z",
-  "updatedAt": "2026-11-24T20:21:09.868Z",
+  "peak24h": 204,
+  "peak24hAt": "2026-11-23T20:36:10.000Z",
+  "updatedAt": "2026-11-24T20:26:11.078Z",
   "img_url": "2024/12/mixcollage-10-dec-2024-10-13-am-7970.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-24T20:21:09.868Z",
-    "updatedAtTs": 1795551669,
+    "updatedAt": "2026-11-24T20:26:11.078Z",
+    "updatedAtTs": 1795551971,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1795551669,
-        180
+        1795551971,
+        187
       ],
       "peak24h": [
-        1795465559,
-        209
+        1795466170,
+        204
       ],
       "peak48h": [
-        1795379156,
+        1795379466,
         268
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795379156,
-          268
-        ],
         [
           1795379466,
           268
@@ -2340,6 +2336,10 @@
         [
           1795551669,
           180
+        ],
+        [
+          1795551971,
+          187
         ]
       ],
       "hourlyPeak": [
@@ -5567,5 +5567,5 @@
     }
   },
   "peak48h": 268,
-  "peak48hAt": "2026-11-22T20:25:56.000Z"
+  "peak48hAt": "2026-11-22T20:31:06.000Z"
 }
