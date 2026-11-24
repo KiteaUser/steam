@@ -3,16 +3,16 @@
   "appid": "230410",
   "steamAppid": 230410,
   "name": "Warframe",
-  "players": 60869,
+  "players": 60974,
   "allTimePeak": 189837,
   "peak24h": 73504,
   "peak24hAt": "2026-11-23T14:51:19.000Z",
-  "updatedAt": "2026-11-24T14:41:19.540Z",
+  "updatedAt": "2026-11-24T14:46:14.290Z",
   "img_url": "2026/02/warframe-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-24T14:41:19.540Z",
-    "updatedAtTs": 1795531279,
+    "updatedAt": "2026-11-24T14:46:14.290Z",
+    "updatedAtTs": 1795531574,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1795531279,
-        60869
+        1795531574,
+        60974
       ],
       "peak24h": [
         1795445479,
         73504
       ],
       "peak48h": [
-        1795358766,
-        80582
+        1795359066,
+        80322
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795358766,
-          80582
-        ],
         [
           1795359066,
           80322
@@ -2344,6 +2340,10 @@
         [
           1795531279,
           60869
+        ],
+        [
+          1795531574,
+          60974
         ]
       ],
       "hourlyPeak": [
@@ -5978,6 +5978,6 @@
       ]
     }
   },
-  "peak48h": 80582,
-  "peak48hAt": "2026-11-22T14:46:06.000Z"
+  "peak48h": 80322,
+  "peak48hAt": "2026-11-22T14:51:06.000Z"
 }

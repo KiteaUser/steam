@@ -3,16 +3,16 @@
   "appid": "728880",
   "steamAppid": 728880,
   "name": "Overcooked 2",
-  "players": 6319,
+  "players": 6000,
   "allTimePeak": 17356,
   "peak24h": 6453,
   "peak24hAt": "2026-11-24T14:11:14.000Z",
-  "updatedAt": "2026-11-24T14:41:19.540Z",
+  "updatedAt": "2026-11-24T14:46:14.290Z",
   "img_url": "2024/12/mixcollage-09-dec-2024-12-36-am-4868.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-24T14:41:19.540Z",
-    "updatedAtTs": 1795531279,
+    "updatedAt": "2026-11-24T14:46:14.290Z",
+    "updatedAtTs": 1795531574,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1795531279,
-        6319
+        1795531574,
+        6000
       ],
       "peak24h": [
         1795529474,
         6453
       ],
       "peak48h": [
-        1795358766,
+        1795359066,
         7280
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795358766,
-          7280
-        ],
         [
           1795359066,
           7280
@@ -2344,6 +2340,10 @@
         [
           1795531279,
           6319
+        ],
+        [
+          1795531574,
+          6000
         ]
       ],
       "hourlyPeak": [
@@ -5711,5 +5711,5 @@
     }
   },
   "peak48h": 7280,
-  "peak48hAt": "2026-11-22T14:46:06.000Z"
+  "peak48hAt": "2026-11-22T14:51:06.000Z"
 }
