@@ -7,12 +7,12 @@
   "allTimePeak": 21150,
   "peak24h": 1083,
   "peak24hAt": "2026-11-24T19:56:01.000Z",
-  "updatedAt": "2026-11-24T22:11:13.820Z",
+  "updatedAt": "2026-11-24T22:16:06.516Z",
   "img_url": "2025/06/powerwash-simulator-2-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-24T22:11:13.820Z",
-    "updatedAtTs": 1795558273,
+    "updatedAt": "2026-11-24T22:16:06.516Z",
+    "updatedAtTs": 1795558566,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,7 +23,7 @@
     },
     "summary": {
       "current": [
-        1795558273,
+        1795558566,
         999
       ],
       "peak24h": [
@@ -31,7 +31,7 @@
         1083
       ],
       "peak48h": [
-        1795385476,
+        1795385772,
         1315
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795385476,
-          1315
-        ],
         [
           1795385772,
           1315
@@ -2339,6 +2335,10 @@
         ],
         [
           1795558273,
+          999
+        ],
+        [
+          1795558566,
           999
         ]
       ],
@@ -5363,5 +5363,5 @@
     }
   },
   "peak48h": 1315,
-  "peak48hAt": "2026-11-22T22:11:16.000Z"
+  "peak48hAt": "2026-11-22T22:16:12.000Z"
 }

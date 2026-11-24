@@ -3,16 +3,16 @@
   "appid": "1458140",
   "steamAppid": 1458140,
   "name": "Pacific Drive",
-  "players": 308,
+  "players": 317,
   "allTimePeak": 18507,
   "peak24h": 381,
   "peak24hAt": "2026-11-24T20:56:01.000Z",
-  "updatedAt": "2026-11-24T22:11:13.820Z",
+  "updatedAt": "2026-11-24T22:16:06.516Z",
   "img_url": "2024/12/mixcollage-09-dec-2024-12-01-pm-7735.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-24T22:11:13.820Z",
-    "updatedAtTs": 1795558273,
+    "updatedAt": "2026-11-24T22:16:06.516Z",
+    "updatedAtTs": 1795558566,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1795558273,
-        308
+        1795558566,
+        317
       ],
       "peak24h": [
         1795553761,
         381
       ],
       "peak48h": [
-        1795385476,
-        411
+        1795385772,
+        399
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795385476,
-          411
-        ],
         [
           1795385772,
           399
@@ -2344,6 +2340,10 @@
         [
           1795558273,
           308
+        ],
+        [
+          1795558566,
+          317
         ]
       ],
       "hourlyPeak": [
@@ -5446,6 +5446,6 @@
       ]
     }
   },
-  "peak48h": 411,
-  "peak48hAt": "2026-11-22T22:11:16.000Z"
+  "peak48h": 399,
+  "peak48hAt": "2026-11-22T22:16:12.000Z"
 }
