@@ -3,16 +3,16 @@
   "appid": "1006510",
   "steamAppid": 1006510,
   "name": "Devotion",
-  "players": 2,
+  "players": 3,
   "allTimePeak": 13943,
   "peak24h": 3,
-  "peak24hAt": "2026-11-23T14:11:16.000Z",
-  "updatedAt": "2026-11-24T14:11:14.794Z",
+  "peak24hAt": "2026-11-23T14:16:17.000Z",
+  "updatedAt": "2026-11-24T14:16:06.542Z",
   "img_url": "2024/12/mixcollage-14-dec-2024-02-24-am-3289.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-24T14:11:14.794Z",
-    "updatedAtTs": 1795529474,
+    "updatedAt": "2026-11-24T14:16:06.542Z",
+    "updatedAtTs": 1795529766,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,11 +23,11 @@
     },
     "summary": {
       "current": [
-        1795529474,
-        2
+        1795529766,
+        3
       ],
       "peak24h": [
-        1795443076,
+        1795443377,
         3
       ],
       "peak48h": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795356953,
-          3
-        ],
         [
           1795357264,
           4
@@ -2344,6 +2340,10 @@
         [
           1795529474,
           2
+        ],
+        [
+          1795529766,
+          3
         ]
       ],
       "hourlyPeak": [

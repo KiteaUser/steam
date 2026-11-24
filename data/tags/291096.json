@@ -3,16 +3,16 @@
   "appid": "1293830",
   "steamAppid": 1293830,
   "name": "Forza Horizon 4",
-  "players": 3305,
+  "players": 3324,
   "allTimePeak": 75689,
   "peak24h": 3429,
   "peak24hAt": "2026-11-23T14:16:17.000Z",
-  "updatedAt": "2026-11-24T14:11:14.794Z",
+  "updatedAt": "2026-11-24T14:16:06.542Z",
   "img_url": "2022/11/ForzaHorizonsTagPage.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-24T14:11:14.794Z",
-    "updatedAtTs": 1795529474,
+    "updatedAt": "2026-11-24T14:16:06.542Z",
+    "updatedAtTs": 1795529766,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1795529474,
-        3305
+        1795529766,
+        3324
       ],
       "peak24h": [
         1795443377,
         3429
       ],
       "peak48h": [
-        1795356953,
-        3777
+        1795357264,
+        3745
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795356953,
-          3777
-        ],
         [
           1795357264,
           3745
@@ -2344,6 +2340,10 @@
         [
           1795529474,
           3305
+        ],
+        [
+          1795529766,
+          3324
         ]
       ],
       "hourlyPeak": [
@@ -5586,6 +5586,6 @@
       ]
     }
   },
-  "peak48h": 3777,
-  "peak48hAt": "2026-11-22T14:15:53.000Z"
+  "peak48h": 3745,
+  "peak48hAt": "2026-11-22T14:21:04.000Z"
 }

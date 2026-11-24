@@ -3,16 +3,16 @@
   "appid": "2445690",
   "steamAppid": 2445690,
   "name": "Lost Castle 2",
-  "players": 3485,
+  "players": 3467,
   "allTimePeak": 28835,
   "peak24h": 3659,
   "peak24hAt": "2026-11-23T14:26:10.000Z",
-  "updatedAt": "2026-11-24T14:11:14.794Z",
+  "updatedAt": "2026-11-24T14:16:06.542Z",
   "img_url": "2025/01/lost-castle-2-cover-hd.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-24T14:11:14.794Z",
-    "updatedAtTs": 1795529474,
+    "updatedAt": "2026-11-24T14:16:06.542Z",
+    "updatedAtTs": 1795529766,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1795529474,
-        3485
+        1795529766,
+        3467
       ],
       "peak24h": [
         1795443970,
         3659
       ],
       "peak48h": [
-        1795356953,
-        3763
+        1795357563,
+        3704
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795356953,
-          3763
-        ],
         [
           1795357264,
           3693
@@ -2344,6 +2340,10 @@
         [
           1795529474,
           3485
+        ],
+        [
+          1795529766,
+          3467
         ]
       ],
       "hourlyPeak": [
@@ -5426,6 +5426,6 @@
       ]
     }
   },
-  "peak48h": 3763,
-  "peak48hAt": "2026-11-22T14:15:53.000Z"
+  "peak48h": 3704,
+  "peak48hAt": "2026-11-22T14:26:03.000Z"
 }

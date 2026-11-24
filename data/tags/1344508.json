@@ -3,16 +3,16 @@
   "appid": "744900",
   "steamAppid": 744900,
   "name": "Dead Frontier 2",
-  "players": 1195,
+  "players": 1159,
   "allTimePeak": 10101,
   "peak24h": 1195,
   "peak24hAt": "2026-11-24T14:11:14.000Z",
-  "updatedAt": "2026-11-24T14:11:14.794Z",
+  "updatedAt": "2026-11-24T14:16:06.542Z",
   "img_url": "2025/02/mixcollage-07-feb-2025-09-59-am-8017.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-24T14:11:14.794Z",
-    "updatedAtTs": 1795529474,
+    "updatedAt": "2026-11-24T14:16:06.542Z",
+    "updatedAtTs": 1795529766,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1795529474,
-        1195
+        1795529766,
+        1159
       ],
       "peak24h": [
         1795529474,
         1195
       ],
       "peak48h": [
-        1795356953,
-        1269
+        1795357264,
+        1251
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795356953,
-          1269
-        ],
         [
           1795357264,
           1251
@@ -2344,6 +2340,10 @@
         [
           1795529474,
           1195
+        ],
+        [
+          1795529766,
+          1159
         ]
       ],
       "hourlyPeak": [
@@ -5714,6 +5714,6 @@
       ]
     }
   },
-  "peak48h": 1269,
-  "peak48hAt": "2026-11-22T14:15:53.000Z"
+  "peak48h": 1251,
+  "peak48hAt": "2026-11-22T14:21:04.000Z"
 }
