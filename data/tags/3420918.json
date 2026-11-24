@@ -3,16 +3,16 @@
   "appid": "2352620",
   "steamAppid": 2352620,
   "name": "Fellowship",
-  "players": 64,
+  "players": 60,
   "allTimePeak": 43841,
   "peak24h": 188,
   "peak24hAt": "2026-11-23T20:55:59.000Z",
-  "updatedAt": "2026-11-24T11:36:12.051Z",
+  "updatedAt": "2026-11-24T11:41:08.127Z",
   "img_url": "2025/10/fellowship-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-24T11:36:12.051Z",
-    "updatedAtTs": 1795520172,
+    "updatedAt": "2026-11-24T11:41:08.127Z",
+    "updatedAtTs": 1795520468,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1795520172,
-        64
+        1795520468,
+        60
       ],
       "peak24h": [
         1795467359,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795347663,
-          111
-        ],
         [
           1795347973,
           111
@@ -2344,6 +2340,10 @@
         [
           1795520172,
           64
+        ],
+        [
+          1795520468,
+          60
         ]
       ],
       "hourlyPeak": [
