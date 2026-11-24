@@ -3,16 +3,16 @@
   "appid": "1604030",
   "steamAppid": 1604030,
   "name": "V Rising",
-  "players": 3280,
+  "players": 3206,
   "allTimePeak": 150645,
   "peak24h": 3420,
   "peak24hAt": "2026-11-23T20:36:10.000Z",
-  "updatedAt": "2026-11-24T20:31:20.348Z",
+  "updatedAt": "2026-11-24T20:35:56.468Z",
   "img_url": "2024/12/mixcollage-05-dec-2024-07-26-pm-7215.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-24T20:31:20.348Z",
-    "updatedAtTs": 1795552280,
+    "updatedAt": "2026-11-24T20:35:56.468Z",
+    "updatedAtTs": 1795552556,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1795552280,
-        3280
+        1795552556,
+        3206
       ],
       "peak24h": [
         1795466170,
         3420
       ],
       "peak48h": [
-        1795379755,
+        1795380369,
         4281
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795379755,
-          4281
-        ],
         [
           1795380068,
           4243
@@ -2336,6 +2332,10 @@
         [
           1795552280,
           3280
+        ],
+        [
+          1795552556,
+          3206
         ]
       ],
       "hourlyPeak": [
@@ -5523,5 +5523,5 @@
     }
   },
   "peak48h": 4281,
-  "peak48hAt": "2026-11-22T20:35:55.000Z"
+  "peak48hAt": "2026-11-22T20:46:09.000Z"
 }

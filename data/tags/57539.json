@@ -7,12 +7,12 @@
   "allTimePeak": 43075,
   "peak24h": 870,
   "peak24hAt": "2026-11-23T20:46:15.000Z",
-  "updatedAt": "2026-11-24T20:31:20.348Z",
+  "updatedAt": "2026-11-24T20:35:56.468Z",
   "img_url": "sharedimages/2025/03/lords-of-the-fallen-2014-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-24T20:31:20.348Z",
-    "updatedAtTs": 1795552280,
+    "updatedAt": "2026-11-24T20:35:56.468Z",
+    "updatedAtTs": 1795552556,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,7 +23,7 @@
     },
     "summary": {
       "current": [
-        1795552280,
+        1795552556,
         829
       ],
       "peak24h": [
@@ -31,8 +31,8 @@
         870
       ],
       "peak48h": [
-        1795379755,
-        1246
+        1795380068,
+        1226
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795379755,
-          1246
-        ],
         [
           1795380068,
           1226
@@ -2339,6 +2335,10 @@
         ],
         [
           1795552280,
+          829
+        ],
+        [
+          1795552556,
           829
         ]
       ],
@@ -5458,6 +5458,6 @@
       ]
     }
   },
-  "peak48h": 1246,
-  "peak48hAt": "2026-11-22T20:35:55.000Z"
+  "peak48h": 1226,
+  "peak48hAt": "2026-11-22T20:41:08.000Z"
 }
