@@ -3,16 +3,16 @@
   "appid": "236150",
   "steamAppid": 236150,
   "name": "Starpoint Gemini 2",
-  "players": 1,
+  "players": 3,
   "allTimePeak": 20842,
-  "peak24h": 10,
-  "peak24hAt": "2026-11-23T23:16:32.000Z",
-  "updatedAt": "2026-11-24T23:16:06.417Z",
+  "peak24h": 9,
+  "peak24hAt": "2026-11-24T14:01:34.000Z",
+  "updatedAt": "2026-11-24T23:21:13.874Z",
   "img_url": "2024/11/mixcollage-20-nov-2024-08-48-pm-4959.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-24T23:16:06.417Z",
-    "updatedAtTs": 1795562166,
+    "updatedAt": "2026-11-24T23:21:13.874Z",
+    "updatedAtTs": 1795562473,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,12 +23,12 @@
     },
     "summary": {
       "current": [
-        1795562166,
-        1
+        1795562473,
+        3
       ],
       "peak24h": [
-        1795475792,
-        10
+        1795528894,
+        9
       ],
       "peak48h": [
         1795466775,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795389369,
-          5
-        ],
-        [
-          1795389665,
-          4
-        ],
         [
           1795389960,
           4
@@ -2340,6 +2332,10 @@
         [
           1795562166,
           1
+        ],
+        [
+          1795562473,
+          3
         ]
       ],
       "hourlyPeak": [
