@@ -3,16 +3,16 @@
   "appid": "1645820",
   "steamAppid": 1645820,
   "name": "SurrounDead",
-  "players": 1044,
+  "players": 1034,
   "allTimePeak": 10762,
   "peak24h": 1204,
   "peak24hAt": "2026-11-24T19:46:18.000Z",
-  "updatedAt": "2026-11-24T22:46:11.486Z",
+  "updatedAt": "2026-11-24T22:51:12.078Z",
   "img_url": "2024/12/mixcollage-12-dec-2024-07-18-am-5609.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-24T22:46:11.486Z",
-    "updatedAtTs": 1795560371,
+    "updatedAt": "2026-11-24T22:51:12.078Z",
+    "updatedAtTs": 1795560672,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1795560371,
-        1044
+        1795560672,
+        1034
       ],
       "peak24h": [
         1795549578,
         1204
       ],
       "peak48h": [
-        1795387582,
+        1795388160,
         1453
       ],
       "allTimePeak": [
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795387582,
-          1453
-        ],
-        [
-          1795387865,
-          1453
-        ],
         [
           1795388160,
           1453
@@ -2340,6 +2332,10 @@
         [
           1795560371,
           1044
+        ],
+        [
+          1795560672,
+          1034
         ]
       ],
       "hourlyPeak": [
@@ -5523,5 +5519,5 @@
     }
   },
   "peak48h": 1453,
-  "peak48hAt": "2026-11-22T22:46:22.000Z"
+  "peak48hAt": "2026-11-22T22:56:00.000Z"
 }
