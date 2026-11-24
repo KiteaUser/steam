@@ -3,16 +3,16 @@
   "appid": "418370",
   "steamAppid": 418370,
   "name": "Resident Evil 7 Biohazard",
-  "players": 1068,
+  "players": 1052,
   "allTimePeak": 20449,
   "peak24h": 1309,
   "peak24hAt": "2026-11-24T14:31:21.000Z",
-  "updatedAt": "2026-11-24T19:41:15.290Z",
+  "updatedAt": "2026-11-24T19:46:18.848Z",
   "img_url": "2024/12/mixcollage-07-dec-2024-08-10-am-5069.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-24T19:41:15.290Z",
-    "updatedAtTs": 1795549275,
+    "updatedAt": "2026-11-24T19:46:18.848Z",
+    "updatedAtTs": 1795549578,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1795549275,
-        1068
+        1795549578,
+        1052
       ],
       "peak24h": [
         1795530681,
         1309
       ],
       "peak48h": [
-        1795376765,
-        1593
+        1795377368,
+        1573
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795376765,
-          1593
-        ],
         [
           1795377071,
           1561
@@ -2340,6 +2336,10 @@
         [
           1795549275,
           1068
+        ],
+        [
+          1795549578,
+          1052
         ]
       ],
       "hourlyPeak": [
@@ -5782,6 +5782,6 @@
       ]
     }
   },
-  "peak48h": 1593,
-  "peak48hAt": "2026-11-22T19:46:05.000Z"
+  "peak48h": 1573,
+  "peak48hAt": "2026-11-22T19:56:08.000Z"
 }

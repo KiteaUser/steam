@@ -3,16 +3,16 @@
   "appid": "976310",
   "steamAppid": 976310,
   "name": "Mortal Kombat 11",
-  "players": 1120,
+  "players": 1164,
   "allTimePeak": 35147,
   "peak24h": 1340,
   "peak24hAt": "2026-11-24T14:52:04.000Z",
-  "updatedAt": "2026-11-24T19:41:15.290Z",
+  "updatedAt": "2026-11-24T19:46:18.848Z",
   "img_url": "2024/12/mixcollage-07-dec-2024-07-10-pm-5838.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-24T19:41:15.290Z",
-    "updatedAtTs": 1795549275,
+    "updatedAt": "2026-11-24T19:46:18.848Z",
+    "updatedAtTs": 1795549578,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1795549275,
-        1120
+        1795549578,
+        1164
       ],
       "peak24h": [
         1795531924,
         1340
       ],
       "peak48h": [
-        1795376765,
-        1347
+        1795531924,
+        1340
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795376765,
-          1347
-        ],
         [
           1795377071,
           1320
@@ -2344,6 +2340,10 @@
         [
           1795549275,
           1120
+        ],
+        [
+          1795549578,
+          1164
         ]
       ],
       "hourlyPeak": [
@@ -5678,6 +5678,6 @@
       ]
     }
   },
-  "peak48h": 1347,
-  "peak48hAt": "2026-11-22T19:46:05.000Z"
+  "peak48h": 1340,
+  "peak48hAt": "2026-11-24T14:52:04.000Z"
 }
