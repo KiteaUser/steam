@@ -3,16 +3,16 @@
   "appid": "1282100",
   "steamAppid": 1282100,
   "name": "Remnant II",
-  "players": 1263,
+  "players": 1240,
   "allTimePeak": 110856,
   "peak24h": 1529,
   "peak24hAt": "2026-11-23T19:31:30.000Z",
-  "updatedAt": "2026-11-24T15:36:04.755Z",
+  "updatedAt": "2026-11-24T15:41:09.501Z",
   "img_url": "2024/12/mixcollage-07-dec-2024-07-12-am-9232.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-24T15:36:04.755Z",
-    "updatedAtTs": 1795534564,
+    "updatedAt": "2026-11-24T15:41:09.501Z",
+    "updatedAtTs": 1795534869,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1795534564,
-        1263
+        1795534869,
+        1240
       ],
       "peak24h": [
         1795462290,
         1529
       ],
       "peak48h": [
-        1795361770,
-        2050
+        1795362364,
+        2030
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795361770,
-          2050
-        ],
-        [
-          1795362069,
-          2040
-        ],
         [
           1795362364,
           2030
@@ -2348,6 +2340,10 @@
         [
           1795534564,
           1263
+        ],
+        [
+          1795534869,
+          1240
         ]
       ],
       "hourlyPeak": [
@@ -5478,6 +5474,6 @@
       ]
     }
   },
-  "peak48h": 2050,
-  "peak48hAt": "2026-11-22T15:36:10.000Z"
+  "peak48h": 2030,
+  "peak48hAt": "2026-11-22T15:46:04.000Z"
 }
