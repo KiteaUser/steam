@@ -3,16 +3,16 @@
   "appid": "3764200",
   "steamAppid": 3764200,
   "name": "Resident Evil Requiem",
-  "players": 3021,
+  "players": 2985,
   "allTimePeak": 344214,
   "peak24h": 3170,
   "peak24hAt": "2026-11-23T20:06:13.000Z",
-  "updatedAt": "2026-11-24T15:51:25.744Z",
+  "updatedAt": "2026-11-24T15:56:34.195Z",
   "img_url": "2025/06/resident-evil-requiem-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-24T15:51:25.744Z",
-    "updatedAtTs": 1795535485,
+    "updatedAt": "2026-11-24T15:56:34.195Z",
+    "updatedAtTs": 1795535794,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1795535485,
-        3021
+        1795535794,
+        2985
       ],
       "peak24h": [
         1795464373,
         3170
       ],
       "peak48h": [
-        1795362972,
+        1795363290,
         4558
       ],
       "allTimePeak": [
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795362686,
-          4554
-        ],
-        [
-          1795362972,
-          4558
-        ],
         [
           1795363290,
           4558
@@ -2348,6 +2340,10 @@
         [
           1795535485,
           3021
+        ],
+        [
+          1795535794,
+          2985
         ]
       ],
       "hourlyPeak": [
@@ -5355,5 +5351,5 @@
     }
   },
   "peak48h": 4558,
-  "peak48hAt": "2026-11-22T15:56:12.000Z"
+  "peak48hAt": "2026-11-22T16:01:30.000Z"
 }
