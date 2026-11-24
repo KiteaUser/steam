@@ -3,16 +3,16 @@
   "appid": "1778820",
   "steamAppid": 1778820,
   "name": "TEKKEN 8",
-  "players": 5301,
+  "players": 5275,
   "allTimePeak": 49977,
   "peak24h": 5497,
   "peak24hAt": "2026-11-24T14:36:03.000Z",
-  "updatedAt": "2026-11-24T15:31:17.801Z",
+  "updatedAt": "2026-11-24T15:36:04.755Z",
   "img_url": "2024/12/mixcollage-06-dec-2024-03-23-pm-9762.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-24T15:31:17.801Z",
-    "updatedAtTs": 1795534277,
+    "updatedAt": "2026-11-24T15:36:04.755Z",
+    "updatedAtTs": 1795534564,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1795534277,
-        5301
+        1795534564,
+        5275
       ],
       "peak24h": [
         1795530963,
         5497
       ],
       "peak48h": [
-        1795361484,
-        6328
+        1795361770,
+        6311
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795361484,
-          6328
-        ],
         [
           1795361770,
           6311
@@ -2348,6 +2344,10 @@
         [
           1795534277,
           5301
+        ],
+        [
+          1795534564,
+          5275
         ]
       ],
       "hourlyPeak": [
@@ -5454,6 +5454,6 @@
       ]
     }
   },
-  "peak48h": 6328,
-  "peak48hAt": "2026-11-22T15:31:24.000Z"
+  "peak48h": 6311,
+  "peak48hAt": "2026-11-22T15:36:10.000Z"
 }
