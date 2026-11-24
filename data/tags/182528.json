@@ -3,16 +3,16 @@
   "appid": "526870",
   "steamAppid": 526870,
   "name": "Satisfactory",
-  "players": 17495,
+  "players": 17487,
   "allTimePeak": 186158,
   "peak24h": 18095,
   "peak24hAt": "2026-11-23T20:41:13.000Z",
-  "updatedAt": "2026-11-24T20:26:11.078Z",
+  "updatedAt": "2026-11-24T20:31:20.348Z",
   "img_url": "2025/11/satisfactory-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-24T20:26:11.078Z",
-    "updatedAtTs": 1795551971,
+    "updatedAt": "2026-11-24T20:31:20.348Z",
+    "updatedAtTs": 1795552280,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1795551971,
-        17495
+        1795552280,
+        17487
       ],
       "peak24h": [
         1795466473,
         18095
       ],
       "peak48h": [
-        1795379466,
-        22784
+        1795380068,
+        22677
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795379466,
-          22784
-        ],
         [
           1795379755,
           22560
@@ -2340,6 +2336,10 @@
         [
           1795551971,
           17495
+        ],
+        [
+          1795552280,
+          17487
         ]
       ],
       "hourlyPeak": [
@@ -5618,6 +5618,6 @@
       ]
     }
   },
-  "peak48h": 22784,
-  "peak48hAt": "2026-11-22T20:31:06.000Z"
+  "peak48h": 22677,
+  "peak48hAt": "2026-11-22T20:41:08.000Z"
 }
