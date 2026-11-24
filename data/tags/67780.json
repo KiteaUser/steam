@@ -3,16 +3,16 @@
   "appid": "1465360",
   "steamAppid": 1465360,
   "name": "SnowRunner",
-  "players": 4702,
+  "players": 4486,
   "allTimePeak": 12027,
   "peak24h": 5227,
   "peak24hAt": "2026-11-24T19:36:04.000Z",
-  "updatedAt": "2026-11-24T21:01:34.119Z",
+  "updatedAt": "2026-11-24T21:06:07.654Z",
   "img_url": "2024/12/mixcollage-11-dec-2024-11-49-am-9312.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-24T21:01:34.119Z",
-    "updatedAtTs": 1795554094,
+    "updatedAt": "2026-11-24T21:06:07.654Z",
+    "updatedAtTs": 1795554367,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1795554094,
-        4702
+        1795554367,
+        4486
       ],
       "peak24h": [
         1795548964,
         5227
       ],
       "peak48h": [
-        1795381552,
-        5686
+        1795460488,
+        5437
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795381552,
-          5686
-        ],
         [
           1795381858,
           5381
@@ -2340,6 +2336,10 @@
         [
           1795554094,
           4702
+        ],
+        [
+          1795554367,
+          4486
         ]
       ],
       "hourlyPeak": [
@@ -4969,7 +4969,7 @@
         ],
         [
           1795381200,
-          5577
+          5686
         ]
       ],
       "dailyPeak": [
@@ -5574,6 +5574,6 @@
       ]
     }
   },
-  "peak48h": 5686,
-  "peak48hAt": "2026-11-22T21:05:52.000Z"
+  "peak48h": 5437,
+  "peak48hAt": "2026-11-23T19:01:28.000Z"
 }
