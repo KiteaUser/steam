@@ -3,16 +3,16 @@
   "appid": "1371980",
   "steamAppid": 1371980,
   "name": "No Rest for the Wicked",
-  "players": 1059,
+  "players": 1054,
   "allTimePeak": 62997,
   "peak24h": 1413,
   "peak24hAt": "2026-11-24T14:21:09.000Z",
-  "updatedAt": "2026-11-24T16:51:15.202Z",
+  "updatedAt": "2026-11-24T16:56:09.653Z",
   "img_url": "2024/12/mixcollage-12-dec-2024-11-49-pm-1577.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-24T16:51:15.202Z",
-    "updatedAtTs": 1795539075,
+    "updatedAt": "2026-11-24T16:56:09.653Z",
+    "updatedAtTs": 1795539369,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1795539075,
-        1059
+        1795539369,
+        1054
       ],
       "peak24h": [
         1795530069,
         1413
       ],
       "peak48h": [
-        1795366565,
-        1480
+        1795367159,
+        1457
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795366565,
-          1480
-        ],
         [
           1795366893,
           1429
@@ -2344,6 +2340,10 @@
         [
           1795539075,
           1059
+        ],
+        [
+          1795539369,
+          1054
         ]
       ],
       "hourlyPeak": [
@@ -5438,6 +5438,6 @@
       ]
     }
   },
-  "peak48h": 1480,
-  "peak48hAt": "2026-11-22T16:56:05.000Z"
+  "peak48h": 1457,
+  "peak48hAt": "2026-11-22T17:05:59.000Z"
 }

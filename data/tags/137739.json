@@ -3,16 +3,16 @@
   "appid": "1250410",
   "steamAppid": 1250410,
   "name": "Microsoft Flight Simulator 2020",
-  "players": 2762,
+  "players": 2795,
   "allTimePeak": 61829,
   "peak24h": 3031,
   "peak24hAt": "2026-11-23T19:36:05.000Z",
-  "updatedAt": "2026-11-24T16:51:15.202Z",
+  "updatedAt": "2026-11-24T16:56:09.653Z",
   "img_url": "2024/12/mixcollage-09-dec-2024-11-56-am-8376.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-24T16:51:15.202Z",
-    "updatedAtTs": 1795539075,
+    "updatedAt": "2026-11-24T16:56:09.653Z",
+    "updatedAtTs": 1795539369,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1795539075,
-        2762
+        1795539369,
+        2795
       ],
       "peak24h": [
         1795462565,
         3031
       ],
       "peak48h": [
-        1795366565,
-        4022
+        1795367774,
+        3971
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795366565,
-          4022
-        ],
         [
           1795366893,
           3958
@@ -2344,6 +2340,10 @@
         [
           1795539075,
           2762
+        ],
+        [
+          1795539369,
+          2795
         ]
       ],
       "hourlyPeak": [
@@ -5614,6 +5614,6 @@
       ]
     }
   },
-  "peak48h": 4022,
-  "peak48hAt": "2026-11-22T16:56:05.000Z"
+  "peak48h": 3971,
+  "peak48hAt": "2026-11-22T17:16:14.000Z"
 }
