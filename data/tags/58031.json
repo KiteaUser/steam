@@ -3,16 +3,16 @@
   "appid": "1475810",
   "steamAppid": 1475810,
   "name": "Ghostwire: Tokyo",
-  "players": 226,
+  "players": 229,
   "allTimePeak": 14086,
   "peak24h": 229,
   "peak24hAt": "2026-11-23T14:16:17.000Z",
-  "updatedAt": "2026-11-24T13:51:04.622Z",
+  "updatedAt": "2026-11-24T13:56:07.295Z",
   "img_url": "2024/12/mixcollage-05-dec-2024-07-21-pm-3624.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-24T13:51:04.622Z",
-    "updatedAtTs": 1795528264,
+    "updatedAt": "2026-11-24T13:56:07.295Z",
+    "updatedAtTs": 1795528567,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1795528264,
-        226
+        1795528567,
+        229
       ],
       "peak24h": [
         1795443377,
         229
       ],
       "peak48h": [
-        1795355760,
-        274
+        1795356082,
+        272
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795355470,
-          256
-        ],
-        [
-          1795355760,
-          274
-        ],
         [
           1795356082,
           272
@@ -2348,6 +2340,10 @@
         [
           1795528264,
           226
+        ],
+        [
+          1795528567,
+          229
         ]
       ],
       "hourlyPeak": [
@@ -4977,7 +4973,7 @@
         ],
         [
           1795352400,
-          260
+          274
         ]
       ],
       "dailyPeak": [
@@ -5542,6 +5538,6 @@
       ]
     }
   },
-  "peak48h": 274,
-  "peak48hAt": "2026-11-22T13:56:00.000Z"
+  "peak48h": 272,
+  "peak48hAt": "2026-11-22T14:01:22.000Z"
 }
