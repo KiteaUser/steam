@@ -3,16 +3,16 @@
   "appid": "535930",
   "steamAppid": 535930,
   "name": "Two Point Hospital",
-  "players": 770,
+  "players": 765,
   "allTimePeak": 34014,
   "peak24h": 816,
   "peak24hAt": "2026-11-24T14:26:33.000Z",
-  "updatedAt": "2026-11-24T14:46:14.290Z",
+  "updatedAt": "2026-11-24T14:52:04.252Z",
   "img_url": "2024/12/mixcollage-09-dec-2024-01-23-am-2444.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-24T14:46:14.290Z",
-    "updatedAtTs": 1795531574,
+    "updatedAt": "2026-11-24T14:52:04.252Z",
+    "updatedAtTs": 1795531924,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1795531574,
-        770
+        1795531924,
+        765
       ],
       "peak24h": [
         1795530393,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795359066,
-          1101
-        ],
         [
           1795359364,
           1117
@@ -2344,6 +2340,10 @@
         [
           1795531574,
           770
+        ],
+        [
+          1795531924,
+          765
         ]
       ],
       "hourlyPeak": [

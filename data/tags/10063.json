@@ -3,16 +3,16 @@
   "appid": "289070",
   "steamAppid": 289070,
   "name": "Sid Meier's Civilization VI",
-  "players": 33120,
+  "players": 33113,
   "allTimePeak": 162657,
-  "peak24h": 33803,
-  "peak24hAt": "2026-11-23T14:51:19.000Z",
-  "updatedAt": "2026-11-24T14:46:14.290Z",
+  "peak24h": 33547,
+  "peak24hAt": "2026-11-23T14:56:03.000Z",
+  "updatedAt": "2026-11-24T14:52:04.252Z",
   "img_url": "2024/12/mixcollage-12-dec-2024-10-48-am-2414.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-24T14:46:14.290Z",
-    "updatedAtTs": 1795531574,
+    "updatedAt": "2026-11-24T14:52:04.252Z",
+    "updatedAtTs": 1795531924,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1795531574,
-        33120
+        1795531924,
+        33113
       ],
       "peak24h": [
-        1795445479,
-        33803
+        1795445763,
+        33547
       ],
       "peak48h": [
-        1795359066,
-        41919
+        1795359364,
+        41775
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795359066,
-          41919
-        ],
         [
           1795359364,
           41775
@@ -2344,6 +2340,10 @@
         [
           1795531574,
           33120
+        ],
+        [
+          1795531924,
+          33113
         ]
       ],
       "hourlyPeak": [
@@ -5798,6 +5798,6 @@
       ]
     }
   },
-  "peak48h": 41919,
-  "peak48hAt": "2026-11-22T14:51:06.000Z"
+  "peak48h": 41775,
+  "peak48hAt": "2026-11-22T14:56:04.000Z"
 }
