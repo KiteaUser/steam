@@ -3,16 +3,16 @@
   "appid": "43160",
   "steamAppid": 43160,
   "name": "Metro: Last Light",
-  "players": 196,
+  "players": 223,
   "allTimePeak": 37815,
-  "peak24h": 206,
-  "peak24hAt": "2026-11-24T16:46:09.000Z",
-  "updatedAt": "2026-11-24T17:26:03.112Z",
+  "peak24h": 223,
+  "peak24hAt": "2026-11-24T17:31:26.000Z",
+  "updatedAt": "2026-11-24T17:31:26.036Z",
   "img_url": "2025/02/metro-last-light-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-24T17:26:03.112Z",
-    "updatedAtTs": 1795541163,
+    "updatedAt": "2026-11-24T17:31:26.036Z",
+    "updatedAtTs": 1795541486,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1795541163,
-        196
+        1795541486,
+        223
       ],
       "peak24h": [
-        1795538769,
-        206
+        1795541486,
+        223
       ],
       "peak48h": [
-        1795368679,
+        1795368955,
         270
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795368679,
-          270
-        ],
         [
           1795368955,
           270
@@ -2344,6 +2340,10 @@
         [
           1795541163,
           196
+        ],
+        [
+          1795541486,
+          223
         ]
       ],
       "hourlyPeak": [
@@ -5967,5 +5967,5 @@
     }
   },
   "peak48h": 270,
-  "peak48hAt": "2026-11-22T17:31:19.000Z"
+  "peak48hAt": "2026-11-22T17:35:55.000Z"
 }
