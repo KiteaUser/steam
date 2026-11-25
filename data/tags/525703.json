@@ -3,16 +3,16 @@
   "appid": "274940",
   "steamAppid": 274940,
   "name": "Depth",
-  "players": 36,
+  "players": 31,
   "allTimePeak": 10916,
   "peak24h": 53,
   "peak24hAt": "2026-11-24T22:41:20.000Z",
-  "updatedAt": "2026-11-25T05:06:02.822Z",
+  "updatedAt": "2026-11-25T05:11:16.030Z",
   "img_url": "2024/11/mixcollage-24-nov-2024-05-41-pm-3497.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-25T05:06:02.822Z",
-    "updatedAtTs": 1795583162,
+    "updatedAt": "2026-11-25T05:11:16.030Z",
+    "updatedAtTs": 1795583476,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1795583162,
-        36
+        1795583476,
+        31
       ],
       "peak24h": [
         1795560080,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795410363,
-          22
-        ],
-        [
-          1795410660,
-          22
-        ],
         [
           1795410975,
           27
@@ -2344,6 +2336,10 @@
         [
           1795583162,
           36
+        ],
+        [
+          1795583476,
+          31
         ]
       ],
       "hourlyPeak": [
