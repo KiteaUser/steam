@@ -3,16 +3,16 @@
   "appid": "1857950",
   "steamAppid": 1857950,
   "name": "VEIN",
-  "players": 604,
+  "players": 584,
   "allTimePeak": 11073,
   "peak24h": 680,
   "peak24hAt": "2026-11-24T19:46:18.000Z",
-  "updatedAt": "2026-11-25T00:36:19.411Z",
+  "updatedAt": "2026-11-25T00:41:57.043Z",
   "img_url": "2025/11/vein-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-25T00:36:19.411Z",
-    "updatedAtTs": 1795566979,
+    "updatedAt": "2026-11-25T00:41:57.043Z",
+    "updatedAtTs": 1795567317,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1795566979,
-        604
+        1795567317,
+        584
       ],
       "peak24h": [
         1795549578,
         680
       ],
       "peak48h": [
-        1795394463,
-        834
+        1795395965,
+        833
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795394463,
-          834
-        ],
         [
           1795394771,
           815
@@ -2332,6 +2328,10 @@
         [
           1795566979,
           604
+        ],
+        [
+          1795567317,
+          584
         ]
       ],
       "hourlyPeak": [
@@ -5358,6 +5358,6 @@
       ]
     }
   },
-  "peak48h": 834,
-  "peak48hAt": "2026-11-23T00:41:03.000Z"
+  "peak48h": 833,
+  "peak48hAt": "2026-11-23T01:06:05.000Z"
 }
