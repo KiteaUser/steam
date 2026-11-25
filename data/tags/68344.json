@@ -3,16 +3,16 @@
   "appid": "858810",
   "steamAppid": 858810,
   "name": "Dawn of Man",
-  "players": 310,
+  "players": 299,
   "allTimePeak": 23864,
   "peak24h": 342,
   "peak24hAt": "2026-11-25T17:06:07.000Z",
-  "updatedAt": "2026-11-25T20:11:07.050Z",
+  "updatedAt": "2026-11-25T20:16:16.513Z",
   "img_url": "2024/12/mixcollage-13-dec-2024-10-54-am-1065.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-25T20:11:07.050Z",
-    "updatedAtTs": 1795637467,
+    "updatedAt": "2026-11-25T20:16:16.513Z",
+    "updatedAtTs": 1795637776,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1795637467,
-        310
+        1795637776,
+        299
       ],
       "peak24h": [
         1795626367,
         342
       ],
       "peak48h": [
-        1795464690,
+        1795464982,
         344
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795464690,
-          344
-        ],
         [
           1795464982,
           344
@@ -2328,6 +2324,10 @@
         [
           1795637467,
           310
+        ],
+        [
+          1795637776,
+          299
         ]
       ],
       "hourlyPeak": [
@@ -5691,5 +5691,5 @@
     }
   },
   "peak48h": 344,
-  "peak48hAt": "2026-11-23T20:11:30.000Z"
+  "peak48hAt": "2026-11-23T20:16:22.000Z"
 }
