@@ -3,16 +3,16 @@
   "appid": "782330",
   "steamAppid": 782330,
   "name": "DOOM Eternal",
-  "players": 1028,
+  "players": 1018,
   "allTimePeak": 104891,
   "peak24h": 1028,
   "peak24hAt": "2026-11-25T19:01:23.000Z",
-  "updatedAt": "2026-11-25T19:01:23.357Z",
+  "updatedAt": "2026-11-25T19:06:14.241Z",
   "img_url": "2024/12/mixcollage-07-dec-2024-07-26-am-2437.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-25T19:01:23.357Z",
-    "updatedAtTs": 1795633283,
+    "updatedAt": "2026-11-25T19:06:14.241Z",
+    "updatedAtTs": 1795633574,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1795633283,
-        1028
+        1795633574,
+        1018
       ],
       "peak24h": [
         1795633283,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795460488,
-          851
-        ],
-        [
-          1795460769,
-          851
-        ],
         [
           1795461077,
           843
@@ -2328,6 +2320,10 @@
         [
           1795633283,
           1028
+        ],
+        [
+          1795633574,
+          1018
         ]
       ],
       "hourlyPeak": [
@@ -4969,6 +4965,10 @@
         ],
         [
           1795456800,
+          851
+        ],
+        [
+          1795460400,
           851
         ]
       ],
