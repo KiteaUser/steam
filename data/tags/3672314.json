@@ -3,16 +3,16 @@
   "appid": "2244210",
   "steamAppid": 2244210,
   "name": "Echoes of Aincrad",
-  "players": 109,
+  "players": 110,
   "allTimePeak": 19901,
   "peak24h": 128,
   "peak24hAt": "2026-11-24T22:51:12.000Z",
-  "updatedAt": "2026-11-25T21:31:11.472Z",
+  "updatedAt": "2026-11-25T21:35:55.960Z",
   "img_url": "2026/03/echoes-of-aincrad-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-25T21:31:11.472Z",
-    "updatedAtTs": 1795642271,
+    "updatedAt": "2026-11-25T21:35:55.960Z",
+    "updatedAtTs": 1795642555,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1795642271,
-        109
+        1795642555,
+        110
       ],
       "peak24h": [
         1795560672,
         128
       ],
       "peak48h": [
-        1795469478,
+        1795469762,
         138
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795469478,
-          138
-        ],
         [
           1795469762,
           138
@@ -2332,6 +2328,10 @@
         [
           1795642271,
           109
+        ],
+        [
+          1795642555,
+          110
         ]
       ],
       "hourlyPeak": [
@@ -5351,5 +5351,5 @@
     }
   },
   "peak48h": 138,
-  "peak48hAt": "2026-11-23T21:31:18.000Z"
+  "peak48hAt": "2026-11-23T21:36:02.000Z"
 }
