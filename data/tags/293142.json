@@ -3,16 +3,16 @@
   "appid": "2060130",
   "steamAppid": 2060130,
   "name": "Return to Monkey Island",
-  "players": 8,
+  "players": 10,
   "allTimePeak": 15539,
   "peak24h": 31,
   "peak24hAt": "2026-11-24T18:36:16.000Z",
-  "updatedAt": "2026-11-25T07:55:56.042Z",
+  "updatedAt": "2026-11-25T08:01:42.420Z",
   "img_url": "2024/12/mixcollage-09-dec-2024-02-29-am-560.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-25T07:55:56.042Z",
-    "updatedAtTs": 1795593356,
+    "updatedAt": "2026-11-25T08:01:42.420Z",
+    "updatedAtTs": 1795593702,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1795593356,
-        8
+        1795593702,
+        10
       ],
       "peak24h": [
         1795545376,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795420565,
-          5
-        ],
-        [
-          1795420880,
-          6
-        ],
         [
           1795421163,
           6
@@ -2340,13 +2332,13 @@
         [
           1795593356,
           8
+        ],
+        [
+          1795593702,
+          10
         ]
       ],
       "hourlyPeak": [
-        [
-          1793001600,
-          13
-        ],
         [
           1793005200,
           18
@@ -4969,6 +4961,10 @@
         ],
         [
           1795417200,
+          6
+        ],
+        [
+          1795420800,
           6
         ]
       ],
