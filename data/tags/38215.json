@@ -3,16 +3,16 @@
   "appid": "232770",
   "steamAppid": 232770,
   "name": "POSTAL",
-  "players": 49,
+  "players": 56,
   "allTimePeak": 412063,
-  "peak24h": 64,
-  "peak24hAt": "2026-11-24T18:56:16.000Z",
-  "updatedAt": "2026-11-25T18:56:03.378Z",
+  "peak24h": 60,
+  "peak24hAt": "2026-11-25T17:55:58.000Z",
+  "updatedAt": "2026-11-25T19:01:23.357Z",
   "img_url": "2024/12/mixcollage-13-dec-2024-10-52-am-3723.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-25T18:56:03.378Z",
-    "updatedAtTs": 1795632963,
+    "updatedAt": "2026-11-25T19:01:23.357Z",
+    "updatedAtTs": 1795633283,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,12 +23,12 @@
     },
     "summary": {
       "current": [
-        1795632963,
-        49
+        1795633283,
+        56
       ],
       "peak24h": [
-        1795546576,
-        64
+        1795629358,
+        60
       ],
       "peak48h": [
         1795546576,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795460165,
-          53
-        ],
         [
           1795460488,
           53
@@ -2320,6 +2316,10 @@
         [
           1795632963,
           49
+        ],
+        [
+          1795633283,
+          56
         ]
       ],
       "hourlyPeak": [
