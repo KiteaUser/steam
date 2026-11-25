@@ -3,16 +3,16 @@
   "appid": "2253100",
   "steamAppid": 2253100,
   "name": "Everwind",
-  "players": 132,
+  "players": 133,
   "allTimePeak": 11022,
   "peak24h": 151,
   "peak24hAt": "2026-11-24T20:56:01.000Z",
-  "updatedAt": "2026-11-25T19:56:16.471Z",
+  "updatedAt": "2026-11-25T20:01:41.981Z",
   "img_url": "2026/03/everwind-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-25T19:56:16.471Z",
-    "updatedAtTs": 1795636576,
+    "updatedAt": "2026-11-25T20:01:41.981Z",
+    "updatedAtTs": 1795636901,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1795636576,
-        132
+        1795636901,
+        133
       ],
       "peak24h": [
         1795553761,
         151
       ],
       "peak48h": [
-        1795464090,
-        153
+        1795465272,
+        151
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795464090,
-          153
-        ],
         [
           1795464373,
           148
@@ -2324,6 +2320,10 @@
         [
           1795636576,
           132
+        ],
+        [
+          1795636901,
+          133
         ]
       ],
       "hourlyPeak": [
@@ -4970,6 +4970,10 @@
         [
           1795460400,
           165
+        ],
+        [
+          1795464000,
+          153
         ]
       ],
       "dailyPeak": [
@@ -5346,6 +5350,6 @@
       ]
     }
   },
-  "peak48h": 153,
-  "peak48hAt": "2026-11-23T20:01:30.000Z"
+  "peak48h": 151,
+  "peak48hAt": "2026-11-23T20:21:12.000Z"
 }
