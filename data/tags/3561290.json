@@ -3,16 +3,16 @@
   "appid": "3949040",
   "steamAppid": 3949040,
   "name": "RV There Yet",
-  "players": 3857,
+  "players": 3805,
   "allTimePeak": 100002,
   "peak24h": 4002,
-  "peak24hAt": "2026-11-24T20:35:56.000Z",
-  "updatedAt": "2026-11-25T20:31:15.781Z",
+  "peak24hAt": "2026-11-24T20:41:07.000Z",
+  "updatedAt": "2026-11-25T20:36:12.143Z",
   "img_url": "2025/10/rv-there-yet-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-25T20:31:15.781Z",
-    "updatedAtTs": 1795638675,
+    "updatedAt": "2026-11-25T20:36:12.143Z",
+    "updatedAtTs": 1795638972,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1795638675,
-        3857
+        1795638972,
+        3805
       ],
       "peak24h": [
-        1795552556,
+        1795552867,
         4002
       ],
       "peak48h": [
-        1795465876,
+        1795466473,
         4272
       ],
       "allTimePeak": [
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795465876,
-          4272
-        ],
-        [
-          1795466170,
-          4272
-        ],
         [
           1795466473,
           4272
@@ -2320,6 +2312,10 @@
         [
           1795638675,
           3857
+        ],
+        [
+          1795638972,
+          3805
         ]
       ],
       "hourlyPeak": [
@@ -5363,5 +5359,5 @@
     }
   },
   "peak48h": 4272,
-  "peak48hAt": "2026-11-23T20:31:16.000Z"
+  "peak48hAt": "2026-11-23T20:41:13.000Z"
 }
