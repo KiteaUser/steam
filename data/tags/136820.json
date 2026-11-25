@@ -3,16 +3,16 @@
   "appid": "570",
   "steamAppid": 570,
   "name": "Dota 2",
-  "players": 398149,
+  "players": 395020,
   "allTimePeak": 1295114,
   "peak24h": 742462,
   "peak24hAt": "2026-11-24T15:26:03.000Z",
-  "updatedAt": "2026-11-25T06:21:23.532Z",
+  "updatedAt": "2026-11-25T06:26:03.507Z",
   "img_url": "2024/12/mixcollage-05-dec-2024-07-19-pm-977.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-25T06:21:23.532Z",
-    "updatedAtTs": 1795587683,
+    "updatedAt": "2026-11-25T06:26:03.507Z",
+    "updatedAtTs": 1795587963,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1795587683,
-        398149
+        1795587963,
+        395020
       ],
       "peak24h": [
         1795533963,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795415154,
-          428493
-        ],
         [
           1795415481,
           429956
@@ -2336,6 +2332,10 @@
         [
           1795587683,
           398149
+        ],
+        [
+          1795587963,
+          395020
         ]
       ],
       "hourlyPeak": [
