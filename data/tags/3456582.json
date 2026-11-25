@@ -3,16 +3,16 @@
   "appid": "522210",
   "steamAppid": 522210,
   "name": "Serial Cleaner",
-  "players": 7,
+  "players": 6,
   "allTimePeak": 13958,
   "peak24h": 10,
   "peak24hAt": "2026-11-25T13:41:09.000Z",
-  "updatedAt": "2026-11-25T18:01:27.770Z",
+  "updatedAt": "2026-11-25T18:06:00.922Z",
   "img_url": "2025/04/mixcollage-06-apr-2025-10-19-am-5728.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-25T18:01:27.770Z",
-    "updatedAtTs": 1795629687,
+    "updatedAt": "2026-11-25T18:06:00.922Z",
+    "updatedAtTs": 1795629960,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1795629687,
-        7
+        1795629960,
+        6
       ],
       "peak24h": [
         1795614069,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795456900,
-          5
-        ],
         [
           1795457166,
           5
@@ -2332,6 +2328,10 @@
         [
           1795629687,
           7
+        ],
+        [
+          1795629960,
+          6
         ]
       ],
       "hourlyPeak": [
@@ -4970,6 +4970,10 @@
         [
           1795453200,
           8
+        ],
+        [
+          1795456800,
+          5
         ]
       ],
       "dailyPeak": [
