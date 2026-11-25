@@ -3,16 +3,16 @@
   "appid": "1974050",
   "steamAppid": 1974050,
   "name": "Torchlight: Infinite",
-  "players": 1290,
+  "players": 1301,
   "allTimePeak": 27406,
   "peak24h": 1339,
   "peak24hAt": "2026-11-24T14:52:04.000Z",
-  "updatedAt": "2026-11-25T14:16:12.290Z",
+  "updatedAt": "2026-11-25T14:21:33.566Z",
   "img_url": "2025/03/torchlight-infinite-cover.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-25T14:16:12.290Z",
-    "updatedAtTs": 1795616172,
+    "updatedAt": "2026-11-25T14:21:33.566Z",
+    "updatedAtTs": 1795616493,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1795616172,
-        1290
+        1795616493,
+        1301
       ],
       "peak24h": [
         1795531924,
         1339
       ],
       "peak48h": [
-        1795443666,
-        1481
+        1795443970,
+        1473
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795443377,
-          1473
-        ],
-        [
-          1795443666,
-          1481
-        ],
         [
           1795443970,
           1473
@@ -2344,6 +2336,10 @@
         [
           1795616172,
           1290
+        ],
+        [
+          1795616493,
+          1301
         ]
       ],
       "hourlyPeak": [
@@ -5514,6 +5510,6 @@
       ]
     }
   },
-  "peak48h": 1481,
-  "peak48hAt": "2026-11-23T14:21:06.000Z"
+  "peak48h": 1473,
+  "peak48hAt": "2026-11-23T14:26:10.000Z"
 }
