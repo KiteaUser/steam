@@ -3,16 +3,16 @@
   "appid": "1677740",
   "steamAppid": 1677740,
   "name": "Stumble Guys",
-  "players": 1112,
+  "players": 1066,
   "allTimePeak": 43705,
   "peak24h": 2541,
   "peak24hAt": "2026-11-24T18:31:23.000Z",
-  "updatedAt": "2026-11-25T02:51:23.515Z",
+  "updatedAt": "2026-11-25T02:56:05.630Z",
   "img_url": "2024/12/mixcollage-02-dec-2024-02-38-am-8522-1.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-25T02:51:23.515Z",
-    "updatedAtTs": 1795575083,
+    "updatedAt": "2026-11-25T02:56:05.630Z",
+    "updatedAtTs": 1795575365,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1795575083,
-        1112
+        1795575365,
+        1066
       ],
       "peak24h": [
         1795545083,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795402284,
-          1243
-        ],
         [
           1795402567,
           1203
@@ -2348,6 +2344,10 @@
         [
           1795575083,
           1112
+        ],
+        [
+          1795575365,
+          1066
         ]
       ],
       "hourlyPeak": [
