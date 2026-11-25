@@ -3,16 +3,16 @@
   "appid": "3199170",
   "steamAppid": 3199170,
   "name": "BLOODSTRIKE",
-  "players": 3598,
+  "players": 3594,
   "allTimePeak": 7765,
   "peak24h": 3783,
   "peak24hAt": "2026-11-25T17:06:07.000Z",
-  "updatedAt": "2026-11-25T19:31:15.753Z",
+  "updatedAt": "2026-11-25T19:36:10.974Z",
   "img_url": "2024/11/mixcollage-18-nov-2024-01-06-pm-4341-1.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-25T19:31:15.753Z",
-    "updatedAtTs": 1795635075,
+    "updatedAt": "2026-11-25T19:36:10.974Z",
+    "updatedAtTs": 1795635370,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1795635075,
-        3598
+        1795635370,
+        3594
       ],
       "peak24h": [
         1795626367,
         3783
       ],
       "peak48h": [
-        1795462565,
-        3896
+        1795464690,
+        3840
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795462290,
-          3838
-        ],
-        [
-          1795462565,
-          3896
-        ],
         [
           1795462873,
           3838
@@ -2324,6 +2316,10 @@
         [
           1795635075,
           3598
+        ],
+        [
+          1795635370,
+          3594
         ]
       ],
       "hourlyPeak": [
@@ -5414,6 +5410,6 @@
       ]
     }
   },
-  "peak48h": 3896,
-  "peak48hAt": "2026-11-23T19:36:05.000Z"
+  "peak48h": 3840,
+  "peak48hAt": "2026-11-23T20:11:30.000Z"
 }
