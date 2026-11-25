@@ -3,16 +3,16 @@
   "appid": "446800",
   "steamAppid": 446800,
   "name": "Transport Fever",
-  "players": 127,
+  "players": 126,
   "allTimePeak": 12615,
   "peak24h": 132,
   "peak24hAt": "2026-11-25T20:31:15.000Z",
-  "updatedAt": "2026-11-25T20:46:07.377Z",
+  "updatedAt": "2026-11-25T20:51:16.828Z",
   "img_url": "2025/04/mixcollage-08-apr-2025-08-48-am-119.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-25T20:46:07.377Z",
-    "updatedAtTs": 1795639567,
+    "updatedAt": "2026-11-25T20:51:16.828Z",
+    "updatedAtTs": 1795639876,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1795639567,
-        127
+        1795639876,
+        126
       ],
       "peak24h": [
         1795638675,
         132
       ],
       "peak48h": [
-        1795467076,
+        1795467359,
         141
       ],
       "allTimePeak": [
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795466775,
-          140
-        ],
-        [
-          1795467076,
-          141
-        ],
         [
           1795467359,
           141
@@ -2320,6 +2312,10 @@
         [
           1795639567,
           127
+        ],
+        [
+          1795639876,
+          126
         ]
       ],
       "hourlyPeak": [
@@ -5823,5 +5819,5 @@
     }
   },
   "peak48h": 141,
-  "peak48hAt": "2026-11-23T20:51:16.000Z"
+  "peak48hAt": "2026-11-23T20:55:59.000Z"
 }
