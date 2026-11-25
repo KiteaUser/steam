@@ -3,16 +3,16 @@
   "appid": "2357570",
   "steamAppid": 2357570,
   "name": "Overwatch",
-  "players": 40401,
+  "players": 40063,
   "allTimePeak": 165651,
   "peak24h": 41160,
   "peak24hAt": "2026-11-24T21:01:34.000Z",
-  "updatedAt": "2026-11-25T03:36:08.561Z",
+  "updatedAt": "2026-11-25T03:41:12.783Z",
   "img_url": "2026/02/overwatch-formerly-overwatch-2-s1-conquest-tag-page-cover-art-1.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-25T03:36:08.561Z",
-    "updatedAtTs": 1795577768,
+    "updatedAt": "2026-11-25T03:41:12.783Z",
+    "updatedAtTs": 1795578072,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1795577768,
-        40401
+        1795578072,
+        40063
       ],
       "peak24h": [
         1795554094,
         41160
       ],
       "peak48h": [
-        1795405268,
+        1795405563,
         42618
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795405268,
-          42618
-        ],
         [
           1795405563,
           42618
@@ -2332,6 +2328,10 @@
         [
           1795577768,
           40401
+        ],
+        [
+          1795578072,
+          40063
         ]
       ],
       "hourlyPeak": [
@@ -5463,5 +5463,5 @@
     }
   },
   "peak48h": 42618,
-  "peak48hAt": "2026-11-23T03:41:08.000Z"
+  "peak48hAt": "2026-11-23T03:46:03.000Z"
 }
