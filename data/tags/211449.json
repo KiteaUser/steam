@@ -3,16 +3,16 @@
   "appid": "599140",
   "steamAppid": 599140,
   "name": "Graveyard Keeper",
-  "players": 1012,
+  "players": 975,
   "allTimePeak": 46305,
   "peak24h": 1435,
   "peak24hAt": "2026-11-26T19:56:03.000Z",
-  "updatedAt": "2026-11-26T23:51:09.765Z",
+  "updatedAt": "2026-11-26T23:56:10.386Z",
   "img_url": "2025/02/mixcollage-08-feb-2025-10-06-am-6940.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-26T23:51:09.765Z",
-    "updatedAtTs": 1795737069,
+    "updatedAt": "2026-11-26T23:56:10.386Z",
+    "updatedAtTs": 1795737370,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1795737069,
-        1012
+        1795737370,
+        975
       ],
       "peak24h": [
         1795722963,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795564271,
-          1001
-        ],
-        [
-          1795564551,
-          979
-        ],
         [
           1795564882,
           983
@@ -2332,6 +2324,10 @@
         [
           1795737069,
           1012
+        ],
+        [
+          1795737370,
+          975
         ]
       ],
       "hourlyPeak": [
