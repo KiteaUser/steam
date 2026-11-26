@@ -3,16 +3,16 @@
   "appid": "3513350",
   "steamAppid": 3513350,
   "name": "Wuthering Waves",
-  "players": 7464,
+  "players": 7428,
   "allTimePeak": 49497,
-  "peak24h": 8001,
-  "peak24hAt": "2026-11-25T17:16:05.000Z",
-  "updatedAt": "2026-11-26T17:11:21.721Z",
+  "peak24h": 7934,
+  "peak24hAt": "2026-11-25T17:21:20.000Z",
+  "updatedAt": "2026-11-26T17:16:09.876Z",
   "img_url": "2024/12/mixcollage-25-dec-2024-03-54-am-8390.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-26T17:11:21.721Z",
-    "updatedAtTs": 1795713081,
+    "updatedAt": "2026-11-26T17:16:09.876Z",
+    "updatedAtTs": 1795713369,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,12 +23,12 @@
     },
     "summary": {
       "current": [
-        1795713081,
-        7464
+        1795713369,
+        7428
       ],
       "peak24h": [
-        1795626965,
-        8001
+        1795627280,
+        7934
       ],
       "peak48h": [
         1795616794,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795540567,
-          7985
-        ],
         [
           1795540889,
           7989
@@ -2328,6 +2324,10 @@
         [
           1795713081,
           7464
+        ],
+        [
+          1795713369,
+          7428
         ]
       ],
       "hourlyPeak": [
