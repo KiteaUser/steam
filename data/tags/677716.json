@@ -6,13 +6,13 @@
   "players": 1522,
   "allTimePeak": 131518,
   "peak24h": 1603,
-  "peak24hAt": "2026-11-25T14:26:34.000Z",
-  "updatedAt": "2026-11-26T14:26:09.052Z",
+  "peak24hAt": "2026-11-25T14:31:23.000Z",
+  "updatedAt": "2026-11-26T14:31:15.982Z",
   "img_url": "2025/07/wuchang-fallen-feathers-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-26T14:26:09.052Z",
-    "updatedAtTs": 1795703169,
+    "updatedAt": "2026-11-26T14:31:15.982Z",
+    "updatedAtTs": 1795703475,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1795703169,
+        1795703475,
         1522
       ],
       "peak24h": [
-        1795616794,
+        1795617083,
         1603
       ],
       "peak48h": [
-        1795530393,
-        1647
+        1795530681,
+        1640
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795530393,
-          1647
-        ],
         [
           1795530681,
           1640
@@ -2331,6 +2327,10 @@
         ],
         [
           1795703169,
+          1522
+        ],
+        [
+          1795703475,
           1522
         ]
       ],
@@ -5434,6 +5434,6 @@
       ]
     }
   },
-  "peak48h": 1647,
-  "peak48hAt": "2026-11-24T14:26:33.000Z"
+  "peak48h": 1640,
+  "peak48hAt": "2026-11-24T14:31:21.000Z"
 }

@@ -3,16 +3,16 @@
   "appid": "2499860",
   "steamAppid": 2499860,
   "name": "DRAGON QUEST VII Reimagined",
-  "players": 343,
+  "players": 327,
   "allTimePeak": 27390,
   "peak24h": 382,
   "peak24hAt": "2026-11-26T13:26:09.000Z",
-  "updatedAt": "2026-11-26T14:26:09.052Z",
+  "updatedAt": "2026-11-26T14:31:15.982Z",
   "img_url": "2025/09/dragon-quest-vii-reimagined.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-26T14:26:09.052Z",
-    "updatedAtTs": 1795703169,
+    "updatedAt": "2026-11-26T14:31:15.982Z",
+    "updatedAtTs": 1795703475,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1795703169,
-        343
+        1795703475,
+        327
       ],
       "peak24h": [
         1795699569,
         382
       ],
       "peak48h": [
-        1795530393,
-        400
+        1795613163,
+        399
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795530393,
-          400
-        ],
         [
           1795530681,
           394
@@ -2320,6 +2316,10 @@
         [
           1795703169,
           343
+        ],
+        [
+          1795703475,
+          327
         ]
       ],
       "hourlyPeak": [
@@ -5394,6 +5394,6 @@
       ]
     }
   },
-  "peak48h": 400,
-  "peak48hAt": "2026-11-24T14:26:33.000Z"
+  "peak48h": 399,
+  "peak48hAt": "2026-11-25T13:26:03.000Z"
 }
