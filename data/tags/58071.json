@@ -3,16 +3,16 @@
   "appid": "954850",
   "steamAppid": 954850,
   "name": "Kerbal Space Program 2",
-  "players": 48,
+  "players": 52,
   "allTimePeak": 25724,
   "peak24h": 57,
   "peak24hAt": "2026-11-26T18:16:05.000Z",
-  "updatedAt": "2026-11-26T18:26:02.981Z",
+  "updatedAt": "2026-11-26T18:31:33.188Z",
   "img_url": "2024/12/mixcollage-07-dec-2024-12-31-am-1512.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-26T18:26:02.981Z",
-    "updatedAtTs": 1795717562,
+    "updatedAt": "2026-11-26T18:31:33.188Z",
+    "updatedAtTs": 1795717893,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1795717562,
-        48
+        1795717893,
+        52
       ],
       "peak24h": [
         1795716965,
         57
       ],
       "peak48h": [
-        1795545083,
+        1795545673,
         66
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795545083,
-          66
-        ],
         [
           1795545376,
           65
@@ -2328,6 +2324,10 @@
         [
           1795717562,
           48
+        ],
+        [
+          1795717893,
+          52
         ]
       ],
       "hourlyPeak": [
@@ -5017,7 +5017,7 @@
         ],
         [
           1795543200,
-          65
+          66
         ]
       ],
       "dailyPeak": [
@@ -5547,5 +5547,5 @@
     }
   },
   "peak48h": 66,
-  "peak48hAt": "2026-11-24T18:31:23.000Z"
+  "peak48hAt": "2026-11-24T18:41:13.000Z"
 }

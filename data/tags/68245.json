@@ -3,16 +3,16 @@
   "appid": "24240",
   "steamAppid": 24240,
   "name": "PAYDAY: The Heist",
-  "players": 45,
+  "players": 43,
   "allTimePeak": 50316,
   "peak24h": 51,
   "peak24hAt": "2026-11-25T20:46:07.000Z",
-  "updatedAt": "2026-11-26T18:26:02.981Z",
+  "updatedAt": "2026-11-26T18:31:33.188Z",
   "img_url": "2024/12/mixcollage-05-dec-2024-02-36-am-3809.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-26T18:26:02.981Z",
-    "updatedAtTs": 1795717562,
+    "updatedAt": "2026-11-26T18:31:33.188Z",
+    "updatedAtTs": 1795717893,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1795717562,
-        45
+        1795717893,
+        43
       ],
       "peak24h": [
         1795639567,
         51
       ],
       "peak48h": [
-        1795545083,
+        1795545673,
         53
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795545083,
-          53
-        ],
         [
           1795545376,
           48
@@ -2320,6 +2316,10 @@
         [
           1795717562,
           45
+        ],
+        [
+          1795717893,
+          43
         ]
       ],
       "hourlyPeak": [
@@ -5009,7 +5009,7 @@
         ],
         [
           1795543200,
-          52
+          53
         ]
       ],
       "dailyPeak": [
@@ -6047,5 +6047,5 @@
     }
   },
   "peak48h": 53,
-  "peak48hAt": "2026-11-24T18:31:23.000Z"
+  "peak48hAt": "2026-11-24T18:41:13.000Z"
 }
