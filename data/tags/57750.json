@@ -3,16 +3,16 @@
   "appid": "312660",
   "steamAppid": 312660,
   "name": "Sniper Elite 4",
-  "players": 974,
+  "players": 976,
   "allTimePeak": 17366,
   "peak24h": 1080,
   "peak24hAt": "2026-11-26T16:46:06.000Z",
-  "updatedAt": "2026-11-26T18:36:06.002Z",
+  "updatedAt": "2026-11-26T18:41:17.354Z",
   "img_url": "2024/12/mixcollage-03-dec-2024-02-22-pm-9300.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-26T18:36:06.002Z",
-    "updatedAtTs": 1795718166,
+    "updatedAt": "2026-11-26T18:41:17.354Z",
+    "updatedAtTs": 1795718477,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1795718166,
-        974
+        1795718477,
+        976
       ],
       "peak24h": [
         1795711566,
         1080
       ],
       "peak48h": [
-        1795545376,
-        1083
+        1795711566,
+        1080
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795545376,
-          1083
-        ],
-        [
-          1795545673,
-          1083
-        ],
         [
           1795545967,
           1042
@@ -2324,6 +2316,10 @@
         [
           1795718166,
           974
+        ],
+        [
+          1795718477,
+          976
         ]
       ],
       "hourlyPeak": [
@@ -5874,6 +5870,6 @@
       ]
     }
   },
-  "peak48h": 1083,
-  "peak48hAt": "2026-11-24T18:36:16.000Z"
+  "peak48h": 1080,
+  "peak48hAt": "2026-11-26T16:46:06.000Z"
 }
