@@ -3,16 +3,16 @@
   "appid": "2966320",
   "steamAppid": 2966320,
   "name": "Starsand Island",
-  "players": 226,
+  "players": 225,
   "allTimePeak": 12063,
   "peak24h": 235,
   "peak24hAt": "2026-11-26T13:56:15.000Z",
-  "updatedAt": "2026-11-26T14:51:12.976Z",
+  "updatedAt": "2026-11-26T14:56:06.989Z",
   "img_url": "2025/08/starsand-island-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-26T14:51:12.976Z",
-    "updatedAtTs": 1795704672,
+    "updatedAt": "2026-11-26T14:56:06.989Z",
+    "updatedAtTs": 1795704966,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1795704672,
-        226
+        1795704966,
+        225
       ],
       "peak24h": [
         1795701375,
         235
       ],
       "peak48h": [
-        1795532166,
-        244
+        1795701375,
+        235
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795531924,
-          238
-        ],
-        [
-          1795532166,
-          244
-        ],
         [
           1795532488,
           231
@@ -2332,6 +2324,10 @@
         [
           1795704672,
           226
+        ],
+        [
+          1795704966,
+          225
         ]
       ],
       "hourlyPeak": [
@@ -5406,6 +5402,6 @@
       ]
     }
   },
-  "peak48h": 244,
-  "peak48hAt": "2026-11-24T14:56:06.000Z"
+  "peak48h": 235,
+  "peak48hAt": "2026-11-26T13:56:15.000Z"
 }
