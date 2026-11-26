@@ -3,16 +3,16 @@
   "appid": "2825860",
   "steamAppid": 2825860,
   "name": "The Sinking City 2",
-  "players": 23,
+  "players": 21,
   "allTimePeak": 950,
   "peak24h": 51,
   "peak24hAt": "2026-11-26T19:46:14.000Z",
-  "updatedAt": "2026-11-26T23:06:00.487Z",
+  "updatedAt": "2026-11-26T23:11:06.889Z",
   "img_url": "2025/01/mixcollage-25-jan-2025-07-46-am-1401.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-26T23:06:00.487Z",
-    "updatedAtTs": 1795734360,
+    "updatedAt": "2026-11-26T23:11:06.889Z",
+    "updatedAtTs": 1795734666,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1795734360,
-        23
+        1795734666,
+        21
       ],
       "peak24h": [
         1795722374,
         51
       ],
       "peak48h": [
-        1795561565,
-        101
+        1795722374,
+        51
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795561565,
-          101
-        ],
         [
           1795562166,
           34
@@ -2328,6 +2324,10 @@
         [
           1795734360,
           23
+        ],
+        [
+          1795734666,
+          21
         ]
       ],
       "hourlyPeak": [
@@ -5017,7 +5017,7 @@
         ],
         [
           1795561200,
-          29
+          101
         ]
       ],
       "dailyPeak": [
@@ -5285,6 +5285,6 @@
       "monthlyPeak": []
     }
   },
-  "peak48h": 101,
-  "peak48hAt": "2026-11-24T23:06:05.000Z"
+  "peak48h": 51,
+  "peak48hAt": "2026-11-26T19:46:14.000Z"
 }
