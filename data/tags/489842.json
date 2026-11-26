@@ -3,16 +3,16 @@
   "appid": "1966900",
   "steamAppid": 1966900,
   "name": "20 Minutes Till Dawn",
-  "players": 98,
+  "players": 95,
   "allTimePeak": 12953,
   "peak24h": 98,
   "peak24hAt": "2026-11-26T14:01:33.000Z",
-  "updatedAt": "2026-11-26T14:01:33.873Z",
+  "updatedAt": "2026-11-26T14:06:05.986Z",
   "img_url": "2024/11/mixcollage-30-nov-2024-08-35-am-7739.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-26T14:01:33.873Z",
-    "updatedAtTs": 1795701693,
+    "updatedAt": "2026-11-26T14:06:05.986Z",
+    "updatedAtTs": 1795701965,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1795701693,
-        98
+        1795701965,
+        95
       ],
       "peak24h": [
         1795701693,
         98
       ],
       "peak48h": [
-        1795528894,
+        1795529173,
         98
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795528894,
-          98
-        ],
         [
           1795529173,
           98
@@ -2320,6 +2316,10 @@
         [
           1795701693,
           98
+        ],
+        [
+          1795701965,
+          95
         ]
       ],
       "hourlyPeak": [
@@ -5006,6 +5006,10 @@
         [
           1795525200,
           104
+        ],
+        [
+          1795528800,
+          98
         ]
       ],
       "dailyPeak": [
@@ -5567,5 +5571,5 @@
     }
   },
   "peak48h": 98,
-  "peak48hAt": "2026-11-24T14:01:34.000Z"
+  "peak48hAt": "2026-11-24T14:06:13.000Z"
 }

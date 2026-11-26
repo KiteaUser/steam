@@ -3,16 +3,16 @@
   "appid": "2291060",
   "steamAppid": 2291060,
   "name": "EARTH DEFENSE FORCE 6",
-  "players": 723,
+  "players": 739,
   "allTimePeak": 18641,
   "peak24h": 755,
   "peak24hAt": "2026-11-26T13:46:12.000Z",
-  "updatedAt": "2026-11-26T14:01:33.873Z",
+  "updatedAt": "2026-11-26T14:06:05.986Z",
   "img_url": "2024/12/mixcollage-12-dec-2024-12-04-pm-4665.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-26T14:01:33.873Z",
-    "updatedAtTs": 1795701693,
+    "updatedAt": "2026-11-26T14:06:05.986Z",
+    "updatedAtTs": 1795701965,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1795701693,
-        723
+        1795701965,
+        739
       ],
       "peak24h": [
         1795700772,
         755
       ],
       "peak48h": [
-        1795528894,
-        802
+        1795700772,
+        755
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795528894,
-          802
-        ],
         [
           1795529173,
           749
@@ -2320,6 +2316,10 @@
         [
           1795701693,
           723
+        ],
+        [
+          1795701965,
+          739
         ]
       ],
       "hourlyPeak": [
@@ -5006,6 +5006,10 @@
         [
           1795525200,
           796
+        ],
+        [
+          1795528800,
+          802
         ]
       ],
       "dailyPeak": [
@@ -5466,6 +5470,6 @@
       ]
     }
   },
-  "peak48h": 802,
-  "peak48hAt": "2026-11-24T14:01:34.000Z"
+  "peak48h": 755,
+  "peak48hAt": "2026-11-26T13:46:12.000Z"
 }
