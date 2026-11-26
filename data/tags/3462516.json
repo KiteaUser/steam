@@ -3,16 +3,16 @@
   "appid": "2162800",
   "steamAppid": 2162800,
   "name": "shapez 2",
-  "players": 500,
+  "players": 502,
   "allTimePeak": 18806,
   "peak24h": 565,
   "peak24hAt": "2026-11-26T14:21:19.000Z",
-  "updatedAt": "2026-11-26T20:16:19.502Z",
+  "updatedAt": "2026-11-26T20:21:15.176Z",
   "img_url": "2025/04/shapez-2-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-26T20:16:19.502Z",
-    "updatedAtTs": 1795724179,
+    "updatedAt": "2026-11-26T20:21:15.176Z",
+    "updatedAtTs": 1795724475,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1795724179,
-        500
+        1795724475,
+        502
       ],
       "peak24h": [
         1795702879,
         565
       ],
       "peak48h": [
-        1795551669,
-        609
+        1795551971,
+        594
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795551669,
-          609
-        ],
         [
           1795551971,
           594
@@ -2328,6 +2324,10 @@
         [
           1795724179,
           500
+        ],
+        [
+          1795724475,
+          502
         ]
       ],
       "hourlyPeak": [
@@ -5474,6 +5474,6 @@
       ]
     }
   },
-  "peak48h": 609,
-  "peak48hAt": "2026-11-24T20:21:09.000Z"
+  "peak48h": 594,
+  "peak48hAt": "2026-11-24T20:26:11.000Z"
 }
