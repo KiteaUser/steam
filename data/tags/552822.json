@@ -3,16 +3,16 @@
   "appid": "1267910",
   "steamAppid": 1267910,
   "name": "Melvor Idle",
-  "players": 3274,
+  "players": 3254,
   "allTimePeak": 11867,
   "peak24h": 3369,
   "peak24hAt": "2026-11-26T13:46:12.000Z",
-  "updatedAt": "2026-11-26T14:41:16.948Z",
+  "updatedAt": "2026-11-26T14:46:15.077Z",
   "img_url": "2024/11/mixcollage-30-nov-2024-06-34-am-8228.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-26T14:41:16.948Z",
-    "updatedAtTs": 1795704076,
+    "updatedAt": "2026-11-26T14:46:15.077Z",
+    "updatedAtTs": 1795704375,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1795704076,
-        3274
+        1795704375,
+        3254
       ],
       "peak24h": [
         1795700772,
         3369
       ],
       "peak48h": [
-        1795531279,
-        3380
+        1795700772,
+        3369
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795531279,
-          3380
-        ],
-        [
-          1795531574,
-          3348
-        ],
         [
           1795531924,
           3331
@@ -2328,6 +2320,10 @@
         [
           1795704076,
           3274
+        ],
+        [
+          1795704375,
+          3254
         ]
       ],
       "hourlyPeak": [
@@ -5654,6 +5650,6 @@
       ]
     }
   },
-  "peak48h": 3380,
-  "peak48hAt": "2026-11-24T14:41:19.000Z"
+  "peak48h": 3369,
+  "peak48hAt": "2026-11-26T13:46:12.000Z"
 }
