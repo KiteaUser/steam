@@ -3,16 +3,16 @@
   "appid": "310950",
   "steamAppid": 310950,
   "name": "Street Fighter V",
-  "players": 70,
+  "players": 68,
   "allTimePeak": 14783,
   "peak24h": 87,
   "peak24hAt": "2026-11-25T01:55:58.000Z",
-  "updatedAt": "2026-11-26T01:21:00.167Z",
+  "updatedAt": "2026-11-26T01:25:59.083Z",
   "img_url": "2024/12/mixcollage-10-dec-2024-11-27-pm-4021.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-26T01:21:00.167Z",
-    "updatedAtTs": 1795656060,
+    "updatedAt": "2026-11-26T01:25:59.083Z",
+    "updatedAtTs": 1795656359,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1795656060,
-        70
+        1795656359,
+        68
       ],
       "peak24h": [
         1795571758,
         87
       ],
       "peak48h": [
-        1795483267,
-        96
+        1795548075,
+        88
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795483267,
-          96
-        ],
         [
           1795483572,
           87
@@ -2324,6 +2320,10 @@
         [
           1795656060,
           70
+        ],
+        [
+          1795656359,
+          68
         ]
       ],
       "hourlyPeak": [
@@ -5854,6 +5854,6 @@
       ]
     }
   },
-  "peak48h": 96,
-  "peak48hAt": "2026-11-24T01:21:07.000Z"
+  "peak48h": 88,
+  "peak48hAt": "2026-11-24T19:21:15.000Z"
 }
