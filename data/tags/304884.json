@@ -7,12 +7,12 @@
   "allTimePeak": 21727,
   "peak24h": 98,
   "peak24hAt": "2026-11-25T13:46:26.000Z",
-  "updatedAt": "2026-11-26T10:21:08.925Z",
+  "updatedAt": "2026-11-26T10:25:59.342Z",
   "img_url": "2025/01/fatal-bullet.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-26T10:21:08.925Z",
-    "updatedAtTs": 1795688468,
+    "updatedAt": "2026-11-26T10:25:59.342Z",
+    "updatedAtTs": 1795688759,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,7 +23,7 @@
     },
     "summary": {
       "current": [
-        1795688468,
+        1795688759,
         51
       ],
       "peak24h": [
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795515676,
-          57
-        ],
-        [
-          1795515958,
-          62
-        ],
         [
           1795516291,
           63
@@ -2327,6 +2319,10 @@
         ],
         [
           1795688468,
+          51
+        ],
+        [
+          1795688759,
           51
         ]
       ],
@@ -5017,7 +5013,7 @@
         ],
         [
           1795514400,
-          54
+          62
         ]
       ],
       "dailyPeak": [
