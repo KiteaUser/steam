@@ -7,12 +7,12 @@
   "allTimePeak": 2797,
   "peak24h": 1065,
   "peak24hAt": "2026-11-25T20:11:07.000Z",
-  "updatedAt": "2026-11-26T19:26:04.291Z",
+  "updatedAt": "2026-11-26T19:31:27.645Z",
   "img_url": "2024/08/paralives.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-26T19:26:04.291Z",
-    "updatedAtTs": 1795721164,
+    "updatedAt": "2026-11-26T19:31:27.645Z",
+    "updatedAtTs": 1795721487,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,7 +23,7 @@
     },
     "summary": {
       "current": [
-        1795721164,
+        1795721487,
         1031
       ],
       "peak24h": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795548372,
-          878
-        ],
         [
           1795548699,
           890
@@ -2331,6 +2327,10 @@
         ],
         [
           1795721164,
+          1031
+        ],
+        [
+          1795721487,
           1031
         ]
       ],

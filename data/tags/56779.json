@@ -3,16 +3,16 @@
   "appid": "204300",
   "steamAppid": 204300,
   "name": "Awesomenauts",
-  "players": 64,
+  "players": 57,
   "allTimePeak": 12156,
   "peak24h": 78,
   "peak24hAt": "2026-11-25T21:51:15.000Z",
-  "updatedAt": "2026-11-26T19:26:04.291Z",
+  "updatedAt": "2026-11-26T19:31:27.645Z",
   "img_url": "2025/02/awesomenauts-tag-cover.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-26T19:26:04.291Z",
-    "updatedAtTs": 1795721164,
+    "updatedAt": "2026-11-26T19:31:27.645Z",
+    "updatedAtTs": 1795721487,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1795721164,
-        64
+        1795721487,
+        57
       ],
       "peak24h": [
         1795643475,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795548372,
-          43
-        ],
         [
           1795548699,
           39
@@ -2332,6 +2328,10 @@
         [
           1795721164,
           64
+        ],
+        [
+          1795721487,
+          57
         ]
       ],
       "hourlyPeak": [
