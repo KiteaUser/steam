@@ -3,16 +3,16 @@
   "appid": "1250",
   "steamAppid": 1250,
   "name": "Killing Floor",
-  "players": 256,
+  "players": 275,
   "allTimePeak": 24107,
-  "peak24h": 256,
-  "peak24hAt": "2026-11-26T18:56:08.000Z",
-  "updatedAt": "2026-11-26T19:01:20.255Z",
+  "peak24h": 275,
+  "peak24hAt": "2026-11-26T19:06:11.000Z",
+  "updatedAt": "2026-11-26T19:06:11.113Z",
   "img_url": "2025/08/killing-floor-tag-page-cover-art_upscayl_2x_ultramix_balanced.png",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-26T19:01:20.255Z",
-    "updatedAtTs": 1795719680,
+    "updatedAt": "2026-11-26T19:06:11.113Z",
+    "updatedAtTs": 1795719971,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1795719680,
-        256
+        1795719971,
+        275
       ],
       "peak24h": [
-        1795719368,
-        256
+        1795719971,
+        275
       ],
       "peak48h": [
-        1795631158,
-        267
+        1795719971,
+        275
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795546886,
-          250
-        ],
         [
           1795547182,
           251
@@ -2328,6 +2324,10 @@
         [
           1795719680,
           256
+        ],
+        [
+          1795719971,
+          275
         ]
       ],
       "hourlyPeak": [
@@ -5014,6 +5014,10 @@
         [
           1795543200,
           250
+        ],
+        [
+          1795546800,
+          250
         ]
       ],
       "dailyPeak": [
@@ -6050,6 +6054,6 @@
       ]
     }
   },
-  "peak48h": 267,
-  "peak48hAt": "2026-11-25T18:25:58.000Z"
+  "peak48h": 275,
+  "peak48hAt": "2026-11-26T19:06:11.000Z"
 }
