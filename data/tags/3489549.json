@@ -3,16 +3,16 @@
   "appid": "2784470",
   "steamAppid": 2784470,
   "name": "9 Kings",
-  "players": 3049,
+  "players": 3029,
   "allTimePeak": 13905,
   "peak24h": 3188,
   "peak24hAt": "2026-11-26T19:11:04.000Z",
-  "updatedAt": "2026-11-26T20:31:20.283Z",
+  "updatedAt": "2026-11-26T20:36:05.792Z",
   "img_url": "2025/05/9-kings-video-game-cover-art-tag.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-26T20:31:20.283Z",
-    "updatedAtTs": 1795725080,
+    "updatedAt": "2026-11-26T20:36:05.792Z",
+    "updatedAtTs": 1795725365,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1795725080,
-        3049
+        1795725365,
+        3029
       ],
       "peak24h": [
         1795720264,
         3188
       ],
       "peak48h": [
-        1795552556,
+        1795720264,
         3188
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795552556,
-          3188
-        ],
         [
           1795552867,
           3157
@@ -2328,6 +2324,10 @@
         [
           1795725080,
           3049
+        ],
+        [
+          1795725365,
+          3029
         ]
       ],
       "hourlyPeak": [
@@ -5439,5 +5439,5 @@
     }
   },
   "peak48h": 3188,
-  "peak48hAt": "2026-11-24T20:35:56.000Z"
+  "peak48hAt": "2026-11-26T19:11:04.000Z"
 }

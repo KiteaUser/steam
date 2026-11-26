@@ -3,16 +3,16 @@
   "appid": "2825860",
   "steamAppid": 2825860,
   "name": "The Sinking City 2",
-  "players": 40,
+  "players": 34,
   "allTimePeak": 950,
   "peak24h": 51,
   "peak24hAt": "2026-11-26T19:46:14.000Z",
-  "updatedAt": "2026-11-26T20:31:20.283Z",
+  "updatedAt": "2026-11-26T20:36:05.792Z",
   "img_url": "2025/01/mixcollage-25-jan-2025-07-46-am-1401.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-26T20:31:20.283Z",
-    "updatedAtTs": 1795725080,
+    "updatedAt": "2026-11-26T20:36:05.792Z",
+    "updatedAtTs": 1795725365,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1795725080,
-        40
+        1795725365,
+        34
       ],
       "peak24h": [
         1795722374,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795552556,
-          33
-        ],
         [
           1795552867,
           35
@@ -2324,6 +2320,10 @@
         [
           1795725080,
           40
+        ],
+        [
+          1795725365,
+          34
         ]
       ],
       "hourlyPeak": [

@@ -3,16 +3,16 @@
   "appid": "1903340",
   "steamAppid": 1903340,
   "name": "Clair Obscur: Expedition 33",
-  "players": 5056,
+  "players": 5100,
   "allTimePeak": 145063,
-  "peak24h": 5058,
-  "peak24hAt": "2026-11-25T20:56:10.000Z",
-  "updatedAt": "2026-11-26T20:31:20.283Z",
+  "peak24h": 5100,
+  "peak24hAt": "2026-11-26T20:36:05.000Z",
+  "updatedAt": "2026-11-26T20:36:05.792Z",
   "img_url": "2024/12/mixcollage-09-dec-2024-02-13-am-5318.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-26T20:31:20.283Z",
-    "updatedAtTs": 1795725080,
+    "updatedAt": "2026-11-26T20:36:05.792Z",
+    "updatedAtTs": 1795725365,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1795725080,
-        5056
+        1795725365,
+        5100
       ],
       "peak24h": [
-        1795640170,
-        5058
+        1795725365,
+        5100
       ],
       "peak48h": [
-        1795553170,
-        5081
+        1795725365,
+        5100
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795552556,
-          5013
-        ],
         [
           1795552867,
           5073
@@ -2320,6 +2316,10 @@
         [
           1795725080,
           5056
+        ],
+        [
+          1795725365,
+          5100
         ]
       ],
       "hourlyPeak": [
@@ -5434,6 +5434,6 @@
       ]
     }
   },
-  "peak48h": 5081,
-  "peak48hAt": "2026-11-24T20:46:10.000Z"
+  "peak48h": 5100,
+  "peak48hAt": "2026-11-26T20:36:05.000Z"
 }

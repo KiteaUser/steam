@@ -3,16 +3,16 @@
   "appid": "3274580",
   "steamAppid": 3274580,
   "name": "Anno 117: Pax Romana",
-  "players": 3261,
+  "players": 3196,
   "allTimePeak": 50484,
   "peak24h": 3329,
   "peak24hAt": "2026-11-25T20:36:12.000Z",
-  "updatedAt": "2026-11-26T20:31:20.283Z",
+  "updatedAt": "2026-11-26T20:36:05.792Z",
   "img_url": "2025/02/mixcollage-11-feb-2025-10-32-am-1213.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-26T20:31:20.283Z",
-    "updatedAtTs": 1795725080,
+    "updatedAt": "2026-11-26T20:36:05.792Z",
+    "updatedAtTs": 1795725365,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,15 +23,15 @@
     },
     "summary": {
       "current": [
-        1795725080,
-        3261
+        1795725365,
+        3196
       ],
       "peak24h": [
         1795638972,
         3329
       ],
       "peak48h": [
-        1795552556,
+        1795552867,
         3506
       ],
       "allTimePeak": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795552556,
-          3506
-        ],
         [
           1795552867,
           3506
@@ -2324,6 +2320,10 @@
         [
           1795725080,
           3261
+        ],
+        [
+          1795725365,
+          3196
         ]
       ],
       "hourlyPeak": [
@@ -5411,5 +5411,5 @@
     }
   },
   "peak48h": 3506,
-  "peak48hAt": "2026-11-24T20:35:56.000Z"
+  "peak48hAt": "2026-11-24T20:41:07.000Z"
 }
