@@ -7,12 +7,12 @@
   "allTimePeak": 79593,
   "peak24h": 58249,
   "peak24hAt": "2026-11-27T14:31:27.000Z",
-  "updatedAt": "2026-11-27T14:36:01.920Z",
+  "updatedAt": "2026-11-27T14:41:12.100Z",
   "img_url": "2025/02/vr-chat-tag-cover.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-27T14:36:01.920Z",
-    "updatedAtTs": 1795790161,
+    "updatedAt": "2026-11-27T14:41:12.100Z",
+    "updatedAtTs": 1795790472,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,7 +23,7 @@
     },
     "summary": {
       "current": [
-        1795790161,
+        1795790472,
         58249
       ],
       "peak24h": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795617372,
-          52771
-        ],
         [
           1795617681,
           52605
@@ -2331,6 +2327,10 @@
         ],
         [
           1795790161,
+          58249
+        ],
+        [
+          1795790472,
           58249
         ]
       ],
@@ -5021,7 +5021,7 @@
         ],
         [
           1795615200,
-          52312
+          52771
         ]
       ],
       "dailyPeak": [
