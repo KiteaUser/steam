@@ -3,16 +3,16 @@
   "appid": "2725260",
   "steamAppid": 2725260,
   "name": "ENDER MAGNOLIA: Bloom in the Mist",
-  "players": 255,
+  "players": 242,
   "allTimePeak": 14134,
   "peak24h": 268,
   "peak24hAt": "2026-11-27T14:31:27.000Z",
-  "updatedAt": "2026-11-27T15:06:07.288Z",
+  "updatedAt": "2026-11-27T15:11:23.097Z",
   "img_url": "2025/01/mixcollage-25-jan-2025-07-26-am-1681.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-27T15:06:07.288Z",
-    "updatedAtTs": 1795791967,
+    "updatedAt": "2026-11-27T15:11:23.097Z",
+    "updatedAtTs": 1795792283,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1795791967,
-        255
+        1795792283,
+        242
       ],
       "peak24h": [
         1795789887,
         268
       ],
       "peak48h": [
-        1795619471,
-        283
+        1795619769,
+        271
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795619173,
-          271
-        ],
-        [
-          1795619471,
-          283
-        ],
         [
           1795619769,
           271
@@ -2332,6 +2324,10 @@
         [
           1795791967,
           255
+        ],
+        [
+          1795792283,
+          242
         ]
       ],
       "hourlyPeak": [
@@ -5021,7 +5017,7 @@
         ],
         [
           1795618800,
-          271
+          283
         ]
       ],
       "dailyPeak": [
@@ -5502,6 +5498,6 @@
       ]
     }
   },
-  "peak48h": 283,
-  "peak48hAt": "2026-11-25T15:11:11.000Z"
+  "peak48h": 271,
+  "peak48hAt": "2026-11-25T15:16:09.000Z"
 }
