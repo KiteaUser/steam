@@ -3,16 +3,16 @@
   "appid": "2943650",
   "steamAppid": 2943650,
   "name": "FragPunk",
-  "players": 515,
+  "players": 507,
   "allTimePeak": 113946,
   "peak24h": 532,
   "peak24hAt": "2026-11-27T18:20:59.000Z",
-  "updatedAt": "2026-11-27T19:26:01.433Z",
+  "updatedAt": "2026-11-27T19:31:11.487Z",
   "img_url": "2024/12/mixcollage-03-dec-2024-09-44-pm-1406.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-27T19:26:01.433Z",
-    "updatedAtTs": 1795807561,
+    "updatedAt": "2026-11-27T19:31:11.487Z",
+    "updatedAtTs": 1795807871,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1795807561,
-        515
+        1795807871,
+        507
       ],
       "peak24h": [
         1795803659,
         532
       ],
       "peak48h": [
-        1795634765,
-        578
+        1795635075,
+        572
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795634765,
-          578
-        ],
         [
           1795635075,
           572
@@ -2348,6 +2344,10 @@
         [
           1795807561,
           515
+        ],
+        [
+          1795807871,
+          507
         ]
       ],
       "hourlyPeak": [
@@ -5470,6 +5470,6 @@
       ]
     }
   },
-  "peak48h": 578,
-  "peak48hAt": "2026-11-25T19:26:05.000Z"
+  "peak48h": 572,
+  "peak48hAt": "2026-11-25T19:31:15.000Z"
 }
