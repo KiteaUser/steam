@@ -3,16 +3,16 @@
   "appid": "958260",
   "steamAppid": 958260,
   "name": "DEAD OR ALIVE Xtreme Venus Vacation",
-  "players": 2026,
+  "players": 2048,
   "allTimePeak": 11284,
   "peak24h": 2410,
   "peak24hAt": "2026-11-26T13:26:09.000Z",
-  "updatedAt": "2026-11-27T13:06:00.273Z",
+  "updatedAt": "2026-11-27T13:10:58.569Z",
   "img_url": "2025/02/mixcollage-06-feb-2025-06-19-am-723.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-27T13:06:00.273Z",
-    "updatedAtTs": 1795784760,
+    "updatedAt": "2026-11-27T13:10:58.569Z",
+    "updatedAtTs": 1795785058,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1795784760,
-        2026
+        1795785058,
+        2048
       ],
       "peak24h": [
         1795699569,
         2410
       ],
       "peak48h": [
-        1795611984,
-        3469
+        1795612268,
+        3444
       ],
       "allTimePeak": [
         null,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795611984,
-          3469
-        ],
         [
           1795612268,
           3444
@@ -2332,6 +2328,10 @@
         [
           1795784760,
           2026
+        ],
+        [
+          1795785058,
+          2048
         ]
       ],
       "hourlyPeak": [
@@ -5021,7 +5021,7 @@
         ],
         [
           1795611600,
-          3440
+          3469
         ]
       ],
       "dailyPeak": [
@@ -5742,6 +5742,6 @@
       ]
     }
   },
-  "peak48h": 3469,
-  "peak48hAt": "2026-11-25T13:06:24.000Z"
+  "peak48h": 3444,
+  "peak48hAt": "2026-11-25T13:11:08.000Z"
 }
