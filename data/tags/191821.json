@@ -3,16 +3,16 @@
   "appid": "1118520",
   "steamAppid": 1118520,
   "name": "Paralives",
-  "players": 1237,
+  "players": 1228,
   "allTimePeak": 2797,
   "peak24h": 1237,
   "peak24hAt": "2026-11-27T21:21:10.000Z",
-  "updatedAt": "2026-11-27T21:21:10.641Z",
+  "updatedAt": "2026-11-27T21:25:57.080Z",
   "img_url": "2024/08/paralives.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-27T21:21:10.641Z",
-    "updatedAtTs": 1795814470,
+    "updatedAt": "2026-11-27T21:25:57.080Z",
+    "updatedAtTs": 1795814757,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1795814470,
-        1237
+        1795814757,
+        1228
       ],
       "peak24h": [
         1795814470,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795641673,
-          998
-        ],
-        [
-          1795641956,
-          1020
-        ],
         [
           1795642271,
           1028
@@ -2348,6 +2340,10 @@
         [
           1795814470,
           1237
+        ],
+        [
+          1795814757,
+          1228
         ]
       ],
       "hourlyPeak": [
