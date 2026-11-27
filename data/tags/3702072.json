@@ -3,16 +3,16 @@
   "appid": "3678970",
   "steamAppid": 3678970,
   "name": "TBH: Task Bar Hero",
-  "players": 64078,
+  "players": 64232,
   "allTimePeak": 546130,
-  "peak24h": 65153,
-  "peak24hAt": "2026-11-26T13:46:12.000Z",
-  "updatedAt": "2026-11-27T13:46:08.991Z",
+  "peak24h": 64938,
+  "peak24hAt": "2026-11-26T13:56:15.000Z",
+  "updatedAt": "2026-11-27T13:51:14.711Z",
   "img_url": "2026/06/tbh-task-bar-hero-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-27T13:46:08.991Z",
-    "updatedAtTs": 1795787168,
+    "updatedAt": "2026-11-27T13:51:14.711Z",
+    "updatedAtTs": 1795787474,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,16 +23,16 @@
     },
     "summary": {
       "current": [
-        1795787168,
-        64078
+        1795787474,
+        64232
       ],
       "peak24h": [
-        1795700772,
-        65153
+        1795701375,
+        64938
       ],
       "peak48h": [
-        1795614386,
-        65999
+        1795614959,
+        65915
       ],
       "allTimePeak": [
         null,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795614386,
-          65999
-        ],
-        [
-          1795614671,
-          65959
-        ],
         [
           1795614959,
           65915
@@ -2332,6 +2324,10 @@
         [
           1795787168,
           64078
+        ],
+        [
+          1795787474,
+          64232
         ]
       ],
       "hourlyPeak": [
@@ -5394,6 +5390,6 @@
       ]
     }
   },
-  "peak48h": 65999,
-  "peak48hAt": "2026-11-25T13:46:26.000Z"
+  "peak48h": 65915,
+  "peak48hAt": "2026-11-25T13:55:59.000Z"
 }
