@@ -7,12 +7,12 @@
   "allTimePeak": 14606,
   "peak24h": 996,
   "peak24hAt": "2026-11-26T20:21:15.000Z",
-  "updatedAt": "2026-11-27T10:01:25.159Z",
+  "updatedAt": "2026-11-27T10:06:02.655Z",
   "img_url": "2025/02/insurgency-sandstorm-tag-cover.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-27T10:01:25.159Z",
-    "updatedAtTs": 1795773685,
+    "updatedAt": "2026-11-27T10:06:02.655Z",
+    "updatedAtTs": 1795773962,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,7 +23,7 @@
     },
     "summary": {
       "current": [
-        1795773685,
+        1795773962,
         566
       ],
       "peak24h": [
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795600897,
-          500
-        ],
         [
           1795601171,
           499
@@ -2331,6 +2327,10 @@
         ],
         [
           1795773685,
+          566
+        ],
+        [
+          1795773962,
           566
         ]
       ],
@@ -5018,6 +5018,10 @@
         [
           1795597200,
           501
+        ],
+        [
+          1795600800,
+          500
         ]
       ],
       "dailyPeak": [
