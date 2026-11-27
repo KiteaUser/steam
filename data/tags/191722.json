@@ -3,16 +3,16 @@
   "appid": "1599340",
   "steamAppid": 1599340,
   "name": "Lost Ark",
-  "players": 5432,
+  "players": 5460,
   "allTimePeak": 1325305,
   "peak24h": 7342,
   "peak24hAt": "2026-11-26T18:11:12.000Z",
-  "updatedAt": "2026-11-27T11:31:29.957Z",
+  "updatedAt": "2026-11-27T11:36:05.302Z",
   "img_url": "2024/12/mixcollage-06-dec-2024-03-38-pm-7677.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-27T11:31:29.957Z",
-    "updatedAtTs": 1795779089,
+    "updatedAt": "2026-11-27T11:36:05.302Z",
+    "updatedAtTs": 1795779365,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1795779089,
-        5432
+        1795779365,
+        5460
       ],
       "peak24h": [
         1795716672,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795606561,
-          337
-        ],
         [
           1795606876,
           729
@@ -2328,6 +2324,10 @@
         [
           1795779089,
           5432
+        ],
+        [
+          1795779365,
+          5460
         ]
       ],
       "hourlyPeak": [
