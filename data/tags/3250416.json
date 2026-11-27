@@ -3,16 +3,16 @@
   "appid": "278360",
   "steamAppid": 278360,
   "name": "A Story About My Uncle",
-  "players": 10,
+  "players": 8,
   "allTimePeak": 190590,
   "peak24h": 75,
   "peak24hAt": "2026-11-26T18:56:08.000Z",
-  "updatedAt": "2026-11-27T03:21:19.567Z",
+  "updatedAt": "2026-11-27T03:25:58.357Z",
   "img_url": "2024/12/mixcollage-29-dec-2024-09-44-am-8505.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-27T03:21:19.567Z",
-    "updatedAtTs": 1795749679,
+    "updatedAt": "2026-11-27T03:25:58.357Z",
+    "updatedAtTs": 1795749958,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1795749679,
-        10
+        1795749958,
+        8
       ],
       "peak24h": [
         1795719368,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795576889,
-          8
-        ],
         [
           1795577172,
           8
@@ -2332,6 +2328,10 @@
         [
           1795749679,
           10
+        ],
+        [
+          1795749958,
+          8
         ]
       ],
       "hourlyPeak": [
