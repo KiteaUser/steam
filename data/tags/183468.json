@@ -3,16 +3,16 @@
   "appid": "1549970",
   "steamAppid": 1549970,
   "name": "Aliens: Fireteam Elite",
-  "players": 64,
+  "players": 70,
   "allTimePeak": 15568,
   "peak24h": 138,
   "peak24hAt": "2026-11-27T20:46:21.000Z",
-  "updatedAt": "2026-11-28T08:55:59.126Z",
+  "updatedAt": "2026-11-28T09:01:37.822Z",
   "img_url": "2022/10/AliensFireteamTagPage.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-28T08:55:59.126Z",
-    "updatedAtTs": 1795856159,
+    "updatedAt": "2026-11-28T09:01:37.822Z",
+    "updatedAtTs": 1795856497,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1795856159,
-        64
+        1795856497,
+        70
       ],
       "peak24h": [
         1795812381,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795683363,
-          31
-        ],
-        [
-          1795683684,
-          32
-        ],
         [
           1795683975,
           32
@@ -2348,13 +2340,13 @@
         [
           1795856159,
           64
+        ],
+        [
+          1795856497,
+          70
         ]
       ],
       "hourlyPeak": [
-        [
-          1793264400,
-          80
-        ],
         [
           1793268000,
           97
@@ -5038,6 +5030,10 @@
         [
           1795680000,
           37
+        ],
+        [
+          1795683600,
+          32
         ]
       ],
       "dailyPeak": [
