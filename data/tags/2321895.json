@@ -3,16 +3,16 @@
   "appid": "2592160",
   "steamAppid": 2592160,
   "name": "Dispatch",
-  "players": 703,
+  "players": 700,
   "allTimePeak": 220060,
   "peak24h": 807,
   "peak24hAt": "2026-11-27T22:21:10.000Z",
-  "updatedAt": "2026-11-28T02:55:59.809Z",
+  "updatedAt": "2026-11-28T03:01:35.935Z",
   "img_url": "2025/06/dispatch-tag-page-cover-art.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-28T02:55:59.809Z",
-    "updatedAtTs": 1795834559,
+    "updatedAt": "2026-11-28T03:01:35.935Z",
+    "updatedAtTs": 1795834895,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1795834559,
-        703
+        1795834895,
+        700
       ],
       "peak24h": [
         1795818070,
@@ -41,14 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795661776,
-          622
-        ],
-        [
-          1795662090,
-          622
-        ],
         [
           1795662357,
           618
@@ -2348,13 +2340,13 @@
         [
           1795834559,
           703
+        ],
+        [
+          1795834895,
+          700
         ]
       ],
       "hourlyPeak": [
-        [
-          1793242800,
-          1068
-        ],
         [
           1793246400,
           916
@@ -5038,6 +5030,10 @@
         [
           1795658400,
           639
+        ],
+        [
+          1795662000,
+          622
         ]
       ],
       "dailyPeak": [
