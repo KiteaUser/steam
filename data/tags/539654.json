@@ -3,16 +3,16 @@
   "appid": "2334730",
   "steamAppid": 2334730,
   "name": "Death Must Die",
-  "players": 128,
+  "players": 126,
   "allTimePeak": 15905,
   "peak24h": 143,
   "peak24hAt": "2026-11-27T20:36:04.000Z",
-  "updatedAt": "2026-11-28T17:01:23.321Z",
+  "updatedAt": "2026-11-28T17:06:07.275Z",
   "img_url": "2024/11/mixcollage-22-nov-2024-12-55-pm-3242.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-28T17:01:23.321Z",
-    "updatedAtTs": 1795885283,
+    "updatedAt": "2026-11-28T17:06:07.275Z",
+    "updatedAtTs": 1795885567,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1795885283,
-        128
+        1795885567,
+        126
       ],
       "peak24h": [
         1795811764,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795712492,
-          104
-        ],
         [
           1795712769,
           107
@@ -2344,6 +2340,10 @@
         [
           1795885283,
           128
+        ],
+        [
+          1795885567,
+          126
         ]
       ],
       "hourlyPeak": [
@@ -5029,6 +5029,10 @@
         ],
         [
           1795708800,
+          104
+        ],
+        [
+          1795712400,
           104
         ]
       ],
