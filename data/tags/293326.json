@@ -3,16 +3,16 @@
   "appid": "1284190",
   "steamAppid": 1284190,
   "name": "The Planet Crafter",
-  "players": 2609,
+  "players": 2592,
   "allTimePeak": 28416,
   "peak24h": 3819,
   "peak24hAt": "2026-11-27T20:46:21.000Z",
-  "updatedAt": "2026-11-28T12:01:32.571Z",
+  "updatedAt": "2026-11-28T12:06:03.133Z",
   "img_url": "2024/12/mixcollage-11-dec-2024-02-49-am-9606.jpg",
   "chartData": {
     "schemaVersion": 1,
-    "updatedAt": "2026-11-28T12:01:32.571Z",
-    "updatedAtTs": 1795867292,
+    "updatedAt": "2026-11-28T12:06:03.133Z",
+    "updatedAtTs": 1795867563,
     "source": "steam",
     "sourceIntervalSeconds": 300,
     "retention": {
@@ -23,8 +23,8 @@
     },
     "summary": {
       "current": [
-        1795867292,
-        2609
+        1795867563,
+        2592
       ],
       "peak24h": [
         1795812381,
@@ -41,10 +41,6 @@
     },
     "series": {
       "raw5m": [
-        [
-          1795694501,
-          1780
-        ],
         [
           1795694765,
           1808
@@ -2348,6 +2344,10 @@
         [
           1795867292,
           2609
+        ],
+        [
+          1795867563,
+          2592
         ]
       ],
       "hourlyPeak": [
@@ -5033,6 +5033,10 @@
         ],
         [
           1795690800,
+          1780
+        ],
+        [
+          1795694400,
           1780
         ]
       ],
